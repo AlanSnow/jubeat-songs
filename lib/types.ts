@@ -3,7 +3,6 @@ export interface Song {
   title: string;
   titleRomaji?: string;
   titleChinese?: string;
-  subtitle?: string;
   artist: string;
   genre: string;
   bpm: number;
@@ -13,11 +12,13 @@ export interface Song {
     advanced: Difficulty;
     extreme: Difficulty;
   };
-  version: string;
+  firstAppearance: string;      // 首次登场版本
+  versionHistory: string[];     // 存在过的所有版本
+  releaseDate?: string;
+  deletedDate?: string;
+  deletedIn?: string;           // 被删除的版本
   isLicense: boolean;
   isNew?: boolean;
-  releaseDate?: string;
-  event?: string;
 }
 
 export interface Difficulty {
@@ -50,4 +51,33 @@ export const GENRE_LABELS: Record<string, string> = {
   'バラエティ': '综艺',
   'ナムコオリジナル': 'NAMCO原创',
   'コナミオリジナル': 'KONAMI原创',
+};
+
+// 版本列表（时间顺序）
+export const VERSIONS = [
+  'ripples',
+  'knit', 
+  'copious',
+  'saucer',
+  'saucer fulfill',
+  'prop',
+  'Qubell',
+  'clan',
+  'festo',
+  'Ave.',
+  'Beyond the Ave.'
+] as const;
+
+export const VERSION_LABELS: Record<string, string> = {
+  'ripples': 'ripples',
+  'knit': 'knit',
+  'copious': 'copious',
+  'saucer': 'saucer',
+  'saucer fulfill': 'saucer fulfill',
+  'prop': 'prop',
+  'Qubell': 'Qubell',
+  'clan': 'clan',
+  'festo': 'festo',
+  'Ave.': 'Ave.',
+  'Beyond the Ave.': 'Beyond the Ave.',
 };

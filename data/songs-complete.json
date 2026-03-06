@@ -1,6 +1,4 @@
-import { Song } from '../lib/types';
-
-export const songs: Song[] = [
+[
   {
     "id": "jbt--1ra0",
     "title": "オリジナル",
@@ -36646,25 +36644,4 @@ export const songs: Song[] = [
       "Beyond the Ave."
     ]
   }
-];
-
-export const allGenres = ['全部', 'ポップス', 'アニメ', '東方アレンジ', 'バラエティ', 'ナムコオリジナル', 'コナミオリジナル'];
-
-export const allLevels = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-
-export const stats = {
-  totalSongs: songs.length,
-  byVersion: {
-    ripples: songs.filter(s => s.firstAppearance === 'ripples').length,
-    knit: songs.filter(s => s.firstAppearance === 'knit').length,
-    copious: songs.filter(s => s.firstAppearance === 'copious').length,
-    saucer: songs.filter(s => s.firstAppearance === 'saucer').length,
-    'saucer fulfill': songs.filter(s => s.firstAppearance === 'saucer fulfill').length,
-    prop: songs.filter(s => s.firstAppearance === 'prop').length,
-    Qubell: songs.filter(s => s.firstAppearance === 'Qubell').length,
-    clan: songs.filter(s => s.firstAppearance === 'clan').length,
-    festo: songs.filter(s => s.firstAppearance === 'festo').length,
-    'Ave.': songs.filter(s => s.firstAppearance === 'Ave.').length,
-    'Beyond the Ave.': songs.filter(s => s.firstAppearance === 'Beyond the Ave.').length,
-  }
-};
+]
