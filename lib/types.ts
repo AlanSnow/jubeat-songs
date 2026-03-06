@@ -3,6 +3,7 @@ export interface Song {
   title: string;
   titleRomaji?: string;
   titleChinese?: string;
+  subtitle?: string;
   artist: string;
   genre: string;
   bpm: number;
@@ -16,6 +17,7 @@ export interface Song {
   isLicense: boolean;
   isNew?: boolean;
   releaseDate?: string;
+  event?: string;
 }
 
 export interface Difficulty {
