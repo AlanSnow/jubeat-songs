@@ -3,8 +3,8 @@ import { Song } from '../lib/types';
 export const songs: Song[] = [
   {
     "id": "jbt--1ra0",
-    "title": "オリジナル",
-    "artist": "eyes",
+    "title": "eyes",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -42,8 +42,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dv2b",
-    "title": "オリジナル",
-    "artist": "ALBIDA",
+    "title": "ALBIDA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -81,8 +81,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4s5q",
-    "title": "オリジナル",
-    "artist": "INVISIBLE WORLD",
+    "title": "INVISIBLE WORLD",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -120,8 +120,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9rrm",
-    "title": "クラシック",
-    "artist": "ウィリアム・テル序曲",
+    "title": "ウィリアム・テル序曲",
+    "artist": "クラシック",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -159,8 +159,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--blbv",
-    "title": "オリジナル",
-    "artist": "AIR RAID FROM THA UNDAGROUND",
+    "title": "AIR RAID FROM THA UNDAGROUND",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -198,8 +198,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--60xr",
-    "title": "オリジナル",
-    "artist": "ECO FIGHTER",
+    "title": "ECO FIGHTER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -237,8 +237,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--auwc",
-    "title": "オリジナル",
-    "artist": "AREA 51",
+    "title": "AREA 51",
+    "artist": "オリジナル",
     "bpm": 96,
     "genre": "ポップス",
     "difficulties": {
@@ -276,8 +276,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3s82",
-    "title": "オリジナル",
-    "artist": "coming true",
+    "title": "coming true",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -315,8 +315,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e910",
-    "title": "オリジナル",
-    "artist": "Queen's Paradise",
+    "title": "Queen's Paradise",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -354,8 +354,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--p8pt",
-    "title": "オリジナル",
-    "artist": "Good-bye Chalon",
+    "title": "Good-bye Chalon",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -393,8 +393,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4cj1",
-    "title": "オリジナル",
-    "artist": "コイノチカラ",
+    "title": "コイノチカラ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -432,8 +432,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--58ay",
-    "title": "オリジナル",
-    "artist": "恋のメリーゴーランド",
+    "title": "恋のメリーゴーランド",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -471,8 +471,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8q9n",
-    "title": "オリジナル",
-    "artist": "Shining Star",
+    "title": "Shining Star",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -510,8 +510,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--p7tj",
-    "title": "ポップス",
-    "artist": "情熱大陸",
+    "title": "情熱大陸",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -549,8 +549,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wug1",
-    "title": "オリジナル",
-    "artist": "少年リップルズ",
+    "title": "少年リップルズ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -588,8 +588,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ia4e",
-    "title": "オリジナル",
-    "artist": "SWEET ANGEL",
+    "title": "SWEET ANGEL",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -627,8 +627,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e6du",
-    "title": "オリジナル",
-    "artist": "STARLIT DUST/スティルに捧ぐ",
+    "title": "STARLIT DUST/スティルに捧ぐ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -666,8 +666,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8bgq",
-    "title": "オリジナル",
-    "artist": "スペースカーニバル",
+    "title": "スペースカーニバル",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -705,8 +705,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5ucn",
-    "title": "オリジナル",
-    "artist": "隅田川夏恋歌",
+    "title": "隅田川夏恋歌",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -744,8 +744,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--df9o",
-    "title": "アニメ",
-    "artist": "空色デイズ",
+    "title": "空色デイズ",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -783,8 +783,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--89o8",
-    "title": "ポップス",
-    "artist": "星に願いを",
+    "title": "星に願いを",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -822,8 +822,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--37e8",
-    "title": "ポップス",
-    "artist": "HOT LIMIT",
+    "title": "HOT LIMIT",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -861,8 +861,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--487b",
-    "title": "オリジナル",
-    "artist": "Macuilxochitl",
+    "title": "Macuilxochitl",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -900,8 +900,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zfoy",
-    "title": "オリジナル",
-    "artist": "Lead Me",
+    "title": "Lead Me",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -939,8 +939,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lgch",
-    "title": "オリジナル",
-    "artist": "Russian Snowy Dance",
+    "title": "Russian Snowy Dance",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -978,8 +978,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--aa5k",
-    "title": "アニメ",
-    "artist": "R.P.G.～Rockin' Playing Game",
+    "title": "R.P.G.～Rockin' Playing Game",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1016,8 +1016,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--otyp",
-    "title": "オリジナル",
-    "artist": "愛と勇気の三度笠ポン太",
+    "title": "愛と勇気の三度笠ポン太",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1054,8 +1054,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dvqa",
-    "title": "オリジナル",
-    "artist": "I'm so Happy",
+    "title": "I'm so Happy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1092,8 +1092,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rueg",
-    "title": "オリジナル",
-    "artist": "うらもからだも落花微塵",
+    "title": "うらもからだも落花微塵",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1130,8 +1130,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tb79",
-    "title": "オリジナル",
-    "artist": "ALL MY HEART -この恋に、わたしの全てを賭ける-",
+    "title": "ALL MY HEART -この恋に、わたしの全てを賭ける-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1168,8 +1168,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dk79",
-    "title": "アニメ",
-    "artist": "only my railgun",
+    "title": "only my railgun",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1206,8 +1206,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--80s7",
-    "title": "オリジナル",
-    "artist": "KUNG-FU MAMA",
+    "title": "KUNG-FU MAMA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1244,8 +1244,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7m1j",
-    "title": "オリジナル",
-    "artist": "キルト",
+    "title": "キルト",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1282,8 +1282,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--odgf",
-    "title": "オリジナル",
-    "artist": "Green Green Dance",
+    "title": "Green Green Dance",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1320,8 +1320,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rbbm",
-    "title": "ポップス",
-    "artist": "元気でやってるのかい?",
+    "title": "元気でやってるのかい?",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1358,8 +1358,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jxd0",
-    "title": "オリジナル",
-    "artist": "concon",
+    "title": "concon",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1396,8 +1396,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--a9jp",
-    "title": "オリジナル",
-    "artist": "さよならトリップ",
+    "title": "さよならトリップ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1434,8 +1434,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--12iw",
-    "title": "オリジナル",
-    "artist": "Jailbreak",
+    "title": "Jailbreak",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1472,8 +1472,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--z6q0",
-    "title": "オリジナル",
-    "artist": "Shining Wizard",
+    "title": "Shining Wizard",
+    "artist": "オリジナル",
     "bpm": 96,
     "genre": "ポップス",
     "difficulties": {
@@ -1510,8 +1510,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hook",
-    "title": "オリジナル",
-    "artist": "Shine On Me",
+    "title": "Shine On Me",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1548,8 +1548,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--koxl",
-    "title": "ポップス",
-    "artist": "じょいふる",
+    "title": "じょいふる",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1586,8 +1586,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g1xq",
-    "title": "オリジナル",
-    "artist": "Sweet Rain",
+    "title": "Sweet Rain",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1624,8 +1624,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--v3jm",
-    "title": "オリジナル",
-    "artist": "STELLAR WIND",
+    "title": "STELLAR WIND",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1662,8 +1662,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4gll",
-    "title": "オリジナル",
-    "artist": "STREET DANCER",
+    "title": "STREET DANCER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1700,8 +1700,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tk2w",
-    "title": "オリジナル",
-    "artist": "Theory of Eternity",
+    "title": "Theory of Eternity",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1738,8 +1738,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--09vt",
-    "title": "クラシック",
-    "artist": "白鳥の湖",
+    "title": "白鳥の湖",
+    "artist": "クラシック",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1776,8 +1776,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--aznn",
-    "title": "オリジナル",
-    "artist": "Far east nightbird",
+    "title": "Far east nightbird",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1814,8 +1814,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e5ym",
-    "title": "オリジナル",
-    "artist": "fellow",
+    "title": "fellow",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1890,8 +1890,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--agwk",
-    "title": "オリジナル",
-    "artist": "Prophet Vibe",
+    "title": "Prophet Vibe",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1928,8 +1928,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1jxb",
-    "title": "オリジナル",
-    "artist": "Love ♡ km",
+    "title": "Love ♡ km",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -1966,8 +1966,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o1k1",
-    "title": "アニメ",
-    "artist": "LISTEN TO THE STEREO!!",
+    "title": "LISTEN TO THE STEREO!!",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2004,8 +2004,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6dhq",
-    "title": "オリジナル",
-    "artist": "Ready Go!!",
+    "title": "Ready Go!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2042,8 +2042,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yq0e",
-    "title": "オリジナル",
-    "artist": "アルストロメリア",
+    "title": "アルストロメリア",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2079,8 +2079,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fol5",
-    "title": "オリジナル",
-    "artist": "yellow head joe",
+    "title": "yellow head joe",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2116,8 +2116,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--m07t",
-    "title": "オリジナル",
-    "artist": "歌の翼",
+    "title": "歌の翼",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2153,8 +2153,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rheq",
-    "title": "オリジナル",
-    "artist": "800nm",
+    "title": "800nm",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2190,8 +2190,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3vil",
-    "title": "オリジナル",
-    "artist": "electro peaceful",
+    "title": "electro peaceful",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2227,8 +2227,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bjwp",
-    "title": "ポップス",
-    "artist": "オムライス",
+    "title": "オムライス",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2264,8 +2264,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2bew",
-    "title": "オリジナル",
-    "artist": "陽炎",
+    "title": "陽炎",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2301,8 +2301,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--if6q",
-    "title": "オリジナル",
-    "artist": "[E]",
+    "title": "[E]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2338,8 +2338,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mx46",
-    "title": "オリジナル",
-    "artist": "ギタ・ドラ・jubeat大夏祭りのテーマ",
+    "title": "ギタ・ドラ・jubeat大夏祭りのテーマ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2375,8 +2375,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--59wd",
-    "title": "オリジナル",
-    "artist": "逆ナンされたのにドタキャン!!",
+    "title": "逆ナンされたのにドタキャン!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2412,8 +2412,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6emc",
-    "title": "オリジナル",
-    "artist": "candii",
+    "title": "candii",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2449,8 +2449,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8bk7",
-    "title": "オリジナル",
-    "artist": "cloche",
+    "title": "cloche",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2486,8 +2486,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--u2x2",
-    "title": "オリジナル",
-    "artist": "The Wind of Gold",
+    "title": "The Wind of Gold",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2523,8 +2523,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yh2e",
-    "title": "オリジナル",
-    "artist": "Summer Holiday",
+    "title": "Summer Holiday",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2560,8 +2560,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--39ny",
-    "title": "オリジナル",
-    "artist": "幸せのかたち",
+    "title": "幸せのかたち",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2597,8 +2597,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--by96",
-    "title": "オリジナル",
-    "artist": "JOMANDA",
+    "title": "JOMANDA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2634,8 +2634,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mwsz",
-    "title": "ポップス",
-    "artist": "SWEET CUBE",
+    "title": "SWEET CUBE",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2671,8 +2671,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2duj",
-    "title": "オリジナル",
-    "artist": "Starlight Parade",
+    "title": "Starlight Parade",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2708,8 +2708,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--m9c2",
-    "title": "オリジナル",
-    "artist": "DOUBLE IMPACT",
+    "title": "DOUBLE IMPACT",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2745,8 +2745,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--izoq",
-    "title": "オリジナル",
-    "artist": "THIS NIGHT (jubeat EDITION)",
+    "title": "THIS NIGHT (jubeat EDITION)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2782,8 +2782,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gwh8",
-    "title": "オリジナル",
-    "artist": "Devil Fish Dumpling",
+    "title": "Devil Fish Dumpling",
+    "artist": "オリジナル",
     "bpm": 96,
     "genre": "ポップス",
     "difficulties": {
@@ -2819,8 +2819,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--13je",
-    "title": "オリジナル",
-    "artist": "TWINKLE♡HEART",
+    "title": "TWINKLE♡HEART",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2856,8 +2856,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--r701",
-    "title": "クラシック",
-    "artist": "トルコ行進曲",
+    "title": "トルコ行進曲",
+    "artist": "クラシック",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2893,8 +2893,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--oaez",
-    "title": "オリジナル",
-    "artist": "ナナホシ",
+    "title": "ナナホシ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2930,8 +2930,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0dcm",
-    "title": "オリジナル",
-    "artist": "HEAT-BIT-HIT-BEAT",
+    "title": "HEAT-BIT-HIT-BEAT",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -2967,8 +2967,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1llw",
-    "title": "オリジナル",
-    "artist": "532nm",
+    "title": "532nm",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3004,8 +3004,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vlo8",
-    "title": "オリジナル",
-    "artist": "Plum",
+    "title": "Plum",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3041,8 +3041,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nopy",
-    "title": "オリジナル",
-    "artist": "FRIENDSHIP",
+    "title": "FRIENDSHIP",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3078,8 +3078,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yv75",
-    "title": "オリジナル",
-    "artist": "HEAVENLY MOON",
+    "title": "HEAVENLY MOON",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3115,8 +3115,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6bse",
-    "title": "ポップス",
-    "artist": "僕らの永遠～何度生まれ変わっても、手を繋ぎたいだけの愛だから～",
+    "title": "僕らの永遠～何度生まれ変わっても、手を繋ぎたいだけの愛だから～",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3152,8 +3152,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sram",
-    "title": "オリジナル",
-    "artist": "polygon",
+    "title": "polygon",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3189,8 +3189,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ty96",
-    "title": "オリジナル",
-    "artist": "瞬",
+    "title": "瞬",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3226,8 +3226,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--obx2",
-    "title": "オリジナル",
-    "artist": "Riot of Color",
+    "title": "Riot of Color",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3263,8 +3263,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fxa1",
-    "title": "オリジナル",
-    "artist": "Rush!!",
+    "title": "Rush!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3300,8 +3300,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8go5",
-    "title": "ポップス",
-    "artist": "Love at First Sight",
+    "title": "Love at First Sight",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3337,8 +3337,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--igem",
-    "title": "オリジナル",
-    "artist": "RePrise",
+    "title": "RePrise",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3374,8 +3374,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rr1y",
-    "title": "オリジナル",
-    "artist": "流砂の嵐",
+    "title": "流砂の嵐",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3411,8 +3411,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ko6u",
-    "title": "オリジナル",
-    "artist": "量子の海のリントヴルム",
+    "title": "量子の海のリントヴルム",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3448,8 +3448,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pjpj",
-    "title": "オリジナル",
-    "artist": "Red Goose",
+    "title": "Red Goose",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3485,8 +3485,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--27yj",
-    "title": "オリジナル",
-    "artist": "WONDER WALKER",
+    "title": "WONDER WALKER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3522,8 +3522,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--blmj",
-    "title": "オリジナル",
-    "artist": "I/O",
+    "title": "I/O",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3558,8 +3558,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4s2c",
-    "title": "オリジナル",
-    "artist": "愛は不死鳥の様に",
+    "title": "愛は不死鳥の様に",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3594,8 +3594,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zkcf",
-    "title": "オリジナル",
-    "artist": "Across the nightmare",
+    "title": "Across the nightmare",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3630,8 +3630,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ii2o",
-    "title": "オリジナル",
-    "artist": "Asterism",
+    "title": "Asterism",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3666,8 +3666,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--d33d",
-    "title": "オリジナル",
-    "artist": "アストライアの双皿",
+    "title": "アストライアの双皿",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3702,8 +3702,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--k0u1",
-    "title": "オリジナル",
-    "artist": "attack in the minor key",
+    "title": "attack in the minor key",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3738,8 +3738,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q53x",
-    "title": "オリジナル",
-    "artist": "anemone",
+    "title": "anemone",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3810,8 +3810,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dlnf",
-    "title": "オリジナル",
-    "artist": "Amalgamation",
+    "title": "Amalgamation",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3846,8 +3846,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vggf",
-    "title": "オリジナル",
-    "artist": "雨ノチHello",
+    "title": "雨ノチHello",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3882,8 +3882,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lv5h",
-    "title": "オリジナル",
-    "artist": "Arousing",
+    "title": "Arousing",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3918,8 +3918,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--r6xw",
-    "title": "オリジナル",
-    "artist": "Our Faith",
+    "title": "Our Faith",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -3990,8 +3990,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--i131",
-    "title": "オリジナル",
-    "artist": "イ号零型",
+    "title": "イ号零型",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4026,8 +4026,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--r482",
-    "title": "オリジナル",
-    "artist": "イブの時代っ！",
+    "title": "イブの時代っ！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4062,8 +4062,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ln69",
-    "title": "オリジナル",
-    "artist": "Vermilion",
+    "title": "Vermilion",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4098,8 +4098,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e5bw",
-    "title": "オリジナル",
-    "artist": "Vanity",
+    "title": "Vanity",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4134,8 +4134,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--w5vf",
-    "title": "オリジナル",
-    "artist": "VALLIS-NERIA",
+    "title": "VALLIS-NERIA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4170,8 +4170,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--m8bh",
-    "title": "オリジナル",
-    "artist": "We're so Happy",
+    "title": "We're so Happy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4206,8 +4206,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8kxe",
-    "title": "オリジナル",
-    "artist": "Windy Fairy",
+    "title": "Windy Fairy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4242,8 +4242,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7tra",
-    "title": "オリジナル",
-    "artist": "Wow Wow VENUS",
+    "title": "Wow Wow VENUS",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4278,8 +4278,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--eyw1",
-    "title": "ポップス",
-    "artist": "Water Horizon",
+    "title": "Water Horizon",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4314,8 +4314,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fs2e",
-    "title": "オリジナル",
-    "artist": "梅雪夜",
+    "title": "梅雪夜",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4350,8 +4350,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--so8f",
-    "title": "オリジナル",
-    "artist": "8 -eight-",
+    "title": "8 -eight-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4386,8 +4386,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lmc3",
-    "title": "アニメ",
-    "artist": "ETERNAL BLAZE",
+    "title": "ETERNAL BLAZE",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4422,8 +4422,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mg09",
-    "title": "オリジナル",
-    "artist": "Elemental Creation",
+    "title": "Elemental Creation",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4458,8 +4458,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--anes",
-    "title": "オリジナル",
-    "artist": "Engraved Mark",
+    "title": "Engraved Mark",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4494,8 +4494,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9ls2",
-    "title": "オリジナル",
-    "artist": "Endless Chain～2人でトリガーをひこう～",
+    "title": "Endless Chain～2人でトリガーをひこう～",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4530,8 +4530,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--y6ch",
-    "title": "オリジナル",
-    "artist": "Empathetic",
+    "title": "Empathetic",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4566,8 +4566,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--iae4",
-    "title": "オリジナル",
-    "artist": "O JIYA",
+    "title": "O JIYA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4602,8 +4602,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o232",
-    "title": "オリジナル",
-    "artist": "OVERHEAT -Type J-",
+    "title": "OVERHEAT -Type J-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4638,8 +4638,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sqtw",
-    "title": "オリジナル",
-    "artist": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+    "title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4674,8 +4674,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tprl",
-    "title": "オリジナル",
-    "artist": "朧",
+    "title": "朧",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4710,8 +4710,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--cwvl",
-    "title": "オリジナル",
-    "artist": "GAIA",
+    "title": "GAIA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4746,8 +4746,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vds3",
-    "title": "オリジナル",
-    "artist": "影縫い胤撒き",
+    "title": "影縫い胤撒き",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4782,8 +4782,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wvjx",
-    "title": "オリジナル",
-    "artist": "Cassis",
+    "title": "Cassis",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4818,8 +4818,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--386n",
-    "title": "オリジナル",
-    "artist": "カタルシスの月",
+    "title": "カタルシスの月",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4854,8 +4854,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ln89",
-    "title": "オリジナル",
-    "artist": "カラフルミニッツ",
+    "title": "カラフルミニッツ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4890,8 +4890,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8lmu",
-    "title": "オリジナル",
-    "artist": "カラルの月",
+    "title": "カラルの月",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4926,8 +4926,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yvc0",
-    "title": "オリジナル",
-    "artist": "記憶の欠片",
+    "title": "記憶の欠片",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4962,8 +4962,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--twxt",
-    "title": "オリジナル",
-    "artist": "キケンな果実",
+    "title": "キケンな果実",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -4998,8 +4998,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4vh7",
-    "title": "オリジナル",
-    "artist": "Gimme a Big Beat",
+    "title": "Gimme a Big Beat",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5034,8 +5034,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--chfs",
-    "title": "オリジナル",
-    "artist": "君の元へ",
+    "title": "君の元へ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5070,8 +5070,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--iz38",
-    "title": "オリジナル",
-    "artist": "caramel ribbon",
+    "title": "caramel ribbon",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5106,8 +5106,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o6a9",
-    "title": "オリジナル",
-    "artist": "キラキラ☆ステーション",
+    "title": "キラキラ☆ステーション",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5142,8 +5142,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6qzo",
-    "title": "オリジナル",
-    "artist": "quaver♪",
+    "title": "quaver♪",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5178,8 +5178,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--cnms",
-    "title": "オリジナル",
-    "artist": "Clumsy thoughts",
+    "title": "Clumsy thoughts",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5214,8 +5214,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--s1ao",
-    "title": "オリジナル",
-    "artist": "紅蓮の焔",
+    "title": "紅蓮の焔",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5250,8 +5250,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xllz",
-    "title": "オリジナル",
-    "artist": "黒髪乱れし修羅となりて",
+    "title": "黒髪乱れし修羅となりて",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5286,8 +5286,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7vj9",
-    "title": "オリジナル",
-    "artist": "Chronos",
+    "title": "Chronos",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5322,8 +5322,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7mse",
-    "title": "オリジナル",
-    "artist": "恋する☆宇宙戦争っ!!",
+    "title": "恋する☆宇宙戦争っ!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5358,8 +5358,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pefp",
-    "title": "オリジナル",
-    "artist": "恋とキングコング",
+    "title": "恋とキングコング",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5394,8 +5394,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ygt6",
-    "title": "オリジナル",
-    "artist": "恋はどう？モロ◎波動OK☆方程式！！",
+    "title": "恋はどう？モロ◎波動OK☆方程式！！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5430,8 +5430,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vo6z",
-    "title": "オリジナル",
-    "artist": "紅焔",
+    "title": "紅焔",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5466,8 +5466,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5z9m",
-    "title": "オリジナル",
-    "artist": "Go For The Top",
+    "title": "Go For The Top",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5502,8 +5502,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ex9p",
-    "title": "オリジナル",
-    "artist": "虚空と光明のディスクール",
+    "title": "虚空と光明のディスクール",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5538,8 +5538,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jawp",
-    "title": "オリジナル",
-    "artist": "Cosmic Hurricane",
+    "title": "Cosmic Hurricane",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5574,8 +5574,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wlkq",
-    "title": "オリジナル",
-    "artist": "Gott",
+    "title": "Gott",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5610,8 +5610,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--oyg2",
-    "title": "オリジナル",
-    "artist": "この青空の下で",
+    "title": "この青空の下で",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5646,8 +5646,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--iy7n",
-    "title": "オリジナル",
-    "artist": "この子の七つのお祝いに",
+    "title": "この子の七つのお祝いに",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5682,8 +5682,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mess",
-    "title": "オリジナル",
-    "artist": "Concertino in Blue",
+    "title": "Concertino in Blue",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5718,8 +5718,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--by11",
-    "title": "オリジナル",
-    "artist": "Condor",
+    "title": "Condor",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5754,8 +5754,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e8xq",
-    "title": "オリジナル",
-    "artist": "Confiserie",
+    "title": "Confiserie",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5790,8 +5790,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8y5a",
-    "title": "ポップス",
-    "artist": "最終回STORY",
+    "title": "最終回STORY",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5826,8 +5826,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e9lc",
-    "title": "オリジナル",
-    "artist": "防人恋歌",
+    "title": "防人恋歌",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5862,8 +5862,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--96wv",
-    "title": "オリジナル",
-    "artist": "Sakura Sunrise",
+    "title": "Sakura Sunrise",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5898,8 +5898,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g5ho",
-    "title": "オリジナル",
-    "artist": "サヨナラ・ヘヴン",
+    "title": "サヨナラ・ヘヴン",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5934,8 +5934,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e59i",
-    "title": "オリジナル",
-    "artist": "SEED",
+    "title": "SEED",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -5970,8 +5970,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2boc",
-    "title": "オリジナル",
-    "artist": "此岸の戯事",
+    "title": "此岸の戯事",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6006,8 +6006,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xfdl",
-    "title": "オリジナル",
-    "artist": "Synergy For Angels",
+    "title": "Synergy For Angels",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6042,8 +6042,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--c4ru",
-    "title": "ゲーム",
-    "artist": "灼熱の翼",
+    "title": "灼熱の翼",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6078,8 +6078,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jw8i",
-    "title": "オリジナル",
-    "artist": "終末を追う者",
+    "title": "終末を追う者",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6114,8 +6114,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q3d7",
-    "title": "ゲーム",
-    "artist": "Show up ! - short ver -",
+    "title": "Show up ! - short ver -",
+    "artist": "ゲーム",
     "bpm": 3,
     "genre": "ポップス",
     "difficulties": {
@@ -6150,8 +6150,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4uf1",
-    "title": "オリジナル",
-    "artist": "少年は空を辿る",
+    "title": "少年は空を辿る",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6186,8 +6186,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--j0ue",
-    "title": "オリジナル",
-    "artist": "SILVER☆DREAM",
+    "title": "SILVER☆DREAM",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6222,8 +6222,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--psbo",
-    "title": "オリジナル",
-    "artist": "Sky Is The Limit",
+    "title": "Sky Is The Limit",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6258,8 +6258,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ki4y",
-    "title": "オリジナル",
-    "artist": "Squeeze",
+    "title": "Squeeze",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6294,8 +6294,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q9mu",
-    "title": "オリジナル",
-    "artist": "squall",
+    "title": "squall",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6330,8 +6330,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--aphw",
-    "title": "オリジナル",
-    "artist": "Stand Alone Beat Masta",
+    "title": "Stand Alone Beat Masta",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6366,8 +6366,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--k0wo",
-    "title": "オリジナル",
-    "artist": "Stella Sinistra",
+    "title": "Stella Sinistra",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6402,8 +6402,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vois",
-    "title": "オリジナル",
-    "artist": "STULTI",
+    "title": "STULTI",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6438,8 +6438,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--klyd",
-    "title": "オリジナル",
-    "artist": "ストレイ・マーチ",
+    "title": "ストレイ・マーチ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6474,8 +6474,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1v07",
-    "title": "オリジナル",
-    "artist": "Straight Oath",
+    "title": "Straight Oath",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6510,8 +6510,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--w1qs",
-    "title": "オリジナル",
-    "artist": "Snowfield Express",
+    "title": "Snowfield Express",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6546,8 +6546,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nor0",
-    "title": "オリジナル",
-    "artist": "snow prism",
+    "title": "snow prism",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6582,8 +6582,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--70fd",
-    "title": "オリジナル",
-    "artist": "spring pony",
+    "title": "spring pony",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6618,8 +6618,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lznu",
-    "title": "オリジナル",
-    "artist": "smooooch・∀・",
+    "title": "smooooch・∀・",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6654,8 +6654,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xfz2",
-    "title": "オリジナル",
-    "artist": "晴天Bon Voyage",
+    "title": "晴天Bon Voyage",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6690,8 +6690,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7axg",
-    "title": "オリジナル",
-    "artist": "Second Heaven",
+    "title": "Second Heaven",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6726,8 +6726,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ecm7",
-    "title": "オリジナル",
-    "artist": "ZED",
+    "title": "ZED",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6762,8 +6762,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zxnu",
-    "title": "オリジナル",
-    "artist": "ZZ",
+    "title": "ZZ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6834,8 +6834,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ghyn",
-    "title": "オリジナル",
-    "artist": "創世ノート",
+    "title": "創世ノート",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6870,8 +6870,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dybz",
-    "title": "オリジナル",
-    "artist": "蒼天",
+    "title": "蒼天",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6906,8 +6906,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mmze",
-    "title": "オリジナル",
-    "artist": "Sol Cosine Job 2",
+    "title": "Sol Cosine Job 2",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6942,8 +6942,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2pqv",
-    "title": "オリジナル",
-    "artist": "sola",
+    "title": "sola",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -6978,8 +6978,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zdyn",
-    "title": "オリジナル",
-    "artist": "TYCOON",
+    "title": "TYCOON",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7014,8 +7014,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5chu",
-    "title": "オリジナル",
-    "artist": "Dynasty",
+    "title": "Dynasty",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7050,8 +7050,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sy0g",
-    "title": "ゲーム",
-    "artist": "闘いの刻-jubeatREMIX-",
+    "title": "闘いの刻-jubeatREMIX-",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7086,8 +7086,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--svkf",
-    "title": "ゲーム",
-    "artist": "CHEAT DANCER - short ver -",
+    "title": "CHEAT DANCER - short ver -",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7122,8 +7122,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gcyr",
-    "title": "オリジナル",
-    "artist": "ちくわパフェだよ☆CKP",
+    "title": "ちくわパフェだよ☆CKP",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7158,8 +7158,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1yyz",
-    "title": "オリジナル",
-    "artist": "chaplet",
+    "title": "chaplet",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7194,8 +7194,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qahe",
-    "title": "オリジナル",
-    "artist": "TSAR BOMBA",
+    "title": "TSAR BOMBA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7230,8 +7230,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--92d9",
-    "title": "オリジナル",
-    "artist": "ツキミチヌ",
+    "title": "ツキミチヌ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7266,8 +7266,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5wgf",
-    "title": "オリジナル",
-    "artist": "つぼみ",
+    "title": "つぼみ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7302,8 +7302,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5y8v",
-    "title": "オリジナル",
-    "artist": "DIAVOLO",
+    "title": "DIAVOLO",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7338,8 +7338,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--31n5",
-    "title": "ゲーム",
-    "artist": "Dispersion Star",
+    "title": "Dispersion Star",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7374,8 +7374,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4vwv",
-    "title": "オリジナル",
-    "artist": "December Breeze",
+    "title": "December Breeze",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7410,8 +7410,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--cf05",
-    "title": "オリジナル",
-    "artist": "Daily Lunch Special",
+    "title": "Daily Lunch Special",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7446,8 +7446,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8pmb",
-    "title": "オリジナル",
-    "artist": "デッドボヲルdeホームラン",
+    "title": "デッドボヲルdeホームラン",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7482,8 +7482,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--drak",
-    "title": "ゲーム",
-    "artist": "天上の果て",
+    "title": "天上の果て",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7518,8 +7518,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9mgb",
-    "title": "オリジナル",
-    "artist": "Twinkle Wonderland",
+    "title": "Twinkle Wonderland",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7554,8 +7554,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nadv",
-    "title": "オリジナル",
-    "artist": "True Blue",
+    "title": "True Blue",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7590,8 +7590,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yh16",
-    "title": "オリジナル",
-    "artist": "Thor's Hammer",
+    "title": "Thor's Hammer",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7626,8 +7626,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--28k6",
-    "title": "オリジナル",
-    "artist": "とってもとっても、ありがとう。",
+    "title": "とってもとっても、ありがとう。",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7662,8 +7662,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2trn",
-    "title": "オリジナル",
-    "artist": "轟け！恋のビーンボール！！",
+    "title": "轟け！恋のビーンボール！！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7698,8 +7698,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q6vf",
-    "title": "オリジナル",
-    "artist": "DRAGON KILLER",
+    "title": "DRAGON KILLER",
+    "artist": "オリジナル",
     "bpm": 96,
     "genre": "ポップス",
     "difficulties": {
@@ -7734,8 +7734,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2r5a",
-    "title": "オリジナル",
-    "artist": "Dragontail Butterfly",
+    "title": "Dragontail Butterfly",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7770,8 +7770,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rslh",
-    "title": "オリジナル",
-    "artist": "Dragon Blade",
+    "title": "Dragon Blade",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7806,8 +7806,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--336l",
-    "title": "オリジナル",
-    "artist": "トリカゴノ鳳凰",
+    "title": "トリカゴノ鳳凰",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7842,8 +7842,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g0sl",
-    "title": "オリジナル",
-    "artist": "Triple Journey -S-C-U EDITION-",
+    "title": "Triple Journey -S-C-U EDITION-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7878,8 +7878,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--efdd",
-    "title": "オリジナル",
-    "artist": "NIGHT FLIGHT",
+    "title": "NIGHT FLIGHT",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7914,8 +7914,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rao9",
-    "title": "オリジナル",
-    "artist": "IX",
+    "title": "IX",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7950,8 +7950,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--txzy",
-    "title": "オリジナル",
-    "artist": "†渚の小悪魔ラヴリィ～レイディオ†",
+    "title": "†渚の小悪魔ラヴリィ～レイディオ†",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -7986,8 +7986,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--cud5",
-    "title": "オリジナル",
-    "artist": "夏・KOI・ムッシュ!!",
+    "title": "夏・KOI・ムッシュ!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8022,8 +8022,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6bpc",
-    "title": "オリジナル",
-    "artist": "虹色の花",
+    "title": "虹色の花",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8058,8 +8058,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--b0y1",
-    "title": "オリジナル",
-    "artist": "New Gravity",
+    "title": "New Gravity",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8094,8 +8094,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mv9s",
-    "title": "オリジナル",
-    "artist": "New Decade",
+    "title": "New Decade",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8130,8 +8130,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--y2pu",
-    "title": "オリジナル",
-    "artist": "Never Look Back in Sorrow",
+    "title": "Never Look Back in Sorrow",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8166,8 +8166,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--cg9y",
-    "title": "オリジナル",
-    "artist": "neu",
+    "title": "neu",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8202,8 +8202,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--w27q",
-    "title": "オリジナル",
-    "artist": "HEART BEAT FORMULA",
+    "title": "HEART BEAT FORMULA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8238,8 +8238,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--66y7",
-    "title": "オリジナル",
-    "artist": "HYENA",
+    "title": "HYENA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8274,8 +8274,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qw5m",
-    "title": "オリジナル",
-    "artist": "Happy",
+    "title": "Happy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8310,8 +8310,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ezkn",
-    "title": "オリジナル",
-    "artist": "華爛漫 -Flowers-",
+    "title": "華爛漫 -Flowers-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8346,8 +8346,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pm8z",
-    "title": "オリジナル",
-    "artist": "PUNISHER",
+    "title": "PUNISHER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8382,8 +8382,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3d4x",
-    "title": "オリジナル",
-    "artist": "PULSE LASER",
+    "title": "PULSE LASER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8418,8 +8418,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6xm9",
-    "title": "オリジナル",
-    "artist": "Hello world!",
+    "title": "Hello world!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8454,8 +8454,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--26zj",
-    "title": "オリジナル",
-    "artist": "Beastie Starter",
+    "title": "Beastie Starter",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8490,8 +8490,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--h4j1",
-    "title": "オリジナル",
-    "artist": "ヒーロー",
+    "title": "ヒーロー",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8526,8 +8526,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kmif",
-    "title": "オリジナル",
-    "artist": "Pink Rose",
+    "title": "Pink Rose",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8562,8 +8562,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--y3jt",
-    "title": "ポップス",
-    "artist": "Find your way",
+    "title": "Find your way",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8598,8 +8598,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--my6v",
-    "title": "オリジナル",
-    "artist": "Fantasia",
+    "title": "Fantasia",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8634,8 +8634,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ggyy",
-    "title": "オリジナル",
-    "artist": "V",
+    "title": "V",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8670,8 +8670,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--92b6",
-    "title": "オリジナル",
-    "artist": "フー・フローツ",
+    "title": "フー・フローツ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8706,8 +8706,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--73hy",
-    "title": "オリジナル",
-    "artist": "405nm (Ryu☆mix)",
+    "title": "405nm (Ryu☆mix)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8742,8 +8742,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--loz7",
-    "title": "オリジナル",
-    "artist": "ふしぎなくすり",
+    "title": "ふしぎなくすり",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8778,8 +8778,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8782",
-    "title": "オリジナル",
-    "artist": "PRANA",
+    "title": "PRANA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8814,8 +8814,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mwov",
-    "title": "オリジナル",
-    "artist": "Fly with me",
+    "title": "Fly with me",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8850,8 +8850,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--45go",
-    "title": "オリジナル",
-    "artist": "Plan 8",
+    "title": "Plan 8",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8886,8 +8886,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--p8jd",
-    "title": "オリジナル",
-    "artist": "Brand New World",
+    "title": "Brand New World",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8922,8 +8922,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--15z2",
-    "title": "オリジナル",
-    "artist": "Flip Flap",
+    "title": "Flip Flap",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8958,8 +8958,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--btpv",
-    "title": "オリジナル",
-    "artist": "BLUE STRAGGLER",
+    "title": "BLUE STRAGGLER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -8994,8 +8994,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6kwo",
-    "title": "オリジナル",
-    "artist": "Proof of the existence",
+    "title": "Proof of the existence",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9030,8 +9030,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sd4p",
-    "title": "オリジナル",
-    "artist": "Broken",
+    "title": "Broken",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9066,8 +9066,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--r259",
-    "title": "オリジナル",
-    "artist": "Baby Bleep March",
+    "title": "Baby Bleep March",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9102,8 +9102,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--llqy",
-    "title": "オリジナル",
-    "artist": "heron",
+    "title": "heron",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9138,8 +9138,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3mp1",
-    "title": "オリジナル",
-    "artist": "POINT ZERO",
+    "title": "POINT ZERO",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9174,8 +9174,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ktj5",
-    "title": "オリジナル",
-    "artist": "亡国のヒストリア",
+    "title": "亡国のヒストリア",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9210,8 +9210,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--w9mq",
-    "title": "オリジナル",
-    "artist": "Holy Snow",
+    "title": "Holy Snow",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9246,8 +9246,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fcf9",
-    "title": "オリジナル",
-    "artist": "ホーンテッド★メイドランチ",
+    "title": "ホーンテッド★メイドランチ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9282,8 +9282,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pozw",
-    "title": "ゲーム",
-    "artist": "星屑のキロク",
+    "title": "星屑のキロク",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9318,8 +9318,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hihk",
-    "title": "オリジナル",
-    "artist": "ほしふり",
+    "title": "ほしふり",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9354,8 +9354,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jo6t",
-    "title": "オリジナル",
-    "artist": "ポップミュージック論",
+    "title": "ポップミュージック論",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9390,8 +9390,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--b57w",
-    "title": "オリジナル",
-    "artist": "Mynarco",
+    "title": "Mynarco",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9426,8 +9426,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vqcy",
-    "title": "オリジナル",
-    "artist": "マインド・ゲーム",
+    "title": "マインド・ゲーム",
+    "artist": "オリジナル",
     "bpm": 96,
     "genre": "ポップス",
     "difficulties": {
@@ -9462,8 +9462,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q92g",
-    "title": "オリジナル",
-    "artist": "Magnetic",
+    "title": "Magnetic",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9498,8 +9498,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1h2p",
-    "title": "オリジナル",
-    "artist": "Mother Ship",
+    "title": "Mother Ship",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9534,8 +9534,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wk6r",
-    "title": "アニメ",
-    "artist": "回レ！雪月花",
+    "title": "回レ！雪月花",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9570,8 +9570,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--v7hy",
-    "title": "オリジナル",
-    "artist": "万華鏡",
+    "title": "万華鏡",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9606,8 +9606,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ertm",
-    "title": "オリジナル",
-    "artist": "Mirage",
+    "title": "Mirage",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9642,8 +9642,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--59rh",
-    "title": "オリジナル",
-    "artist": "milky ice bear",
+    "title": "milky ice bear",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9678,8 +9678,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xf9v",
-    "title": "オリジナル",
-    "artist": "Move That Body",
+    "title": "Move That Body",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9714,8 +9714,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o8zd",
-    "title": "オリジナル",
-    "artist": "めうめうぺったんたん！！",
+    "title": "めうめうぺったんたん！！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9750,8 +9750,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1pu6",
-    "title": "オリジナル",
-    "artist": "野球の遊び方 そしてその歴史 ～決定版～",
+    "title": "野球の遊び方 そしてその歴史 ～決定版～",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9786,8 +9786,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--t67j",
-    "title": "オリジナル",
-    "artist": "優勢オーバードーズ",
+    "title": "優勢オーバードーズ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9822,8 +9822,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--apil",
-    "title": "オリジナル",
-    "artist": "Unicorn tail Dustboxxxx RMX",
+    "title": "Unicorn tail Dustboxxxx RMX",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9858,8 +9858,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--a5wq",
-    "title": "オリジナル",
-    "artist": "Right on time (Ryu☆ Remix)",
+    "title": "Right on time (Ryu☆ Remix)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9894,8 +9894,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hkoo",
-    "title": "オリジナル",
-    "artist": "Life Connection",
+    "title": "Life Connection",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9930,8 +9930,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--40at",
-    "title": "ポップス",
-    "artist": "Lifetime Journey",
+    "title": "Lifetime Journey",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -9966,8 +9966,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--eewr",
-    "title": "オリジナル",
-    "artist": "LUV CAN SAVE U",
+    "title": "LUV CAN SAVE U",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10002,8 +10002,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rakw",
-    "title": "オリジナル",
-    "artist": "ラキラキ",
+    "title": "ラキラキ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10038,8 +10038,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--uzv1",
-    "title": "ポップス",
-    "artist": "LANA - Answer II -",
+    "title": "LANA - Answer II -",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10074,8 +10074,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--otpz",
-    "title": "ポップス",
-    "artist": "LANA - Answer I -",
+    "title": "LANA - Answer I -",
+    "artist": "ポップス",
     "bpm": 171,
     "genre": "ポップス",
     "difficulties": {
@@ -10110,8 +10110,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rdri",
-    "title": "ポップス",
-    "artist": "LANA - キロクノカケラ -",
+    "title": "LANA - キロクノカケラ -",
+    "artist": "ポップス",
     "bpm": 84,
     "genre": "ポップス",
     "difficulties": {
@@ -10146,8 +10146,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5pyi",
-    "title": "ポップス",
-    "artist": "LANA - キロクノカケラ (sasakure.UK Framework Remix) -",
+    "title": "LANA - キロクノカケラ (sasakure.UK Framework Remix) -",
+    "artist": "ポップス",
     "bpm": 200,
     "genre": "ポップス",
     "difficulties": {
@@ -10182,8 +10182,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--otb5",
-    "title": "ポップス",
-    "artist": "LANA - ココロノキオク -",
+    "title": "LANA - ココロノキオク -",
+    "artist": "ポップス",
     "bpm": 84,
     "genre": "ポップス",
     "difficulties": {
@@ -10218,8 +10218,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sdzq",
-    "title": "ポップス",
-    "artist": "LANA - セカイノハズレ -",
+    "title": "LANA - セカイノハズレ -",
+    "artist": "ポップス",
     "bpm": 214,
     "genre": "ポップス",
     "difficulties": {
@@ -10254,8 +10254,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sx7u",
-    "title": "ポップス",
-    "artist": "LANA - ヒトリノウタ -",
+    "title": "LANA - ヒトリノウタ -",
+    "artist": "ポップス",
     "bpm": 180,
     "genre": "ポップス",
     "difficulties": {
@@ -10290,8 +10290,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--i9aj",
-    "title": "オリジナル",
-    "artist": "Lisa-RICCIA",
+    "title": "Lisa-RICCIA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10326,8 +10326,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--y68c",
-    "title": "オリジナル",
-    "artist": "Little Star",
+    "title": "Little Star",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10362,8 +10362,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--a0ld",
-    "title": "オリジナル",
-    "artist": "リメンバーリメンバー",
+    "title": "リメンバーリメンバー",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10398,8 +10398,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--91kr",
-    "title": "オリジナル",
-    "artist": "凛として咲く花の如く ～ひなビタ♪ edition～",
+    "title": "凛として咲く花の如く ～ひなビタ♪ edition～",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10434,8 +10434,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1el9",
-    "title": "オリジナル",
-    "artist": "le mirage",
+    "title": "le mirage",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10470,8 +10470,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2ckb",
-    "title": "オリジナル",
-    "artist": "Ray",
+    "title": "Ray",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10506,8 +10506,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0zpe",
-    "title": "オリジナル",
-    "artist": "Rainbow after snow",
+    "title": "Rainbow after snow",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10542,8 +10542,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4d9u",
-    "title": "オリジナル",
-    "artist": "RED ZONE",
+    "title": "RED ZONE",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10578,8 +10578,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ivh7",
-    "title": "オリジナル",
-    "artist": "恋愛観測",
+    "title": "恋愛観測",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10614,8 +10614,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--23ak",
-    "title": "オリジナル",
-    "artist": "恋閃繚乱",
+    "title": "恋閃繚乱",
+    "artist": "オリジナル",
     "bpm": 2,
     "genre": "ポップス",
     "difficulties": {
@@ -10686,8 +10686,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--x2a9",
-    "title": "オリジナル",
-    "artist": "robin",
+    "title": "robin",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10722,8 +10722,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hyup",
-    "title": "オリジナル",
-    "artist": "Romancing Layer",
+    "title": "Romancing Layer",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10758,8 +10758,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--op5z",
-    "title": "オリジナル",
-    "artist": "我が麗しのバレンシア",
+    "title": "我が麗しのバレンシア",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10794,8 +10794,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dz5l",
-    "title": "オリジナル",
-    "artist": "朱と碧のランページ",
+    "title": "朱と碧のランページ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10829,8 +10829,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bqpy",
-    "title": "オリジナル",
-    "artist": "athletic meet of sound toy",
+    "title": "athletic meet of sound toy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10864,8 +10864,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dzfm",
-    "title": "ゲーム",
-    "artist": "Ignis Danse",
+    "title": "Ignis Danse",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10934,8 +10934,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--f8a6",
-    "title": "ゲーム",
-    "artist": "VERTeX",
+    "title": "VERTeX",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -10969,8 +10969,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xpu0",
-    "title": "オリジナル",
-    "artist": "EXORCISM",
+    "title": "EXORCISM",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11004,8 +11004,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3wsh",
-    "title": "オリジナル",
-    "artist": "枝に結ぶ願い",
+    "title": "枝に結ぶ願い",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11039,8 +11039,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--goe9",
-    "title": "オリジナル",
-    "artist": "Energy",
+    "title": "Energy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11074,8 +11074,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xosr",
-    "title": "オリジナル",
-    "artist": "encounter",
+    "title": "encounter",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11109,8 +11109,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bgah",
-    "title": "オリジナル",
-    "artist": "aura",
+    "title": "aura",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11144,8 +11144,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--aewa",
-    "title": "オリジナル",
-    "artist": "御千手メディテーション",
+    "title": "御千手メディテーション",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11179,8 +11179,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2goh",
-    "title": "オリジナル",
-    "artist": "乙女繚乱 舞い咲き誇れ",
+    "title": "乙女繚乱 舞い咲き誇れ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11214,8 +11214,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4b7f",
-    "title": "オリジナル",
-    "artist": "温故知新でいこっ!",
+    "title": "温故知新でいこっ!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11249,8 +11249,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lmzc",
-    "title": "オリジナル",
-    "artist": "KHAMEN BREAK",
+    "title": "KHAMEN BREAK",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11284,8 +11284,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fbkd",
-    "title": "ゲーム",
-    "artist": "Garakuta Doll Play",
+    "title": "Garakuta Doll Play",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11319,8 +11319,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wg8j",
-    "title": "ゲーム",
-    "artist": "きたさいたま2000",
+    "title": "きたさいたま2000",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11389,8 +11389,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--00h6",
-    "title": "オリジナル",
-    "artist": "Cleopatrysm",
+    "title": "Cleopatrysm",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11494,8 +11494,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yx6t",
-    "title": "ゲーム",
-    "artist": "Got more raves?",
+    "title": "Got more raves?",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11529,8 +11529,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3sjp",
-    "title": "オリジナル",
-    "artist": "コドモライブ",
+    "title": "コドモライブ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11564,8 +11564,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nnkr",
-    "title": "オリジナル",
-    "artist": "Thank You Merry Christmas",
+    "title": "Thank You Merry Christmas",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11599,8 +11599,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nks6",
-    "title": "オリジナル",
-    "artist": "SHION",
+    "title": "SHION",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11704,8 +11704,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pkvz",
-    "title": "オリジナル",
-    "artist": "STERLING SILVER",
+    "title": "STERLING SILVER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11739,8 +11739,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nj29",
-    "title": "オリジナル",
-    "artist": "Spanish Snowy Dance",
+    "title": "Spanish Snowy Dance",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11774,8 +11774,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mh3b",
-    "title": "オリジナル",
-    "artist": "7 Colors",
+    "title": "7 Colors",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11809,8 +11809,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1ni7",
-    "title": "オリジナル",
-    "artist": "time granular",
+    "title": "time granular",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11844,8 +11844,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--opgc",
-    "title": "オリジナル",
-    "artist": "DANCE ALL NIGHT",
+    "title": "DANCE ALL NIGHT",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11879,8 +11879,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hek6",
-    "title": "オリジナル",
-    "artist": "Timberwolves",
+    "title": "Timberwolves",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11914,8 +11914,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--z75n",
-    "title": "オリジナル",
-    "artist": "10,000,000,000",
+    "title": "10,000,000,000",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11949,8 +11949,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tixz",
-    "title": "オリジナル",
-    "artist": "ドーパミン",
+    "title": "ドーパミン",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -11984,8 +11984,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wzvt",
-    "title": "オリジナル",
-    "artist": "都会征服Girls☆",
+    "title": "都会征服Girls☆",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12019,8 +12019,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--do2v",
-    "title": "オリジナル",
-    "artist": "Nature (jubeat version)",
+    "title": "Nature (jubeat version)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12054,8 +12054,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bm19",
-    "title": "オリジナル",
-    "artist": "猫侍の逆襲",
+    "title": "猫侍の逆襲",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12089,8 +12089,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5tnv",
-    "title": "オリジナル",
-    "artist": "High School Love",
+    "title": "High School Love",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12124,8 +12124,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--co5s",
-    "title": "オリジナル",
-    "artist": "走れメロンパン",
+    "title": "走れメロンパン",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12159,8 +12159,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g5w2",
-    "title": "オリジナル",
-    "artist": "passionate fate",
+    "title": "passionate fate",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12194,8 +12194,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--s1ef",
-    "title": "オリジナル",
-    "artist": "Ha・lle・lu・jah",
+    "title": "Ha・lle・lu・jah",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12229,8 +12229,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2xte",
-    "title": "クラシック",
-    "artist": "ハンガリー舞曲 第5番 (jubeat version)",
+    "title": "ハンガリー舞曲 第5番 (jubeat version)",
+    "artist": "クラシック",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12334,8 +12334,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2f5w",
-    "title": "オリジナル",
-    "artist": "HYDRA",
+    "title": "HYDRA",
+    "artist": "オリジナル",
     "bpm": 96,
     "genre": "ポップス",
     "difficulties": {
@@ -12369,8 +12369,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--64pr",
-    "title": "オリジナル",
-    "artist": "FUNKY SUMMER BEACH",
+    "title": "FUNKY SUMMER BEACH",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12404,8 +12404,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dw2g",
-    "title": "ゲーム",
-    "artist": "FUJIN Rumble",
+    "title": "FUJIN Rumble",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12439,8 +12439,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xwe9",
-    "title": "オリジナル",
-    "artist": "Follow Tomorrow",
+    "title": "Follow Tomorrow",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12474,8 +12474,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ikem",
-    "title": "オリジナル",
-    "artist": "planarian",
+    "title": "planarian",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12509,8 +12509,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nq2f",
-    "title": "オリジナル",
-    "artist": "Blue Goose",
+    "title": "Blue Goose",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12544,8 +12544,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qwkp",
-    "title": "ポップス",
-    "artist": "BLUE DRAGON",
+    "title": "BLUE DRAGON",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12579,8 +12579,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vzxs",
-    "title": "オリジナル",
-    "artist": "フレッフレー♪熱血チアガール",
+    "title": "フレッフレー♪熱血チアガール",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12614,8 +12614,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zaez",
-    "title": "オリジナル",
-    "artist": "ポチコの幸せな日常",
+    "title": "ポチコの幸せな日常",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12649,8 +12649,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--717y",
-    "title": "オリジナル",
-    "artist": "滅びに至るエランプシス",
+    "title": "滅びに至るエランプシス",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12684,8 +12684,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--id2m",
-    "title": "オリジナル",
-    "artist": "まるでマトリョーシカ",
+    "title": "まるでマトリョーシカ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12719,8 +12719,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9ajz",
-    "title": "オリジナル",
-    "artist": "MITOれて！いばらきっしゅだ～りん",
+    "title": "MITOれて！いばらきっしゅだ～りん",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12754,8 +12754,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kdqg",
-    "title": "オリジナル",
-    "artist": "Milchstraße",
+    "title": "Milchstraße",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12789,8 +12789,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ecfp",
-    "title": "オリジナル",
-    "artist": "滅亡天使 † にこきゅっぴん",
+    "title": "滅亡天使 † にこきゅっぴん",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12824,8 +12824,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qo7s",
-    "title": "オリジナル",
-    "artist": "Metric",
+    "title": "Metric",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12859,8 +12859,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ed6r",
-    "title": "オリジナル",
-    "artist": "Mono Logic",
+    "title": "Mono Logic",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12894,8 +12894,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ehyf",
-    "title": "オリジナル",
-    "artist": "unisonote",
+    "title": "unisonote",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12964,8 +12964,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kjdk",
-    "title": "オリジナル",
-    "artist": "LoveLove DokiDoki",
+    "title": "LoveLove DokiDoki",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -12999,8 +12999,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rnmv",
-    "title": "オリジナル",
-    "artist": "Little Flipper",
+    "title": "Little Flipper",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13069,8 +13069,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--l4bp",
-    "title": "オリジナル",
-    "artist": "Resurrection",
+    "title": "Resurrection",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13104,8 +13104,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--s4hi",
-    "title": "オリジナル",
-    "artist": "Ausretious#1-まどろみ、或いは嘆色の夢-",
+    "title": "Ausretious#1-まどろみ、或いは嘆色の夢-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13138,8 +13138,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--v19c",
-    "title": "オリジナル",
-    "artist": "アガット",
+    "title": "アガット",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13240,8 +13240,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fjl5",
-    "title": "東方アレンジ",
-    "artist": "妖隠し -あやかしかくし-",
+    "title": "妖隠し -あやかしかくし-",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13274,8 +13274,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kab2",
-    "title": "オリジナル",
-    "artist": "アレスの楯",
+    "title": "アレスの楯",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13308,8 +13308,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--iq63",
-    "title": "オリジナル",
-    "artist": "In The Breeze",
+    "title": "In The Breeze",
+    "artist": "オリジナル",
     "bpm": 96,
     "genre": "ポップス",
     "difficulties": {
@@ -13342,8 +13342,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fyxh",
-    "title": "オリジナル",
-    "artist": "We're so Happy [ 2 ]",
+    "title": "We're so Happy [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13376,8 +13376,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o8vj",
-    "title": "オリジナル",
-    "artist": "エキサイティング！！も・ちゃ・ちゃ☆",
+    "title": "エキサイティング！！も・ちゃ・ちゃ☆",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13410,8 +13410,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--71pr",
-    "title": "オリジナル",
-    "artist": "EBONY & IVORY",
+    "title": "EBONY & IVORY",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13444,8 +13444,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xb5u",
-    "title": "オリジナル",
-    "artist": "overcomplexification",
+    "title": "overcomplexification",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13512,8 +13512,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nom1",
-    "title": "アニメ",
-    "artist": "かくしん的☆めたまるふぉ～ぜっ！",
+    "title": "かくしん的☆めたまるふぉ～ぜっ！",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13580,8 +13580,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9gfw",
-    "title": "オリジナル",
-    "artist": "完全無欠の無重力ダイブ",
+    "title": "完全無欠の無重力ダイブ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13614,8 +13614,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kw11",
-    "title": "オリジナル",
-    "artist": "キモチコネクト",
+    "title": "キモチコネクト",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13648,8 +13648,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--magn",
-    "title": "オリジナル",
-    "artist": "きらきらタイム☆",
+    "title": "きらきらタイム☆",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13682,8 +13682,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--48im",
-    "title": "オリジナル",
-    "artist": "glacia",
+    "title": "glacia",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13716,8 +13716,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zl8n",
-    "title": "オリジナル",
-    "artist": "glacia [ 2 ]",
+    "title": "glacia [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 6,
     "genre": "ポップス",
     "difficulties": {
@@ -13750,8 +13750,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--74xn",
-    "title": "オリジナル",
-    "artist": "Crack Traxxxx",
+    "title": "Crack Traxxxx",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13784,8 +13784,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lx75",
-    "title": "オリジナル",
-    "artist": "Chloé",
+    "title": "Chloé",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13818,8 +13818,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8pli",
-    "title": "オリジナル",
-    "artist": "croiX",
+    "title": "croiX",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13852,8 +13852,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qcln",
-    "title": "オリジナル",
-    "artist": "激アツ☆マジヤバ☆チアガール",
+    "title": "激アツ☆マジヤバ☆チアガール",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13920,8 +13920,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jj38",
-    "title": "東方アレンジ",
-    "artist": "最終鬼畜妹フランドール・S",
+    "title": "最終鬼畜妹フランドール・S",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13954,8 +13954,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--seoh",
-    "title": "オリジナル",
-    "artist": "Sacrifice for Justice",
+    "title": "Sacrifice for Justice",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -13988,8 +13988,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--uspy",
-    "title": "オリジナル",
-    "artist": "漆黒のスペシャルプリンセスサンデー",
+    "title": "漆黒のスペシャルプリンセスサンデー",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14022,8 +14022,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5ymz",
-    "title": "オリジナル",
-    "artist": "citrus",
+    "title": "citrus",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14056,8 +14056,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--n1qy",
-    "title": "オリジナル",
-    "artist": "Just Believe",
+    "title": "Just Believe",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14158,8 +14158,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--p3i2",
-    "title": "オリジナル",
-    "artist": "水月鏡花のコノテーション",
+    "title": "水月鏡花のコノテーション",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14192,8 +14192,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6g25",
-    "title": "オリジナル",
-    "artist": "SWEET HOME PARTY",
+    "title": "SWEET HOME PARTY",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14226,8 +14226,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vmth",
-    "title": "東方アレンジ",
-    "artist": "Scarlet Moon",
+    "title": "Scarlet Moon",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14260,8 +14260,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e3u3",
-    "title": "オリジナル",
-    "artist": "ススススペースハリネズミ",
+    "title": "ススススペースハリネズミ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14328,8 +14328,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--cw8s",
-    "title": "東方アレンジ",
-    "artist": "Struggle",
+    "title": "Struggle",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14362,8 +14362,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--88k5",
-    "title": "オリジナル",
-    "artist": "Slluuddggee",
+    "title": "Slluuddggee",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14396,8 +14396,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--258k",
-    "title": "オリジナル",
-    "artist": "3 A.M. ディテクティブ・ゲーム",
+    "title": "3 A.M. ディテクティブ・ゲーム",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14430,8 +14430,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--p0wf",
-    "title": "東方アレンジ",
-    "artist": "千年ノ理",
+    "title": "千年ノ理",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14464,8 +14464,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--s1rg",
-    "title": "東方アレンジ",
-    "artist": "竹取飛翔 ～ Lunatic Princess (Ryu☆Remix)",
+    "title": "竹取飛翔 ～ Lunatic Princess (Ryu☆Remix)",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14498,8 +14498,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ss8x",
-    "title": "オリジナル",
-    "artist": "地方創生☆チクワクティクス",
+    "title": "地方創生☆チクワクティクス",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14532,8 +14532,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fjf5",
-    "title": "オリジナル",
-    "artist": "超越してしまった彼女と其を生み落した理由",
+    "title": "超越してしまった彼女と其を生み落した理由",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14566,8 +14566,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--a8tm",
-    "title": "オリジナル",
-    "artist": "チョコレートスマイル",
+    "title": "チョコレートスマイル",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14600,8 +14600,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4egv",
-    "title": "東方アレンジ",
-    "artist": "チルノのパーフェクトさんすう教室",
+    "title": "チルノのパーフェクトさんすう教室",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14634,8 +14634,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--i6jx",
-    "title": "オリジナル",
-    "artist": "ツーマンライブ",
+    "title": "ツーマンライブ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14668,8 +14668,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xfdc",
-    "title": "オリジナル",
-    "artist": "Diargosの森",
+    "title": "Diargosの森",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14702,8 +14702,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--c65k",
-    "title": "オリジナル",
-    "artist": "天空の華",
+    "title": "天空の華",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14736,8 +14736,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ytlf",
-    "title": "オリジナル",
-    "artist": "twinkle noise",
+    "title": "twinkle noise",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14770,8 +14770,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5mbp",
-    "title": "オリジナル",
-    "artist": "TWINKLING",
+    "title": "TWINKLING",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14804,8 +14804,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--v8l8",
-    "title": "オリジナル",
-    "artist": "Two Pianists",
+    "title": "Two Pianists",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14838,8 +14838,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4zqz",
-    "title": "オリジナル",
-    "artist": "Too Late Snow",
+    "title": "Too Late Snow",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14872,8 +14872,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4cke",
-    "title": "オリジナル",
-    "artist": "Too Late Snow [ 2 ]",
+    "title": "Too Late Snow [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 4,
     "genre": "ポップス",
     "difficulties": {
@@ -14906,8 +14906,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hdrq",
-    "title": "オリジナル",
-    "artist": "とびっきりのふわっふわ",
+    "title": "とびっきりのふわっふわ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14940,8 +14940,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--45yy",
-    "title": "オリジナル",
-    "artist": "トリカゴノ鳳凰 [ 2 ]",
+    "title": "トリカゴノ鳳凰 [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -14974,8 +14974,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kbo6",
-    "title": "東方アレンジ",
-    "artist": "取り残された美術(Arranged:HiZuMi)",
+    "title": "取り残された美術(Arranged:HiZuMi)",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15008,8 +15008,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qiia",
-    "title": "オリジナル",
-    "artist": "Towards the TOWER",
+    "title": "Towards the TOWER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15042,8 +15042,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vg12",
-    "title": "東方アレンジ",
-    "artist": "ナイト・オブ・ナイツ",
+    "title": "ナイト・オブ・ナイツ",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15076,8 +15076,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ei30",
-    "title": "オリジナル",
-    "artist": "†渚の小悪魔ラヴリィ～レイディオ† [ 2 ]",
+    "title": "†渚の小悪魔ラヴリィ～レイディオ† [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15110,8 +15110,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--oia1",
-    "title": "オリジナル",
-    "artist": "夏色DIARY 俺のjubeat編",
+    "title": "夏色DIARY 俺のjubeat編",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15144,8 +15144,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tl7c",
-    "title": "オリジナル",
-    "artist": "日天悦扇紊舞",
+    "title": "日天悦扇紊舞",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15178,8 +15178,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--155t",
-    "title": "オリジナル",
-    "artist": "Niflheimr",
+    "title": "Niflheimr",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15212,8 +15212,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9kuf",
-    "title": "東方アレンジ",
-    "artist": "NEON WORLD",
+    "title": "NEON WORLD",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15246,8 +15246,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lpto",
-    "title": "オリジナル",
-    "artist": "neko*neko",
+    "title": "neko*neko",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15280,8 +15280,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zjaj",
-    "title": "オリジナル",
-    "artist": "走れメロンパン [ 2 ]",
+    "title": "走れメロンパン [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15314,8 +15314,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e1k7",
-    "title": "東方アレンジ",
-    "artist": "Bad Apple!! feat. nomico",
+    "title": "Bad Apple!! feat. nomico",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15348,8 +15348,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yxd8",
-    "title": "アニメ",
-    "artist": "はなまるぴっぴはよいこだけ",
+    "title": "はなまるぴっぴはよいこだけ",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15382,8 +15382,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ls2t",
-    "title": "オリジナル",
-    "artist": "パ→ピ→プ→Yeah!",
+    "title": "パ→ピ→プ→Yeah!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15416,8 +15416,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--a0gi",
-    "title": "東方アレンジ",
-    "artist": "BEAT-NEW-WORLD",
+    "title": "BEAT-NEW-WORLD",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15450,8 +15450,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xpns",
-    "title": "オリジナル",
-    "artist": "ビビットストリーム",
+    "title": "ビビットストリーム",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15484,8 +15484,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o8o2",
-    "title": "オリジナル",
-    "artist": "フラッター現象の顛末と単一指向性の感情論",
+    "title": "フラッター現象の顛末と単一指向性の感情論",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15552,8 +15552,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4pq4",
-    "title": "オリジナル",
-    "artist": "freaky freak",
+    "title": "freaky freak",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15586,8 +15586,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4iam",
-    "title": "オリジナル",
-    "artist": "Braid & Blade",
+    "title": "Braid & Blade",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15620,8 +15620,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--add4",
-    "title": "東方アレンジ",
-    "artist": "プレインエイジア -PHQ remix-",
+    "title": "プレインエイジア -PHQ remix-",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15654,8 +15654,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o6ve",
-    "title": "オリジナル",
-    "artist": "prop the world",
+    "title": "prop the world",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15688,8 +15688,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--n7oh",
-    "title": "東方アレンジ",
-    "artist": "ほおずき程度には赤い頭髪",
+    "title": "ほおずき程度には赤い頭髪",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15722,8 +15722,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sey6",
-    "title": "オリジナル",
-    "artist": "ぽかぽかレトロード",
+    "title": "ぽかぽかレトロード",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15756,8 +15756,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hf1d",
-    "title": "オリジナル",
-    "artist": "炎のDiargos",
+    "title": "炎のDiargos",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15790,8 +15790,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7kn7",
-    "title": "東方アレンジ",
-    "artist": "ホメ猫☆センセーション",
+    "title": "ホメ猫☆センセーション",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15824,8 +15824,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yw3w",
-    "title": "オリジナル",
-    "artist": "MAGICAL SUMMER SMILE",
+    "title": "MAGICAL SUMMER SMILE",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15892,8 +15892,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kizm",
-    "title": "東方アレンジ",
-    "artist": "魔理沙は大変なものを盗んでいきました",
+    "title": "魔理沙は大変なものを盗んでいきました",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15926,8 +15926,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3lrk",
-    "title": "オリジナル",
-    "artist": "ミライプリズム(collaboration ver.)",
+    "title": "ミライプリズム(collaboration ver.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15960,8 +15960,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vv2h",
-    "title": "オリジナル",
-    "artist": "雪女",
+    "title": "雪女",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -15994,8 +15994,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4hpq",
-    "title": "オリジナル",
-    "artist": "Love ♡ km [ 2 ]",
+    "title": "Love ♡ km [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16028,8 +16028,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9jcw",
-    "title": "オリジナル",
-    "artist": "Lovesick Lovetune",
+    "title": "Lovesick Lovetune",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16062,8 +16062,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--49wz",
-    "title": "オリジナル",
-    "artist": "龍と少女とデコヒーレンス",
+    "title": "龍と少女とデコヒーレンス",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16096,8 +16096,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--44ku",
-    "title": "オリジナル",
-    "artist": "霖が哭く",
+    "title": "霖が哭く",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16130,8 +16130,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2pgi",
-    "title": "東方アレンジ",
-    "artist": "Russian Caravan Rhapsody",
+    "title": "Russian Caravan Rhapsody",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16164,8 +16164,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0b7u",
-    "title": "オリジナル",
-    "artist": "Rock The Club",
+    "title": "Rock The Club",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16198,8 +16198,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lsm9",
-    "title": "オリジナル",
-    "artist": "robin [ 2 ]",
+    "title": "robin [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16232,8 +16232,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bbh0",
-    "title": "オリジナル",
-    "artist": "惑星☆ロリポップ",
+    "title": "惑星☆ロリポップ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16266,8 +16266,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0jgq",
-    "title": "オリジナル",
-    "artist": "Ark",
+    "title": "Ark",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16295,8 +16295,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8wdb",
-    "title": "オリジナル",
-    "artist": "aleatrik",
+    "title": "aleatrik",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16324,8 +16324,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ndgl",
-    "title": "オリジナル",
-    "artist": "アキネイション",
+    "title": "アキネイション",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16353,8 +16353,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4qo0",
-    "title": "オリジナル",
-    "artist": "Against the vulgar aggressor",
+    "title": "Against the vulgar aggressor",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16382,8 +16382,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--prt4",
-    "title": "オリジナル",
-    "artist": "Invisible Border",
+    "title": "Invisible Border",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16411,8 +16411,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ax6n",
-    "title": "オリジナル",
-    "artist": "veRtrageS",
+    "title": "veRtrageS",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16440,8 +16440,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--eibs",
-    "title": "オリジナル",
-    "artist": "Valanga",
+    "title": "Valanga",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16498,8 +16498,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nnl2",
-    "title": "オリジナル",
-    "artist": "Windy Fairy [ 2 ]",
+    "title": "Windy Fairy [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16527,8 +16527,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--86ub",
-    "title": "オリジナル",
-    "artist": "ULTRA HAPPY MEGAMIX",
+    "title": "ULTRA HAPPY MEGAMIX",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16556,8 +16556,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gron",
-    "title": "オリジナル",
-    "artist": "UROBOROS OVERDIVE",
+    "title": "UROBOROS OVERDIVE",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16585,8 +16585,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ecfu",
-    "title": "クラシック",
-    "artist": "運命",
+    "title": "運命",
+    "artist": "クラシック",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16643,8 +16643,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--peaa",
-    "title": "オリジナル",
-    "artist": "枝に結ぶ願い [ 2 ]",
+    "title": "枝に結ぶ願い [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16672,8 +16672,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e9p8",
-    "title": "オリジナル",
-    "artist": "Angelic Jelly",
+    "title": "Angelic Jelly",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16701,8 +16701,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--a7kh",
-    "title": "オリジナル",
-    "artist": "Entrapment",
+    "title": "Entrapment",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16730,8 +16730,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lcd5",
-    "title": "東方アレンジ",
-    "artist": "Endless, Sleepless Night",
+    "title": "Endless, Sleepless Night",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16759,8 +16759,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6oer",
-    "title": "東方アレンジ",
-    "artist": "お嫁にしなさいっ！",
+    "title": "お嫁にしなさいっ！",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16788,8 +16788,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6eby",
-    "title": "オリジナル",
-    "artist": "CARNIVOROUS",
+    "title": "CARNIVOROUS",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16817,8 +16817,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--we9k",
-    "title": "オリジナル",
-    "artist": "KHAMEN BREAK -SDVX Infinity MashUp-",
+    "title": "KHAMEN BREAK -SDVX Infinity MashUp-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16846,8 +16846,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4f5s",
-    "title": "オリジナル",
-    "artist": "怪盗BisCoの予告状！！",
+    "title": "怪盗BisCoの予告状！！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16875,8 +16875,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fi6g",
-    "title": "オリジナル",
-    "artist": "KAMAITACHI",
+    "title": "KAMAITACHI",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16904,8 +16904,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7zdl",
-    "title": "東方アレンジ",
-    "artist": "眼光",
+    "title": "眼光",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16933,8 +16933,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4hr3",
-    "title": "ゲーム",
-    "artist": "がんばれゴエモン ～ ビーストメドレー ～",
+    "title": "がんばれゴエモン ～ ビーストメドレー ～",
+    "artist": "ゲーム",
     "bpm": 96,
     "genre": "ポップス",
     "difficulties": {
@@ -16962,8 +16962,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kk67",
-    "title": "オリジナル",
-    "artist": "キミヱゴサーチ",
+    "title": "キミヱゴサーチ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -16991,8 +16991,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--48eg",
-    "title": "オリジナル",
-    "artist": "キミとワタシのオンガク",
+    "title": "キミとワタシのオンガク",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17020,8 +17020,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--99zt",
-    "title": "オリジナル",
-    "artist": "Qubellic Prism",
+    "title": "Qubellic Prism",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17049,8 +17049,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pi5u",
-    "title": "オリジナル",
-    "artist": "きゅん×きゅんばっきゅん☆LOVE",
+    "title": "きゅん×きゅんばっきゅん☆LOVE",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17078,8 +17078,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--k2pc",
-    "title": "東方アレンジ",
-    "artist": "響縁",
+    "title": "響縁",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17107,8 +17107,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pth4",
-    "title": "オリジナル",
-    "artist": "Good bye, Summer～さよならは言わない～",
+    "title": "Good bye, Summer～さよならは言わない～",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17136,8 +17136,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kr5w",
-    "title": "ゲーム",
-    "artist": "GRADIUS II ～ ビーストメドレー ～",
+    "title": "GRADIUS II ～ ビーストメドレー ～",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17165,8 +17165,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6bv6",
-    "title": "オリジナル",
-    "artist": "倉野川音頭",
+    "title": "倉野川音頭",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17194,8 +17194,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--034e",
-    "title": "オリジナル",
-    "artist": "Grand Chariot",
+    "title": "Grand Chariot",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17223,8 +17223,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gxjx",
-    "title": "オリジナル",
-    "artist": "Glitter Flatter Scatter",
+    "title": "Glitter Flatter Scatter",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17252,8 +17252,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--k6at",
-    "title": "オリジナル",
-    "artist": "crêpe suzette",
+    "title": "crêpe suzette",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17281,8 +17281,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tl7e",
-    "title": "オリジナル",
-    "artist": "黒髪乱れし修羅となりて～凛edition～",
+    "title": "黒髪乱れし修羅となりて～凛edition～",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17310,8 +17310,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--20br",
-    "title": "オリジナル",
-    "artist": "檄",
+    "title": "檄",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17339,8 +17339,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hp7o",
-    "title": "ゲーム",
-    "artist": "月風魔伝 ～ ビーストメドレー ～",
+    "title": "月風魔伝 ～ ビーストメドレー ～",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17368,8 +17368,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--573a",
-    "title": "東方アレンジ",
-    "artist": "厳冬記",
+    "title": "厳冬記",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17397,8 +17397,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qhhc",
-    "title": "オリジナル",
-    "artist": "ケンぱ！ケンぱ！拳拳ぱん打！",
+    "title": "ケンぱ！ケンぱ！拳拳ぱん打！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17426,8 +17426,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--olhe",
-    "title": "オリジナル",
-    "artist": "Cosminflation",
+    "title": "Cosminflation",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17455,8 +17455,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ev9c",
-    "title": "オリジナル",
-    "artist": "琥珀のくちづけ",
+    "title": "琥珀のくちづけ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17484,8 +17484,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kl65",
-    "title": "オリジナル",
-    "artist": "今夜はパジャマパーティ",
+    "title": "今夜はパジャマパーティ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17513,8 +17513,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--abz1",
-    "title": "オリジナル",
-    "artist": "CIRCUS U CRIC",
+    "title": "CIRCUS U CRIC",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17542,8 +17542,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hhzq",
-    "title": "東方アレンジ",
-    "artist": "Silent Story",
+    "title": "Silent Story",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17571,8 +17571,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yo6u",
-    "title": "オリジナル",
-    "artist": "Saturday Night Love",
+    "title": "Saturday Night Love",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17600,8 +17600,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qd76",
-    "title": "オリジナル",
-    "artist": "The Omen",
+    "title": "The Omen",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17629,8 +17629,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bb8q",
-    "title": "オリジナル",
-    "artist": "じもとっこスイーツ♪",
+    "title": "じもとっこスイーツ♪",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17658,8 +17658,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qvsn",
-    "title": "オリジナル",
-    "artist": "Giant Otter Family",
+    "title": "Giant Otter Family",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17687,8 +17687,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6op2",
-    "title": "オリジナル",
-    "artist": "Just a Game",
+    "title": "Just a Game",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17716,8 +17716,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--f96z",
-    "title": "東方アレンジ",
-    "artist": "JACK THE RIPPER feat. Iceon",
+    "title": "JACK THE RIPPER feat. Iceon",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17745,8 +17745,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kiqp",
-    "title": "オリジナル",
-    "artist": "スカイダイバー",
+    "title": "スカイダイバー",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17774,8 +17774,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--aw7t",
-    "title": "オリジナル",
-    "artist": "Sky High",
+    "title": "Sky High",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17803,8 +17803,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--boy6",
-    "title": "東方アレンジ",
-    "artist": "Scream out!",
+    "title": "Scream out!",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17832,8 +17832,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--h72v",
-    "title": "東方アレンジ",
-    "artist": "Struggle [ 2 ]",
+    "title": "Struggle [ 2 ]",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17861,8 +17861,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gp5a",
-    "title": "オリジナル",
-    "artist": "StrayedCatz",
+    "title": "StrayedCatz",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17890,8 +17890,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7yja",
-    "title": "オリジナル",
-    "artist": "SPACE VILLAGE",
+    "title": "SPACE VILLAGE",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17919,8 +17919,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o8kt",
-    "title": "オリジナル",
-    "artist": "ZEPHYRANTHES",
+    "title": "ZEPHYRANTHES",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17948,8 +17948,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nos0",
-    "title": "オリジナル",
-    "artist": "Sephirot",
+    "title": "Sephirot",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -17977,8 +17977,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--30em",
-    "title": "オリジナル",
-    "artist": "そこはかとなくロマンセ",
+    "title": "そこはかとなくロマンセ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18006,8 +18006,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7j4g",
-    "title": "東方アレンジ",
-    "artist": "蒼空に舞え、墨染の桜",
+    "title": "蒼空に舞え、墨染の桜",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18035,8 +18035,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4p4s",
-    "title": "オリジナル",
-    "artist": "それは花火のような恋",
+    "title": "それは花火のような恋",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18064,8 +18064,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q0bq",
-    "title": "オリジナル",
-    "artist": "Daisuke",
+    "title": "Daisuke",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18093,8 +18093,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--czw5",
-    "title": "オリジナル",
-    "artist": "旅の終わりと祝祭の夜",
+    "title": "旅の終わりと祝祭の夜",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18122,8 +18122,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dp4z",
-    "title": "オリジナル",
-    "artist": "CHERNOBOG",
+    "title": "CHERNOBOG",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18151,8 +18151,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3m93",
-    "title": "ゲーム",
-    "artist": "Twinbee's Home Town Song",
+    "title": "Twinbee's Home Town Song",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18180,8 +18180,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--h2br",
-    "title": "東方アレンジ",
-    "artist": "月に叢雲華に風",
+    "title": "月に叢雲華に風",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18209,8 +18209,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--p38h",
-    "title": "ポップス",
-    "artist": "Ding Dong Bell",
+    "title": "Ding Dong Bell",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18238,8 +18238,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4tib",
-    "title": "東方アレンジ",
-    "artist": "DesireDrive",
+    "title": "DesireDrive",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18267,8 +18267,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9nha",
-    "title": "オリジナル",
-    "artist": "Destiny lovers",
+    "title": "Destiny lovers",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18296,8 +18296,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9cl3",
-    "title": "オリジナル",
-    "artist": "天嘩乱舞",
+    "title": "天嘩乱舞",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18354,8 +18354,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--t86q",
-    "title": "オリジナル",
-    "artist": "トキメキストリーム",
+    "title": "トキメキストリーム",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18383,8 +18383,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9br0",
-    "title": "オリジナル",
-    "artist": "Triple Counter",
+    "title": "Triple Counter",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18412,8 +18412,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qt83",
-    "title": "オリジナル",
-    "artist": "NISHIMURA -祭- CARNIVAL",
+    "title": "NISHIMURA -祭- CARNIVAL",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18441,8 +18441,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fsvg",
-    "title": "オリジナル",
-    "artist": "にゃんのパレードマーチ♪",
+    "title": "にゃんのパレードマーチ♪",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18470,8 +18470,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--j8ki",
-    "title": "オリジナル",
-    "artist": "New York EVOLVED",
+    "title": "New York EVOLVED",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18499,8 +18499,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ojna",
-    "title": "オリジナル",
-    "artist": "Knell",
+    "title": "Knell",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18528,8 +18528,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--udj0",
-    "title": "オリジナル",
-    "artist": "nostos",
+    "title": "nostos",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18557,8 +18557,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--he6b",
-    "title": "オリジナル",
-    "artist": "爆なな☆てすとロイヤー",
+    "title": "爆なな☆てすとロイヤー",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18615,8 +18615,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--96e0",
-    "title": "オリジナル",
-    "artist": "Hunny Bunny",
+    "title": "Hunny Bunny",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18644,8 +18644,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--b5po",
-    "title": "オリジナル",
-    "artist": "バビロニア",
+    "title": "バビロニア",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18673,8 +18673,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qpm2",
-    "title": "オリジナル",
-    "artist": "バビロニアの旅人たち",
+    "title": "バビロニアの旅人たち",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18731,8 +18731,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--v6ix",
-    "title": "オリジナル",
-    "artist": "Hollywood Galaxy",
+    "title": "Hollywood Galaxy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18760,8 +18760,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--b01f",
-    "title": "東方アレンジ",
-    "artist": "反撃",
+    "title": "反撃",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18789,8 +18789,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4k87",
-    "title": "オリジナル",
-    "artist": "ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～",
+    "title": "ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18847,8 +18847,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rsgu",
-    "title": "オリジナル",
-    "artist": "びいすと！",
+    "title": "びいすと！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18876,8 +18876,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--07j1",
-    "title": "オリジナル",
-    "artist": "秘密がーる♡乙女",
+    "title": "秘密がーる♡乙女",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18905,8 +18905,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5huy",
-    "title": "オリジナル",
-    "artist": "Four Leaves",
+    "title": "Four Leaves",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18934,8 +18934,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5miv",
-    "title": "オリジナル",
-    "artist": "不可説不可説転",
+    "title": "不可説不可説転",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18963,8 +18963,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5iib",
-    "title": "オリジナル",
-    "artist": "FUJIMORI -祭- FESTIVAL",
+    "title": "FUJIMORI -祭- FESTIVAL",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -18992,8 +18992,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wf1q",
-    "title": "オリジナル",
-    "artist": "BLACK or WHITE?",
+    "title": "BLACK or WHITE?",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19021,8 +19021,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--j64m",
-    "title": "オリジナル",
-    "artist": "Bleep Beep Bop",
+    "title": "Bleep Beep Bop",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19050,8 +19050,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zvxk",
-    "title": "オリジナル",
-    "artist": "FLOOR INFECTION Medley from SOUND VOLTEX×jubeat",
+    "title": "FLOOR INFECTION Medley from SOUND VOLTEX×jubeat",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19079,8 +19079,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6d1g",
-    "title": "オリジナル",
-    "artist": "Phlox",
+    "title": "Phlox",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19108,8 +19108,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dl0h",
-    "title": "オリジナル",
-    "artist": "変じゃない!!",
+    "title": "変じゃない!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19195,8 +19195,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rdvf",
-    "title": "オリジナル",
-    "artist": "星宿る空の下で",
+    "title": "星宿る空の下で",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19224,8 +19224,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8gcn",
-    "title": "オリジナル",
-    "artist": "Boss Rush",
+    "title": "Boss Rush",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19253,8 +19253,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--seac",
-    "title": "オリジナル",
-    "artist": "ポメグラネイト",
+    "title": "ポメグラネイト",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19282,8 +19282,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pdxa",
-    "title": "オリジナル",
-    "artist": "POLICY BREAK Medley from SOUND VOLTEX×jubeat",
+    "title": "POLICY BREAK Medley from SOUND VOLTEX×jubeat",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19311,8 +19311,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1lr3",
-    "title": "オリジナル",
-    "artist": "Bonjour, The World!!",
+    "title": "Bonjour, The World!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19369,8 +19369,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yb1b",
-    "title": "オリジナル",
-    "artist": "見習い天使と星降りの丘",
+    "title": "見習い天使と星降りの丘",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19398,8 +19398,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zz55",
-    "title": "オリジナル",
-    "artist": "Mirage of the Mirror",
+    "title": "Mirage of the Mirror",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19427,8 +19427,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--j4tk",
-    "title": "オリジナル",
-    "artist": "ミライプリズム",
+    "title": "ミライプリズム",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19456,8 +19456,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wtza",
-    "title": "オリジナル",
-    "artist": "蟲の棲む処",
+    "title": "蟲の棲む処",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19485,8 +19485,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3e9h",
-    "title": "オリジナル",
-    "artist": "夢有",
+    "title": "夢有",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19514,8 +19514,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0s23",
-    "title": "オリジナル",
-    "artist": "Megalara Garuda",
+    "title": "Megalara Garuda",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19543,8 +19543,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--j4zl",
-    "title": "オリジナル",
-    "artist": "RHYZING BEAT",
+    "title": "RHYZING BEAT",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19572,8 +19572,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nbzk",
-    "title": "東方アレンジ",
-    "artist": "Runway Drive",
+    "title": "Runway Drive",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19601,8 +19601,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ifi7",
-    "title": "オリジナル",
-    "artist": "六花にくちづけ",
+    "title": "六花にくちづけ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19659,8 +19659,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--e6vg",
-    "title": "オリジナル",
-    "artist": "Lost Wing at.0",
+    "title": "Lost Wing at.0",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19688,8 +19688,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mwwu",
-    "title": "オリジナル",
-    "artist": "ロプノールの商隊",
+    "title": "ロプノールの商隊",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19717,8 +19717,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--s28i",
-    "title": "オリジナル",
-    "artist": "ロンロンへ ライライライ！",
+    "title": "ロンロンへ ライライライ！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19746,8 +19746,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mzq7",
-    "title": "オリジナル",
-    "artist": "分けるな危険！モモモモモモーイズム",
+    "title": "分けるな危険！モモモモモモーイズム",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19775,8 +19775,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ejdr",
-    "title": "オリジナル",
-    "artist": "Ausretious#1-まどろみ、或いは嘆色の夢- [ 2 ]",
+    "title": "Ausretious#1-まどろみ、或いは嘆色の夢- [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19807,8 +19807,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g9vy",
-    "title": "オリジナル",
-    "artist": "アガット [ 2 ]*4",
+    "title": "アガット [ 2 ]*4",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19839,8 +19839,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--odwa",
-    "title": "オリジナル",
-    "artist": "アドレナリン",
+    "title": "アドレナリン",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19871,8 +19871,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--u5rq",
-    "title": "オリジナル",
-    "artist": "Another Phase",
+    "title": "Another Phase",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19903,8 +19903,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--13nk",
-    "title": "オリジナル",
-    "artist": "Alive in my Soul",
+    "title": "Alive in my Soul",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19935,8 +19935,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--w5os",
-    "title": "オリジナル",
-    "artist": "EXUSIA",
+    "title": "EXUSIA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -19967,8 +19967,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--uspz",
-    "title": "オリジナル",
-    "artist": "イ号零型 [ 2 ]",
+    "title": "イ号零型 [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20031,8 +20031,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--85pp",
-    "title": "オリジナル",
-    "artist": "If",
+    "title": "If",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20063,8 +20063,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bred",
-    "title": "オリジナル",
-    "artist": "In The Ruins",
+    "title": "In The Ruins",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20095,8 +20095,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--70pc",
-    "title": "オリジナル",
-    "artist": "Welcome!!",
+    "title": "Welcome!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20127,8 +20127,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--l0ou",
-    "title": "オリジナル",
-    "artist": "Aerial Skydive",
+    "title": "Aerial Skydive",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20159,8 +20159,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--w88l",
-    "title": "オリジナル",
-    "artist": "Everybody's Rich",
+    "title": "Everybody's Rich",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20191,8 +20191,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pcfx",
-    "title": "オリジナル",
-    "artist": "AI",
+    "title": "AI",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20223,8 +20223,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4w8x",
-    "title": "オリジナル",
-    "artist": "Evans ～NOSTALGIA Ver. ～",
+    "title": "Evans ～NOSTALGIA Ver. ～",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20255,8 +20255,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hclz",
-    "title": "オリジナル",
-    "artist": "エレシュキガル",
+    "title": "エレシュキガル",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20319,8 +20319,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jg73",
-    "title": "オリジナル",
-    "artist": "カラルの月 [ 2 ]",
+    "title": "カラルの月 [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20351,8 +20351,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jzu9",
-    "title": "オリジナル",
-    "artist": "変わりゆく時間とノスタルジアと",
+    "title": "変わりゆく時間とノスタルジアと",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20383,8 +20383,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--h8mf",
-    "title": "ポップス",
-    "artist": "CandyPop★Showcase",
+    "title": "CandyPop★Showcase",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20415,8 +20415,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--oiet",
-    "title": "オリジナル",
-    "artist": "狂髪天を撫でて綴れ雲の綻び 五体北風に散りて痕も無し",
+    "title": "狂髪天を撫でて綴れ雲の綻び 五体北風に散りて痕も無し",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20447,8 +20447,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--n76a",
-    "title": "オリジナル",
-    "artist": "キリステゴメン",
+    "title": "キリステゴメン",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20479,8 +20479,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6xhj",
-    "title": "オリジナル",
-    "artist": "Couleur=Blanche",
+    "title": "Couleur=Blanche",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20511,8 +20511,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0ox4",
-    "title": "東方アレンジ",
-    "artist": "Claidheamh Soluis-光の剣- feat.はるの",
+    "title": "Claidheamh Soluis-光の剣- feat.はるの",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20543,8 +20543,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ki4l",
-    "title": "アニメ",
-    "artist": "君氏危うくも近うよれ",
+    "title": "君氏危うくも近うよれ",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20575,8 +20575,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--n9g9",
-    "title": "オリジナル",
-    "artist": "けもののおうじゃ★めうめう*5",
+    "title": "けもののおうじゃ★めうめう*5",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20607,8 +20607,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qdcl",
-    "title": "東方アレンジ",
-    "artist": "現世の彼方",
+    "title": "現世の彼方",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20639,8 +20639,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1dnv",
-    "title": "ゲーム",
-    "artist": "恋時雨",
+    "title": "恋時雨",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20671,8 +20671,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--k3iq",
-    "title": "ゲーム",
-    "artist": "恋のパズルマジック",
+    "title": "恋のパズルマジック",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20703,8 +20703,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5o5v",
-    "title": "オリジナル",
-    "artist": "Xibercannon",
+    "title": "Xibercannon",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20735,8 +20735,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--d7fr",
-    "title": "オリジナル",
-    "artist": "飽和世界",
+    "title": "飽和世界",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20767,8 +20767,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zul5",
-    "title": "オリジナル",
-    "artist": "Sulk",
+    "title": "Sulk",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20799,8 +20799,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--680o",
-    "title": "オリジナル",
-    "artist": "SEED [ 2 ]",
+    "title": "SEED [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20831,8 +20831,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pbaf",
-    "title": "オリジナル",
-    "artist": "シノビシノノメ",
+    "title": "シノビシノノメ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20863,8 +20863,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ey4n",
-    "title": "オリジナル",
-    "artist": "Shout!!",
+    "title": "Shout!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20895,8 +20895,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--elga",
-    "title": "ゲーム",
-    "artist": "しゃかりきリレーション",
+    "title": "しゃかりきリレーション",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20927,8 +20927,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--48wh",
-    "title": "オリジナル",
-    "artist": "Jazz is Rad",
+    "title": "Jazz is Rad",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -20991,8 +20991,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--42gr",
-    "title": "オリジナル",
-    "artist": "銃弾は解を撃ち抜いて",
+    "title": "銃弾は解を撃ち抜いて",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21055,8 +21055,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nkm4",
-    "title": "オリジナル",
-    "artist": "Singularity",
+    "title": "Singularity",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21087,8 +21087,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--56dv",
-    "title": "オリジナル",
-    "artist": "水槽のクジラ",
+    "title": "水槽のクジラ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21119,8 +21119,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3yww",
-    "title": "オリジナル",
-    "artist": "SUPER SUMMER SALE",
+    "title": "SUPER SUMMER SALE",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21183,8 +21183,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lbw4",
-    "title": "オリジナル",
-    "artist": "STAR SHIP☆HERO",
+    "title": "STAR SHIP☆HERO",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21215,8 +21215,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8n9j",
-    "title": "ゲーム",
-    "artist": "Strawberry Chu♡Chu♡",
+    "title": "Strawberry Chu♡Chu♡",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21247,8 +21247,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3wz8",
-    "title": "オリジナル",
-    "artist": "Spirit of the Beast",
+    "title": "Spirit of the Beast",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21279,8 +21279,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--w682",
-    "title": "東方アレンジ",
-    "artist": "Spring Rouge",
+    "title": "Spring Rouge",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21311,8 +21311,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9mhm",
-    "title": "オリジナル",
-    "artist": "smooooch・∀・ [ 2 ]",
+    "title": "smooooch・∀・ [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21343,8 +21343,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--p4zc",
-    "title": "オリジナル",
-    "artist": "星座が恋した瞬間を。",
+    "title": "星座が恋した瞬間を。",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21407,8 +21407,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xzf0",
-    "title": "オリジナル",
-    "artist": "Diastrophism",
+    "title": "Diastrophism",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21439,8 +21439,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--l8a9",
-    "title": "オリジナル",
-    "artist": "たからもの",
+    "title": "たからもの",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21471,8 +21471,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--oyw1",
-    "title": "ゲーム",
-    "artist": "闘え! ダダンダーン V",
+    "title": "闘え! ダダンダーン V",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21535,8 +21535,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ltpn",
-    "title": "オリジナル",
-    "artist": "chaplet [ 2 ]",
+    "title": "chaplet [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21567,8 +21567,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q1f2",
-    "title": "東方アレンジ",
-    "artist": "超人ひじりのエアマッソー",
+    "title": "超人ひじりのエアマッソー",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21599,8 +21599,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--t5cb",
-    "title": "オリジナル",
-    "artist": "Chocolate Planet",
+    "title": "Chocolate Planet",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21631,8 +21631,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--b2z5",
-    "title": "東方アレンジ",
-    "artist": "月に叢雲華に風 [ 2 ]",
+    "title": "月に叢雲華に風 [ 2 ]",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21663,8 +21663,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dsw3",
-    "title": "オリジナル",
-    "artist": "トキメキメカニクス",
+    "title": "トキメキメカニクス",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21695,8 +21695,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fbfh",
-    "title": "ゲーム",
-    "artist": "DREAMING-ING!!",
+    "title": "DREAMING-ING!!",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21727,8 +21727,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--drew",
-    "title": "オリジナル",
-    "artist": "Drizzly Venom",
+    "title": "Drizzly Venom",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21759,8 +21759,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2ie3",
-    "title": "東方アレンジ",
-    "artist": "Don't Break Me Down",
+    "title": "Don't Break Me Down",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21791,8 +21791,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zx0l",
-    "title": "オリジナル",
-    "artist": "ナイト・オブ・ロンド",
+    "title": "ナイト・オブ・ロンド",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21823,8 +21823,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kg8k",
-    "title": "オリジナル",
-    "artist": "虹の先に何があるか",
+    "title": "虹の先に何があるか",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21855,8 +21855,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ofgj",
-    "title": "オリジナル",
-    "artist": "Necroxis Girl",
+    "title": "Necroxis Girl",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21887,8 +21887,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7bpa",
-    "title": "オリジナル",
-    "artist": "Never See You Again",
+    "title": "Never See You Again",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21919,8 +21919,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rawf",
-    "title": "オリジナル",
-    "artist": "Northern Wind",
+    "title": "Northern Wind",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21951,8 +21951,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--y1k8",
-    "title": "オリジナル",
-    "artist": "No One Can Reach The Truth",
+    "title": "No One Can Reach The Truth",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -21983,8 +21983,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--av25",
-    "title": "オリジナル",
-    "artist": "birth",
+    "title": "birth",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22015,8 +22015,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zl0d",
-    "title": "オリジナル",
-    "artist": "Passion",
+    "title": "Passion",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22047,8 +22047,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--exli",
-    "title": "オリジナル",
-    "artist": "花のやくそく",
+    "title": "花のやくそく",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22079,8 +22079,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--u6ub",
-    "title": "オリジナル",
-    "artist": "羽根亡キ少女唄",
+    "title": "羽根亡キ少女唄",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22111,8 +22111,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sqx5",
-    "title": "オリジナル",
-    "artist": "パピポペピプペパ",
+    "title": "パピポペピプペパ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22143,8 +22143,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yauq",
-    "title": "東方アレンジ",
-    "artist": "Paranoia",
+    "title": "Paranoia",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22175,8 +22175,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--eoi0",
-    "title": "ゲーム",
-    "artist": "ハルイチバン",
+    "title": "ハルイチバン",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22207,8 +22207,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ul61",
-    "title": "オリジナル",
-    "artist": "Be a Hero!",
+    "title": "Be a Hero!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22239,8 +22239,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--l6a9",
-    "title": "オリジナル",
-    "artist": "Pee-wee Boogie",
+    "title": "Pee-wee Boogie",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22271,8 +22271,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--uxh1",
-    "title": "オリジナル",
-    "artist": "PF flowing",
+    "title": "PF flowing",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22303,8 +22303,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--p58v",
-    "title": "東方アレンジ",
-    "artist": "向日葵サンセット",
+    "title": "向日葵サンセット",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22335,8 +22335,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--srdr",
-    "title": "オリジナル",
-    "artist": "Puberty Dysthymia",
+    "title": "Puberty Dysthymia",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22367,8 +22367,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--c4vp",
-    "title": "オリジナル",
-    "artist": "Pink Rose [ 2 ]",
+    "title": "Pink Rose [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22431,8 +22431,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7vlm",
-    "title": "オリジナル",
-    "artist": "風鈴花火",
+    "title": "風鈴花火",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22463,8 +22463,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ps9v",
-    "title": "オリジナル",
-    "artist": "Fairy Fair",
+    "title": "Fairy Fair",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22495,8 +22495,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9yv4",
-    "title": "オリジナル",
-    "artist": "Fox4-Raize-",
+    "title": "Fox4-Raize-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22527,8 +22527,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ajme",
-    "title": "オリジナル",
-    "artist": "Fly far bounce",
+    "title": "Fly far bounce",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22559,8 +22559,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jem6",
-    "title": "オリジナル",
-    "artist": "Blue Sky",
+    "title": "Blue Sky",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22591,8 +22591,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rjgq",
-    "title": "オリジナル",
-    "artist": "Prey",
+    "title": "Prey",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22623,8 +22623,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rxbf",
-    "title": "オリジナル",
-    "artist": "Prayer",
+    "title": "Prayer",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22655,8 +22655,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vtlk",
-    "title": "東方アレンジ",
-    "artist": "From⑨Girl",
+    "title": "From⑨Girl",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22687,8 +22687,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q6or",
-    "title": "オリジナル",
-    "artist": "Pale Garden",
+    "title": "Pale Garden",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22719,8 +22719,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--py7u",
-    "title": "オリジナル",
-    "artist": "HEAVENLY MOON [ 2 ]",
+    "title": "HEAVENLY MOON [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22751,8 +22751,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4fxe",
-    "title": "オリジナル",
-    "artist": "ヘンゼルとグレーテル",
+    "title": "ヘンゼルとグレーテル",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22783,8 +22783,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--46ox",
-    "title": "東方アレンジ",
-    "artist": "星を飛び越えて",
+    "title": "星を飛び越えて",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22815,8 +22815,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hvzg",
-    "title": "オリジナル",
-    "artist": "ミカヅキ:コネクト",
+    "title": "ミカヅキ:コネクト",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22847,8 +22847,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jzdo",
-    "title": "オリジナル",
-    "artist": "みたらしプラトニック (feat. nicamoq)",
+    "title": "みたらしプラトニック (feat. nicamoq)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22879,8 +22879,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fww7",
-    "title": "オリジナル",
-    "artist": "Midnight City Warfare",
+    "title": "Midnight City Warfare",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22911,8 +22911,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8u6r",
-    "title": "オリジナル",
-    "artist": "ミラクル・スイート・スイーツ・マジック！！",
+    "title": "ミラクル・スイート・スイーツ・マジック！！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22943,8 +22943,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0w90",
-    "title": "オリジナル",
-    "artist": "ヤマトなでなで♡かぐや姫",
+    "title": "ヤマトなでなで♡かぐや姫",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -22975,8 +22975,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wyj9",
-    "title": "オリジナル",
-    "artist": "Life is beautiful",
+    "title": "Life is beautiful",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23007,8 +23007,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7kqe",
-    "title": "オリジナル",
-    "artist": "Last Dress",
+    "title": "Last Dress",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23039,8 +23039,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ktfy",
-    "title": "オリジナル",
-    "artist": "Rampage☆Rag",
+    "title": "Rampage☆Rag",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23071,8 +23071,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fxwt",
-    "title": "オリジナル",
-    "artist": "Rejoin",
+    "title": "Rejoin",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23135,8 +23135,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--m6mc",
-    "title": "オリジナル",
-    "artist": "ルミナスデイズ",
+    "title": "ルミナスデイズ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23167,8 +23167,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--futs",
-    "title": "オリジナル",
-    "artist": "レゾンデートル、前線より",
+    "title": "レゾンデートル、前線より",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23199,8 +23199,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bx2x",
-    "title": "オリジナル",
-    "artist": "Roll the Dice",
+    "title": "Roll the Dice",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23295,8 +23295,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--zypq",
-    "title": "オリジナル",
-    "artist": "Wowie Zowie!",
+    "title": "Wowie Zowie!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23327,8 +23327,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--n2f5",
-    "title": "オリジナル",
-    "artist": "Wandering Gravity",
+    "title": "Wandering Gravity",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23359,8 +23359,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--k03v",
-    "title": "オリジナル",
-    "artist": "One More Reason",
+    "title": "One More Reason",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23391,8 +23391,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yona",
-    "title": "オリジナル",
-    "artist": "Icicles [ 2 ]",
+    "title": "Icicles [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23422,8 +23422,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6be1",
-    "title": "オリジナル",
-    "artist": "I'm so Happy [ 2 ]",
+    "title": "I'm so Happy [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23484,8 +23484,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mojv",
-    "title": "オリジナル",
-    "artist": "Agnus Dei",
+    "title": "Agnus Dei",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23546,8 +23546,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kt9p",
-    "title": "オリジナル",
-    "artist": "ATRAX",
+    "title": "ATRAX",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23577,8 +23577,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gtim",
-    "title": "オリジナル",
-    "artist": "Analyse Katharsis",
+    "title": "Analyse Katharsis",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23608,8 +23608,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sfk2",
-    "title": "オリジナル",
-    "artist": "Afterimage d'automne",
+    "title": "Afterimage d'automne",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23639,8 +23639,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7nmn",
-    "title": "オリジナル",
-    "artist": "Aftermath",
+    "title": "Aftermath",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23670,8 +23670,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--br8o",
-    "title": "オリジナル",
-    "artist": "Apex of the World",
+    "title": "Apex of the World",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23701,8 +23701,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4q6i",
-    "title": "オリジナル",
-    "artist": "雨上がりの空に",
+    "title": "雨上がりの空に",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23732,8 +23732,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nert",
-    "title": "オリジナル",
-    "artist": "アモ",
+    "title": "アモ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23763,8 +23763,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yrq9",
-    "title": "ポップス",
-    "artist": "Alba",
+    "title": "Alba",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23794,8 +23794,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kv2k",
-    "title": "オリジナル",
-    "artist": "Arena Deiporta",
+    "title": "Arena Deiporta",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23825,8 +23825,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--iaen",
-    "title": "オリジナル",
-    "artist": "Our Faith [ 2 ]",
+    "title": "Our Faith [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23856,8 +23856,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2jd5",
-    "title": "オリジナル",
-    "artist": "Our Love",
+    "title": "Our Love",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23887,8 +23887,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mp91",
-    "title": "オリジナル",
-    "artist": "Underground Astronomy",
+    "title": "Underground Astronomy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -23980,8 +23980,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--y6dz",
-    "title": "オリジナル",
-    "artist": "1116",
+    "title": "1116",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24011,8 +24011,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tz79",
-    "title": "オリジナル",
-    "artist": "鋳鉄の檻",
+    "title": "鋳鉄の檻",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24042,8 +24042,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8toz",
-    "title": "オリジナル",
-    "artist": "Idola (BEMANI SYMPHONY Arr.)",
+    "title": "Idola (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24073,8 +24073,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5ba3",
-    "title": "オリジナル",
-    "artist": "インドがパッカーン！！煩悩マハラジャドリーム",
+    "title": "インドがパッカーン！！煩悩マハラジャドリーム",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24104,8 +24104,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--k0ui",
-    "title": "オリジナル",
-    "artist": "In Your EyEs",
+    "title": "In Your EyEs",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24135,8 +24135,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--23em",
-    "title": "オリジナル",
-    "artist": "Virtual Bit",
+    "title": "Virtual Bit",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24166,8 +24166,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yac6",
-    "title": "オリジナル",
-    "artist": "VIKING SHIP",
+    "title": "VIKING SHIP",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24197,8 +24197,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--r1w9",
-    "title": "オリジナル",
-    "artist": "VALLIS-NERIA [ 2 ]",
+    "title": "VALLIS-NERIA [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24228,8 +24228,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--35uf",
-    "title": "オリジナル",
-    "artist": "Winter Gift ～クリスピーからの贈りもの～",
+    "title": "Winter Gift ～クリスピーからの贈りもの～",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24259,8 +24259,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--aob9",
-    "title": "オリジナル",
-    "artist": "↑↑↓↓←→←→BA",
+    "title": "↑↑↓↓←→←→BA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24290,8 +24290,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9vxe",
-    "title": "オリジナル",
-    "artist": "Welcome to the Mosh Pit",
+    "title": "Welcome to the Mosh Pit",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24321,8 +24321,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--aeau",
-    "title": "オリジナル",
-    "artist": "WELCOME TO MOTOWN PARK",
+    "title": "WELCOME TO MOTOWN PARK",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24352,8 +24352,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1q2z",
-    "title": "東方アレンジ",
-    "artist": "泡沫、哀のまほろば",
+    "title": "泡沫、哀のまほろば",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24383,8 +24383,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--b9hi",
-    "title": "アニメ",
-    "artist": "ETERNAL BLAZE [ 2 ]",
+    "title": "ETERNAL BLAZE [ 2 ]",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24414,8 +24414,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ulc1",
-    "title": "オリジナル",
-    "artist": "X-Plan",
+    "title": "X-Plan",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24476,8 +24476,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0qcj",
-    "title": "オリジナル",
-    "artist": "Everlasting Message (BEMANI SYMPHONY Arr.)",
+    "title": "Everlasting Message (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24507,8 +24507,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--a42a",
-    "title": "オリジナル",
-    "artist": "EMOTiON TRiPPER",
+    "title": "EMOTiON TRiPPER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24538,8 +24538,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9zu7",
-    "title": "オリジナル",
-    "artist": "Element of SPADA (BEMANI SYMPHONY Arr.)",
+    "title": "Element of SPADA (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24569,8 +24569,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wsl9",
-    "title": "オリジナル",
-    "artist": "Endless Beats ⇔ Endless Parties",
+    "title": "Endless Beats ⇔ Endless Parties",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24600,8 +24600,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lo29",
-    "title": "オリジナル",
-    "artist": "おーまい！らぶりー！すうぃーてぃ！だーりん！",
+    "title": "おーまい！らぶりー！すうぃーてぃ！だーりん！",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24631,8 +24631,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--f702",
-    "title": "オリジナル",
-    "artist": "All Clear!!",
+    "title": "All Clear!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24662,8 +24662,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wv03",
-    "title": "オリジナル",
-    "artist": "ALL MY HEART -この恋に、わたしの全てを賭ける- [ 2 ]",
+    "title": "ALL MY HEART -この恋に、わたしの全てを賭ける- [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24693,8 +24693,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--oj8r",
-    "title": "オリジナル",
-    "artist": "おにぎりディスコ",
+    "title": "おにぎりディスコ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24724,8 +24724,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ma3u",
-    "title": "オリジナル",
-    "artist": "朧 (BEMANI SYMPHONY Arr.)",
+    "title": "朧 (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24755,8 +24755,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wkom",
-    "title": "オリジナル",
-    "artist": "革命パッショネイト",
+    "title": "革命パッショネイト",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24786,8 +24786,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6k9o",
-    "title": "オリジナル",
-    "artist": "Catapulted Arch",
+    "title": "Catapulted Arch",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24817,8 +24817,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--d4uq",
-    "title": "オリジナル",
-    "artist": "[E] [ 2 ]",
+    "title": "[E] [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24848,8 +24848,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4fnv",
-    "title": "オリジナル",
-    "artist": "Come to Life",
+    "title": "Come to Life",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24879,8 +24879,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6ytv",
-    "title": "オリジナル",
-    "artist": "Colorful Cookie (BEMANI SYMPHONY Arr.)",
+    "title": "Colorful Cookie (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24910,8 +24910,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--z7v9",
-    "title": "東方アレンジ",
-    "artist": "眼光 [ 2 ]",
+    "title": "眼光 [ 2 ]",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24941,8 +24941,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bg7w",
-    "title": "オリジナル",
-    "artist": "Catch Our Fire!",
+    "title": "Catch Our Fire!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -24972,8 +24972,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8cqj",
-    "title": "オリジナル",
-    "artist": "Catch Me",
+    "title": "Catch Me",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25003,8 +25003,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kc1i",
-    "title": "オリジナル",
-    "artist": "キヤロラ衛星の軌跡",
+    "title": "キヤロラ衛星の軌跡",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25034,8 +25034,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sbf2",
-    "title": "オリジナル",
-    "artist": "狂水一華",
+    "title": "狂水一華",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25065,8 +25065,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kelo",
-    "title": "オリジナル",
-    "artist": "Queen's Paradise [ 2 ]",
+    "title": "Queen's Paradise [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25096,8 +25096,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jein",
-    "title": "オリジナル",
-    "artist": "Glitter Cube",
+    "title": "Glitter Cube",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25127,8 +25127,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7woz",
-    "title": "オリジナル",
-    "artist": "Crazy Shuffle",
+    "title": "Crazy Shuffle",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25158,8 +25158,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--af7i",
-    "title": "アニメ",
-    "artist": "紅蓮華",
+    "title": "紅蓮華",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25189,8 +25189,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8c7q",
-    "title": "オリジナル",
-    "artist": "Globe Glitter",
+    "title": "Globe Glitter",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25220,8 +25220,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9z1s",
-    "title": "オリジナル",
-    "artist": "cloche [ 2 ]",
+    "title": "cloche [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25251,8 +25251,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ggxr",
-    "title": "オリジナル",
-    "artist": "Chronos [ 2 ]",
+    "title": "Chronos [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25282,8 +25282,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jba8",
-    "title": "オリジナル",
-    "artist": "激闘保安官！DEMPA撲滅大作戦",
+    "title": "激闘保安官！DEMPA撲滅大作戦",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25313,8 +25313,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gwcm",
-    "title": "オリジナル",
-    "artist": "Get On The Floor",
+    "title": "Get On The Floor",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25344,8 +25344,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--he5o",
-    "title": "東方アレンジ",
-    "artist": "ケムマキunderground",
+    "title": "ケムマキunderground",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25375,8 +25375,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--u3cm",
-    "title": "オリジナル",
-    "artist": "恋歌疾風！かるたクイーンいろは",
+    "title": "恋歌疾風！かるたクイーンいろは",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25406,8 +25406,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--b4kb",
-    "title": "オリジナル",
-    "artist": "恋 No リセットゲーム!!!!!",
+    "title": "恋 No リセットゲーム!!!!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25437,8 +25437,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ihuf",
-    "title": "オリジナル",
-    "artist": "Ghost Clock",
+    "title": "Ghost Clock",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25499,8 +25499,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fzvy",
-    "title": "オリジナル",
-    "artist": "虚空と光明のディスクール [ 2 ]",
+    "title": "虚空と光明のディスクール [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25530,8 +25530,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qq1t",
-    "title": "ゲーム",
-    "artist": "ここからよろしく大作戦143",
+    "title": "ここからよろしく大作戦143",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25561,8 +25561,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o44t",
-    "title": "オリジナル",
-    "artist": "COSMIC SYMPHONY",
+    "title": "COSMIC SYMPHONY",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25592,8 +25592,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3fsv",
-    "title": "オリジナル",
-    "artist": "Surf on the Light",
+    "title": "Surf on the Light",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25623,8 +25623,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dbas",
-    "title": "東方アレンジ",
-    "artist": "最凶アンビバレント",
+    "title": "最凶アンビバレント",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25654,8 +25654,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wm2n",
-    "title": "オリジナル",
-    "artist": "最小三倍完全数",
+    "title": "最小三倍完全数",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25685,8 +25685,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hx7y",
-    "title": "オリジナル",
-    "artist": "The Kingsroad",
+    "title": "The Kingsroad",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25716,8 +25716,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--3w3a",
-    "title": "オリジナル",
-    "artist": "Sakura Sunrise [ 2 ]",
+    "title": "Sakura Sunrise [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25747,8 +25747,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--52g4",
-    "title": "オリジナル",
-    "artist": "Sahara",
+    "title": "Sahara",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25778,8 +25778,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--d9i5",
-    "title": "オリジナル",
-    "artist": "さよなら世界 (BEMANI SYMPHONY Arr.)",
+    "title": "さよなら世界 (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25809,8 +25809,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o5ur",
-    "title": "オリジナル",
-    "artist": "サヨナラ・ヘヴン [ 2 ]",
+    "title": "サヨナラ・ヘヴン [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25840,8 +25840,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4y6g",
-    "title": "オリジナル",
-    "artist": "サヨナラ・ヘヴン (BEMANI SYMPHONY Arr.)",
+    "title": "サヨナラ・ヘヴン (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25902,8 +25902,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--a4kn",
-    "title": "オリジナル",
-    "artist": "Samba Ramba",
+    "title": "Samba Ramba",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25933,8 +25933,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--v8m4",
-    "title": "オリジナル",
-    "artist": "幸せが鳴る夜に",
+    "title": "幸せが鳴る夜に",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25964,8 +25964,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1o61",
-    "title": "オリジナル",
-    "artist": "Jetcoaster Windy",
+    "title": "Jetcoaster Windy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -25995,8 +25995,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mcve",
-    "title": "オリジナル",
-    "artist": "SigSig [ 2 ]",
+    "title": "SigSig [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26026,8 +26026,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hhjg",
-    "title": "ポップス",
-    "artist": "思想犯",
+    "title": "思想犯",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26057,8 +26057,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7x4g",
-    "title": "オリジナル",
-    "artist": "Six String Proof",
+    "title": "Six String Proof",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26088,8 +26088,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--uka1",
-    "title": "オリジナル",
-    "artist": "灼熱Beach Side Bunny",
+    "title": "灼熱Beach Side Bunny",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26119,8 +26119,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kc7l",
-    "title": "オリジナル",
-    "artist": "Juicy",
+    "title": "Juicy",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26150,8 +26150,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2oxl",
-    "title": "オリジナル",
-    "artist": "少女、摩天楼へ",
+    "title": "少女、摩天楼へ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26181,8 +26181,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o3xq",
-    "title": "ポップス",
-    "artist": "情熱大陸 [ 2 ]",
+    "title": "情熱大陸 [ 2 ]",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26243,8 +26243,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ujyq",
-    "title": "オリジナル",
-    "artist": "シンクロフィッシュ",
+    "title": "シンクロフィッシュ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26274,8 +26274,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qcm2",
-    "title": "オリジナル",
-    "artist": "スイーツはとまらない♪",
+    "title": "スイーツはとまらない♪",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26305,8 +26305,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8m18",
-    "title": "ゲーム",
-    "artist": "「Sweet Love」",
+    "title": "「Sweet Love」",
+    "artist": "ゲーム",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26336,8 +26336,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yyab",
-    "title": "オリジナル",
-    "artist": "Super GERO GE-RO",
+    "title": "Super GERO GE-RO",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26367,8 +26367,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4cew",
-    "title": "オリジナル",
-    "artist": "スーパー戦湯ババンバーン",
+    "title": "スーパー戦湯ババンバーン",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26398,8 +26398,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--z5qf",
-    "title": "東方アレンジ",
-    "artist": "Scarlet Moon [ 2 ]",
+    "title": "Scarlet Moon [ 2 ]",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26460,8 +26460,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6puf",
-    "title": "オリジナル",
-    "artist": "StaRgAZER",
+    "title": "StaRgAZER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26491,8 +26491,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--layy",
-    "title": "オリジナル",
-    "artist": "starmine (BEMANI SYMPHONY Arr.)",
+    "title": "starmine (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26522,8 +26522,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--s3km",
-    "title": "オリジナル",
-    "artist": "Still Lonesome",
+    "title": "Still Lonesome",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26553,8 +26553,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--r3il",
-    "title": "オリジナル",
-    "artist": "Snow Goose [ 2 ]",
+    "title": "Snow Goose [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26584,8 +26584,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7akp",
-    "title": "オリジナル",
-    "artist": "スノーホワイト",
+    "title": "スノーホワイト",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26615,8 +26615,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--pkil",
-    "title": "オリジナル",
-    "artist": "Sparkle Smilin'",
+    "title": "Sparkle Smilin'",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26646,8 +26646,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--garz",
-    "title": "オリジナル",
-    "artist": "Spica",
+    "title": "Spica",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26677,8 +26677,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vo7x",
-    "title": "オリジナル",
-    "artist": "splash!",
+    "title": "splash!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26708,8 +26708,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ptr0",
-    "title": "オリジナル",
-    "artist": "SPACE INASAKU",
+    "title": "SPACE INASAKU",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26739,8 +26739,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gwtv",
-    "title": "オリジナル",
-    "artist": "スペースカーニバル [ 2 ]",
+    "title": "スペースカーニバル [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26770,8 +26770,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bdq5",
-    "title": "オリジナル",
-    "artist": "スミスえかきうた",
+    "title": "スミスえかきうた",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26801,8 +26801,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--56l3",
-    "title": "オリジナル",
-    "artist": "zeeros",
+    "title": "zeeros",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26832,8 +26832,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--oo3g",
-    "title": "オリジナル",
-    "artist": "世界の果てに約束の凱歌を -jubeat edition-",
+    "title": "世界の果てに約束の凱歌を -jubeat edition-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26863,8 +26863,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2bl0",
-    "title": "オリジナル",
-    "artist": "拙者拙者拙者拙者",
+    "title": "拙者拙者拙者拙者",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26894,8 +26894,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rdgh",
-    "title": "オリジナル",
-    "artist": "XENOViA",
+    "title": "XENOViA",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26925,8 +26925,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kwa9",
-    "title": "東方アレンジ",
-    "artist": "全力ハッピーライフ",
+    "title": "全力ハッピーライフ",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26956,8 +26956,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--jeig",
-    "title": "オリジナル",
-    "artist": "創世ノート [ 2 ]",
+    "title": "創世ノート [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -26987,8 +26987,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--hjuo",
-    "title": "オリジナル",
-    "artist": "sola [ 2 ]",
+    "title": "sola [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27018,8 +27018,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nbsv",
-    "title": "オリジナル",
-    "artist": "Sorrows",
+    "title": "Sorrows",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27080,8 +27080,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g332",
-    "title": "オリジナル",
-    "artist": "Timepiece phase II (BEMANI SYMPHONY Arr.)",
+    "title": "Timepiece phase II (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27111,8 +27111,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bg6f",
-    "title": "オリジナル",
-    "artist": "太陽の滴",
+    "title": "太陽の滴",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27142,8 +27142,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qwon",
-    "title": "ポップス",
-    "artist": "高嶺の花子さん",
+    "title": "高嶺の花子さん",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27173,8 +27173,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8fvn",
-    "title": "オリジナル",
-    "artist": "たたえよ！絶対覇権アリーシャ帝国",
+    "title": "たたえよ！絶対覇権アリーシャ帝国",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27235,8 +27235,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ekq7",
-    "title": "オリジナル",
-    "artist": "タンポポ",
+    "title": "タンポポ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27266,8 +27266,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1xpy",
-    "title": "オリジナル",
-    "artist": "Chippin Break",
+    "title": "Chippin Break",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27297,8 +27297,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4yld",
-    "title": "オリジナル",
-    "artist": "茶渋シンドローム",
+    "title": "茶渋シンドローム",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27328,8 +27328,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--c8lq",
-    "title": "オリジナル",
-    "artist": "チュッチュ♪マチュピチュ",
+    "title": "チュッチュ♪マチュピチュ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27359,8 +27359,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8dzz",
-    "title": "オリジナル",
-    "artist": "追憶のアラウカリア",
+    "title": "追憶のアラウカリア",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27390,8 +27390,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--99yr",
-    "title": "オリジナル",
-    "artist": "ツーマンライブ [ 2 ]",
+    "title": "ツーマンライブ [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27421,8 +27421,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gwij",
-    "title": "オリジナル",
-    "artist": "月影小町",
+    "title": "月影小町",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27452,8 +27452,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--j039",
-    "title": "オリジナル",
-    "artist": "つぼみ [ 2 ]",
+    "title": "つぼみ [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27483,8 +27483,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5u5s",
-    "title": "オリジナル",
-    "artist": "December in Strasbourg",
+    "title": "December in Strasbourg",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27514,8 +27514,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bnqd",
-    "title": "オリジナル",
-    "artist": "Din Don Dan",
+    "title": "Din Don Dan",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27545,8 +27545,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qlgq",
-    "title": "東方アレンジ",
-    "artist": "DEATH WORMHOLE",
+    "title": "DEATH WORMHOLE",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27576,8 +27576,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8jol",
-    "title": "オリジナル",
-    "artist": "Duality",
+    "title": "Duality",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27607,8 +27607,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g44p",
-    "title": "オリジナル",
-    "artist": "DUAL STRIKER",
+    "title": "DUAL STRIKER",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27638,8 +27638,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5eo5",
-    "title": "オリジナル",
-    "artist": "天空の夜明け (BEMANI SYMPHONY Arr.)",
+    "title": "天空の夜明け (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27700,8 +27700,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4r32",
-    "title": "オリジナル",
-    "artist": "toy boxer",
+    "title": "toy boxer",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27731,8 +27731,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dfsy",
-    "title": "オリジナル",
-    "artist": "Toy Robot Factory",
+    "title": "Toy Robot Factory",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27762,8 +27762,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yxs7",
-    "title": "オリジナル",
-    "artist": "TOON MANIAC",
+    "title": "TOON MANIAC",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27793,8 +27793,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--2p9v",
-    "title": "オリジナル",
-    "artist": "True Blue [ 2 ]",
+    "title": "True Blue [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27824,8 +27824,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--4vci",
-    "title": "オリジナル",
-    "artist": "TRIUMPH",
+    "title": "TRIUMPH",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27855,8 +27855,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--iltg",
-    "title": "オリジナル",
-    "artist": "Dream drip macchiato",
+    "title": "Dream drip macchiato",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27886,8 +27886,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--lfey",
-    "title": "東方アレンジ",
-    "artist": "取り残された美術(Arranged:HiZuMi) [ 2 ]",
+    "title": "取り残された美術(Arranged:HiZuMi) [ 2 ]",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27917,8 +27917,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--edbf",
-    "title": "オリジナル",
-    "artist": "Triple Cross",
+    "title": "Triple Cross",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27948,8 +27948,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xoob",
-    "title": "オリジナル",
-    "artist": "Trill auf G",
+    "title": "Trill auf G",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -27979,8 +27979,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ppn5",
-    "title": "オリジナル",
-    "artist": "嘆きの樹 (BEMANI SYMPHONY Arr.)",
+    "title": "嘆きの樹 (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28010,8 +28010,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--b174",
-    "title": "オリジナル",
-    "artist": "Neuron",
+    "title": "Neuron",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28041,8 +28041,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rhtg",
-    "title": "オリジナル",
-    "artist": "Noob実況24時!",
+    "title": "Noob実況24時!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28072,8 +28072,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ybib",
-    "title": "オリジナル",
-    "artist": "熱情のサパデアード",
+    "title": "熱情のサパデアード",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28103,8 +28103,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g69m",
-    "title": "オリジナル",
-    "artist": "ネリと琥珀糖",
+    "title": "ネリと琥珀糖",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28134,8 +28134,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--9klt",
-    "title": "オリジナル",
-    "artist": "No Rule Adventure",
+    "title": "No Rule Adventure",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28165,8 +28165,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5rly",
-    "title": "オリジナル",
-    "artist": "Hades Doll",
+    "title": "Hades Doll",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28196,8 +28196,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8662",
-    "title": "オリジナル",
-    "artist": "箱庭のエチュード",
+    "title": "箱庭のエチュード",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28227,8 +28227,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--j94j",
-    "title": "オリジナル",
-    "artist": "Pacify",
+    "title": "Pacify",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28258,8 +28258,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--odjl",
-    "title": "オリジナル",
-    "artist": "バッドエンド・シンドローム (BEMANI SYMPHONY Arr.)",
+    "title": "バッドエンド・シンドローム (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28289,8 +28289,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--67yg",
-    "title": "オリジナル",
-    "artist": "ピアノ独奏無言歌 \"灰燼\"",
+    "title": "ピアノ独奏無言歌 \"灰燼\"",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28320,8 +28320,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--na9y",
-    "title": "オリジナル",
-    "artist": "BEEF",
+    "title": "BEEF",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28351,8 +28351,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--v7jo",
-    "title": "オリジナル",
-    "artist": "Hero Revealed",
+    "title": "Hero Revealed",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28382,8 +28382,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ekhm",
-    "title": "オリジナル",
-    "artist": "ヒカリユリイカ",
+    "title": "ヒカリユリイカ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28413,8 +28413,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1vdm",
-    "title": "オリジナル",
-    "artist": "ピザが食べたくてしょうがない皆さんの気持ちを代弁しました",
+    "title": "ピザが食べたくてしょうがない皆さんの気持ちを代弁しました",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28444,8 +28444,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--k71i",
-    "title": "オリジナル",
-    "artist": "ビター・エスケープ",
+    "title": "ビター・エスケープ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28475,8 +28475,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8e1e",
-    "title": "オリジナル",
-    "artist": "ビューティフル レシート",
+    "title": "ビューティフル レシート",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28506,8 +28506,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--g02w",
-    "title": "オリジナル",
-    "artist": "Beyond the BLUE",
+    "title": "Beyond the BLUE",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28537,8 +28537,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ss7d",
-    "title": "オリジナル",
-    "artist": "Fireball",
+    "title": "Fireball",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28568,8 +28568,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5c2h",
-    "title": "オリジナル",
-    "artist": "Phantasmagoria",
+    "title": "Phantasmagoria",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28599,8 +28599,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--d7qo",
-    "title": "オリジナル",
-    "artist": "50th Memorial Songs -The BEMANI History-",
+    "title": "50th Memorial Songs -The BEMANI History-",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28630,8 +28630,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--y3or",
-    "title": "オリジナル",
-    "artist": "50th Memorial Songs -Beginning Story-",
+    "title": "50th Memorial Songs -Beginning Story-",
+    "artist": "オリジナル",
     "bpm": 135,
     "genre": "ポップス",
     "difficulties": {
@@ -28661,8 +28661,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rxc5",
-    "title": "オリジナル",
-    "artist": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
+    "title": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
+    "artist": "オリジナル",
     "bpm": 160,
     "genre": "ポップス",
     "difficulties": {
@@ -28692,8 +28692,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--cabb",
-    "title": "オリジナル",
-    "artist": "50th Memorial Songs -Flagship medley-",
+    "title": "50th Memorial Songs -Flagship medley-",
+    "artist": "オリジナル",
     "bpm": 135,
     "genre": "ポップス",
     "difficulties": {
@@ -28723,8 +28723,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--08fh",
-    "title": "オリジナル",
-    "artist": "封隠文様",
+    "title": "封隠文様",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28754,8 +28754,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--coej",
-    "title": "オリジナル",
-    "artist": "Boomy and The Boost",
+    "title": "Boomy and The Boost",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28785,8 +28785,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rgg5",
-    "title": "オリジナル",
-    "artist": "BLACK JACKAL",
+    "title": "BLACK JACKAL",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28816,8 +28816,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--99x9",
-    "title": "オリジナル",
-    "artist": "FLOWER (BEMANI SYMPHONY Arr.)",
+    "title": "FLOWER (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28847,8 +28847,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dm9w",
-    "title": "オリジナル",
-    "artist": "Proof of the existence [ 2 ]",
+    "title": "Proof of the existence [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28878,8 +28878,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--sw7z",
-    "title": "オリジナル",
-    "artist": "Brawl",
+    "title": "Brawl",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28909,8 +28909,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--wct4",
-    "title": "オリジナル",
-    "artist": "Floating Eternity",
+    "title": "Floating Eternity",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28940,8 +28940,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1wpz",
-    "title": "オリジナル",
-    "artist": "Pegasus",
+    "title": "Pegasus",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -28971,8 +28971,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nh7m",
-    "title": "オリジナル",
-    "artist": "pedigree",
+    "title": "pedigree",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29002,8 +29002,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1obc",
-    "title": "オリジナル",
-    "artist": "ベビーステップ",
+    "title": "ベビーステップ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29033,8 +29033,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--s0h1",
-    "title": "オリジナル",
-    "artist": "Hopeful Frontier!!!",
+    "title": "Hopeful Frontier!!!",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29064,8 +29064,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o9hx",
-    "title": "オリジナル",
-    "artist": "僕らの時間",
+    "title": "僕らの時間",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29095,8 +29095,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dtez",
-    "title": "オリジナル",
-    "artist": "星の小舟",
+    "title": "星の小舟",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29126,8 +29126,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--mmc8",
-    "title": "オリジナル",
-    "artist": "POSSESSION",
+    "title": "POSSESSION",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29157,8 +29157,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--0i57",
-    "title": "オリジナル",
-    "artist": "POSSESSION (BEMANI SYMPHONY Arr.)",
+    "title": "POSSESSION (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29219,8 +29219,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q9hi",
-    "title": "ポップス",
-    "artist": "HOT LIMIT [ 2 ]",
+    "title": "HOT LIMIT [ 2 ]",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29250,8 +29250,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--425b",
-    "title": "アニメ",
-    "artist": "POP TEAM EPIC",
+    "title": "POP TEAM EPIC",
+    "artist": "アニメ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29281,8 +29281,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ybj0",
-    "title": "オリジナル",
-    "artist": "Polaris [ 2 ]",
+    "title": "Polaris [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29312,8 +29312,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--o909",
-    "title": "オリジナル",
-    "artist": "voltississimo",
+    "title": "voltississimo",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29343,8 +29343,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--f2an",
-    "title": "東方アレンジ",
-    "artist": "マツヨイナイトバグ",
+    "title": "マツヨイナイトバグ",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29374,8 +29374,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--1zcd",
-    "title": "オリジナル",
-    "artist": "MA・TSU・RI",
+    "title": "MA・TSU・RI",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29436,8 +29436,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--owpr",
-    "title": "オリジナル",
-    "artist": "Midsummer Madness",
+    "title": "Midsummer Madness",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29467,8 +29467,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tr2k",
-    "title": "オリジナル",
-    "artist": "ミッドナイト☆WAR",
+    "title": "ミッドナイト☆WAR",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29498,8 +29498,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5cm9",
-    "title": "オリジナル",
-    "artist": "MOVE! (We Keep It Movin')",
+    "title": "MOVE! (We Keep It Movin')",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29529,8 +29529,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--47c9",
-    "title": "オリジナル",
-    "artist": "斑咲花",
+    "title": "斑咲花",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29560,8 +29560,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--n2ot",
-    "title": "オリジナル",
-    "artist": "廻る季節のゆく先に",
+    "title": "廻る季節のゆく先に",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29591,8 +29591,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--z8t0",
-    "title": "オリジナル",
-    "artist": "めた・メタ？ひまわり＊パンチ",
+    "title": "めた・メタ？ひまわり＊パンチ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29622,8 +29622,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qkkt",
-    "title": "オリジナル",
-    "artist": "Metsysralos",
+    "title": "Metsysralos",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29715,8 +29715,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--j8pi",
-    "title": "オリジナル",
-    "artist": "MODEL FT2 Miracle Version",
+    "title": "MODEL FT2 Miracle Version",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29746,8 +29746,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--qdez",
-    "title": "オリジナル",
-    "artist": "unisonote [ 2 ]",
+    "title": "unisonote [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29777,8 +29777,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--7qs3",
-    "title": "オリジナル",
-    "artist": "ゆめのかなたで",
+    "title": "ゆめのかなたで",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29808,8 +29808,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--fefz",
-    "title": "オリジナル",
-    "artist": "ユメブキ",
+    "title": "ユメブキ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29839,8 +29839,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--8pw4",
-    "title": "ポップス",
-    "artist": "YONA YONA DANCE",
+    "title": "YONA YONA DANCE",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29870,8 +29870,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--142s",
-    "title": "オリジナル",
-    "artist": "LIKE A VAMPIRE",
+    "title": "LIKE A VAMPIRE",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29901,8 +29901,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tv1f",
-    "title": "オリジナル",
-    "artist": "Light Shine",
+    "title": "Light Shine",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29932,8 +29932,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--um49",
-    "title": "オリジナル",
-    "artist": "Right Time Right Way",
+    "title": "Right Time Right Way",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29963,8 +29963,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--crfs",
-    "title": "オリジナル",
-    "artist": "Life Without You",
+    "title": "Life Without You",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -29994,8 +29994,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--43sq",
-    "title": "オリジナル",
-    "artist": "Life Connection [ 2 ]",
+    "title": "Life Connection [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30025,8 +30025,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rvt8",
-    "title": "オリジナル",
-    "artist": "Lachryma《Re:Queen’M》 (BEMANI SYMPHONY Arr.)",
+    "title": "Lachryma《Re:Queen’M》 (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30056,8 +30056,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6ai7",
-    "title": "オリジナル",
-    "artist": "LAST OATH",
+    "title": "LAST OATH",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30087,8 +30087,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--eyt2",
-    "title": "ポップス",
-    "artist": "LANA - キロクノカケラ - [ 2 ]",
+    "title": "LANA - キロクノカケラ - [ 2 ]",
+    "artist": "ポップス",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30118,8 +30118,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ru6i",
-    "title": "オリジナル",
-    "artist": "Lava Flow",
+    "title": "Lava Flow",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30149,8 +30149,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rfut",
-    "title": "オリジナル",
-    "artist": "Lava Flow [ 2 ]",
+    "title": "Lava Flow [ 2 ]",
+    "artist": "オリジナル",
     "bpm": 3,
     "genre": "ポップス",
     "difficulties": {
@@ -30180,8 +30180,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--yh9p",
-    "title": "オリジナル",
-    "artist": "Laughin' Muffin",
+    "title": "Laughin' Muffin",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30211,8 +30211,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5q3t",
-    "title": "オリジナル",
-    "artist": "ラブキラ☆スプラッシュ",
+    "title": "ラブキラ☆スプラッシュ",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30242,8 +30242,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--xd09",
-    "title": "オリジナル",
-    "artist": "ラプンツェル",
+    "title": "ラプンツェル",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30273,8 +30273,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--h6d4",
-    "title": "オリジナル",
-    "artist": "ランカーキラーガール",
+    "title": "ランカーキラーガール",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30304,8 +30304,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--kaoy",
-    "title": "オリジナル",
-    "artist": "リカーシブ・ファンクション",
+    "title": "リカーシブ・ファンクション",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30335,8 +30335,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--095n",
-    "title": "オリジナル",
-    "artist": "Lisa-RICCIA (BEMANI SYMPHONY Arr.)",
+    "title": "Lisa-RICCIA (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30366,8 +30366,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nc79",
-    "title": "オリジナル",
-    "artist": "流砂の嵐 (BEMANI SYMPHONY Arr.)",
+    "title": "流砂の嵐 (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30397,8 +30397,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--q5kd",
-    "title": "オリジナル",
-    "artist": "リリーゼと炎龍レーヴァテイン",
+    "title": "リリーゼと炎龍レーヴァテイン",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30428,8 +30428,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--rgli",
-    "title": "東方アレンジ",
-    "artist": "ルナティックモンスター",
+    "title": "ルナティックモンスター",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30459,8 +30459,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ox8e",
-    "title": "オリジナル",
-    "artist": "RAISE YOUR HEADS UP",
+    "title": "RAISE YOUR HEADS UP",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30490,8 +30490,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--tw9m",
-    "title": "オリジナル",
-    "artist": "Radius",
+    "title": "Radius",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30552,8 +30552,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ugv8",
-    "title": "オリジナル",
-    "artist": "ROCK ju",
+    "title": "ROCK ju",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30583,8 +30583,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--gvac",
-    "title": "オリジナル",
-    "artist": "ロミとロボの宇宙飛行",
+    "title": "ロミとロボの宇宙飛行",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30614,8 +30614,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--iute",
-    "title": "東方アレンジ",
-    "artist": "WARNING×WARNING×WARNING",
+    "title": "WARNING×WARNING×WARNING",
+    "artist": "東方アレンジ",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30676,8 +30676,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--bk7e",
-    "title": "オリジナル",
-    "artist": "海神",
+    "title": "海神",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30707,8 +30707,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--nt8i",
-    "title": "オリジナル",
-    "artist": "海神 (BEMANI SYMPHONY Arr.)",
+    "title": "海神 (BEMANI SYMPHONY Arr.)",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -30738,8 +30738,8 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--6yvp",
-    "title": "オリジナル",
-    "artist": "Wuv U",
+    "title": "Wuv U",
+    "artist": "オリジナル",
     "bpm": 0,
     "genre": "ポップス",
     "difficulties": {
@@ -31582,7 +31582,7 @@ export const songs: Song[] = [
     "title": "Explore Every Ave.",
     "artist": "BEMANI Sound Team \"SYUNN\"",
     "bpm": 135,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -31642,7 +31642,7 @@ export const songs: Song[] = [
     "title": "Victory of the Century",
     "artist": "BEMANI Sound Team \"TAG\"",
     "bpm": 180,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -31672,7 +31672,7 @@ export const songs: Song[] = [
     "title": "Reincarnation Of Dead Petal",
     "artist": "BEMANI Sound Team \"Akhuta Works\"",
     "bpm": 198,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -31702,7 +31702,7 @@ export const songs: Song[] = [
     "title": "ZIGZAG COWBOY",
     "artist": "BEMANI Sound Team \"劇団レコード\"",
     "bpm": 128,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -31762,7 +31762,7 @@ export const songs: Song[] = [
     "title": "Cranberry",
     "artist": "BEMANI Sound Team \"肥塚良彦\"",
     "bpm": 180,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -31792,7 +31792,7 @@ export const songs: Song[] = [
     "title": "Liar×Girl",
     "artist": "BEMANI Sound Team \"HuΣeR\" feat.ゆきまめ",
     "bpm": 164,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -31912,7 +31912,7 @@ export const songs: Song[] = [
     "title": "brown hawk owl",
     "artist": "BEMANI Sound Team \"S-C-U\"",
     "bpm": 190,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -31972,7 +31972,7 @@ export const songs: Song[] = [
     "title": "Crackpot Evangelist",
     "artist": "BEMANI Sound Team \"ZAQUVA\"",
     "bpm": 200,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 7,
@@ -32332,7 +32332,7 @@ export const songs: Song[] = [
     "title": "怪獣大戦争",
     "artist": "BEMANI Sound Team \"桃山珍太郎\"",
     "bpm": 140,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -32392,7 +32392,7 @@ export const songs: Song[] = [
     "title": "manticore",
     "artist": "BEMANI Sound Team \"Amber\"",
     "bpm": 200,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -32812,7 +32812,7 @@ export const songs: Song[] = [
     "title": "Insanity: Luna",
     "artist": "BEMANI Sound Team \"SYUNN\"",
     "bpm": 196,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -32842,7 +32842,7 @@ export const songs: Song[] = [
     "title": "Insanity: Sol",
     "artist": "BEMANI Sound Team \"Yvya\"",
     "bpm": 196,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -32872,7 +32872,7 @@ export const songs: Song[] = [
     "title": "Insanity",
     "artist": "BEMANI Sound Team \"SYUNN & Yvya\"",
     "bpm": 210,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 6,
@@ -32932,7 +32932,7 @@ export const songs: Song[] = [
     "title": "Love 2 Shuffle",
     "artist": "BEMANI Sound Team \"Sota F.\" feat. Starbitz",
     "bpm": 133,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -32992,7 +32992,7 @@ export const songs: Song[] = [
     "title": "Dance With The Dead",
     "artist": "BEMANI Sound Team \"SYUNN\"",
     "bpm": 150,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -33022,7 +33022,7 @@ export const songs: Song[] = [
     "title": "Metamorphic",
     "artist": "BEMANI Sound Team \"Sota Fujimori\"",
     "bpm": 200,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -33052,7 +33052,7 @@ export const songs: Song[] = [
     "title": "VOLAQUAS",
     "artist": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
     "bpm": 212,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 7,
@@ -33082,7 +33082,7 @@ export const songs: Song[] = [
     "title": "パーフェクトイーター",
     "artist": "BEMANI Sound Team \"PON\" feat.かなたん",
     "bpm": 175,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -34099,7 +34099,7 @@ export const songs: Song[] = [
     "title": "beyond the Ave.",
     "artist": "BEMANI Sound Team \"SYUNN\"",
     "bpm": 135,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -34157,7 +34157,7 @@ export const songs: Song[] = [
     "title": "IGNITE THE IRON HEART",
     "artist": "BEMANI Sound Team \"L.E.D.\"",
     "bpm": 100,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -34186,7 +34186,7 @@ export const songs: Song[] = [
     "title": "アヤノトリ",
     "artist": "BEMANI Sound Team \"PHQUASE\" feat.ななひら",
     "bpm": 137,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -34244,7 +34244,7 @@ export const songs: Song[] = [
     "title": "Fate",
     "artist": "BEMANI Sound Team \"TATSUYA\"",
     "bpm": 200,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -34273,7 +34273,7 @@ export const songs: Song[] = [
     "title": "Croissant",
     "artist": "BEMANI Sound Team \"Expander\"",
     "bpm": 156,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -34302,7 +34302,7 @@ export const songs: Song[] = [
     "title": "Prowler",
     "artist": "BEMANI Sound Team \"Yvya\"",
     "bpm": 160,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 6,
@@ -34331,7 +34331,7 @@ export const songs: Song[] = [
     "title": "pray nightly*6",
     "artist": "BEMANI Sound Team \"猫叉Master\"",
     "bpm": 170,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -34389,7 +34389,7 @@ export const songs: Song[] = [
     "title": "Stylus",
     "artist": "BEMANI Sound Team \"HuΣeR\"",
     "bpm": 165,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -34418,7 +34418,7 @@ export const songs: Song[] = [
     "title": "QQ",
     "artist": "BEMANI Sound Team \"PHQUASE & ZAQUVA\"",
     "bpm": 199,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -34766,7 +34766,7 @@ export const songs: Song[] = [
     "title": "Caribbean Coast",
     "artist": "BEMANI Sound Team \"劇団レコード\"",
     "bpm": 132,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -34795,7 +34795,7 @@ export const songs: Song[] = [
     "title": "EX-MASSIVE FIGHTER",
     "artist": "BEMANI Sound Team \"L.E.D.-G\"",
     "bpm": 165,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -34824,7 +34824,7 @@ export const songs: Song[] = [
     "title": "さらさ",
     "artist": "BEMANI Sound Team \"PON\"",
     "bpm": 168,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -34882,7 +34882,7 @@ export const songs: Song[] = [
     "title": "Devil’s Rule",
     "artist": "BEMANI Sound Team \"Yvya\"",
     "bpm": 220,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -34969,7 +34969,7 @@ export const songs: Song[] = [
     "title": "新蛇姫",
     "artist": "BEMANI Sound Team \"U1-ASAMi\"",
     "bpm": 115,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -34998,7 +34998,7 @@ export const songs: Song[] = [
     "title": "ちくわパフェだよ☆ＣＫＰ (Yvya Remix)",
     "artist": "Remixed by BEMANI Sound Team \"Yvya\"",
     "bpm": 205,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -35027,7 +35027,7 @@ export const songs: Song[] = [
     "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
     "artist": "Remixed by BEMANI Sound Team \"ZAQUVA\"",
     "bpm": 200,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -35056,7 +35056,7 @@ export const songs: Song[] = [
     "title": "Kilonova",
     "artist": "BEMANI Sound Team \"Yvya\"",
     "bpm": 150,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -35085,7 +35085,7 @@ export const songs: Song[] = [
     "title": "Indigo Nocturne",
     "artist": "BEMANI Sound Team \"Power Of Nature\"",
     "bpm": 150,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -35114,7 +35114,7 @@ export const songs: Song[] = [
     "title": "White Stream",
     "artist": "BEMANI Sound Team \"ZAQUVA\"",
     "bpm": 222,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -35143,7 +35143,7 @@ export const songs: Song[] = [
     "title": "[ ]DENTITY",
     "artist": "BEMANI Sound Team \"HuΣeR\"",
     "bpm": 200,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -35172,7 +35172,7 @@ export const songs: Song[] = [
     "title": "輪廻の鴉",
     "artist": "BEMANI Sound Team \"dj TAKA\"",
     "bpm": 198,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -35201,7 +35201,7 @@ export const songs: Song[] = [
     "title": "VOLAQUAS -GITADO ROCK ver.-",
     "artist": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
     "bpm": 212,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 6,
@@ -35288,7 +35288,7 @@ export const songs: Song[] = [
     "title": "Touch Me",
     "artist": "BEMANI Sound Team \"GekiReco & Sota F.\"",
     "bpm": 136,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -35317,7 +35317,7 @@ export const songs: Song[] = [
     "title": "ROCK THE PARTY",
     "artist": "BEMANI Sound Team \"KE!JU\"",
     "bpm": 128,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -35346,7 +35346,7 @@ export const songs: Song[] = [
     "title": "mathematical good-bye",
     "artist": "三代目 ADULTIC TEACHERS feat. BEMANI Sound Team \"スコーピオン志村\"",
     "bpm": 182,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -35375,7 +35375,7 @@ export const songs: Song[] = [
     "title": "Hexer",
     "artist": "BEMANI Sound Team \"Yvya\"",
     "bpm": 165,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 6,
@@ -36042,7 +36042,7 @@ export const songs: Song[] = [
     "title": "6次の隔たり",
     "artist": "BEMANI Sound Team \"Sota F. Remixed by Coyaan\"",
     "bpm": 134,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 1,
@@ -36158,7 +36158,7 @@ export const songs: Song[] = [
     "title": "Eternal Dream",
     "artist": "BEMANI Sound Team \"Coyaan\"",
     "bpm": 144,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 2,
@@ -36245,7 +36245,7 @@ export const songs: Song[] = [
     "title": "Icicle Cube",
     "artist": "BEMANI Sound Team \"KE!JU\"",
     "bpm": 175,
-    "genre": "ポップス",
+    "genre": "コナミオリジナル",
     "difficulties": {
       "basic": {
         "level": 4,
