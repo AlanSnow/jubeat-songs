@@ -16,7 +16,7 @@ const CONFIG = {
   pages: {
     newSongs: 'https://bemaniwiki.com/?jubeat%20Ave.%2F%BF%B7%B6%CA%A5%EA%A5%B9%A5%C8',
     oldSongs: 'https://bemaniwiki.com/?jubeat%20Ave.%2F%B5%EC%B6%CA%A5%EA%A5%B9%A5%C8',
-    deletedSongs: 'https://bemaniwiki.com/?jubeat%20Ave.%2F%BA%EF%BD%FC%B6%CA%A5%EA%A5%B9%A5%C8',
+    btaSongs: 'https://bemaniwiki.com/?jubeat+beyond+the+Ave.%2F%BF%B7%B6%CA%A5%EA%A5%B9%A5%C8',
   }
 };
 
@@ -56,6 +56,19 @@ function cleanText(text) {
 function extractDate(text) {
   const match = text.match(/(\d{4}\/\d{2}\/\d{2})/);
   return match ? match[1].replace(/\//g, '-') : '';
+}
+
+// BTA 发布日期 (2023-09-20 作为分界)
+const BTA_RELEASE_DATE = '2023-09-20';
+
+// 判断是否为 BTA 版本
+function isBTAVersion(date, version) {
+  // 只有 Ave. 版本的曲目需要判断
+  if (version !== 'Ave.' && !version.includes('beyond')) return version;
+  if (!date) return version === 'Ave.' ? 'Ave.' : version;
+  
+  // 2023-09-20 之后 = BTA
+  return date >= BTA_RELEASE_DATE ? 'Beyond the Ave.' : 'Ave.';
 }
 
 // 解析歌曲表格（带上下文）
@@ -119,7 +132,8 @@ function parseTablesWithContext($) {
       if (song && song.title && song.difficulties?.extreme?.level > 0) {
         song.releaseDate = currentDate;
         song.event = currentEvent;
-        song.version = currentVersion || 'Ave.';
+        // 判断版本：Ave. 或 Beyond the Ave.
+        song.version = isBTAVersion(currentDate, currentVersion || 'Ave.');
         songs.push(song);
         count++;
       }
@@ -200,7 +214,15 @@ async function main() {
     console.log(`新曲: ${newSongs.length} 首`);
     allSongs.push(...newSongs);
 
-    // 2. 旧曲リスト
+    // 2. BTA 新曲リスト
+    console.log('\n=== BTA 新曲リスト ===');
+    const btaHtml = await downloadPage(CONFIG.pages.btaSongs,
+      path.join(CONFIG.cacheDir, 'bta-new-songs.html'));
+    const btaSongs = parseTablesWithContext(cheerio.load(btaHtml));
+    console.log(`BTA 新曲: ${btaSongs.length} 首`);
+    allSongs.push(...btaSongs);
+
+    // 3. 旧曲リスト
     console.log('\n=== 旧曲リスト ===');
     const oldHtml = await downloadPage(CONFIG.pages.oldSongs,
       path.join(CONFIG.cacheDir, 'old-songs.html'));

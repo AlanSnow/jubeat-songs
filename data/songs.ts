@@ -2,7 +2,7 @@ import { Song } from '../lib/types';
 
 export const songs: Song[] = [
   {
-    "id": "jbt-0-flod",
+    "id": "jbt-0-fl2i",
     "title": "一途(映画『劇場版 呪術廻戦 0』主題歌)",
     "subtitle": "(映画『劇場版 呪術廻戦 0』主題歌)",
     "artist": "(King Gnu)",
@@ -28,7 +28,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--2l3c",
+    "id": "jbt--s7js",
     "title": "神っぽいな",
     "artist": "ピノキオピー",
     "genre": "ポップス",
@@ -53,7 +53,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Silvermelodia-ugj9",
+    "id": "jbt-Silvermelodia-wexl",
     "title": "銀の旋律-Silver melodia-",
     "artist": "ちょこふぁん",
     "genre": "東方アレンジ",
@@ -78,7 +78,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--dtxm",
+    "id": "jbt--97yv",
     "title": "東京テディベア",
     "artist": "Neru",
     "genre": "ポップス",
@@ -103,7 +103,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-NewWorld-r4yr",
+    "id": "jbt-NewWorld-53yr",
     "title": "New World",
     "artist": "FELT",
     "genre": "東方アレンジ",
@@ -128,7 +128,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--0xtr",
+    "id": "jbt--92be",
     "title": "ネトゲ廃人シュプレヒコール",
     "artist": "さつき が てんこもり",
     "genre": "ポップス",
@@ -153,7 +153,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--y2f4",
+    "id": "jbt--q2b9",
     "title": "ハウリング",
     "artist": "Liz Triangle",
     "genre": "東方アレンジ",
@@ -178,7 +178,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--bmcj",
+    "id": "jbt--iks5",
     "title": "ヒトガタ",
     "artist": "HIMEHINA",
     "genre": "ポップス",
@@ -203,7 +203,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-TVSPYFAMILY-h1o0",
+    "id": "jbt-TVSPYFAMILY-rods",
     "title": "ミックスナッツ(TVアニメ『SPY×FAMILY』オープニング主題歌)",
     "subtitle": "(TVアニメ『SPY×FAMILY』オープニング主題歌)",
     "artist": "(Official髭男dism)",
@@ -229,7 +229,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--1sji",
+    "id": "jbt--8p1l",
     "title": "エジソン",
     "artist": "水曜日のカンパネラ",
     "genre": "ポップス",
@@ -254,7 +254,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--8zkn",
+    "id": "jbt--hb5w",
     "title": "おにけもだんす",
     "artist": "いろはにほへっと あやふぶみ（白上フブキ、百鬼あやめ、大神ミオ）",
     "genre": "ポップス",
@@ -279,7 +279,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-KINGWORLD-ymz3",
+    "id": "jbt-KINGWORLD-v5g9",
     "title": "KINGWORLD",
     "artist": "白上フブキ",
     "genre": "ポップス",
@@ -304,7 +304,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-BAKATARATION-ecmg",
+    "id": "jbt-BAKATARATION-mx32",
     "title": "進め↑BAKATARATION",
     "artist": "バカタレ共",
     "genre": "ポップス",
@@ -329,7 +329,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Say-i8fy",
+    "id": "jbt-Say-gs8k",
     "title": "Say!ファンファーレ!",
     "artist": "白上フブキ",
     "genre": "ポップス",
@@ -354,7 +354,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-HappinessWorld-xjrc",
+    "id": "jbt-HappinessWorld-g27w",
     "title": "Happiness World",
     "artist": "BABACORN(宝鐘マリン/白上フブキ)",
     "genre": "ポップス",
@@ -379,7 +379,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--qs57",
+    "id": "jbt--9csf",
     "title": "わくわくエブリデイ",
     "artist": "白上フブキ・大神ミオ",
     "genre": "ポップス",
@@ -404,7 +404,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--pm0a",
+    "id": "jbt--cgw4",
     "title": "エンヴィーベイビー",
     "artist": "Kanaria",
     "genre": "ポップス",
@@ -429,7 +429,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--ggio",
+    "id": "jbt--ih9v",
     "title": "テレキャスタービーボーイ",
     "artist": "すりぃ",
     "genre": "ポップス",
@@ -454,7 +454,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--5b36",
+    "id": "jbt--etdg",
     "title": "ラグトレイン",
     "artist": "稲葉曇",
     "genre": "ポップス",
@@ -479,7 +479,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-PureRude-qfeb",
+    "id": "jbt-PureRude-3do3",
     "title": "Pure Rude",
     "artist": "kors k",
     "genre": "ポップス",
@@ -504,7 +504,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-AMBERGRIS-euia",
+    "id": "jbt-AMBERGRIS-z5gw",
     "title": "AMBERGRIS",
     "artist": "かめりあ",
     "genre": "ポップス",
@@ -529,7 +529,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-DrenchedinAir-raj5",
+    "id": "jbt-DrenchedinAir-eqml",
     "title": "Drenched in Air",
     "artist": "Camellia ft. Ninomae Ina'nis",
     "genre": "ポップス",
@@ -554,7 +554,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-DENPANEVERDIE-wrm5",
+    "id": "jbt-DENPANEVERDIE-r2mo",
     "title": "DENPA NEVER DIE",
     "artist": "かめりあ feat. ななひら",
     "genre": "ポップス",
@@ -579,7 +579,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-GrayHeaven-cq8d",
+    "id": "jbt-GrayHeaven-nuwg",
     "title": "Gray Heaven",
     "artist": "かめりあ",
     "genre": "ポップス",
@@ -604,7 +604,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--4ieg",
+    "id": "jbt--9h41",
     "title": "灰の羽搏",
     "artist": "かめりあ feat. かめりあ",
     "genre": "ポップス",
@@ -629,7 +629,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--93zo",
+    "id": "jbt--nem7",
     "title": "凛として咲く花の如く",
     "artist": "大神ミオ",
     "genre": "ポップス",
@@ -654,7 +654,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-AwakeningWings-fafh",
+    "id": "jbt-AwakeningWings-1htj",
     "title": "Awakening Wings",
     "artist": "伊達朱里紗",
     "genre": "ポップス",
@@ -679,7 +679,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-ExploreEveryAve-zyxe",
+    "id": "jbt-ExploreEveryAve-zlf8",
     "title": "Explore Every Ave.",
     "artist": "BEMANI Sound Team \"SYUNN\"",
     "genre": "ポップス",
@@ -704,7 +704,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Flyingsoda-jo37",
+    "id": "jbt-Flyingsoda-ewo7",
     "title": "Flying soda",
     "artist": "猫叉Master feat.林ももこ",
     "genre": "ポップス",
@@ -729,7 +729,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-VictoryoftheCen-u17r",
+    "id": "jbt-VictoryoftheCen-c7e3",
     "title": "Victory of the Century",
     "artist": "BEMANI Sound Team \"TAG\"",
     "genre": "ポップス",
@@ -754,7 +754,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-ReincarnationOf-vowp",
+    "id": "jbt-ReincarnationOf-20kx",
     "title": "Reincarnation Of Dead Petal",
     "artist": "BEMANI Sound Team \"Akhuta Works\"",
     "genre": "ポップス",
@@ -779,7 +779,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-ZIGZAGCOWBOY-ttrn",
+    "id": "jbt-ZIGZAGCOWBOY-jvuo",
     "title": "ZIGZAG COWBOY",
     "artist": "BEMANI Sound Team \"劇団レコード\"",
     "genre": "ポップス",
@@ -804,7 +804,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-MrREAPER-0srr",
+    "id": "jbt-MrREAPER-u05j",
     "title": "Mr.REAPER",
     "artist": "ekaΩ feat.ロクナナハチ",
     "genre": "ポップス",
@@ -829,7 +829,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Cranberry-u5v9",
+    "id": "jbt-Cranberry-9nk4",
     "title": "Cranberry",
     "artist": "BEMANI Sound Team \"肥塚良彦\"",
     "genre": "ポップス",
@@ -854,7 +854,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-LiarGirl-rw5e",
+    "id": "jbt-LiarGirl-g9h3",
     "title": "Liar×Girl",
     "artist": "BEMANI Sound Team \"HuΣeR\" feat.ゆきまめ",
     "genre": "ポップス",
@@ -879,7 +879,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--px67",
+    "id": "jbt--ktpm",
     "title": "†渚のリベンジΣ脈あり!?バケェ～ション†",
     "artist": "とろピカるサマー☆Prim",
     "genre": "ポップス",
@@ -904,7 +904,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Elysionexmachin-6na5",
+    "id": "jbt-Elysionexmachin-ducs",
     "title": "Elysion ex machina",
     "artist": "OSTER project",
     "genre": "ポップス",
@@ -929,7 +929,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-TimeLapse-kcw5",
+    "id": "jbt-TimeLapse-ioq5",
     "title": "Time Lapse",
     "artist": "Hommarju",
     "genre": "ポップス",
@@ -954,7 +954,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-brownhawkowl-nz99",
+    "id": "jbt-brownhawkowl-5nbg",
     "title": "brown hawk owl",
     "artist": "BEMANI Sound Team \"S-C-U\"",
     "genre": "ポップス",
@@ -979,7 +979,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-LostDream-cyxu",
+    "id": "jbt-LostDream-shm5",
     "title": "Lost Dream",
     "artist": "Tatsunoshin",
     "genre": "ポップス",
@@ -1004,7 +1004,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-CrackpotEvangel-147a",
+    "id": "jbt-CrackpotEvangel-devq",
     "title": "Crackpot Evangelist",
     "artist": "BEMANI Sound Team \"ZAQUVA\"",
     "genre": "ポップス",
@@ -1029,7 +1029,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-beat-jhu8",
+    "id": "jbt-beat-19fj",
     "title": "和beat",
     "artist": "Flash back Dominant",
     "genre": "ポップス",
@@ -1054,7 +1054,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--48tx",
+    "id": "jbt--6xes",
     "title": "見えない星の渡り方",
     "artist": "Capchii feat. ことの",
     "genre": "ポップス",
@@ -1079,7 +1079,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Anubis-8844",
+    "id": "jbt-Anubis-hqdj",
     "title": "Anubis",
     "artist": "ARForest",
     "genre": "ポップス",
@@ -1104,7 +1104,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-FlyAbove-24qu",
+    "id": "jbt-FlyAbove-2h9q",
     "title": "Fly Above",
     "artist": "Sota Fujimori",
     "genre": "ポップス",
@@ -1129,7 +1129,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Chewingood-i7vj",
+    "id": "jbt-Chewingood-6e27",
     "title": "Chewingood!!!",
     "artist": "TORIENA",
     "genre": "ポップス",
@@ -1154,7 +1154,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-VirusFunk-38km",
+    "id": "jbt-VirusFunk-35u4",
     "title": "Virus Funk",
     "artist": "Nhato",
     "genre": "ポップス",
@@ -1179,7 +1179,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Slipstream-uiqr",
+    "id": "jbt-Slipstream-xuj2",
     "title": "Slipstream",
     "artist": "lapix",
     "genre": "ポップス",
@@ -1204,7 +1204,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-satfinal-xcu0",
+    "id": "jbt-satfinal-zy35",
     "title": "satfinal",
     "artist": "RAM",
     "genre": "ポップス",
@@ -1229,7 +1229,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Dontbelievetheh-28ro",
+    "id": "jbt-Dontbelievetheh-rxlv",
     "title": "Don't believe the hype",
     "artist": "DJ Mass Mad Izm* feat.H14(LEONAIR)",
     "genre": "ポップス",
@@ -1254,7 +1254,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-GoBeyond-hz23",
+    "id": "jbt-GoBeyond-m33j",
     "title": "Go Beyond!!",
     "artist": "Ryu☆ Vs. Sota",
     "genre": "ポップス",
@@ -1279,7 +1279,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-DIAMONDCROSSING-z5zg",
+    "id": "jbt-DIAMONDCROSSING-w1fn",
     "title": "DIAMOND CROSSING",
     "artist": "S-C-U vs L.E.D.",
     "genre": "ポップス",
@@ -1304,7 +1304,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--nyoi",
+    "id": "jbt--2zce",
     "title": "怪獣大戦争",
     "artist": "BEMANI Sound Team \"桃山珍太郎\"",
     "genre": "ポップス",
@@ -1329,7 +1329,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-AfterRain-o70c",
+    "id": "jbt-AfterRain-5edv",
     "title": "After Rain",
     "artist": "PIKASONIC",
     "genre": "ポップス",
@@ -1354,7 +1354,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-manticore-lost",
+    "id": "jbt-manticore-cb5c",
     "title": "manticore",
     "artist": "BEMANI Sound Team \"Amber\"",
     "genre": "ポップス",
@@ -1379,7 +1379,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--pp1x",
+    "id": "jbt--1uqb",
     "title": "シープドリーミン",
     "artist": "テヅカ feat. 大西あみみ",
     "genre": "ポップス",
@@ -1404,7 +1404,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-ometpopcorn-qfuz",
+    "id": "jbt-ometpopcorn-5npy",
     "title": "€omet popcorn",
     "artist": "pan",
     "genre": "ポップス",
@@ -1429,7 +1429,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-archivezip-t4bs",
+    "id": "jbt-archivezip-2yra",
     "title": "archive::zip",
     "artist": "kamome sano",
     "genre": "ポップス",
@@ -1454,7 +1454,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-I-wgud",
+    "id": "jbt-I-oxvn",
     "title": "I",
     "artist": "黒魔",
     "genre": "ポップス",
@@ -1479,7 +1479,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-ReachTheSky-4adq",
+    "id": "jbt-ReachTheSky-g287",
     "title": "Reach The Sky",
     "artist": "YUKIYANAGI",
     "genre": "ポップス",
@@ -1504,7 +1504,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-FreewayShuffle-44il",
+    "id": "jbt-FreewayShuffle-1mkn",
     "title": "Freeway Shuffle",
     "artist": "dj TAKA",
     "genre": "ポップス",
@@ -1529,7 +1529,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Lalibertad-2nfs",
+    "id": "jbt-Lalibertad-n235",
     "title": "La libertad",
     "artist": "Cheryl Horrocks",
     "genre": "ポップス",
@@ -1554,7 +1554,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-PierceTheSky-ae06",
+    "id": "jbt-PierceTheSky-tznj",
     "title": "Pierce The Sky",
     "artist": "JAKAZiD feat. K.N.",
     "genre": "ポップス",
@@ -1579,7 +1579,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-HAPPYLUCKYYEAPP-7x9b",
+    "id": "jbt-HAPPYLUCKYYEAPP-p2nl",
     "title": "HAPPY☆LUCKY☆YEAPPY",
     "artist": "DJ ミラクル☆ストーン",
     "genre": "ポップス",
@@ -1604,7 +1604,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-outoffocus-1h50",
+    "id": "jbt-outoffocus-u2ac",
     "title": "out of focus",
     "artist": "Qrispy Joybox",
     "genre": "ポップス",
@@ -1629,7 +1629,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-nightbirdlostwi-72ko",
+    "id": "jbt-nightbirdlostwi-iheg",
     "title": "nightbird lost wing",
     "artist": "猫叉Master+",
     "genre": "ポップス",
@@ -1654,7 +1654,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--vy4a",
+    "id": "jbt--klye",
     "title": "エンドルフィン",
     "artist": "U1 overground",
     "genre": "ポップス",
@@ -1679,7 +1679,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-BlewMyMind-chbu",
+    "id": "jbt-BlewMyMind-jkle",
     "title": "Blew My Mind",
     "artist": "Sota F.",
     "genre": "ポップス",
@@ -1704,7 +1704,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-InsanityLuna-n7d1",
+    "id": "jbt-InsanityLuna-at2n",
     "title": "Insanity: Luna",
     "artist": "BEMANI Sound Team \"SYUNN\"",
     "genre": "ポップス",
@@ -1729,7 +1729,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-InsanitySol-aohw",
+    "id": "jbt-InsanitySol-pemk",
     "title": "Insanity: Sol",
     "artist": "BEMANI Sound Team \"Yvya\"",
     "genre": "ポップス",
@@ -1754,7 +1754,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Insanity-5p3c",
+    "id": "jbt-Insanity-jyi1",
     "title": "Insanity",
     "artist": "BEMANI Sound Team \"SYUNN & Yvya\"",
     "genre": "ポップス",
@@ -1779,7 +1779,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-IWUIWantU-z1yd",
+    "id": "jbt-IWUIWantU-e01c",
     "title": "I-W-U (I Want U)",
     "artist": "nagomu tamaki",
     "genre": "ポップス",
@@ -1804,7 +1804,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Love2Shuffle-tksx",
+    "id": "jbt-Love2Shuffle-rpoj",
     "title": "Love 2 Shuffle",
     "artist": "BEMANI Sound Team \"Sota F.\" feat. Starbitz",
     "genre": "ポップス",
@@ -1829,7 +1829,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-MONOLITH-v255",
+    "id": "jbt-MONOLITH-j6q5",
     "title": "MONOLITH",
     "artist": "TOMOSUKE",
     "genre": "ポップス",
@@ -1854,7 +1854,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-DanceWithTheDea-mqjz",
+    "id": "jbt-DanceWithTheDea-bao2",
     "title": "Dance With The Dead",
     "artist": "BEMANI Sound Team \"SYUNN\"",
     "genre": "ポップス",
@@ -1879,7 +1879,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-Metamorphic-ypq9",
+    "id": "jbt-Metamorphic-n5e1",
     "title": "Metamorphic",
     "artist": "BEMANI Sound Team \"Sota Fujimori\"",
     "genre": "ポップス",
@@ -1904,7 +1904,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-VOLAQUAS-ryhu",
+    "id": "jbt-VOLAQUAS-1657",
     "title": "VOLAQUAS",
     "artist": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
     "genre": "ポップス",
@@ -1929,7 +1929,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--m8c4",
+    "id": "jbt--11bo",
     "title": "パーフェクトイーター",
     "artist": "BEMANI Sound Team \"PON\" feat.かなたん",
     "genre": "ポップス",
@@ -1954,7 +1954,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt-saucer-j1q4",
+    "id": "jbt-saucer-ovnz",
     "title": "saucer",
     "artist": "Daily Lunch Special [ 2 ]",
     "genre": "ポップス",
@@ -1979,7 +1979,3032 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--sbvb",
+    "id": "jbt--sn10",
+    "title": "ギザバ怪文書",
+    "artist": "cosMo@暴走P",
+    "genre": "ポップス",
+    "bpm": 280,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 248
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 545
+      },
+      "extreme": {
+        "level": 9.8,
+        "notes": 866
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--l8u3",
+    "title": "少女レイ",
+    "artist": "みきとP",
+    "genre": "ポップス",
+    "bpm": 150,
+    "difficulties": {
+      "basic": {
+        "level": 1,
+        "notes": 96
+      },
+      "advanced": {
+        "level": 4,
+        "notes": 228
+      },
+      "extreme": {
+        "level": 7,
+        "notes": 416
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--hlpj",
+    "title": "ちゅ、多様性。",
+    "artist": "ano",
+    "genre": "ポップス",
+    "bpm": 153,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 123
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 287
+      },
+      "extreme": {
+        "level": 9,
+        "notes": 534
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--04wc",
+    "title": "トウキョウ・シャンディ・ランデヴ",
+    "artist": "(MAISONdes feat. 花譜, ツミキ)",
+    "genre": "ポップス",
+    "bpm": 137,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 232
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 413
+      },
+      "extreme": {
+        "level": 9.3,
+        "notes": 731
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--shj5",
+    "title": "魔法少女とチョコレゐト",
+    "artist": "ピノキオピー",
+    "genre": "ポップス",
+    "bpm": 150,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 260
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 412
+      },
+      "extreme": {
+        "level": 9.2,
+        "notes": 822
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--1hz6",
+    "title": "やっぱり雨は降るんだね",
+    "artist": "ツユ",
+    "genre": "ポップス",
+    "bpm": 130,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 170
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 298
+      },
+      "extreme": {
+        "level": 9,
+        "notes": 646
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-PONPONPARADE-kkwa",
+    "title": "PON☆PON☆PARADE",
+    "artist": "キノシタ",
+    "genre": "ポップス",
+    "bpm": 194,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 186
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 349
+      },
+      "extreme": {
+        "level": 9.3,
+        "notes": 838
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-10-12",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--9szw",
+    "title": "ネハン",
+    "artist": "Somari",
+    "genre": "ポップス",
+    "bpm": 130,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 299
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 526
+      },
+      "extreme": {
+        "level": 9.4,
+        "notes": 833
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-10-17",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--0u14",
+    "title": "あおばの足音",
+    "artist": "駄菓子O型",
+    "genre": "ポップス",
+    "bpm": 98,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 136
+      },
+      "advanced": {
+        "level": 4,
+        "notes": 335
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 579
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-12",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--qg0t",
+    "title": "覚悟せよ！エンタンメ～ン ～より身の切り売り自暴自棄版～",
+    "artist": "マキシウキョウ",
+    "genre": "ポップス",
+    "bpm": 141,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 340
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 579
+      },
+      "extreme": {
+        "level": 9.4,
+        "notes": 841
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-12",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--ess7",
+    "title": "ギャ・ギャ・ギャ・ギャラクシー！",
+    "artist": "つきみぐー、",
+    "genre": "ポップス",
+    "bpm": 140,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 271
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 631
+      },
+      "extreme": {
+        "level": 9.4,
+        "notes": 888
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-19",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--qfmw",
+    "title": "悲報！ワイ！ニート！",
+    "artist": "Shu",
+    "genre": "ポップス",
+    "bpm": 165,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 365
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 683
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 934
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-19",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--bgku",
+    "title": "アイスクリームマジック",
+    "artist": "雪乃イト",
+    "genre": "ポップス",
+    "bpm": 110,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 213
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 432
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 642
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-26",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--inxe",
+    "title": "エクスプロウル",
+    "artist": "晴いちばん",
+    "genre": "ポップス",
+    "bpm": 164,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 201
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 514
+      },
+      "extreme": {
+        "level": 9.2,
+        "notes": 793
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-26",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-darinGGamers-ojhi",
+    "title": "darinGGamers",
+    "artist": "バンドじゃないもん!MAXX NAKAYOSHI",
+    "genre": "ポップス",
+    "bpm": 160,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 168
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 384
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 608
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-07-30",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-HelpmeERINNNNNN-90mk",
+    "title": "Help me, ERINNNNNN!!",
+    "artist": "ビートまりお",
+    "genre": "東方アレンジ",
+    "bpm": 185,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 330
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 634
+      },
+      "extreme": {
+        "level": 10.3,
+        "notes": 986
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-09-03",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--608d",
+    "title": "メズマライザー",
+    "artist": "サツキ",
+    "genre": "ポップス",
+    "bpm": 185,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 294
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 666
+      },
+      "extreme": {
+        "level": 9.5,
+        "notes": 988
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-09-10",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-BasslineCrack-9q4h",
+    "title": "Bassline Crack",
+    "artist": "Getty",
+    "genre": "ポップス",
+    "bpm": 175,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 305
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 651
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 968
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-12-24",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--aw58",
+    "title": "てぇてぇアイデンティティ",
+    "artist": "そりっどびーつ",
+    "genre": "ポップス",
+    "bpm": 165,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 294
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 589
+      },
+      "extreme": {
+        "level": 9.2,
+        "notes": 861
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2026-01-28",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-GIRL-j5i1",
+    "title": "デビルGIRL",
+    "artist": "Somari",
+    "genre": "ポップス",
+    "bpm": 180,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 339
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 662
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 958
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2026-02-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--tlz4",
+    "title": "ハウトゥワープ",
+    "artist": "ナユタン星人",
+    "genre": "ポップス",
+    "bpm": 155,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 222
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 427
+      },
+      "extreme": {
+        "level": 9.1,
+        "notes": 770
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2026-03-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-HIDEAWAY-wog6",
+    "title": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+    "artist": "SOUND HOLIC Vs. BEMANI Sound Team \"KE!JU\" feat. Nana Takahashi",
+    "genre": "東方アレンジ",
+    "bpm": 160,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 240
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 492
+      },
+      "extreme": {
+        "level": 9.3,
+        "notes": 847
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2025-03-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--5hd5",
+    "title": "弾幕信仰",
+    "artist": "豚乙女×BEMANI Sound Team \"PON\"",
+    "genre": "東方アレンジ",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 372
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 639
+      },
+      "extreme": {
+        "level": 9.5,
+        "notes": 978
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2025-04-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-SUPERHEROINE-r59l",
+    "title": "SUPER HEROINE!!",
+    "artist": "Amateras Records vs BEMANI Sound Team \"TATSUYA\" feat. miko",
+    "genre": "東方アレンジ",
+    "bpm": 186,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 329
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 531
+      },
+      "extreme": {
+        "level": 10.1,
+        "notes": 764
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2025-05-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--n0bz",
+    "title": "閉塞的フレーション",
+    "artist": "Pizuya's Cell VS BEMANI Sound Team \"dj TAKA\"",
+    "genre": "東方アレンジ",
+    "bpm": 176,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 464
+      },
+      "advanced": {
+        "level": 9.6,
+        "notes": 807
+      },
+      "extreme": {
+        "level": 10.5,
+        "notes": 1020
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2025-06-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--c2br",
+    "title": "ポラリスノウタ",
+    "artist": "ここなつ2.0",
+    "genre": "ポップス",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 284
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 451
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 735
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-12-21",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-AmazingBomberma-q023",
+    "title": "Amazing Bomberman",
+    "artist": "TESSEI TOJO",
+    "genre": "ポップス",
+    "bpm": 175,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 156
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 426
+      },
+      "extreme": {
+        "level": 9.4,
+        "notes": 695
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-09",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--y386",
+    "title": "はらぺこヒーロー",
+    "artist": "回せ！グルーヴ開発部",
+    "genre": "ポップス",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 191
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 493
+      },
+      "extreme": {
+        "level": 9.2,
+        "notes": 784
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-16",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-CRAZYARTS-8hck",
+    "title": "CRAZY ARTS",
+    "artist": "FAKE TYPE.",
+    "genre": "ポップス",
+    "bpm": 132,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 205
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 396
+      },
+      "extreme": {
+        "level": 9.6,
+        "notes": 647
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-23",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--1fw7",
+    "title": "イマココ！この瞬間",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 152,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 181
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 393
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 616
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-02-14",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--g81x",
+    "title": "ロマンシングエスケープ",
+    "artist": "ここなつ2.0",
+    "genre": "ポップス",
+    "bpm": 132,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 152
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 295
+      },
+      "extreme": {
+        "level": 7,
+        "notes": 427
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-02-14",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--47d1",
+    "title": "華麗なる！音戯探偵ひなビタ♫",
+    "artist": "音戯探偵ひなビタ♫",
+    "genre": "ポップス",
+    "bpm": 72,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 159
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 442
+      },
+      "extreme": {
+        "level": 9.6,
+        "notes": 820
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2026-02-19",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-SignsandWonders-tune",
+    "title": "Signs and Wonders",
+    "artist": "ネオン(CV:藤川茜)、芽兎めう(CV:五十嵐裕美)",
+    "genre": "ポップス",
+    "bpm": 196,
+    "difficulties": {
+      "basic": {
+        "level": 1,
+        "notes": 98
+      },
+      "advanced": {
+        "level": 3,
+        "notes": 186
+      },
+      "extreme": {
+        "level": 6,
+        "notes": 393
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2026-02-24",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-beyondtheAve-r3n2",
+    "title": "beyond the Ave.",
+    "artist": "BEMANI Sound Team \"SYUNN\"",
+    "genre": "ポップス",
+    "bpm": 135,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 175
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 372
+      },
+      "extreme": {
+        "level": 9.5,
+        "notes": 690
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--vwim",
+    "title": "幻想リフレクト",
+    "artist": "イルカブ",
+    "genre": "ポップス",
+    "bpm": 138,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 189
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 293
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 603
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-IGNITETHEIRONHE-yxc9",
+    "title": "IGNITE THE IRON HEART",
+    "artist": "BEMANI Sound Team \"L.E.D.\"",
+    "genre": "ポップス",
+    "bpm": 100,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 253
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 467
+      },
+      "extreme": {
+        "level": 9.3,
+        "notes": 819
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--n5if",
+    "title": "アヤノトリ",
+    "artist": "BEMANI Sound Team \"PHQUASE\" feat.ななひら",
+    "genre": "ポップス",
+    "bpm": 137,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 283
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 560
+      },
+      "extreme": {
+        "level": 10,
+        "notes": 867
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-KrackYourSoul-7lzx",
+    "title": "Krack Your Soul",
+    "artist": "Daisuke Ohnuma",
+    "genre": "ポップス",
+    "bpm": 130,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 248
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 461
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 726
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Fate-llok",
+    "title": "Fate",
+    "artist": "BEMANI Sound Team \"TATSUYA\"",
+    "genre": "ポップス",
+    "bpm": 200,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 313
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 502
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 837
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Croissant-g1kk",
+    "title": "Croissant",
+    "artist": "BEMANI Sound Team \"Expander\"",
+    "genre": "ポップス",
+    "bpm": 156,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 252
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 552
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 863
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Prowler-8j06",
+    "title": "Prowler",
+    "artist": "BEMANI Sound Team \"Yvya\"",
+    "genre": "ポップス",
+    "bpm": 160,
+    "difficulties": {
+      "basic": {
+        "level": 6,
+        "notes": 347
+      },
+      "advanced": {
+        "level": 9.6,
+        "notes": 640
+      },
+      "extreme": {
+        "level": 10.5,
+        "notes": 881
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-praynightly6-zqdw",
+    "title": "pray nightly*6",
+    "artist": "BEMANI Sound Team \"猫叉Master\"",
+    "genre": "ポップス",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 333
+      },
+      "advanced": {
+        "level": 9.7,
+        "notes": 625
+      },
+      "extreme": {
+        "level": 10.7,
+        "notes": 777
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Thanats-d213",
+    "title": "Thanatøs",
+    "artist": "RoughSketch",
+    "genre": "ポップス",
+    "bpm": 200,
+    "difficulties": {
+      "basic": {
+        "level": 8,
+        "notes": 856
+      },
+      "advanced": {
+        "level": 10.4,
+        "notes": 1049
+      },
+      "extreme": {
+        "level": 10.9,
+        "notes": 1219
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Stylus-c4k3",
+    "title": "Stylus",
+    "artist": "BEMANI Sound Team \"HuΣeR\"",
+    "genre": "ポップス",
+    "bpm": 165,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 335
+      },
+      "advanced": {
+        "level": 9,
+        "notes": 587
+      },
+      "extreme": {
+        "level": 10,
+        "notes": 754
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-QQ-s617",
+    "title": "QQ",
+    "artist": "BEMANI Sound Team \"PHQUASE & ZAQUVA\"",
+    "genre": "ポップス",
+    "bpm": 199,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 399
+      },
+      "advanced": {
+        "level": 9.9,
+        "notes": 699
+      },
+      "extreme": {
+        "level": 10.7,
+        "notes": 999
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-IceCandyCoaster-h1h5",
+    "title": "Ice Candy Coaster",
+    "artist": "irucaice / いるかアイス",
+    "genre": "ポップス",
+    "bpm": 226,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 433
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 689
+      },
+      "extreme": {
+        "level": 10.3,
+        "notes": 988
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--cq6k",
+    "title": "チックタック＠ラビリンス",
+    "artist": "Tanchiky",
+    "genre": "ポップス",
+    "bpm": 185,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 497
+      },
+      "advanced": {
+        "level": 9.3,
+        "notes": 728
+      },
+      "extreme": {
+        "level": 10.2,
+        "notes": 834
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-4x4ParallelUniv-78om",
+    "title": "4x4 Parallel Universe",
+    "artist": "kamome sano",
+    "genre": "ポップス",
+    "bpm": 140,
+    "difficulties": {
+      "basic": {
+        "level": 6,
+        "notes": 437
+      },
+      "advanced": {
+        "level": 9.5,
+        "notes": 768
+      },
+      "extreme": {
+        "level": 10.6,
+        "notes": 974
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-MusicU-t3ai",
+    "title": "Music-U",
+    "artist": "Qrispy Joybox feat.mao",
+    "genre": "ポップス",
+    "bpm": 152,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 252
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 370
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 675
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-HomesickPt23-18n6",
+    "title": "Homesick Pt.2&3",
+    "artist": "ORANGENOISE SHORTCUT",
+    "genre": "ポップス",
+    "bpm": 178,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 195
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 346
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 546
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-nalca-73lp",
+    "title": "nalca",
+    "artist": "onoken",
+    "genre": "ポップス",
+    "bpm": 136,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 251
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 516
+      },
+      "extreme": {
+        "level": 10.3,
+        "notes": 764
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-BILLIONMONEYBAZ-0qz8",
+    "title": "BILLION MONEY BAZOOKA",
+    "artist": "BlackY",
+    "genre": "ポップス",
+    "bpm": 176,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 321
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 607
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 934
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--hyxc",
+    "title": "天鈴少女",
+    "artist": "駄々子",
+    "genre": "ポップス",
+    "bpm": 160,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 216
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 426
+      },
+      "extreme": {
+        "level": 9.3,
+        "notes": 724
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--87np",
+    "title": "恋とメロンとキューピット",
+    "artist": "まろん feat. キャサリン",
+    "genre": "ポップス",
+    "bpm": 162,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 382
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 630
+      },
+      "extreme": {
+        "level": 10.2,
+        "notes": 984
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-space-aia9",
+    "title": "∞space",
+    "artist": "m@sumi",
+    "genre": "ポップス",
+    "bpm": 160,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 186
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 320
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 558
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-247Popperz-rsvz",
+    "title": "24/7 Popperz",
+    "artist": "Power Of Nature",
+    "genre": "ポップス",
+    "bpm": 202,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 406
+      },
+      "advanced": {
+        "level": 9.2,
+        "notes": 742
+      },
+      "extreme": {
+        "level": 10.6,
+        "notes": 1000
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-CaribbeanCoast-d3g9",
+    "title": "Caribbean Coast",
+    "artist": "BEMANI Sound Team \"劇団レコード\"",
+    "genre": "ポップス",
+    "bpm": 132,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 233
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 508
+      },
+      "extreme": {
+        "level": 9.6,
+        "notes": 740
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-EXMASSIVEFIGHTE-s87x",
+    "title": "EX-MASSIVE FIGHTER",
+    "artist": "BEMANI Sound Team \"L.E.D.-G\"",
+    "genre": "ポップス",
+    "bpm": 165,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 296
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 561
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 973
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--6c0p",
+    "title": "さらさ",
+    "artist": "BEMANI Sound Team \"PON\"",
+    "genre": "ポップス",
+    "bpm": 168,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 237
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 413
+      },
+      "extreme": {
+        "level": 9.6,
+        "notes": 809
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Linkup-nvkj",
+    "title": "Link up",
+    "artist": "chocochips",
+    "genre": "ポップス",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 265
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 458
+      },
+      "extreme": {
+        "level": 9,
+        "notes": 761
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-DevilsRule-j743",
+    "title": "Devil’s Rule",
+    "artist": "BEMANI Sound Team \"Yvya\"",
+    "genre": "ポップス",
+    "bpm": 220,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 282
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 523
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 909
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-holic-g14c",
+    "title": "◎holic◎",
+    "artist": "山本真央樹 feat.くりむ",
+    "genre": "ポップス",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 237
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 456
+      },
+      "extreme": {
+        "level": 9.4,
+        "notes": 737
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-THELASTOFFIREFA-zfaz",
+    "title": "THE LAST OF FIREFACE",
+    "artist": "大和",
+    "genre": "ポップス",
+    "bpm": 224,
+    "difficulties": {
+      "basic": {
+        "level": 6,
+        "notes": 367
+      },
+      "advanced": {
+        "level": 9.2,
+        "notes": 669
+      },
+      "extreme": {
+        "level": 10.7,
+        "notes": 1018
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-11-25",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--es6p",
+    "title": "新蛇姫",
+    "artist": "BEMANI Sound Team \"U1-ASAMi\"",
+    "genre": "ポップス",
+    "bpm": 115,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 261
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 662
+      },
+      "extreme": {
+        "level": 9.8,
+        "notes": 964
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-12-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-YvyaRemix-tazj",
+    "title": "ちくわパフェだよ☆ＣＫＰ (Yvya Remix)",
+    "artist": "Remixed by BEMANI Sound Team \"Yvya\"",
+    "genre": "ポップス",
+    "bpm": 205,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 397
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 621
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 986
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-12-21",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-ZAQUVARemix-3zw2",
+    "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
+    "artist": "Remixed by BEMANI Sound Team \"ZAQUVA\"",
+    "genre": "ポップス",
+    "bpm": 200,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 457
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 727
+      },
+      "extreme": {
+        "level": 10.5,
+        "notes": 1010
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2023-12-21",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Kilonova-4wsv",
+    "title": "Kilonova",
+    "artist": "BEMANI Sound Team \"Yvya\"",
+    "genre": "ポップス",
+    "bpm": 150,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 306
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 594
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 824
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-IndigoNocturne-eb49",
+    "title": "Indigo Nocturne",
+    "artist": "BEMANI Sound Team \"Power Of Nature\"",
+    "genre": "ポップス",
+    "bpm": 150,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 330
+      },
+      "advanced": {
+        "level": 9.4,
+        "notes": 750
+      },
+      "extreme": {
+        "level": 10.5,
+        "notes": 990
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-02-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-WhiteStream-j9jo",
+    "title": "White Stream",
+    "artist": "BEMANI Sound Team \"ZAQUVA\"",
+    "genre": "ポップス",
+    "bpm": 222,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 332
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 628
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 966
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-03-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-DENTITY-9xbm",
+    "title": "[ ]DENTITY",
+    "artist": "BEMANI Sound Team \"HuΣeR\"",
+    "genre": "ポップス",
+    "bpm": 200,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 427
+      },
+      "advanced": {
+        "level": 9.3,
+        "notes": 757
+      },
+      "extreme": {
+        "level": 10.7,
+        "notes": 1040
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-04-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--mfu2",
+    "title": "輪廻の鴉",
+    "artist": "BEMANI Sound Team \"dj TAKA\"",
+    "genre": "ポップス",
+    "bpm": 198,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 251
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 521
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 906
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-04-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-VOLAQUASGITADOR-skry",
+    "title": "VOLAQUAS -GITADO ROCK ver.-",
+    "artist": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
+    "genre": "ポップス",
+    "bpm": 212,
+    "difficulties": {
+      "basic": {
+        "level": 6,
+        "notes": 464
+      },
+      "advanced": {
+        "level": 9.6,
+        "notes": 782
+      },
+      "extreme": {
+        "level": 10.6,
+        "notes": 1098
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-04-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--5rx4",
+    "title": "累乗のカルマ",
+    "artist": "めと（Metomate）",
+    "genre": "ポップス",
+    "bpm": 178,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 209
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 429
+      },
+      "extreme": {
+        "level": 9.3,
+        "notes": 840
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2024-07-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Caldwell99-9tem",
+    "title": "Caldwell 99",
+    "artist": "BlackY",
+    "genre": "ポップス",
+    "bpm": 142,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 371
+      },
+      "advanced": {
+        "level": 9.1,
+        "notes": 639
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 925
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2024-08-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-TouchMe-zk37",
+    "title": "Touch Me",
+    "artist": "BEMANI Sound Team \"GekiReco & Sota F.\"",
+    "genre": "ポップス",
+    "bpm": 136,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 167
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 378
+      },
+      "extreme": {
+        "level": 9.5,
+        "notes": 716
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-09-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-ROCKTHEPARTY-5rv4",
+    "title": "ROCK THE PARTY",
+    "artist": "BEMANI Sound Team \"KE!JU\"",
+    "genre": "ポップス",
+    "bpm": 128,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 250
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 532
+      },
+      "extreme": {
+        "level": 9.6,
+        "notes": 880
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-10-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-mathematicalgoo-kw08",
+    "title": "mathematical good-bye",
+    "artist": "三代目 ADULTIC TEACHERS feat. BEMANI Sound Team \"スコーピオン志村\"",
+    "genre": "ポップス",
+    "bpm": 182,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 267
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 614
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 862
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-12-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Hexer-ww9k",
+    "title": "Hexer",
+    "artist": "BEMANI Sound Team \"Yvya\"",
+    "genre": "ポップス",
+    "bpm": 165,
+    "difficulties": {
+      "basic": {
+        "level": 6,
+        "notes": 490
+      },
+      "advanced": {
+        "level": 9.6,
+        "notes": 894
+      },
+      "extreme": {
+        "level": 10.7,
+        "notes": 1099
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Angritte-64mj",
+    "title": "Angritte",
+    "artist": "Lafale",
+    "genre": "ポップス",
+    "bpm": 155,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 302
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 605
+      },
+      "extreme": {
+        "level": 10.1,
+        "notes": 862
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Magicalelectric-a746",
+    "title": "Magical electrica",
+    "artist": "こふ",
+    "genre": "ポップス",
+    "bpm": 156,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 320
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 506
+      },
+      "extreme": {
+        "level": 9.6,
+        "notes": 705
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-SparkleJustice-vcno",
+    "title": "Sparkle Justice",
+    "artist": "VALLEYSTONE&udouddo",
+    "genre": "ポップス",
+    "bpm": 160,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 187
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 407
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 759
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-CapitalismCanno-0e55",
+    "title": "Capitalism Cannon",
+    "artist": "O2i3",
+    "genre": "ポップス",
+    "bpm": 190,
+    "difficulties": {
+      "basic": {
+        "level": 6,
+        "notes": 476
+      },
+      "advanced": {
+        "level": 9.4,
+        "notes": 733
+      },
+      "extreme": {
+        "level": 10.6,
+        "notes": 898
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--a7z1",
+    "title": "クラゲファンタジーソーダ",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 94,
+    "difficulties": {
+      "basic": {
+        "level": 1,
+        "notes": 112
+      },
+      "advanced": {
+        "level": 4,
+        "notes": 296
+      },
+      "extreme": {
+        "level": 6,
+        "notes": 394
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--3v8u",
+    "title": "ハートシェイプ・スピカ",
+    "artist": "ここなつ2.0",
+    "genre": "ポップス",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 198
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 358
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 696
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-cosmicagendaedi-o44z",
+    "title": "cosmic agenda ～一舞 edition～",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 113,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 140
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 257
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 595
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--r6sy",
+    "title": "メモリーズ",
+    "artist": "ここなつ2.0",
+    "genre": "ポップス",
+    "bpm": 136,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 195
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 335
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 595
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--ozhn",
+    "title": "遠く遠く離れていても…",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 80,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 159
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 326
+      },
+      "extreme": {
+        "level": 7,
+        "notes": 469
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-FinallyDive-5ynm",
+    "title": "Finally Dive",
+    "artist": "ここなつ Produced by lapix",
+    "genre": "ポップス",
+    "bpm": 146,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 177
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 330
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 567
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-edition-tic7",
+    "title": "空言の海 ～咲子 edition～",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 92,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 154
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 277
+      },
+      "extreme": {
+        "level": 7,
+        "notes": 396
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--l4ah",
+    "title": "ステラレギア",
+    "artist": "ここなつ2.0",
+    "genre": "ポップス",
+    "bpm": 130,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 186
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 385
+      },
+      "extreme": {
+        "level": 9.1,
+        "notes": 685
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--531k",
+    "title": "寂寞たる世界の終末は",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 144,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 202
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 465
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 622
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-jetcoastergirle-ixln",
+    "title": "jet coaster☆girl ～まり花 edition～",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 180,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 206
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 299
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 521
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--snxv",
+    "title": "双星ルミネセンス",
+    "artist": "一舞 ＆ 夏陽",
+    "genre": "ポップス",
+    "bpm": 210,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 216
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 383
+      },
+      "extreme": {
+        "level": 9,
+        "notes": 680
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-OKedition-o6ia",
+    "title": "恋はどう？モロ◎波動OK☆方程式!! ～めう edition～",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 256,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 277
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 580
+      },
+      "extreme": {
+        "level": 9.4,
+        "notes": 721
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--lzr3",
+    "title": "空の飛び方",
+    "artist": "日向美ビタースイーツ♪",
+    "genre": "ポップス",
+    "bpm": 110,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 149
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 356
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 551
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--17rg",
+    "title": "ムラサキグルマ",
+    "artist": "ここなつ Produced by はるなば",
+    "genre": "ポップス",
+    "bpm": 144,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 351
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 491
+      },
+      "extreme": {
+        "level": 10.3,
+        "notes": 788
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-HAPPYlimelight-9ldv",
+    "title": "HAPPY limelight",
+    "artist": "Qrispy Joybox feat.Megumi Tatsumi",
+    "genre": "ポップス",
+    "bpm": 137,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 157
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 301
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 614
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-ItsmyMiracle-6v5v",
+    "title": "It's my Miracle",
+    "artist": "Another Infinity feat. Mayumi Morinaga",
+    "genre": "ポップス",
+    "bpm": 175,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 251
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 458
+      },
+      "extreme": {
+        "level": 9.1,
+        "notes": 795
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-ILOVECOSMOS-4zmz",
+    "title": "I LOVE COSMOS",
+    "artist": "CHERRY BLOSSOMS (ASAKI & wac)",
+    "genre": "ポップス",
+    "bpm": 197,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 219
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 519
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 1009
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-fallenleaves-435x",
+    "title": "fallen leaves",
+    "artist": "猫叉Master",
+    "genre": "ポップス",
+    "bpm": 165,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 320
+      },
+      "advanced": {
+        "level": 9.3,
+        "notes": 657
+      },
+      "extreme": {
+        "level": 10.5,
+        "notes": 841
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-6-2krk",
+    "title": "6次の隔たり",
+    "artist": "BEMANI Sound Team \"Sota F. Remixed by Coyaan\"",
+    "genre": "ポップス",
+    "bpm": 134,
+    "difficulties": {
+      "basic": {
+        "level": 1,
+        "notes": 123
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 444
+      },
+      "extreme": {
+        "level": 9.1,
+        "notes": 765
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2025-01-01",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-SnowFalcon-408c",
+    "title": "Snow Falcon",
+    "artist": "Mutsuhiko Izumi",
+    "genre": "ポップス",
+    "bpm": 200,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 325
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 549
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 868
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2024-12-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-CUTIE-ohf8",
+    "title": "CUTIE",
+    "artist": "KO3",
+    "genre": "ポップス",
+    "bpm": 126,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 244
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 515
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 767
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2024-12-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-Yelling-37eq",
+    "title": "Yelling",
+    "artist": "Blacklolita",
+    "genre": "ポップス",
+    "bpm": 150,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 256
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 445
+      },
+      "extreme": {
+        "level": 10.3,
+        "notes": 798
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2024-12-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-EternalDream-v2du",
+    "title": "Eternal Dream",
+    "artist": "BEMANI Sound Team \"Coyaan\"",
+    "genre": "ポップス",
+    "bpm": 144,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 145
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 341
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 562
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2024-12-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-BeyondTheEarth-827i",
+    "title": "Beyond The Earth",
+    "artist": "猫叉Master",
+    "genre": "ポップス",
+    "bpm": 140,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 145
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 393
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 645
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2024-12-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-voxelstararise-q5tr",
+    "title": "voxel star arise",
+    "artist": "ああああ",
+    "genre": "ポップス",
+    "bpm": 200,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 360
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 705
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 997
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2024-12-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-IcicleCube-tah3",
+    "title": "Icicle Cube",
+    "artist": "BEMANI Sound Team \"KE!JU\"",
+    "genre": "ポップス",
+    "bpm": 175,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 346
+      },
+      "advanced": {
+        "level": 9.2,
+        "notes": 628
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 911
+      }
+    },
+    "isLicense": false,
+    "releaseDate": "2025-05-02",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--cnru",
+    "title": "ウラシブヤのテーマ",
+    "artist": "ヨっちゃん",
+    "genre": "ポップス",
+    "bpm": 145,
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 286
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 511
+      },
+      "extreme": {
+        "level": 9.3,
+        "notes": 735
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-05-02",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-breakthroughthe-r18i",
+    "title": "break through the clouds",
+    "artist": "Tomoyuki Uchida",
+    "genre": "ポップス",
+    "bpm": 150,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 276
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 489
+      },
+      "extreme": {
+        "level": 9.5,
+        "notes": 865
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-05-02",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt-CresciveVolt-26av",
+    "title": "Crescive Volt",
+    "artist": "Ark-Z",
+    "genre": "ポップス",
+    "bpm": 155,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 276
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 553
+      },
+      "extreme": {
+        "level": 10.4,
+        "notes": 849
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-05-02",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--88f2",
+    "title": "東方アレンジ",
+    "artist": "蒼空に舞え、墨染の桜 [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 150,
+        "notes": 3
+      },
+      "advanced": {
+        "level": 234,
+        "notes": 6
+      },
+      "extreme": {
+        "level": 448,
+        "notes": 9
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-05-02",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--noys",
+    "title": "東方アレンジ",
+    "artist": "WARNING×WARNING×WARNING [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 172,
+        "notes": 3
+      },
+      "advanced": {
+        "level": 246,
+        "notes": 7
+      },
+      "extreme": {
+        "level": 536,
+        "notes": 9
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-05-02",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--3uiv",
+    "title": "東方アレンジ",
+    "artist": "千年ノ理 [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 153,
+        "notes": 4
+      },
+      "advanced": {
+        "level": 332,
+        "notes": 8
+      },
+      "extreme": {
+        "level": 481,
+        "notes": 10
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-05-02",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--gaal",
+    "title": "ソーシャル",
+    "artist": "幻想系世界修復少女 [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 193,
+        "notes": 4
+      },
+      "advanced": {
+        "level": 287,
+        "notes": 7
+      },
+      "extreme": {
+        "level": 444,
+        "notes": 9
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-12",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--dhzo",
+    "title": "ソーシャル",
+    "artist": "エイリアンエイリアン [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 152,
+        "notes": 3
+      },
+      "advanced": {
+        "level": 251,
+        "notes": 7
+      },
+      "extreme": {
+        "level": 591,
+        "notes": 9
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-19",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--kb07",
+    "title": "ソーシャル",
+    "artist": "ケッペキショウ [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 190,
+        "notes": 4
+      },
+      "advanced": {
+        "level": 354,
+        "notes": 7
+      },
+      "extreme": {
+        "level": 589,
+        "notes": 10
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-06-26",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--d5xr",
+    "title": "オリジナル",
+    "artist": "カラフルミニッツ [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 152,
+        "notes": 3
+      },
+      "advanced": {
+        "level": 180,
+        "notes": 6
+      },
+      "extreme": {
+        "level": 354,
+        "notes": 8
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--0tus",
+    "title": "オリジナル",
+    "artist": "New Decade [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 200,
+        "notes": 4
+      },
+      "advanced": {
+        "level": 335,
+        "notes": 8
+      },
+      "extreme": {
+        "level": 522,
+        "notes": 10
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2023-09-20",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--o3jg",
+    "title": "オリジナル",
+    "artist": "AIR RAID FROM THA UNDAGROUND [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 180,
+        "notes": 6
+      },
+      "advanced": {
+        "level": 414,
+        "notes": 9
+      },
+      "extreme": {
+        "level": 676,
+        "notes": 10
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2024-12-04",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--0t12",
+    "title": "オリジナル",
+    "artist": "Never Look Back in Sorrow [ 2 ]",
+    "genre": "ポップス",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 270,
+        "notes": 4
+      },
+      "advanced": {
+        "level": 372,
+        "notes": 8
+      },
+      "extreme": {
+        "level": 556,
+        "notes": 10
+      }
+    },
+    "isLicense": true,
+    "releaseDate": "2025-05-02",
+    "event": "",
+    "version": "Beyond the Ave."
+  },
+  {
+    "id": "jbt--0jzg",
     "title": "オリジナル",
     "artist": "Icicles",
     "genre": "ポップス",
@@ -2004,7 +5029,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--826g",
+    "id": "jbt--o7r1",
     "title": "オリジナル",
     "artist": "あいのうた",
     "genre": "ポップス",
@@ -2029,7 +5054,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--2u3v",
+    "id": "jbt--gjs7",
     "title": "オリジナル",
     "artist": "I love マミー",
     "genre": "ポップス",
@@ -2054,7 +5079,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--1pzh",
+    "id": "jbt--vwkr",
     "title": "オリジナル",
     "artist": "IN THE NAME OF LOVE",
     "genre": "ポップス",
@@ -2079,7 +5104,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--vewv",
+    "id": "jbt--857y",
     "title": "オリジナル",
     "artist": "In Scottish Highlands",
     "genre": "ポップス",
@@ -2104,7 +5129,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--von4",
+    "id": "jbt--171l",
     "title": "オリジナル",
     "artist": "Evans",
     "genre": "ポップス",
@@ -2129,7 +5154,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--ppsz",
+    "id": "jbt--ga3u",
     "title": "オリジナル",
     "artist": "GIGA BREAK",
     "genre": "ポップス",
@@ -2154,7 +5179,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--op0d",
+    "id": "jbt--iwf3",
     "title": "オリジナル",
     "artist": "Crosswind",
     "genre": "ポップス",
@@ -2179,7 +5204,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--uyzs",
+    "id": "jbt--h3hq",
     "title": "オリジナル",
     "artist": "SigSig",
     "genre": "ポップス",
@@ -2204,7 +5229,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--e121",
+    "id": "jbt--xjul",
     "title": "オリジナル",
     "artist": "Jumping Boogie",
     "genre": "ポップス",
@@ -2229,7 +5254,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--d5vc",
+    "id": "jbt--ap4s",
     "title": "オリジナル",
     "artist": "Snow Goose",
     "genre": "ポップス",
@@ -2254,7 +5279,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--o3cz",
+    "id": "jbt--cobc",
     "title": "オリジナル",
     "artist": "Special One",
     "genre": "ポップス",
@@ -2279,7 +5304,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--xo2t",
+    "id": "jbt--14wt",
     "title": "オリジナル",
     "artist": "Slang",
     "genre": "ポップス",
@@ -2304,7 +5329,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--c2y0",
+    "id": "jbt--lpb7",
     "title": "オリジナル",
     "artist": "Chance and Dice",
     "genre": "ポップス",
@@ -2329,7 +5354,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--f8cz",
+    "id": "jbt--lewm",
     "title": "クラシック",
     "artist": "天国と地獄",
     "genre": "ポップス",
@@ -2354,7 +5379,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--5zpp",
+    "id": "jbt--gho0",
     "title": "オリジナル",
     "artist": "TRUE♥LOVE",
     "genre": "ポップス",
@@ -2379,7 +5404,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--jnh1",
+    "id": "jbt--fg8j",
     "title": "オリジナル",
     "artist": "Happy Happy",
     "genre": "ポップス",
@@ -2404,7 +5429,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--6ibh",
+    "id": "jbt--q74i",
     "title": "オリジナル",
     "artist": "bass 2 bass",
     "genre": "ポップス",
@@ -2429,7 +5454,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--t79q",
+    "id": "jbt--x8cx",
     "title": "オリジナル",
     "artist": "Polaris",
     "genre": "ポップス",
@@ -2454,7 +5479,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--hzg5",
+    "id": "jbt--f5fb",
     "title": "オリジナル",
     "artist": "凛として咲く花の如く",
     "genre": "ポップス",
@@ -2479,7 +5504,7 @@ export const songs: Song[] = [
     "version": "Ave."
   },
   {
-    "id": "jbt--rlqu",
+    "id": "jbt--ig7l",
     "title": "オリジナル",
     "artist": "eyes",
     "genre": "ポップス",
@@ -2504,7 +5529,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--7pzm",
+    "id": "jbt--rr4e",
     "title": "オリジナル",
     "artist": "ALBIDA",
     "genre": "ポップス",
@@ -2529,7 +5554,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--76xc",
+    "id": "jbt--u2hp",
     "title": "オリジナル",
     "artist": "INVISIBLE WORLD",
     "genre": "ポップス",
@@ -2554,7 +5579,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--omm1",
+    "id": "jbt--9i2u",
     "title": "クラシック",
     "artist": "ウィリアム・テル序曲",
     "genre": "ポップス",
@@ -2579,7 +5604,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--i0ur",
+    "id": "jbt--b4u7",
     "title": "オリジナル",
     "artist": "AIR RAID FROM THA UNDAGROUND",
     "genre": "ポップス",
@@ -2604,7 +5629,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--q5ys",
+    "id": "jbt--fze9",
     "title": "オリジナル",
     "artist": "ECO FIGHTER",
     "genre": "ポップス",
@@ -2629,7 +5654,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--kj3m",
+    "id": "jbt--wngk",
     "title": "オリジナル",
     "artist": "AREA 51",
     "genre": "ポップス",
@@ -2654,7 +5679,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--vt2t",
+    "id": "jbt--tpb6",
     "title": "オリジナル",
     "artist": "coming true",
     "genre": "ポップス",
@@ -2679,7 +5704,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--cmu1",
+    "id": "jbt--wq5m",
     "title": "オリジナル",
     "artist": "Queen's Paradise",
     "genre": "ポップス",
@@ -2704,7 +5729,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--28wa",
+    "id": "jbt--5zp6",
     "title": "オリジナル",
     "artist": "Good-bye Chalon",
     "genre": "ポップス",
@@ -2729,7 +5754,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--eggr",
+    "id": "jbt--1pmp",
     "title": "オリジナル",
     "artist": "コイノチカラ",
     "genre": "ポップス",
@@ -2754,7 +5779,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--i4bd",
+    "id": "jbt--4vcb",
     "title": "オリジナル",
     "artist": "恋のメリーゴーランド",
     "genre": "ポップス",
@@ -2779,7 +5804,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--kx8c",
+    "id": "jbt--rkhn",
     "title": "オリジナル",
     "artist": "Shining Star",
     "genre": "ポップス",
@@ -2804,7 +5829,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--qrl1",
+    "id": "jbt--d5sg",
     "title": "ポップス",
     "artist": "情熱大陸",
     "genre": "ポップス",
@@ -2829,7 +5854,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--nrcu",
+    "id": "jbt--ma8l",
     "title": "オリジナル",
     "artist": "少年リップルズ",
     "genre": "ポップス",
@@ -2854,7 +5879,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--xc7o",
+    "id": "jbt--yxge",
     "title": "オリジナル",
     "artist": "SWEET ANGEL",
     "genre": "ポップス",
@@ -2879,7 +5904,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--vte0",
+    "id": "jbt--8l8c",
     "title": "オリジナル",
     "artist": "STARLIT DUST/スティルに捧ぐ",
     "genre": "ポップス",
@@ -2904,7 +5929,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--ydlc",
+    "id": "jbt--u5si",
     "title": "オリジナル",
     "artist": "スペースカーニバル",
     "genre": "ポップス",
@@ -2929,7 +5954,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--no7b",
+    "id": "jbt--2t8v",
     "title": "オリジナル",
     "artist": "隅田川夏恋歌",
     "genre": "ポップス",
@@ -2954,7 +5979,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--cl0b",
+    "id": "jbt--5xtm",
     "title": "アニメ",
     "artist": "空色デイズ",
     "genre": "ポップス",
@@ -2979,7 +6004,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--v6xo",
+    "id": "jbt--m8fm",
     "title": "ポップス",
     "artist": "星に願いを",
     "genre": "ポップス",
@@ -3004,7 +6029,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--0fps",
+    "id": "jbt--6rud",
     "title": "ポップス",
     "artist": "HOT LIMIT",
     "genre": "ポップス",
@@ -3029,7 +6054,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--ym4n",
+    "id": "jbt--usxo",
     "title": "オリジナル",
     "artist": "Macuilxochitl",
     "genre": "ポップス",
@@ -3054,7 +6079,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--fmp8",
+    "id": "jbt--qpef",
     "title": "オリジナル",
     "artist": "Lead Me",
     "genre": "ポップス",
@@ -3079,7 +6104,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--1lrw",
+    "id": "jbt--6vd7",
     "title": "オリジナル",
     "artist": "Russian Snowy Dance",
     "genre": "ポップス",
@@ -3104,7 +6129,7 @@ export const songs: Song[] = [
     "version": "jubeat ripples"
   },
   {
-    "id": "jbt--tg47",
+    "id": "jbt--xrx5",
     "title": "アニメ",
     "artist": "R.P.G.～Rockin' Playing Game",
     "genre": "ポップス",
@@ -3129,7 +6154,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--afqx",
+    "id": "jbt--950q",
     "title": "オリジナル",
     "artist": "愛と勇気の三度笠ポン太",
     "genre": "ポップス",
@@ -3154,7 +6179,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--g7lo",
+    "id": "jbt--ff4n",
     "title": "オリジナル",
     "artist": "I'm so Happy",
     "genre": "ポップス",
@@ -3179,7 +6204,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--kvr3",
+    "id": "jbt--bh0d",
     "title": "オリジナル",
     "artist": "うらもからだも落花微塵",
     "genre": "ポップス",
@@ -3204,7 +6229,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--x27y",
+    "id": "jbt--8cqm",
     "title": "オリジナル",
     "artist": "ALL MY HEART -この恋に、わたしの全てを賭ける-",
     "genre": "ポップス",
@@ -3229,7 +6254,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--yzlh",
+    "id": "jbt--0gbf",
     "title": "アニメ",
     "artist": "only my railgun",
     "genre": "ポップス",
@@ -3254,7 +6279,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--zbwv",
+    "id": "jbt--kwdq",
     "title": "オリジナル",
     "artist": "KUNG-FU MAMA",
     "genre": "ポップス",
@@ -3279,7 +6304,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--8ig4",
+    "id": "jbt--pixf",
     "title": "オリジナル",
     "artist": "キルト",
     "genre": "ポップス",
@@ -3304,7 +6329,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--vtmk",
+    "id": "jbt--efwk",
     "title": "オリジナル",
     "artist": "Green Green Dance",
     "genre": "ポップス",
@@ -3329,7 +6354,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--iodd",
+    "id": "jbt--a7ql",
     "title": "ポップス",
     "artist": "元気でやってるのかい?",
     "genre": "ポップス",
@@ -3354,7 +6379,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--yveh",
+    "id": "jbt--3nss",
     "title": "オリジナル",
     "artist": "concon",
     "genre": "ポップス",
@@ -3379,7 +6404,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--472j",
+    "id": "jbt--qwji",
     "title": "オリジナル",
     "artist": "さよならトリップ",
     "genre": "ポップス",
@@ -3404,7 +6429,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--kmtu",
+    "id": "jbt--pv2b",
     "title": "オリジナル",
     "artist": "Jailbreak",
     "genre": "ポップス",
@@ -3429,7 +6454,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--5x0i",
+    "id": "jbt--9wqf",
     "title": "オリジナル",
     "artist": "Shining Wizard",
     "genre": "ポップス",
@@ -3454,7 +6479,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--exhg",
+    "id": "jbt--3wj9",
     "title": "オリジナル",
     "artist": "Shine On Me",
     "genre": "ポップス",
@@ -3479,7 +6504,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--pkv7",
+    "id": "jbt--srmd",
     "title": "ポップス",
     "artist": "じょいふる",
     "genre": "ポップス",
@@ -3504,7 +6529,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--xm3g",
+    "id": "jbt--j0ag",
     "title": "オリジナル",
     "artist": "Sweet Rain",
     "genre": "ポップス",
@@ -3529,7 +6554,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--2wkx",
+    "id": "jbt--fhn6",
     "title": "オリジナル",
     "artist": "STELLAR WIND",
     "genre": "ポップス",
@@ -3554,7 +6579,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--m1py",
+    "id": "jbt--z1a3",
     "title": "オリジナル",
     "artist": "STREET DANCER",
     "genre": "ポップス",
@@ -3579,7 +6604,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--3nul",
+    "id": "jbt--56i7",
     "title": "オリジナル",
     "artist": "Theory of Eternity",
     "genre": "ポップス",
@@ -3604,7 +6629,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--8z00",
+    "id": "jbt--wz2d",
     "title": "クラシック",
     "artist": "白鳥の湖",
     "genre": "ポップス",
@@ -3629,7 +6654,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--ekwc",
+    "id": "jbt--wrl2",
     "title": "オリジナル",
     "artist": "Far east nightbird",
     "genre": "ポップス",
@@ -3654,7 +6679,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--ztvw",
+    "id": "jbt--wvjb",
     "title": "オリジナル",
     "artist": "fellow",
     "genre": "ポップス",
@@ -3679,7 +6704,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--iz98",
+    "id": "jbt--s0wv",
     "title": "オリジナルゲーム",
     "artist": "FLOWER",
     "genre": "ポップス",
@@ -3704,7 +6729,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--g8jl",
+    "id": "jbt--6l7f",
     "title": "オリジナル",
     "artist": "Prophet Vibe",
     "genre": "ポップス",
@@ -3729,7 +6754,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--1i6b",
+    "id": "jbt--4qif",
     "title": "オリジナル",
     "artist": "Love ♡ km",
     "genre": "ポップス",
@@ -3754,7 +6779,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--adgf",
+    "id": "jbt--d8sb",
     "title": "アニメ",
     "artist": "LISTEN TO THE STEREO!!",
     "genre": "ポップス",
@@ -3779,7 +6804,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--cm8x",
+    "id": "jbt--9s46",
     "title": "オリジナル",
     "artist": "Ready Go!!",
     "genre": "ポップス",
@@ -3804,7 +6829,7 @@ export const songs: Song[] = [
     "version": "jubeat knit"
   },
   {
-    "id": "jbt--223l",
+    "id": "jbt--3vt3",
     "title": "オリジナル",
     "artist": "アルストロメリア",
     "genre": "ポップス",
@@ -3829,7 +6854,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--tn5u",
+    "id": "jbt--g8f2",
     "title": "オリジナル",
     "artist": "yellow head joe",
     "genre": "ポップス",
@@ -3854,7 +6879,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--2f8e",
+    "id": "jbt--bfz5",
     "title": "オリジナル",
     "artist": "歌の翼",
     "genre": "ポップス",
@@ -3879,7 +6904,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--mvrj",
+    "id": "jbt--hsn6",
     "title": "オリジナル",
     "artist": "800nm",
     "genre": "ポップス",
@@ -3904,7 +6929,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--9bun",
+    "id": "jbt--om3w",
     "title": "オリジナル",
     "artist": "electro peaceful",
     "genre": "ポップス",
@@ -3929,7 +6954,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--wb9h",
+    "id": "jbt--ycvi",
     "title": "ポップス",
     "artist": "オムライス",
     "genre": "ポップス",
@@ -3954,7 +6979,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--3m9u",
+    "id": "jbt--o31d",
     "title": "オリジナル",
     "artist": "陽炎",
     "genre": "ポップス",
@@ -3979,7 +7004,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--txbk",
+    "id": "jbt--lk97",
     "title": "オリジナル",
     "artist": "[E]",
     "genre": "ポップス",
@@ -4004,7 +7029,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--9yae",
+    "id": "jbt--bw7o",
     "title": "オリジナル",
     "artist": "ギタ・ドラ・jubeat大夏祭りのテーマ",
     "genre": "ポップス",
@@ -4029,7 +7054,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--oej0",
+    "id": "jbt--wnmv",
     "title": "オリジナル",
     "artist": "逆ナンされたのにドタキャン!!",
     "genre": "ポップス",
@@ -4054,7 +7079,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--d9ev",
+    "id": "jbt--9rxi",
     "title": "オリジナル",
     "artist": "candii",
     "genre": "ポップス",
@@ -4079,7 +7104,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--7wz0",
+    "id": "jbt--7r70",
     "title": "オリジナル",
     "artist": "cloche",
     "genre": "ポップス",
@@ -4104,7 +7129,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--iec8",
+    "id": "jbt--pkyn",
     "title": "オリジナル",
     "artist": "The Wind of Gold",
     "genre": "ポップス",
@@ -4129,7 +7154,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--npmd",
+    "id": "jbt--914n",
     "title": "オリジナル",
     "artist": "Summer Holiday",
     "genre": "ポップス",
@@ -4154,7 +7179,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--2h7c",
+    "id": "jbt--ojmc",
     "title": "オリジナル",
     "artist": "幸せのかたち",
     "genre": "ポップス",
@@ -4179,7 +7204,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--8529",
+    "id": "jbt--q5dv",
     "title": "オリジナル",
     "artist": "JOMANDA",
     "genre": "ポップス",
@@ -4204,7 +7229,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--jxde",
+    "id": "jbt--7fx4",
     "title": "ポップス",
     "artist": "SWEET CUBE",
     "genre": "ポップス",
@@ -4229,7 +7254,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--7udn",
+    "id": "jbt--w79l",
     "title": "オリジナル",
     "artist": "Starlight Parade",
     "genre": "ポップス",
@@ -4254,7 +7279,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--am1g",
+    "id": "jbt--g0im",
     "title": "オリジナル",
     "artist": "DOUBLE IMPACT",
     "genre": "ポップス",
@@ -4279,7 +7304,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--m1xg",
+    "id": "jbt--k1um",
     "title": "オリジナル",
     "artist": "THIS NIGHT (jubeat EDITION)",
     "genre": "ポップス",
@@ -4304,7 +7329,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--h44p",
+    "id": "jbt--qpk4",
     "title": "オリジナル",
     "artist": "Devil Fish Dumpling",
     "genre": "ポップス",
@@ -4329,7 +7354,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--zxnz",
+    "id": "jbt--j7js",
     "title": "オリジナル",
     "artist": "TWINKLE♡HEART",
     "genre": "ポップス",
@@ -4354,7 +7379,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--7x4g",
+    "id": "jbt--ftgq",
     "title": "クラシック",
     "artist": "トルコ行進曲",
     "genre": "ポップス",
@@ -4379,7 +7404,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--9laf",
+    "id": "jbt--pl4f",
     "title": "オリジナル",
     "artist": "ナナホシ",
     "genre": "ポップス",
@@ -4404,7 +7429,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--e7r5",
+    "id": "jbt--ykhs",
     "title": "オリジナル",
     "artist": "HEAT-BIT-HIT-BEAT",
     "genre": "ポップス",
@@ -4429,7 +7454,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--v694",
+    "id": "jbt--h2a8",
     "title": "オリジナル",
     "artist": "532nm",
     "genre": "ポップス",
@@ -4454,7 +7479,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--g3jh",
+    "id": "jbt--2e4u",
     "title": "オリジナル",
     "artist": "Plum",
     "genre": "ポップス",
@@ -4479,7 +7504,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--ro9a",
+    "id": "jbt--zgph",
     "title": "オリジナル",
     "artist": "FRIENDSHIP",
     "genre": "ポップス",
@@ -4504,7 +7529,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--k3d9",
+    "id": "jbt--ha05",
     "title": "オリジナル",
     "artist": "HEAVENLY MOON",
     "genre": "ポップス",
@@ -4529,7 +7554,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--fybl",
+    "id": "jbt--5qo9",
     "title": "ポップス",
     "artist": "僕らの永遠～何度生まれ変わっても、手を繋ぎたいだけの愛だから～",
     "genre": "ポップス",
@@ -4554,7 +7579,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--ymyj",
+    "id": "jbt--8dwq",
     "title": "オリジナル",
     "artist": "polygon",
     "genre": "ポップス",
@@ -4579,7 +7604,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--142j",
+    "id": "jbt--x45s",
     "title": "オリジナル",
     "artist": "瞬",
     "genre": "ポップス",
@@ -4604,7 +7629,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--4cs6",
+    "id": "jbt--jypy",
     "title": "オリジナル",
     "artist": "Riot of Color",
     "genre": "ポップス",
@@ -4629,7 +7654,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--koy9",
+    "id": "jbt--fhzj",
     "title": "オリジナル",
     "artist": "Rush!!",
     "genre": "ポップス",
@@ -4654,7 +7679,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--dbji",
+    "id": "jbt--iy6i",
     "title": "ポップス",
     "artist": "Love at First Sight",
     "genre": "ポップス",
@@ -4679,7 +7704,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--168a",
+    "id": "jbt--nxvd",
     "title": "オリジナル",
     "artist": "RePrise",
     "genre": "ポップス",
@@ -4704,7 +7729,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--f55g",
+    "id": "jbt--2spq",
     "title": "オリジナル",
     "artist": "流砂の嵐",
     "genre": "ポップス",
@@ -4729,7 +7754,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--ypi4",
+    "id": "jbt--yphp",
     "title": "オリジナル",
     "artist": "量子の海のリントヴルム",
     "genre": "ポップス",
@@ -4754,7 +7779,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--8quu",
+    "id": "jbt--ihjf",
     "title": "オリジナル",
     "artist": "Red Goose",
     "genre": "ポップス",
@@ -4779,7 +7804,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--83hu",
+    "id": "jbt--x8iw",
     "title": "オリジナル",
     "artist": "WONDER WALKER",
     "genre": "ポップス",
@@ -4804,7 +7829,7 @@ export const songs: Song[] = [
     "version": "jubeat copious"
   },
   {
-    "id": "jbt--who9",
+    "id": "jbt--rqw8",
     "title": "オリジナル",
     "artist": "I/O",
     "genre": "ポップス",
@@ -4829,7 +7854,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--au44",
+    "id": "jbt--nq2v",
     "title": "オリジナル",
     "artist": "愛は不死鳥の様に",
     "genre": "ポップス",
@@ -4854,7 +7879,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ep1a",
+    "id": "jbt--ubdz",
     "title": "オリジナル",
     "artist": "Across the nightmare",
     "genre": "ポップス",
@@ -4879,7 +7904,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--rtuq",
+    "id": "jbt--qbt0",
     "title": "オリジナル",
     "artist": "Asterism",
     "genre": "ポップス",
@@ -4904,7 +7929,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--04ye",
+    "id": "jbt--m5en",
     "title": "オリジナル",
     "artist": "アストライアの双皿",
     "genre": "ポップス",
@@ -4929,7 +7954,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--s0z5",
+    "id": "jbt--c1v6",
     "title": "オリジナル",
     "artist": "attack in the minor key",
     "genre": "ポップス",
@@ -4954,7 +7979,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--vk8w",
+    "id": "jbt--4mbi",
     "title": "オリジナル",
     "artist": "anemone",
     "genre": "ポップス",
@@ -4979,7 +8004,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--94t4",
+    "id": "jbt--ud8q",
     "title": "ソーシャル",
     "artist": "天ノ弱",
     "genre": "ポップス",
@@ -5004,7 +8029,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--mlpc",
+    "id": "jbt--nby8",
     "title": "オリジナル",
     "artist": "Amalgamation",
     "genre": "ポップス",
@@ -5029,7 +8054,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--r7l2",
+    "id": "jbt--hhga",
     "title": "オリジナル",
     "artist": "雨ノチHello",
     "genre": "ポップス",
@@ -5054,7 +8079,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--0f8h",
+    "id": "jbt--i1ga",
     "title": "オリジナル",
     "artist": "Arousing",
     "genre": "ポップス",
@@ -5079,7 +8104,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--n9n8",
+    "id": "jbt--6qq8",
     "title": "オリジナル",
     "artist": "Our Faith",
     "genre": "ポップス",
@@ -5104,7 +8129,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--2q4r",
+    "id": "jbt--jyly",
     "title": "ソーシャル",
     "artist": "いーあるふぁんくらぶ",
     "genre": "ポップス",
@@ -5129,7 +8154,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--kvwu",
+    "id": "jbt--li85",
     "title": "オリジナル",
     "artist": "イ号零型",
     "genre": "ポップス",
@@ -5154,7 +8179,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--qyow",
+    "id": "jbt--6ujc",
     "title": "オリジナル",
     "artist": "イブの時代っ！",
     "genre": "ポップス",
@@ -5179,7 +8204,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--9rk9",
+    "id": "jbt--dg18",
     "title": "オリジナル",
     "artist": "Vermilion",
     "genre": "ポップス",
@@ -5204,7 +8229,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--h74q",
+    "id": "jbt--6sc9",
     "title": "オリジナル",
     "artist": "Vanity",
     "genre": "ポップス",
@@ -5229,7 +8254,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--v8m1",
+    "id": "jbt--7m6w",
     "title": "オリジナル",
     "artist": "VALLIS-NERIA",
     "genre": "ポップス",
@@ -5254,7 +8279,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--vb3f",
+    "id": "jbt--e383",
     "title": "オリジナル",
     "artist": "We're so Happy",
     "genre": "ポップス",
@@ -5279,7 +8304,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--9g9w",
+    "id": "jbt--qu63",
     "title": "オリジナル",
     "artist": "Windy Fairy",
     "genre": "ポップス",
@@ -5304,7 +8329,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--14he",
+    "id": "jbt--2hdz",
     "title": "オリジナル",
     "artist": "Wow Wow VENUS",
     "genre": "ポップス",
@@ -5329,7 +8354,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--uita",
+    "id": "jbt--n18q",
     "title": "ポップス",
     "artist": "Water Horizon",
     "genre": "ポップス",
@@ -5354,7 +8379,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ja20",
+    "id": "jbt--bmgv",
     "title": "オリジナル",
     "artist": "梅雪夜",
     "genre": "ポップス",
@@ -5379,7 +8404,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--04ve",
+    "id": "jbt--9gxj",
     "title": "オリジナル",
     "artist": "8 -eight-",
     "genre": "ポップス",
@@ -5404,7 +8429,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--jzkb",
+    "id": "jbt--2m67",
     "title": "アニメ",
     "artist": "ETERNAL BLAZE",
     "genre": "ポップス",
@@ -5429,7 +8454,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ht94",
+    "id": "jbt--8byw",
     "title": "オリジナル",
     "artist": "Elemental Creation",
     "genre": "ポップス",
@@ -5454,7 +8479,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--bj28",
+    "id": "jbt--8p6v",
     "title": "オリジナル",
     "artist": "Engraved Mark",
     "genre": "ポップス",
@@ -5479,7 +8504,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--4q2u",
+    "id": "jbt--658f",
     "title": "オリジナル",
     "artist": "Endless Chain～2人でトリガーをひこう～",
     "genre": "ポップス",
@@ -5504,7 +8529,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--hgef",
+    "id": "jbt--vfqx",
     "title": "オリジナル",
     "artist": "Empathetic",
     "genre": "ポップス",
@@ -5529,7 +8554,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--efpf",
+    "id": "jbt--hjkl",
     "title": "オリジナル",
     "artist": "O JIYA",
     "genre": "ポップス",
@@ -5554,7 +8579,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--o2jg",
+    "id": "jbt--158o",
     "title": "オリジナル",
     "artist": "OVERHEAT -Type J-",
     "genre": "ポップス",
@@ -5579,7 +8604,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--y4ch",
+    "id": "jbt--kbv5",
     "title": "オリジナル",
     "artist": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
     "genre": "ポップス",
@@ -5604,7 +8629,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--b63a",
+    "id": "jbt--0fas",
     "title": "オリジナル",
     "artist": "朧",
     "genre": "ポップス",
@@ -5629,7 +8654,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--s068",
+    "id": "jbt--7qsh",
     "title": "オリジナル",
     "artist": "GAIA",
     "genre": "ポップス",
@@ -5654,7 +8679,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--k70e",
+    "id": "jbt--uju3",
     "title": "オリジナル",
     "artist": "影縫い胤撒き",
     "genre": "ポップス",
@@ -5679,7 +8704,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--7mxo",
+    "id": "jbt--hf9r",
     "title": "オリジナル",
     "artist": "Cassis",
     "genre": "ポップス",
@@ -5704,7 +8729,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--s1eb",
+    "id": "jbt--txer",
     "title": "オリジナル",
     "artist": "カタルシスの月",
     "genre": "ポップス",
@@ -5729,7 +8754,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--2zhb",
+    "id": "jbt--a1ha",
     "title": "オリジナル",
     "artist": "カラフルミニッツ",
     "genre": "ポップス",
@@ -5754,7 +8779,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--s0ov",
+    "id": "jbt--iu4o",
     "title": "オリジナル",
     "artist": "カラルの月",
     "genre": "ポップス",
@@ -5779,7 +8804,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--2dpp",
+    "id": "jbt--cvt6",
     "title": "オリジナル",
     "artist": "記憶の欠片",
     "genre": "ポップス",
@@ -5804,7 +8829,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--xhrb",
+    "id": "jbt--9fdw",
     "title": "オリジナル",
     "artist": "キケンな果実",
     "genre": "ポップス",
@@ -5829,7 +8854,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--mjk3",
+    "id": "jbt--xocx",
     "title": "オリジナル",
     "artist": "Gimme a Big Beat",
     "genre": "ポップス",
@@ -5854,7 +8879,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--rr3j",
+    "id": "jbt--49na",
     "title": "オリジナル",
     "artist": "君の元へ",
     "genre": "ポップス",
@@ -5879,7 +8904,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--h0if",
+    "id": "jbt--tux0",
     "title": "オリジナル",
     "artist": "caramel ribbon",
     "genre": "ポップス",
@@ -5904,7 +8929,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--mb1u",
+    "id": "jbt--hk2s",
     "title": "オリジナル",
     "artist": "キラキラ☆ステーション",
     "genre": "ポップス",
@@ -5929,7 +8954,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--jfpf",
+    "id": "jbt--baa9",
     "title": "オリジナル",
     "artist": "quaver♪",
     "genre": "ポップス",
@@ -5954,7 +8979,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--aw1y",
+    "id": "jbt--et1a",
     "title": "オリジナル",
     "artist": "Clumsy thoughts",
     "genre": "ポップス",
@@ -5979,7 +9004,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--nktk",
+    "id": "jbt--5p09",
     "title": "オリジナル",
     "artist": "紅蓮の焔",
     "genre": "ポップス",
@@ -6004,7 +9029,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--xfus",
+    "id": "jbt--c8q0",
     "title": "オリジナル",
     "artist": "黒髪乱れし修羅となりて",
     "genre": "ポップス",
@@ -6029,7 +9054,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--hg70",
+    "id": "jbt--wjl2",
     "title": "オリジナル",
     "artist": "Chronos",
     "genre": "ポップス",
@@ -6054,7 +9079,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--f5k0",
+    "id": "jbt--2kmf",
     "title": "オリジナル",
     "artist": "恋する☆宇宙戦争っ!!",
     "genre": "ポップス",
@@ -6079,7 +9104,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--9agp",
+    "id": "jbt--hdwg",
     "title": "オリジナル",
     "artist": "恋とキングコング",
     "genre": "ポップス",
@@ -6104,7 +9129,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--fek8",
+    "id": "jbt--ot27",
     "title": "オリジナル",
     "artist": "恋はどう？モロ◎波動OK☆方程式！！",
     "genre": "ポップス",
@@ -6129,7 +9154,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--0fg0",
+    "id": "jbt--gb7i",
     "title": "オリジナル",
     "artist": "紅焔",
     "genre": "ポップス",
@@ -6154,7 +9179,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--jm41",
+    "id": "jbt--zk3h",
     "title": "オリジナル",
     "artist": "Go For The Top",
     "genre": "ポップス",
@@ -6179,7 +9204,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--c8xw",
+    "id": "jbt--uk62",
     "title": "オリジナル",
     "artist": "虚空と光明のディスクール",
     "genre": "ポップス",
@@ -6204,7 +9229,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--45ql",
+    "id": "jbt--5k6n",
     "title": "オリジナル",
     "artist": "Cosmic Hurricane",
     "genre": "ポップス",
@@ -6229,7 +9254,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--mdxe",
+    "id": "jbt--c5kx",
     "title": "オリジナル",
     "artist": "Gott",
     "genre": "ポップス",
@@ -6254,7 +9279,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--e9oz",
+    "id": "jbt--x5jb",
     "title": "オリジナル",
     "artist": "この青空の下で",
     "genre": "ポップス",
@@ -6279,7 +9304,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--h97n",
+    "id": "jbt--al1c",
     "title": "オリジナル",
     "artist": "この子の七つのお祝いに",
     "genre": "ポップス",
@@ -6304,7 +9329,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--znbw",
+    "id": "jbt--5stp",
     "title": "オリジナル",
     "artist": "Concertino in Blue",
     "genre": "ポップス",
@@ -6329,7 +9354,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--vc3y",
+    "id": "jbt--b608",
     "title": "オリジナル",
     "artist": "Condor",
     "genre": "ポップス",
@@ -6354,7 +9379,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--eczg",
+    "id": "jbt--h6ed",
     "title": "オリジナル",
     "artist": "Confiserie",
     "genre": "ポップス",
@@ -6379,7 +9404,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--cw4n",
+    "id": "jbt--ef29",
     "title": "ポップス",
     "artist": "最終回STORY",
     "genre": "ポップス",
@@ -6404,7 +9429,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--z9fa",
+    "id": "jbt--6z2p",
     "title": "オリジナル",
     "artist": "防人恋歌",
     "genre": "ポップス",
@@ -6429,7 +9454,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--4qde",
+    "id": "jbt--m2ps",
     "title": "オリジナル",
     "artist": "Sakura Sunrise",
     "genre": "ポップス",
@@ -6454,7 +9479,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ef14",
+    "id": "jbt--etu3",
     "title": "オリジナル",
     "artist": "サヨナラ・ヘヴン",
     "genre": "ポップス",
@@ -6479,7 +9504,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--dv3e",
+    "id": "jbt--v1jy",
     "title": "オリジナル",
     "artist": "SEED",
     "genre": "ポップス",
@@ -6504,7 +9529,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--k4e9",
+    "id": "jbt--pnuq",
     "title": "オリジナル",
     "artist": "此岸の戯事",
     "genre": "ポップス",
@@ -6529,7 +9554,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--t11d",
+    "id": "jbt--632d",
     "title": "オリジナル",
     "artist": "Synergy For Angels",
     "genre": "ポップス",
@@ -6554,7 +9579,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ms6e",
+    "id": "jbt--wzo4",
     "title": "ゲーム",
     "artist": "灼熱の翼",
     "genre": "ポップス",
@@ -6579,7 +9604,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--9s9w",
+    "id": "jbt--ab18",
     "title": "オリジナル",
     "artist": "終末を追う者",
     "genre": "ポップス",
@@ -6604,7 +9629,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--kt7m",
+    "id": "jbt--qgrl",
     "title": "ゲーム",
     "artist": "Show up ! - short ver -",
     "genre": "ポップス",
@@ -6629,7 +9654,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--3gav",
+    "id": "jbt--y6qf",
     "title": "オリジナル",
     "artist": "少年は空を辿る",
     "genre": "ポップス",
@@ -6654,7 +9679,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--wkyt",
+    "id": "jbt--pdxx",
     "title": "オリジナル",
     "artist": "SILVER☆DREAM",
     "genre": "ポップス",
@@ -6679,7 +9704,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--huc1",
+    "id": "jbt--ohqg",
     "title": "オリジナル",
     "artist": "Sky Is The Limit",
     "genre": "ポップス",
@@ -6704,7 +9729,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ffcm",
+    "id": "jbt--pk55",
     "title": "オリジナル",
     "artist": "Squeeze",
     "genre": "ポップス",
@@ -6729,7 +9754,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--j3gt",
+    "id": "jbt--l810",
     "title": "オリジナル",
     "artist": "squall",
     "genre": "ポップス",
@@ -6754,7 +9779,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--z54t",
+    "id": "jbt--fpx3",
     "title": "オリジナル",
     "artist": "Stand Alone Beat Masta",
     "genre": "ポップス",
@@ -6779,7 +9804,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ntfn",
+    "id": "jbt--e60k",
     "title": "オリジナル",
     "artist": "Stella Sinistra",
     "genre": "ポップス",
@@ -6804,7 +9829,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--j236",
+    "id": "jbt--d7yj",
     "title": "オリジナル",
     "artist": "STULTI",
     "genre": "ポップス",
@@ -6829,7 +9854,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--3p9r",
+    "id": "jbt--z40x",
     "title": "オリジナル",
     "artist": "ストレイ・マーチ",
     "genre": "ポップス",
@@ -6854,7 +9879,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--8gmo",
+    "id": "jbt--i3om",
     "title": "オリジナル",
     "artist": "Straight Oath",
     "genre": "ポップス",
@@ -6879,7 +9904,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--2ihr",
+    "id": "jbt--pqw8",
     "title": "オリジナル",
     "artist": "Snowfield Express",
     "genre": "ポップス",
@@ -6904,7 +9929,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--793f",
+    "id": "jbt--nzip",
     "title": "オリジナル",
     "artist": "snow prism",
     "genre": "ポップス",
@@ -6929,7 +9954,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--6dz7",
+    "id": "jbt--y8vd",
     "title": "オリジナル",
     "artist": "spring pony",
     "genre": "ポップス",
@@ -6954,7 +9979,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--4u2i",
+    "id": "jbt--w1s4",
     "title": "オリジナル",
     "artist": "smooooch・∀・",
     "genre": "ポップス",
@@ -6979,7 +10004,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--h1wg",
+    "id": "jbt--bdja",
     "title": "オリジナル",
     "artist": "晴天Bon Voyage",
     "genre": "ポップス",
@@ -7004,7 +10029,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--24oa",
+    "id": "jbt--5hur",
     "title": "オリジナル",
     "artist": "Second Heaven",
     "genre": "ポップス",
@@ -7029,7 +10054,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--cp1h",
+    "id": "jbt--ecx8",
     "title": "オリジナル",
     "artist": "ZED",
     "genre": "ポップス",
@@ -7054,7 +10079,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--4lzg",
+    "id": "jbt--gshm",
     "title": "オリジナル",
     "artist": "ZZ",
     "genre": "ポップス",
@@ -7079,7 +10104,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ioo4",
+    "id": "jbt--8hyp",
     "title": "ソーシャル",
     "artist": "セツナトリップ",
     "genre": "ポップス",
@@ -7104,7 +10129,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ndp6",
+    "id": "jbt--o3zc",
     "title": "オリジナル",
     "artist": "創世ノート",
     "genre": "ポップス",
@@ -7129,7 +10154,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--pccr",
+    "id": "jbt--1mlb",
     "title": "オリジナル",
     "artist": "蒼天",
     "genre": "ポップス",
@@ -7154,7 +10179,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--gq89",
+    "id": "jbt--4ot3",
     "title": "オリジナル",
     "artist": "Sol Cosine Job 2",
     "genre": "ポップス",
@@ -7179,7 +10204,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--8rvd",
+    "id": "jbt--ha3l",
     "title": "オリジナル",
     "artist": "sola",
     "genre": "ポップス",
@@ -7204,7 +10229,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--noc0",
+    "id": "jbt--6omd",
     "title": "オリジナル",
     "artist": "TYCOON",
     "genre": "ポップス",
@@ -7229,7 +10254,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--hrj9",
+    "id": "jbt--7z7z",
     "title": "オリジナル",
     "artist": "Dynasty",
     "genre": "ポップス",
@@ -7254,7 +10279,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--g1l9",
+    "id": "jbt--4hej",
     "title": "ゲーム",
     "artist": "闘いの刻-jubeatREMIX-",
     "genre": "ポップス",
@@ -7279,7 +10304,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--27pp",
+    "id": "jbt--use0",
     "title": "ゲーム",
     "artist": "CHEAT DANCER - short ver -",
     "genre": "ポップス",
@@ -7304,7 +10329,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--frl8",
+    "id": "jbt--luia",
     "title": "オリジナル",
     "artist": "ちくわパフェだよ☆CKP",
     "genre": "ポップス",
@@ -7329,7 +10354,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--0sr4",
+    "id": "jbt--ix53",
     "title": "オリジナル",
     "artist": "chaplet",
     "genre": "ポップス",
@@ -7354,7 +10379,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--t8er",
+    "id": "jbt--i0pa",
     "title": "オリジナル",
     "artist": "TSAR BOMBA",
     "genre": "ポップス",
@@ -7379,7 +10404,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--j6xd",
+    "id": "jbt--zejc",
     "title": "オリジナル",
     "artist": "ツキミチヌ",
     "genre": "ポップス",
@@ -7404,7 +10429,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--lgoo",
+    "id": "jbt--uapl",
     "title": "オリジナル",
     "artist": "つぼみ",
     "genre": "ポップス",
@@ -7429,7 +10454,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--7u6v",
+    "id": "jbt--sdf9",
     "title": "オリジナル",
     "artist": "DIAVOLO",
     "genre": "ポップス",
@@ -7454,7 +10479,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--4dqi",
+    "id": "jbt--3oku",
     "title": "ゲーム",
     "artist": "Dispersion Star",
     "genre": "ポップス",
@@ -7479,7 +10504,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--k4ct",
+    "id": "jbt--69ma",
     "title": "オリジナル",
     "artist": "December Breeze",
     "genre": "ポップス",
@@ -7504,7 +10529,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--pt62",
+    "id": "jbt--azz0",
     "title": "オリジナル",
     "artist": "Daily Lunch Special",
     "genre": "ポップス",
@@ -7529,7 +10554,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--c70o",
+    "id": "jbt--9hsc",
     "title": "オリジナル",
     "artist": "デッドボヲルdeホームラン",
     "genre": "ポップス",
@@ -7554,7 +10579,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--0v9y",
+    "id": "jbt--vtcq",
     "title": "ゲーム",
     "artist": "天上の果て",
     "genre": "ポップス",
@@ -7579,7 +10604,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--fu6x",
+    "id": "jbt--d3n2",
     "title": "オリジナル",
     "artist": "Twinkle Wonderland",
     "genre": "ポップス",
@@ -7604,7 +10629,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--zq47",
+    "id": "jbt--gy7j",
     "title": "オリジナル",
     "artist": "True Blue",
     "genre": "ポップス",
@@ -7629,7 +10654,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--909h",
+    "id": "jbt--6um8",
     "title": "オリジナル",
     "artist": "Thor's Hammer",
     "genre": "ポップス",
@@ -7654,7 +10679,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--vv6i",
+    "id": "jbt--807m",
     "title": "オリジナル",
     "artist": "とってもとっても、ありがとう。",
     "genre": "ポップス",
@@ -7679,7 +10704,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--virc",
+    "id": "jbt--xei0",
     "title": "オリジナル",
     "artist": "轟け！恋のビーンボール！！",
     "genre": "ポップス",
@@ -7704,7 +10729,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--z3qy",
+    "id": "jbt--g1mj",
     "title": "オリジナル",
     "artist": "DRAGON KILLER",
     "genre": "ポップス",
@@ -7729,7 +10754,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--1rd2",
+    "id": "jbt--os6j",
     "title": "オリジナル",
     "artist": "Dragontail Butterfly",
     "genre": "ポップス",
@@ -7754,7 +10779,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--074i",
+    "id": "jbt--lwmp",
     "title": "オリジナル",
     "artist": "Dragon Blade",
     "genre": "ポップス",
@@ -7779,7 +10804,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--gv5j",
+    "id": "jbt--gcqw",
     "title": "オリジナル",
     "artist": "トリカゴノ鳳凰",
     "genre": "ポップス",
@@ -7804,7 +10829,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--edbm",
+    "id": "jbt--3mga",
     "title": "オリジナル",
     "artist": "Triple Journey -S-C-U EDITION-",
     "genre": "ポップス",
@@ -7829,7 +10854,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--3c85",
+    "id": "jbt--02rp",
     "title": "オリジナル",
     "artist": "NIGHT FLIGHT",
     "genre": "ポップス",
@@ -7854,7 +10879,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--jyer",
+    "id": "jbt--3fe4",
     "title": "オリジナル",
     "artist": "IX",
     "genre": "ポップス",
@@ -7879,7 +10904,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--brrj",
+    "id": "jbt--tldv",
     "title": "オリジナル",
     "artist": "†渚の小悪魔ラヴリィ～レイディオ†",
     "genre": "ポップス",
@@ -7904,7 +10929,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--r3vy",
+    "id": "jbt--yrfv",
     "title": "オリジナル",
     "artist": "夏・KOI・ムッシュ!!",
     "genre": "ポップス",
@@ -7929,7 +10954,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ljp6",
+    "id": "jbt--2npl",
     "title": "オリジナル",
     "artist": "虹色の花",
     "genre": "ポップス",
@@ -7954,7 +10979,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--mra5",
+    "id": "jbt--cw6w",
     "title": "オリジナル",
     "artist": "New Gravity",
     "genre": "ポップス",
@@ -7979,7 +11004,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--86ls",
+    "id": "jbt--9x3u",
     "title": "オリジナル",
     "artist": "New Decade",
     "genre": "ポップス",
@@ -8004,7 +11029,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--2e2m",
+    "id": "jbt--cxcz",
     "title": "オリジナル",
     "artist": "Never Look Back in Sorrow",
     "genre": "ポップス",
@@ -8029,7 +11054,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--re0r",
+    "id": "jbt--m78g",
     "title": "オリジナル",
     "artist": "neu",
     "genre": "ポップス",
@@ -8054,7 +11079,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--q0z4",
+    "id": "jbt--sbqt",
     "title": "オリジナル",
     "artist": "HEART BEAT FORMULA",
     "genre": "ポップス",
@@ -8079,7 +11104,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--in8z",
+    "id": "jbt--fg5r",
     "title": "オリジナル",
     "artist": "HYENA",
     "genre": "ポップス",
@@ -8104,7 +11129,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--mqu5",
+    "id": "jbt--qrlw",
     "title": "オリジナル",
     "artist": "Happy",
     "genre": "ポップス",
@@ -8129,7 +11154,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--t0tz",
+    "id": "jbt--3jvk",
     "title": "オリジナル",
     "artist": "華爛漫 -Flowers-",
     "genre": "ポップス",
@@ -8154,7 +11179,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--gtfo",
+    "id": "jbt--i27m",
     "title": "オリジナル",
     "artist": "PUNISHER",
     "genre": "ポップス",
@@ -8179,7 +11204,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--zmrw",
+    "id": "jbt--2d06",
     "title": "オリジナル",
     "artist": "PULSE LASER",
     "genre": "ポップス",
@@ -8204,7 +11229,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--f593",
+    "id": "jbt--s0dg",
     "title": "オリジナル",
     "artist": "Hello world!",
     "genre": "ポップス",
@@ -8229,7 +11254,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--cbhc",
+    "id": "jbt--qs4t",
     "title": "オリジナル",
     "artist": "Beastie Starter",
     "genre": "ポップス",
@@ -8254,7 +11279,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--duvw",
+    "id": "jbt--7seo",
     "title": "オリジナル",
     "artist": "ヒーロー",
     "genre": "ポップス",
@@ -8279,7 +11304,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--mr22",
+    "id": "jbt--00e6",
     "title": "オリジナル",
     "artist": "Pink Rose",
     "genre": "ポップス",
@@ -8304,7 +11329,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--fkyp",
+    "id": "jbt--6lv6",
     "title": "ポップス",
     "artist": "Find your way",
     "genre": "ポップス",
@@ -8329,7 +11354,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--wg8j",
+    "id": "jbt--90ht",
     "title": "オリジナル",
     "artist": "Fantasia",
     "genre": "ポップス",
@@ -8354,7 +11379,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--orjx",
+    "id": "jbt--asrc",
     "title": "オリジナル",
     "artist": "V",
     "genre": "ポップス",
@@ -8379,7 +11404,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--qiu2",
+    "id": "jbt--c7r4",
     "title": "オリジナル",
     "artist": "フー・フローツ",
     "genre": "ポップス",
@@ -8404,7 +11429,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--d5f4",
+    "id": "jbt--nxb7",
     "title": "オリジナル",
     "artist": "405nm (Ryu☆mix)",
     "genre": "ポップス",
@@ -8429,7 +11454,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ydac",
+    "id": "jbt--521t",
     "title": "オリジナル",
     "artist": "ふしぎなくすり",
     "genre": "ポップス",
@@ -8454,7 +11479,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--x4uc",
+    "id": "jbt--7h9n",
     "title": "オリジナル",
     "artist": "PRANA",
     "genre": "ポップス",
@@ -8479,7 +11504,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--yf91",
+    "id": "jbt--i1su",
     "title": "オリジナル",
     "artist": "Fly with me",
     "genre": "ポップス",
@@ -8504,7 +11529,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--36vh",
+    "id": "jbt--6285",
     "title": "オリジナル",
     "artist": "Plan 8",
     "genre": "ポップス",
@@ -8529,7 +11554,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--rrxt",
+    "id": "jbt--ho1t",
     "title": "オリジナル",
     "artist": "Brand New World",
     "genre": "ポップス",
@@ -8554,7 +11579,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--tdme",
+    "id": "jbt--paqd",
     "title": "オリジナル",
     "artist": "Flip Flap",
     "genre": "ポップス",
@@ -8579,7 +11604,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--k5vc",
+    "id": "jbt--6z4a",
     "title": "オリジナル",
     "artist": "BLUE STRAGGLER",
     "genre": "ポップス",
@@ -8604,7 +11629,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--x789",
+    "id": "jbt--it8w",
     "title": "オリジナル",
     "artist": "Proof of the existence",
     "genre": "ポップス",
@@ -8629,7 +11654,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--vwh2",
+    "id": "jbt--2c4a",
     "title": "オリジナル",
     "artist": "Broken",
     "genre": "ポップス",
@@ -8654,7 +11679,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--kxr7",
+    "id": "jbt--527x",
     "title": "オリジナル",
     "artist": "Baby Bleep March",
     "genre": "ポップス",
@@ -8679,7 +11704,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--1m0x",
+    "id": "jbt--nzit",
     "title": "オリジナル",
     "artist": "heron",
     "genre": "ポップス",
@@ -8704,7 +11729,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--orpu",
+    "id": "jbt--s0ki",
     "title": "オリジナル",
     "artist": "POINT ZERO",
     "genre": "ポップス",
@@ -8729,7 +11754,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--rcj9",
+    "id": "jbt--6zgh",
     "title": "オリジナル",
     "artist": "亡国のヒストリア",
     "genre": "ポップス",
@@ -8754,7 +11779,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--omen",
+    "id": "jbt--awt7",
     "title": "オリジナル",
     "artist": "Holy Snow",
     "genre": "ポップス",
@@ -8779,7 +11804,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--bx6c",
+    "id": "jbt--c431",
     "title": "オリジナル",
     "artist": "ホーンテッド★メイドランチ",
     "genre": "ポップス",
@@ -8804,7 +11829,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--3wj8",
+    "id": "jbt--yyi3",
     "title": "ゲーム",
     "artist": "星屑のキロク",
     "genre": "ポップス",
@@ -8829,7 +11854,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--y7by",
+    "id": "jbt--h418",
     "title": "オリジナル",
     "artist": "ほしふり",
     "genre": "ポップス",
@@ -8854,7 +11879,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--zmp3",
+    "id": "jbt--pdpw",
     "title": "オリジナル",
     "artist": "ポップミュージック論",
     "genre": "ポップス",
@@ -8879,7 +11904,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--1gs3",
+    "id": "jbt--vt9i",
     "title": "オリジナル",
     "artist": "Mynarco",
     "genre": "ポップス",
@@ -8904,7 +11929,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--bq9d",
+    "id": "jbt--rzw4",
     "title": "オリジナル",
     "artist": "マインド・ゲーム",
     "genre": "ポップス",
@@ -8929,7 +11954,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--59wr",
+    "id": "jbt--azhj",
     "title": "オリジナル",
     "artist": "Magnetic",
     "genre": "ポップス",
@@ -8954,7 +11979,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--kb6a",
+    "id": "jbt--edyc",
     "title": "オリジナル",
     "artist": "Mother Ship",
     "genre": "ポップス",
@@ -8979,7 +12004,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--vnsa",
+    "id": "jbt--xf1r",
     "title": "アニメ",
     "artist": "回レ！雪月花",
     "genre": "ポップス",
@@ -9004,7 +12029,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--xml4",
+    "id": "jbt--lwr4",
     "title": "オリジナル",
     "artist": "万華鏡",
     "genre": "ポップス",
@@ -9029,7 +12054,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--3uoq",
+    "id": "jbt--ed43",
     "title": "オリジナル",
     "artist": "Mirage",
     "genre": "ポップス",
@@ -9054,7 +12079,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--sth6",
+    "id": "jbt--qewg",
     "title": "オリジナル",
     "artist": "milky ice bear",
     "genre": "ポップス",
@@ -9079,7 +12104,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ppo1",
+    "id": "jbt--laa7",
     "title": "オリジナル",
     "artist": "Move That Body",
     "genre": "ポップス",
@@ -9104,7 +12129,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--a5z6",
+    "id": "jbt--wcb6",
     "title": "オリジナル",
     "artist": "めうめうぺったんたん！！",
     "genre": "ポップス",
@@ -9129,7 +12154,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--yhz9",
+    "id": "jbt--z7qg",
     "title": "オリジナル",
     "artist": "野球の遊び方 そしてその歴史 ～決定版～",
     "genre": "ポップス",
@@ -9154,7 +12179,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--gqs3",
+    "id": "jbt--9k7r",
     "title": "オリジナル",
     "artist": "優勢オーバードーズ",
     "genre": "ポップス",
@@ -9179,7 +12204,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--n98a",
+    "id": "jbt--6k1t",
     "title": "オリジナル",
     "artist": "Unicorn tail Dustboxxxx RMX",
     "genre": "ポップス",
@@ -9204,7 +12229,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--m6d6",
+    "id": "jbt--9fo0",
     "title": "オリジナル",
     "artist": "Right on time (Ryu☆ Remix)",
     "genre": "ポップス",
@@ -9229,7 +12254,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--st7y",
+    "id": "jbt--n569",
     "title": "オリジナル",
     "artist": "Life Connection",
     "genre": "ポップス",
@@ -9254,7 +12279,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--x3fm",
+    "id": "jbt--xp78",
     "title": "ポップス",
     "artist": "Lifetime Journey",
     "genre": "ポップス",
@@ -9279,7 +12304,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--x1oh",
+    "id": "jbt--a42p",
     "title": "オリジナル",
     "artist": "LUV CAN SAVE U",
     "genre": "ポップス",
@@ -9304,7 +12329,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--4bdh",
+    "id": "jbt--1phl",
     "title": "オリジナル",
     "artist": "ラキラキ",
     "genre": "ポップス",
@@ -9329,7 +12354,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--nv9a",
+    "id": "jbt--td4a",
     "title": "ポップス",
     "artist": "LANA - Answer II -",
     "genre": "ポップス",
@@ -9354,7 +12379,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--3i1r",
+    "id": "jbt--4ptr",
     "title": "ポップス",
     "artist": "LANA - Answer I -",
     "genre": "ポップス",
@@ -9379,7 +12404,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--oi3r",
+    "id": "jbt--ylci",
     "title": "ポップス",
     "artist": "LANA - キロクノカケラ -",
     "genre": "ポップス",
@@ -9404,7 +12429,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ft19",
+    "id": "jbt--p06d",
     "title": "ポップス",
     "artist": "LANA - キロクノカケラ (sasakure.UK Framework Remix) -",
     "genre": "ポップス",
@@ -9429,7 +12454,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--7h65",
+    "id": "jbt--hqvv",
     "title": "ポップス",
     "artist": "LANA - ココロノキオク -",
     "genre": "ポップス",
@@ -9454,7 +12479,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--8y6f",
+    "id": "jbt--6zha",
     "title": "ポップス",
     "artist": "LANA - セカイノハズレ -",
     "genre": "ポップス",
@@ -9479,7 +12504,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--so50",
+    "id": "jbt--dwt6",
     "title": "ポップス",
     "artist": "LANA - ヒトリノウタ -",
     "genre": "ポップス",
@@ -9504,7 +12529,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--8kkh",
+    "id": "jbt--4cfj",
     "title": "オリジナル",
     "artist": "Lisa-RICCIA",
     "genre": "ポップス",
@@ -9529,7 +12554,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ykgz",
+    "id": "jbt--pva5",
     "title": "オリジナル",
     "artist": "Little Star",
     "genre": "ポップス",
@@ -9554,7 +12579,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--x8s9",
+    "id": "jbt--5skr",
     "title": "オリジナル",
     "artist": "リメンバーリメンバー",
     "genre": "ポップス",
@@ -9579,7 +12604,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--bl31",
+    "id": "jbt--szg2",
     "title": "オリジナル",
     "artist": "凛として咲く花の如く ～ひなビタ♪ edition～",
     "genre": "ポップス",
@@ -9604,7 +12629,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--3vbk",
+    "id": "jbt--wkzl",
     "title": "オリジナル",
     "artist": "le mirage",
     "genre": "ポップス",
@@ -9629,7 +12654,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--i4d7",
+    "id": "jbt--82af",
     "title": "オリジナル",
     "artist": "Ray",
     "genre": "ポップス",
@@ -9654,7 +12679,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--vq4t",
+    "id": "jbt--qqs6",
     "title": "オリジナル",
     "artist": "Rainbow after snow",
     "genre": "ポップス",
@@ -9679,7 +12704,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--ggke",
+    "id": "jbt--3nc4",
     "title": "オリジナル",
     "artist": "RED ZONE",
     "genre": "ポップス",
@@ -9704,7 +12729,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--9x4l",
+    "id": "jbt--e7rq",
     "title": "オリジナル",
     "artist": "恋愛観測",
     "genre": "ポップス",
@@ -9729,7 +12754,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--v1nu",
+    "id": "jbt--46vw",
     "title": "オリジナル",
     "artist": "恋閃繚乱",
     "genre": "ポップス",
@@ -9754,7 +12779,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--qvhc",
+    "id": "jbt--iu6m",
     "title": "ソーシャル",
     "artist": "ロストワンの号哭",
     "genre": "ポップス",
@@ -9779,7 +12804,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--nfku",
+    "id": "jbt--3pxx",
     "title": "オリジナル",
     "artist": "robin",
     "genre": "ポップス",
@@ -9804,7 +12829,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--9fi6",
+    "id": "jbt--2o2k",
     "title": "オリジナル",
     "artist": "Romancing Layer",
     "genre": "ポップス",
@@ -9829,7 +12854,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--xwzz",
+    "id": "jbt--0fvt",
     "title": "オリジナル",
     "artist": "我が麗しのバレンシア",
     "genre": "ポップス",
@@ -9854,7 +12879,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer"
   },
   {
-    "id": "jbt--7oyo",
+    "id": "jbt--tcmz",
     "title": "オリジナル",
     "artist": "朱と碧のランページ",
     "genre": "ポップス",
@@ -9879,7 +12904,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--e2dl",
+    "id": "jbt--ea1e",
     "title": "オリジナル",
     "artist": "athletic meet of sound toy",
     "genre": "ポップス",
@@ -9904,7 +12929,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--zr0r",
+    "id": "jbt--30in",
     "title": "ゲーム",
     "artist": "Ignis Danse",
     "genre": "ポップス",
@@ -9929,7 +12954,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--mm59",
+    "id": "jbt--900c",
     "title": "オリジナルソーシャル",
     "artist": "Idola",
     "genre": "ポップス",
@@ -9954,7 +12979,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--gt5l",
+    "id": "jbt--rxo8",
     "title": "ゲーム",
     "artist": "VERTeX",
     "genre": "ポップス",
@@ -9979,7 +13004,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--py2m",
+    "id": "jbt--7hfw",
     "title": "オリジナル",
     "artist": "EXORCISM",
     "genre": "ポップス",
@@ -10004,7 +13029,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--vgne",
+    "id": "jbt--ga5w",
     "title": "オリジナル",
     "artist": "枝に結ぶ願い",
     "genre": "ポップス",
@@ -10029,7 +13054,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--l7cp",
+    "id": "jbt--cj2i",
     "title": "オリジナル",
     "artist": "Energy",
     "genre": "ポップス",
@@ -10054,7 +13079,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--ay20",
+    "id": "jbt--qdaj",
     "title": "オリジナル",
     "artist": "encounter",
     "genre": "ポップス",
@@ -10079,7 +13104,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--ypr0",
+    "id": "jbt--ydcv",
     "title": "オリジナル",
     "artist": "aura",
     "genre": "ポップス",
@@ -10104,7 +13129,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--mnmt",
+    "id": "jbt--6dnu",
     "title": "オリジナル",
     "artist": "御千手メディテーション",
     "genre": "ポップス",
@@ -10129,7 +13154,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--3tek",
+    "id": "jbt--1wyd",
     "title": "オリジナル",
     "artist": "乙女繚乱 舞い咲き誇れ",
     "genre": "ポップス",
@@ -10154,7 +13179,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--p4eg",
+    "id": "jbt--s5wp",
     "title": "オリジナル",
     "artist": "温故知新でいこっ!",
     "genre": "ポップス",
@@ -10179,7 +13204,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--13pj",
+    "id": "jbt--mamw",
     "title": "オリジナル",
     "artist": "KHAMEN BREAK",
     "genre": "ポップス",
@@ -10204,7 +13229,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--s1at",
+    "id": "jbt--vync",
     "title": "ゲーム",
     "artist": "Garakuta Doll Play",
     "genre": "ポップス",
@@ -10229,7 +13254,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--d50c",
+    "id": "jbt--1q6t",
     "title": "ゲーム",
     "artist": "きたさいたま2000",
     "genre": "ポップス",
@@ -10254,7 +13279,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--hmw4",
+    "id": "jbt--9wta",
     "title": "ソーシャル",
     "artist": "きょうもハレバレ",
     "genre": "ポップス",
@@ -10279,7 +13304,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--zah9",
+    "id": "jbt--erb6",
     "title": "オリジナル",
     "artist": "Cleopatrysm",
     "genre": "ポップス",
@@ -10304,7 +13329,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--ro4j",
+    "id": "jbt--yj32",
     "title": "ソーシャル",
     "artist": "ケッペキショウ",
     "genre": "ポップス",
@@ -10329,7 +13354,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--5t35",
+    "id": "jbt--oyx2",
     "title": "ソーシャル",
     "artist": "幻想系世界修復少女",
     "genre": "ポップス",
@@ -10354,7 +13379,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--l8cv",
+    "id": "jbt--m38h",
     "title": "ゲーム",
     "artist": "Got more raves?",
     "genre": "ポップス",
@@ -10379,7 +13404,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--svs5",
+    "id": "jbt--zfor",
     "title": "オリジナル",
     "artist": "コドモライブ",
     "genre": "ポップス",
@@ -10404,7 +13429,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--at3f",
+    "id": "jbt--ik62",
     "title": "オリジナル",
     "artist": "Thank You Merry Christmas",
     "genre": "ポップス",
@@ -10429,7 +13454,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--rom4",
+    "id": "jbt--6qg3",
     "title": "オリジナル",
     "artist": "SHION",
     "genre": "ポップス",
@@ -10454,7 +13479,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--7pef",
+    "id": "jbt--gv0j",
     "title": "ソーシャル",
     "artist": "十面相",
     "genre": "ポップス",
@@ -10479,7 +13504,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--0z11",
+    "id": "jbt--y4sc",
     "title": "オリジナルゲーム",
     "artist": "Scars of FAUNA",
     "genre": "ポップス",
@@ -10504,7 +13529,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--rfpz",
+    "id": "jbt--k28z",
     "title": "オリジナル",
     "artist": "STERLING SILVER",
     "genre": "ポップス",
@@ -10529,7 +13554,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--b7tg",
+    "id": "jbt--k3fw",
     "title": "オリジナル",
     "artist": "Spanish Snowy Dance",
     "genre": "ポップス",
@@ -10554,7 +13579,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--j7d2",
+    "id": "jbt--n1rx",
     "title": "オリジナル",
     "artist": "7 Colors",
     "genre": "ポップス",
@@ -10579,7 +13604,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--2uqm",
+    "id": "jbt--n9xp",
     "title": "オリジナル",
     "artist": "time granular",
     "genre": "ポップス",
@@ -10604,7 +13629,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--gey3",
+    "id": "jbt--esgs",
     "title": "オリジナル",
     "artist": "DANCE ALL NIGHT",
     "genre": "ポップス",
@@ -10629,7 +13654,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--0ruu",
+    "id": "jbt--1cm8",
     "title": "オリジナル",
     "artist": "Timberwolves",
     "genre": "ポップス",
@@ -10654,7 +13679,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--ptr6",
+    "id": "jbt--8wsf",
     "title": "オリジナル",
     "artist": "10,000,000,000",
     "genre": "ポップス",
@@ -10679,7 +13704,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--sg0d",
+    "id": "jbt--8men",
     "title": "オリジナル",
     "artist": "ドーパミン",
     "genre": "ポップス",
@@ -10704,7 +13729,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--v8di",
+    "id": "jbt--epiy",
     "title": "オリジナル",
     "artist": "都会征服Girls☆",
     "genre": "ポップス",
@@ -10729,7 +13754,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--jwaf",
+    "id": "jbt--j2uq",
     "title": "オリジナル",
     "artist": "Nature (jubeat version)",
     "genre": "ポップス",
@@ -10754,7 +13779,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--mfgc",
+    "id": "jbt--m1h9",
     "title": "オリジナル",
     "artist": "猫侍の逆襲",
     "genre": "ポップス",
@@ -10779,7 +13804,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--eqyn",
+    "id": "jbt--9cvp",
     "title": "オリジナル",
     "artist": "High School Love",
     "genre": "ポップス",
@@ -10804,7 +13829,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--gp9s",
+    "id": "jbt--essp",
     "title": "オリジナル",
     "artist": "走れメロンパン",
     "genre": "ポップス",
@@ -10829,7 +13854,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--r88w",
+    "id": "jbt--lo6p",
     "title": "オリジナル",
     "artist": "passionate fate",
     "genre": "ポップス",
@@ -10854,7 +13879,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--bmhd",
+    "id": "jbt--r9kr",
     "title": "オリジナル",
     "artist": "Ha・lle・lu・jah",
     "genre": "ポップス",
@@ -10879,7 +13904,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--o5qn",
+    "id": "jbt--hhye",
     "title": "クラシック",
     "artist": "ハンガリー舞曲 第5番 (jubeat version)",
     "genre": "ポップス",
@@ -10904,7 +13929,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--yu45",
+    "id": "jbt--0ekn",
     "title": "ソーシャル",
     "artist": "バンブーソード・ガール",
     "genre": "ポップス",
@@ -10929,7 +13954,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--kwul",
+    "id": "jbt--1kxc",
     "title": "ソーシャル",
     "artist": "非公開日誌",
     "genre": "ポップス",
@@ -10954,7 +13979,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--ow2i",
+    "id": "jbt--px3k",
     "title": "オリジナル",
     "artist": "HYDRA",
     "genre": "ポップス",
@@ -10979,7 +14004,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--z1qg",
+    "id": "jbt--dpgz",
     "title": "オリジナル",
     "artist": "FUNKY SUMMER BEACH",
     "genre": "ポップス",
@@ -11004,7 +14029,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--k35t",
+    "id": "jbt--eyh7",
     "title": "ゲーム",
     "artist": "FUJIN Rumble",
     "genre": "ポップス",
@@ -11029,7 +14054,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--6kkr",
+    "id": "jbt--lenf",
     "title": "オリジナル",
     "artist": "Follow Tomorrow",
     "genre": "ポップス",
@@ -11054,7 +14079,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--88j4",
+    "id": "jbt--om3d",
     "title": "オリジナル",
     "artist": "planarian",
     "genre": "ポップス",
@@ -11079,7 +14104,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--pxq8",
+    "id": "jbt--bsaf",
     "title": "オリジナル",
     "artist": "Blue Goose",
     "genre": "ポップス",
@@ -11104,7 +14129,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--43w0",
+    "id": "jbt--rfoh",
     "title": "ポップス",
     "artist": "BLUE DRAGON",
     "genre": "ポップス",
@@ -11129,7 +14154,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--ots0",
+    "id": "jbt--mx74",
     "title": "オリジナル",
     "artist": "フレッフレー♪熱血チアガール",
     "genre": "ポップス",
@@ -11154,7 +14179,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--1bxa",
+    "id": "jbt--4fjm",
     "title": "オリジナル",
     "artist": "ポチコの幸せな日常",
     "genre": "ポップス",
@@ -11179,7 +14204,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--vbmh",
+    "id": "jbt--j1dq",
     "title": "オリジナル",
     "artist": "滅びに至るエランプシス",
     "genre": "ポップス",
@@ -11204,7 +14229,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--k1vg",
+    "id": "jbt--48n1",
     "title": "オリジナル",
     "artist": "まるでマトリョーシカ",
     "genre": "ポップス",
@@ -11229,7 +14254,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--bcbt",
+    "id": "jbt--wzyz",
     "title": "オリジナル",
     "artist": "MITOれて！いばらきっしゅだ～りん",
     "genre": "ポップス",
@@ -11254,7 +14279,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--fzql",
+    "id": "jbt--0w7r",
     "title": "オリジナル",
     "artist": "Milchstraße",
     "genre": "ポップス",
@@ -11279,7 +14304,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--xi06",
+    "id": "jbt--72ac",
     "title": "オリジナル",
     "artist": "滅亡天使 † にこきゅっぴん",
     "genre": "ポップス",
@@ -11304,7 +14329,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--n3se",
+    "id": "jbt--1q43",
     "title": "オリジナル",
     "artist": "Metric",
     "genre": "ポップス",
@@ -11329,7 +14354,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--kir6",
+    "id": "jbt--bqg6",
     "title": "オリジナル",
     "artist": "Mono Logic",
     "genre": "ポップス",
@@ -11354,7 +14379,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--wh7b",
+    "id": "jbt--ec0k",
     "title": "オリジナル",
     "artist": "unisonote",
     "genre": "ポップス",
@@ -11379,7 +14404,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--mnng",
+    "id": "jbt--b1em",
     "title": "ソーシャル",
     "artist": "ラクガキスト",
     "genre": "ポップス",
@@ -11404,7 +14429,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--hdg7",
+    "id": "jbt--79cg",
     "title": "オリジナル",
     "artist": "LoveLove DokiDoki",
     "genre": "ポップス",
@@ -11429,7 +14454,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--wy03",
+    "id": "jbt--xg6u",
     "title": "オリジナル",
     "artist": "Little Flipper",
     "genre": "ポップス",
@@ -11454,7 +14479,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--etov",
+    "id": "jbt--je97",
     "title": "ソーシャル",
     "artist": "ルービックキューブ",
     "genre": "ポップス",
@@ -11479,7 +14504,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--1drc",
+    "id": "jbt--axaq",
     "title": "オリジナル",
     "artist": "Resurrection",
     "genre": "ポップス",
@@ -11504,7 +14529,7 @@ export const songs: Song[] = [
     "version": "jubeat saucer fulfill"
   },
   {
-    "id": "jbt--yb7w",
+    "id": "jbt--b07b",
     "title": "オリジナル",
     "artist": "Ausretious#1-まどろみ、或いは嘆色の夢-",
     "genre": "ポップス",
@@ -11529,7 +14554,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--8ivv",
+    "id": "jbt--hszt",
     "title": "オリジナル",
     "artist": "アガット",
     "genre": "ポップス",
@@ -11554,7 +14579,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--a692",
+    "id": "jbt--l8eq",
     "title": "ソーシャル",
     "artist": "朝色の紙飛行機",
     "genre": "ポップス",
@@ -11579,7 +14604,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--cm01",
+    "id": "jbt--h15u",
     "title": "ソーシャル",
     "artist": "天ノ弱 [ 2 ]",
     "genre": "ポップス",
@@ -11604,7 +14629,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--me35",
+    "id": "jbt--91gj",
     "title": "東方アレンジ",
     "artist": "妖隠し -あやかしかくし-",
     "genre": "ポップス",
@@ -11629,7 +14654,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--t2qt",
+    "id": "jbt--fn87",
     "title": "オリジナル",
     "artist": "アレスの楯",
     "genre": "ポップス",
@@ -11654,7 +14679,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--btd2",
+    "id": "jbt--l0dp",
     "title": "オリジナル",
     "artist": "In The Breeze",
     "genre": "ポップス",
@@ -11679,7 +14704,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--894y",
+    "id": "jbt--fbn2",
     "title": "オリジナル",
     "artist": "We're so Happy [ 2 ]",
     "genre": "ポップス",
@@ -11704,7 +14729,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--735f",
+    "id": "jbt--khrk",
     "title": "オリジナル",
     "artist": "エキサイティング！！も・ちゃ・ちゃ☆",
     "genre": "ポップス",
@@ -11729,7 +14754,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--flxa",
+    "id": "jbt--39i7",
     "title": "オリジナル",
     "artist": "EBONY & IVORY",
     "genre": "ポップス",
@@ -11754,7 +14779,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--4th2",
+    "id": "jbt--432o",
     "title": "オリジナル",
     "artist": "overcomplexification",
     "genre": "ポップス",
@@ -11779,7 +14804,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--obdp",
+    "id": "jbt--5zdj",
     "title": "ソーシャルオリジナル",
     "artist": "女言葉の消失",
     "genre": "ポップス",
@@ -11804,7 +14829,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--k25d",
+    "id": "jbt--udbg",
     "title": "アニメ",
     "artist": "かくしん的☆めたまるふぉ～ぜっ！",
     "genre": "ポップス",
@@ -11829,7 +14854,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--6580",
+    "id": "jbt--bd2q",
     "title": "ソーシャル",
     "artist": "過食性:アイドル症候群",
     "genre": "ポップス",
@@ -11854,7 +14879,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--pm7m",
+    "id": "jbt--g1mm",
     "title": "オリジナル",
     "artist": "完全無欠の無重力ダイブ",
     "genre": "ポップス",
@@ -11879,7 +14904,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--a8s7",
+    "id": "jbt--a764",
     "title": "オリジナル",
     "artist": "キモチコネクト",
     "genre": "ポップス",
@@ -11904,7 +14929,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--90z3",
+    "id": "jbt--1xev",
     "title": "オリジナル",
     "artist": "きらきらタイム☆",
     "genre": "ポップス",
@@ -11929,7 +14954,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--s8pe",
+    "id": "jbt--m13a",
     "title": "オリジナル",
     "artist": "glacia",
     "genre": "ポップス",
@@ -11954,7 +14979,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--q530",
+    "id": "jbt--42m0",
     "title": "オリジナル",
     "artist": "glacia [ 2 ]",
     "genre": "ポップス",
@@ -11979,7 +15004,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--f57u",
+    "id": "jbt--4tfp",
     "title": "オリジナル",
     "artist": "Crack Traxxxx",
     "genre": "ポップス",
@@ -12004,7 +15029,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--s44b",
+    "id": "jbt--6j4j",
     "title": "オリジナル",
     "artist": "Chloé",
     "genre": "ポップス",
@@ -12029,7 +15054,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--5qno",
+    "id": "jbt--ql2p",
     "title": "オリジナル",
     "artist": "croiX",
     "genre": "ポップス",
@@ -12054,7 +15079,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--n7zs",
+    "id": "jbt--al1j",
     "title": "オリジナル",
     "artist": "激アツ☆マジヤバ☆チアガール",
     "genre": "ポップス",
@@ -12079,7 +15104,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--cof6",
+    "id": "jbt--9oxl",
     "title": "ソーシャル",
     "artist": "恋をしたい、もう一度",
     "genre": "ポップス",
@@ -12104,7 +15129,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--320f",
+    "id": "jbt--0qky",
     "title": "東方アレンジ",
     "artist": "最終鬼畜妹フランドール・S",
     "genre": "ポップス",
@@ -12129,7 +15154,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--nf5z",
+    "id": "jbt--w2ca",
     "title": "オリジナル",
     "artist": "Sacrifice for Justice",
     "genre": "ポップス",
@@ -12154,7 +15179,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--96yj",
+    "id": "jbt--hoye",
     "title": "オリジナル",
     "artist": "漆黒のスペシャルプリンセスサンデー",
     "genre": "ポップス",
@@ -12179,7 +15204,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--7vqh",
+    "id": "jbt--7ou8",
     "title": "オリジナル",
     "artist": "citrus",
     "genre": "ポップス",
@@ -12204,7 +15229,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--0b53",
+    "id": "jbt--08ih",
     "title": "オリジナル",
     "artist": "Just Believe",
     "genre": "ポップス",
@@ -12229,7 +15254,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--7ftd",
+    "id": "jbt--rr9p",
     "title": "ポップスアニメ",
     "artist": "シュガーソングとビターステップ",
     "genre": "ポップス",
@@ -12254,7 +15279,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--08l5",
+    "id": "jbt--pqu4",
     "title": "ソーシャル",
     "artist": "白い雪のプリンセスは",
     "genre": "ポップス",
@@ -12279,7 +15304,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--iac3",
+    "id": "jbt--pwso",
     "title": "オリジナル",
     "artist": "水月鏡花のコノテーション",
     "genre": "ポップス",
@@ -12304,7 +15329,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--tzy6",
+    "id": "jbt--b737",
     "title": "オリジナル",
     "artist": "SWEET HOME PARTY",
     "genre": "ポップス",
@@ -12329,7 +15354,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--vjal",
+    "id": "jbt--z341",
     "title": "東方アレンジ",
     "artist": "Scarlet Moon",
     "genre": "ポップス",
@@ -12354,7 +15379,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--apgm",
+    "id": "jbt--cd00",
     "title": "オリジナル",
     "artist": "ススススペースハリネズミ",
     "genre": "ポップス",
@@ -12379,7 +15404,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--qx2v",
+    "id": "jbt--bzlc",
     "title": "ソーシャル",
     "artist": "STATIC",
     "genre": "ポップス",
@@ -12404,7 +15429,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--irs6",
+    "id": "jbt--jc8g",
     "title": "東方アレンジ",
     "artist": "Struggle",
     "genre": "ポップス",
@@ -12429,7 +15454,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--8y2w",
+    "id": "jbt--8998",
     "title": "オリジナル",
     "artist": "Slluuddggee",
     "genre": "ポップス",
@@ -12454,7 +15479,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--1uxe",
+    "id": "jbt--98ok",
     "title": "オリジナル",
     "artist": "3 A.M. ディテクティブ・ゲーム",
     "genre": "ポップス",
@@ -12479,7 +15504,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--ismu",
+    "id": "jbt--mvtj",
     "title": "東方アレンジ",
     "artist": "千年ノ理",
     "genre": "ポップス",
@@ -12504,7 +15529,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--ckyi",
+    "id": "jbt--pi6f",
     "title": "東方アレンジ",
     "artist": "竹取飛翔 ～ Lunatic Princess (Ryu☆Remix)",
     "genre": "ポップス",
@@ -12529,7 +15554,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--6ku7",
+    "id": "jbt--5yw1",
     "title": "オリジナル",
     "artist": "地方創生☆チクワクティクス",
     "genre": "ポップス",
@@ -12554,7 +15579,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--fwkj",
+    "id": "jbt--r5ap",
     "title": "オリジナル",
     "artist": "超越してしまった彼女と其を生み落した理由",
     "genre": "ポップス",
@@ -12579,7 +15604,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--x9be",
+    "id": "jbt--u5cc",
     "title": "オリジナル",
     "artist": "チョコレートスマイル",
     "genre": "ポップス",
@@ -12604,7 +15629,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--sut2",
+    "id": "jbt--ahll",
     "title": "東方アレンジ",
     "artist": "チルノのパーフェクトさんすう教室",
     "genre": "ポップス",
@@ -12629,7 +15654,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--fxnx",
+    "id": "jbt--75xq",
     "title": "オリジナル",
     "artist": "ツーマンライブ",
     "genre": "ポップス",
@@ -12654,7 +15679,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--6s79",
+    "id": "jbt--uysb",
     "title": "オリジナル",
     "artist": "Diargosの森",
     "genre": "ポップス",
@@ -12679,7 +15704,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--homs",
+    "id": "jbt--a8n6",
     "title": "オリジナル",
     "artist": "天空の華",
     "genre": "ポップス",
@@ -12704,7 +15729,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--rcz7",
+    "id": "jbt--xxox",
     "title": "オリジナル",
     "artist": "twinkle noise",
     "genre": "ポップス",
@@ -12729,7 +15754,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--yh1u",
+    "id": "jbt--i3sz",
     "title": "オリジナル",
     "artist": "TWINKLING",
     "genre": "ポップス",
@@ -12754,7 +15779,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--6fvm",
+    "id": "jbt--c21r",
     "title": "オリジナル",
     "artist": "Two Pianists",
     "genre": "ポップス",
@@ -12779,7 +15804,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--sj93",
+    "id": "jbt--erip",
     "title": "オリジナル",
     "artist": "Too Late Snow",
     "genre": "ポップス",
@@ -12804,7 +15829,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--fekm",
+    "id": "jbt--5p7w",
     "title": "オリジナル",
     "artist": "Too Late Snow [ 2 ]",
     "genre": "ポップス",
@@ -12829,7 +15854,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--r610",
+    "id": "jbt--a1fh",
     "title": "オリジナル",
     "artist": "とびっきりのふわっふわ",
     "genre": "ポップス",
@@ -12854,7 +15879,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--oqn4",
+    "id": "jbt--p5hq",
     "title": "オリジナル",
     "artist": "トリカゴノ鳳凰 [ 2 ]",
     "genre": "ポップス",
@@ -12879,7 +15904,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--uq5d",
+    "id": "jbt--mg7w",
     "title": "東方アレンジ",
     "artist": "取り残された美術(Arranged:HiZuMi)",
     "genre": "ポップス",
@@ -12904,7 +15929,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--9675",
+    "id": "jbt--x409",
     "title": "オリジナル",
     "artist": "Towards the TOWER",
     "genre": "ポップス",
@@ -12929,7 +15954,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--foe6",
+    "id": "jbt--jgpt",
     "title": "東方アレンジ",
     "artist": "ナイト・オブ・ナイツ",
     "genre": "ポップス",
@@ -12954,7 +15979,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--3bfh",
+    "id": "jbt--9af0",
     "title": "オリジナル",
     "artist": "†渚の小悪魔ラヴリィ～レイディオ† [ 2 ]",
     "genre": "ポップス",
@@ -12979,7 +16004,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--bft6",
+    "id": "jbt--idng",
     "title": "オリジナル",
     "artist": "夏色DIARY 俺のjubeat編",
     "genre": "ポップス",
@@ -13004,7 +16029,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--296e",
+    "id": "jbt--l7zg",
     "title": "オリジナル",
     "artist": "日天悦扇紊舞",
     "genre": "ポップス",
@@ -13029,7 +16054,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--ys3h",
+    "id": "jbt--0b6t",
     "title": "オリジナル",
     "artist": "Niflheimr",
     "genre": "ポップス",
@@ -13054,7 +16079,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--rlok",
+    "id": "jbt--3xxv",
     "title": "東方アレンジ",
     "artist": "NEON WORLD",
     "genre": "ポップス",
@@ -13079,7 +16104,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--7m5j",
+    "id": "jbt--q7ji",
     "title": "オリジナル",
     "artist": "neko*neko",
     "genre": "ポップス",
@@ -13104,7 +16129,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--mk38",
+    "id": "jbt--86bu",
     "title": "オリジナル",
     "artist": "走れメロンパン [ 2 ]",
     "genre": "ポップス",
@@ -13129,7 +16154,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--1zx0",
+    "id": "jbt--6zpb",
     "title": "東方アレンジ",
     "artist": "Bad Apple!! feat. nomico",
     "genre": "ポップス",
@@ -13154,7 +16179,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--8607",
+    "id": "jbt--shpl",
     "title": "アニメ",
     "artist": "はなまるぴっぴはよいこだけ",
     "genre": "ポップス",
@@ -13179,7 +16204,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--1013",
+    "id": "jbt--d2cp",
     "title": "オリジナル",
     "artist": "パ→ピ→プ→Yeah!",
     "genre": "ポップス",
@@ -13204,7 +16229,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--wugo",
+    "id": "jbt--539i",
     "title": "東方アレンジ",
     "artist": "BEAT-NEW-WORLD",
     "genre": "ポップス",
@@ -13229,7 +16254,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--urnw",
+    "id": "jbt--kwdf",
     "title": "オリジナル",
     "artist": "ビビットストリーム",
     "genre": "ポップス",
@@ -13254,7 +16279,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--al7n",
+    "id": "jbt--5oaw",
     "title": "オリジナル",
     "artist": "フラッター現象の顛末と単一指向性の感情論",
     "genre": "ポップス",
@@ -13279,7 +16304,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt-3-46qb",
+    "id": "jbt-3-3xyi",
     "title": "オリジナルゲーム*3",
     "artist": "FLOWER [ 2 ]",
     "genre": "ポップス",
@@ -13304,7 +16329,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--0u6d",
+    "id": "jbt--w6g8",
     "title": "オリジナル",
     "artist": "freaky freak",
     "genre": "ポップス",
@@ -13329,7 +16354,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--2ket",
+    "id": "jbt--csqz",
     "title": "オリジナル",
     "artist": "Braid & Blade",
     "genre": "ポップス",
@@ -13354,7 +16379,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--r4jc",
+    "id": "jbt--dfbd",
     "title": "東方アレンジ",
     "artist": "プレインエイジア -PHQ remix-",
     "genre": "ポップス",
@@ -13379,7 +16404,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--7736",
+    "id": "jbt--1ih3",
     "title": "オリジナル",
     "artist": "prop the world",
     "genre": "ポップス",
@@ -13404,7 +16429,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--iyft",
+    "id": "jbt--qrrd",
     "title": "東方アレンジ",
     "artist": "ほおずき程度には赤い頭髪",
     "genre": "ポップス",
@@ -13429,7 +16454,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--aueo",
+    "id": "jbt--bdqf",
     "title": "オリジナル",
     "artist": "ぽかぽかレトロード",
     "genre": "ポップス",
@@ -13454,7 +16479,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--qsf7",
+    "id": "jbt--ef3c",
     "title": "オリジナル",
     "artist": "炎のDiargos",
     "genre": "ポップス",
@@ -13479,7 +16504,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--7cht",
+    "id": "jbt--acpy",
     "title": "東方アレンジ",
     "artist": "ホメ猫☆センセーション",
     "genre": "ポップス",
@@ -13504,7 +16529,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--obg9",
+    "id": "jbt--6ayx",
     "title": "オリジナル",
     "artist": "MAGICAL SUMMER SMILE",
     "genre": "ポップス",
@@ -13529,7 +16554,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--pqln",
+    "id": "jbt--l6ll",
     "title": "ソーシャル",
     "artist": "M.A.Y.U.",
     "genre": "ポップス",
@@ -13554,7 +16579,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--s695",
+    "id": "jbt--ryf6",
     "title": "東方アレンジ",
     "artist": "魔理沙は大変なものを盗んでいきました",
     "genre": "ポップス",
@@ -13579,7 +16604,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--q0pr",
+    "id": "jbt--78qw",
     "title": "オリジナル",
     "artist": "ミライプリズム(collaboration ver.)",
     "genre": "ポップス",
@@ -13604,7 +16629,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--pxmh",
+    "id": "jbt--x9gd",
     "title": "オリジナル",
     "artist": "雪女",
     "genre": "ポップス",
@@ -13629,7 +16654,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--95g6",
+    "id": "jbt--gmsn",
     "title": "オリジナル",
     "artist": "Love ♡ km [ 2 ]",
     "genre": "ポップス",
@@ -13654,7 +16679,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--mw3m",
+    "id": "jbt--uihy",
     "title": "オリジナル",
     "artist": "Lovesick Lovetune",
     "genre": "ポップス",
@@ -13679,7 +16704,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--qg98",
+    "id": "jbt--prs3",
     "title": "オリジナル",
     "artist": "龍と少女とデコヒーレンス",
     "genre": "ポップス",
@@ -13704,7 +16729,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--nbeh",
+    "id": "jbt--4ho3",
     "title": "オリジナル",
     "artist": "霖が哭く",
     "genre": "ポップス",
@@ -13729,7 +16754,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--qpjd",
+    "id": "jbt--a5pn",
     "title": "東方アレンジ",
     "artist": "Russian Caravan Rhapsody",
     "genre": "ポップス",
@@ -13754,7 +16779,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--kv1u",
+    "id": "jbt--rw7l",
     "title": "オリジナル",
     "artist": "Rock The Club",
     "genre": "ポップス",
@@ -13779,7 +16804,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--oq7o",
+    "id": "jbt--yzyu",
     "title": "オリジナル",
     "artist": "robin [ 2 ]",
     "genre": "ポップス",
@@ -13804,7 +16829,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--ra3w",
+    "id": "jbt--skce",
     "title": "オリジナル",
     "artist": "惑星☆ロリポップ",
     "genre": "ポップス",
@@ -13829,7 +16854,7 @@ export const songs: Song[] = [
     "version": "jubeat prop"
   },
   {
-    "id": "jbt--kidr",
+    "id": "jbt--bivq",
     "title": "オリジナル",
     "artist": "Ark",
     "genre": "ポップス",
@@ -13854,7 +16879,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--8qd9",
+    "id": "jbt--qjrj",
     "title": "オリジナル",
     "artist": "aleatrik",
     "genre": "ポップス",
@@ -13879,7 +16904,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--5wvp",
+    "id": "jbt--75tt",
     "title": "オリジナル",
     "artist": "アキネイション",
     "genre": "ポップス",
@@ -13904,7 +16929,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--kcfp",
+    "id": "jbt--ig6w",
     "title": "オリジナル",
     "artist": "Against the vulgar aggressor",
     "genre": "ポップス",
@@ -13929,7 +16954,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--780e",
+    "id": "jbt--4r67",
     "title": "オリジナル",
     "artist": "Invisible Border",
     "genre": "ポップス",
@@ -13954,7 +16979,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--ac2c",
+    "id": "jbt--77fi",
     "title": "オリジナル",
     "artist": "veRtrageS",
     "genre": "ポップス",
@@ -13979,7 +17004,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--yi0w",
+    "id": "jbt--u9ik",
     "title": "オリジナル",
     "artist": "Valanga",
     "genre": "ポップス",
@@ -14004,7 +17029,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--hgrw",
+    "id": "jbt--00m1",
     "title": "ゲームオリジナル",
     "artist": "Vampire Killer",
     "genre": "ポップス",
@@ -14029,7 +17054,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--8t22",
+    "id": "jbt--0jx0",
     "title": "オリジナル",
     "artist": "Windy Fairy [ 2 ]",
     "genre": "ポップス",
@@ -14054,7 +17079,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--oc6n",
+    "id": "jbt--yf4k",
     "title": "オリジナル",
     "artist": "ULTRA HAPPY MEGAMIX",
     "genre": "ポップス",
@@ -14079,7 +17104,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--w7oz",
+    "id": "jbt--c12k",
     "title": "オリジナル",
     "artist": "UROBOROS OVERDIVE",
     "genre": "ポップス",
@@ -14104,7 +17129,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--pew3",
+    "id": "jbt--ijq2",
     "title": "クラシック",
     "artist": "運命",
     "genre": "ポップス",
@@ -14129,7 +17154,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--vnky",
+    "id": "jbt--7th8",
     "title": "ソーシャル",
     "artist": "エイリアンエイリアン",
     "genre": "ポップス",
@@ -14154,7 +17179,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--60j4",
+    "id": "jbt--g3nv",
     "title": "オリジナル",
     "artist": "枝に結ぶ願い [ 2 ]",
     "genre": "ポップス",
@@ -14179,7 +17204,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--vqsz",
+    "id": "jbt--jca9",
     "title": "オリジナル",
     "artist": "Angelic Jelly",
     "genre": "ポップス",
@@ -14204,7 +17229,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--xnzd",
+    "id": "jbt--65ar",
     "title": "オリジナル",
     "artist": "Entrapment",
     "genre": "ポップス",
@@ -14229,7 +17254,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--xfrm",
+    "id": "jbt--10av",
     "title": "東方アレンジ",
     "artist": "Endless, Sleepless Night",
     "genre": "ポップス",
@@ -14254,7 +17279,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--vb80",
+    "id": "jbt--bppa",
     "title": "東方アレンジ",
     "artist": "お嫁にしなさいっ！",
     "genre": "ポップス",
@@ -14279,7 +17304,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--9rw4",
+    "id": "jbt--7s3x",
     "title": "オリジナル",
     "artist": "CARNIVOROUS",
     "genre": "ポップス",
@@ -14304,7 +17329,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--pvts",
+    "id": "jbt--7akq",
     "title": "オリジナル",
     "artist": "KHAMEN BREAK -SDVX Infinity MashUp-",
     "genre": "ポップス",
@@ -14329,7 +17354,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--dlqa",
+    "id": "jbt--1gll",
     "title": "オリジナル",
     "artist": "怪盗BisCoの予告状！！",
     "genre": "ポップス",
@@ -14354,7 +17379,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--rwnj",
+    "id": "jbt--00fa",
     "title": "オリジナル",
     "artist": "KAMAITACHI",
     "genre": "ポップス",
@@ -14379,7 +17404,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--nalw",
+    "id": "jbt--xc4z",
     "title": "東方アレンジ",
     "artist": "眼光",
     "genre": "ポップス",
@@ -14404,7 +17429,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--ud8c",
+    "id": "jbt--uxv2",
     "title": "ゲーム",
     "artist": "がんばれゴエモン ～ ビーストメドレー ～",
     "genre": "ポップス",
@@ -14429,7 +17454,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--qkwb",
+    "id": "jbt--9r9v",
     "title": "オリジナル",
     "artist": "キミヱゴサーチ",
     "genre": "ポップス",
@@ -14454,7 +17479,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--8edf",
+    "id": "jbt--l5dl",
     "title": "オリジナル",
     "artist": "キミとワタシのオンガク",
     "genre": "ポップス",
@@ -14479,7 +17504,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--1h4r",
+    "id": "jbt--p5aw",
     "title": "オリジナル",
     "artist": "Qubellic Prism",
     "genre": "ポップス",
@@ -14504,7 +17529,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--45v3",
+    "id": "jbt--stu5",
     "title": "オリジナル",
     "artist": "きゅん×きゅんばっきゅん☆LOVE",
     "genre": "ポップス",
@@ -14529,7 +17554,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--oxb2",
+    "id": "jbt--drzg",
     "title": "東方アレンジ",
     "artist": "響縁",
     "genre": "ポップス",
@@ -14554,7 +17579,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--3787",
+    "id": "jbt--coeg",
     "title": "オリジナル",
     "artist": "Good bye, Summer～さよならは言わない～",
     "genre": "ポップス",
@@ -14579,7 +17604,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--v2o6",
+    "id": "jbt--y0bc",
     "title": "ゲーム",
     "artist": "GRADIUS II ～ ビーストメドレー ～",
     "genre": "ポップス",
@@ -14604,7 +17629,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--v56c",
+    "id": "jbt--p4kc",
     "title": "オリジナル",
     "artist": "倉野川音頭",
     "genre": "ポップス",
@@ -14629,7 +17654,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--0euw",
+    "id": "jbt--lqpz",
     "title": "オリジナル",
     "artist": "Grand Chariot",
     "genre": "ポップス",
@@ -14654,7 +17679,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--xgii",
+    "id": "jbt--od7t",
     "title": "オリジナル",
     "artist": "Glitter Flatter Scatter",
     "genre": "ポップス",
@@ -14679,7 +17704,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--u0de",
+    "id": "jbt--4gpq",
     "title": "オリジナル",
     "artist": "crêpe suzette",
     "genre": "ポップス",
@@ -14704,7 +17729,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--aco9",
+    "id": "jbt--3it5",
     "title": "オリジナル",
     "artist": "黒髪乱れし修羅となりて～凛edition～",
     "genre": "ポップス",
@@ -14729,7 +17754,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--z5t2",
+    "id": "jbt--5j0s",
     "title": "オリジナル",
     "artist": "檄",
     "genre": "ポップス",
@@ -14754,7 +17779,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--rjj8",
+    "id": "jbt--4twm",
     "title": "ゲーム",
     "artist": "月風魔伝 ～ ビーストメドレー ～",
     "genre": "ポップス",
@@ -14779,7 +17804,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--pgo5",
+    "id": "jbt--dekn",
     "title": "東方アレンジ",
     "artist": "厳冬記",
     "genre": "ポップス",
@@ -14804,7 +17829,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--mqgd",
+    "id": "jbt--cg26",
     "title": "オリジナル",
     "artist": "ケンぱ！ケンぱ！拳拳ぱん打！",
     "genre": "ポップス",
@@ -14829,7 +17854,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--sfq1",
+    "id": "jbt--e3wr",
     "title": "オリジナル",
     "artist": "Cosminflation",
     "genre": "ポップス",
@@ -14854,7 +17879,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--vade",
+    "id": "jbt--6li4",
     "title": "オリジナル",
     "artist": "琥珀のくちづけ",
     "genre": "ポップス",
@@ -14879,7 +17904,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--jc08",
+    "id": "jbt--pxh3",
     "title": "オリジナル",
     "artist": "今夜はパジャマパーティ",
     "genre": "ポップス",
@@ -14904,7 +17929,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--i9qv",
+    "id": "jbt--co82",
     "title": "オリジナル",
     "artist": "CIRCUS U CRIC",
     "genre": "ポップス",
@@ -14929,7 +17954,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--k926",
+    "id": "jbt--qojk",
     "title": "東方アレンジ",
     "artist": "Silent Story",
     "genre": "ポップス",
@@ -14954,7 +17979,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--6lu1",
+    "id": "jbt--d6hm",
     "title": "オリジナル",
     "artist": "Saturday Night Love",
     "genre": "ポップス",
@@ -14979,7 +18004,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--7cgz",
+    "id": "jbt--p22p",
     "title": "オリジナル",
     "artist": "The Omen",
     "genre": "ポップス",
@@ -15004,7 +18029,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--vvqf",
+    "id": "jbt--6rj8",
     "title": "オリジナル",
     "artist": "じもとっこスイーツ♪",
     "genre": "ポップス",
@@ -15029,7 +18054,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--jtei",
+    "id": "jbt--lvof",
     "title": "オリジナル",
     "artist": "Giant Otter Family",
     "genre": "ポップス",
@@ -15054,7 +18079,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--zq2u",
+    "id": "jbt--p9lh",
     "title": "オリジナル",
     "artist": "Just a Game",
     "genre": "ポップス",
@@ -15079,7 +18104,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--djo8",
+    "id": "jbt--6ess",
     "title": "東方アレンジ",
     "artist": "JACK THE RIPPER feat. Iceon",
     "genre": "ポップス",
@@ -15104,7 +18129,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--qj5y",
+    "id": "jbt--a1nu",
     "title": "オリジナル",
     "artist": "スカイダイバー",
     "genre": "ポップス",
@@ -15129,7 +18154,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--tz9n",
+    "id": "jbt--7q6o",
     "title": "オリジナル",
     "artist": "Sky High",
     "genre": "ポップス",
@@ -15154,7 +18179,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--vgo6",
+    "id": "jbt--3hb1",
     "title": "東方アレンジ",
     "artist": "Scream out!",
     "genre": "ポップス",
@@ -15179,7 +18204,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--e4l1",
+    "id": "jbt--9fpm",
     "title": "東方アレンジ",
     "artist": "Struggle [ 2 ]",
     "genre": "ポップス",
@@ -15204,7 +18229,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--0nbl",
+    "id": "jbt--8s58",
     "title": "オリジナル",
     "artist": "StrayedCatz",
     "genre": "ポップス",
@@ -15229,7 +18254,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--ghck",
+    "id": "jbt--3klc",
     "title": "オリジナル",
     "artist": "SPACE VILLAGE",
     "genre": "ポップス",
@@ -15254,7 +18279,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--i92d",
+    "id": "jbt--nloc",
     "title": "オリジナル",
     "artist": "ZEPHYRANTHES",
     "genre": "ポップス",
@@ -15279,7 +18304,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--a2sk",
+    "id": "jbt--4uiw",
     "title": "オリジナル",
     "artist": "Sephirot",
     "genre": "ポップス",
@@ -15304,7 +18329,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--21vy",
+    "id": "jbt--in3x",
     "title": "オリジナル",
     "artist": "そこはかとなくロマンセ",
     "genre": "ポップス",
@@ -15329,7 +18354,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--s48d",
+    "id": "jbt--r3n2",
     "title": "東方アレンジ",
     "artist": "蒼空に舞え、墨染の桜",
     "genre": "ポップス",
@@ -15354,7 +18379,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--jhrd",
+    "id": "jbt--5yww",
     "title": "オリジナル",
     "artist": "それは花火のような恋",
     "genre": "ポップス",
@@ -15379,7 +18404,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--erzp",
+    "id": "jbt--umi5",
     "title": "オリジナル",
     "artist": "Daisuke",
     "genre": "ポップス",
@@ -15404,7 +18429,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--pdve",
+    "id": "jbt--cxs8",
     "title": "オリジナル",
     "artist": "旅の終わりと祝祭の夜",
     "genre": "ポップス",
@@ -15429,7 +18454,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--0zum",
+    "id": "jbt--d7r2",
     "title": "オリジナル",
     "artist": "CHERNOBOG",
     "genre": "ポップス",
@@ -15454,7 +18479,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--zppf",
+    "id": "jbt--t7kq",
     "title": "ゲーム",
     "artist": "Twinbee's Home Town Song",
     "genre": "ポップス",
@@ -15479,7 +18504,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--gk2g",
+    "id": "jbt--3zeo",
     "title": "東方アレンジ",
     "artist": "月に叢雲華に風",
     "genre": "ポップス",
@@ -15504,7 +18529,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--2hdj",
+    "id": "jbt--jluj",
     "title": "ポップス",
     "artist": "Ding Dong Bell",
     "genre": "ポップス",
@@ -15529,7 +18554,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--cdw2",
+    "id": "jbt--3cfs",
     "title": "東方アレンジ",
     "artist": "DesireDrive",
     "genre": "ポップス",
@@ -15554,7 +18579,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--zric",
+    "id": "jbt--mrgw",
     "title": "オリジナル",
     "artist": "Destiny lovers",
     "genre": "ポップス",
@@ -15579,7 +18604,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--bt2y",
+    "id": "jbt--hcf3",
     "title": "オリジナル",
     "artist": "天嘩乱舞",
     "genre": "ポップス",
@@ -15604,7 +18629,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--1ma6",
+    "id": "jbt--uc4b",
     "title": "ソーシャル",
     "artist": "ドーナツホール",
     "genre": "ポップス",
@@ -15629,7 +18654,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--e5qp",
+    "id": "jbt--4z4q",
     "title": "オリジナル",
     "artist": "トキメキストリーム",
     "genre": "ポップス",
@@ -15654,7 +18679,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--9e9k",
+    "id": "jbt--ht7l",
     "title": "オリジナル",
     "artist": "Triple Counter",
     "genre": "ポップス",
@@ -15679,7 +18704,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--j44f",
+    "id": "jbt--9x1p",
     "title": "オリジナル",
     "artist": "NISHIMURA -祭- CARNIVAL",
     "genre": "ポップス",
@@ -15704,7 +18729,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--k3v0",
+    "id": "jbt--y66v",
     "title": "オリジナル",
     "artist": "にゃんのパレードマーチ♪",
     "genre": "ポップス",
@@ -15729,7 +18754,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--fif8",
+    "id": "jbt--69f4",
     "title": "オリジナル",
     "artist": "New York EVOLVED",
     "genre": "ポップス",
@@ -15754,7 +18779,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--7jgb",
+    "id": "jbt--k3kf",
     "title": "オリジナル",
     "artist": "Knell",
     "genre": "ポップス",
@@ -15779,7 +18804,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--cr8o",
+    "id": "jbt--7o99",
     "title": "オリジナル",
     "artist": "nostos",
     "genre": "ポップス",
@@ -15804,7 +18829,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--a2j6",
+    "id": "jbt--3xo1",
     "title": "オリジナル",
     "artist": "爆なな☆てすとロイヤー",
     "genre": "ポップス",
@@ -15829,7 +18854,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--mvrr",
+    "id": "jbt--8v2y",
     "title": "ソーシャル",
     "artist": "ハッピーシンセサイザ",
     "genre": "ポップス",
@@ -15854,7 +18879,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--9krn",
+    "id": "jbt--s1b5",
     "title": "オリジナル",
     "artist": "Hunny Bunny",
     "genre": "ポップス",
@@ -15879,7 +18904,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--cr1l",
+    "id": "jbt--3y9v",
     "title": "オリジナル",
     "artist": "バビロニア",
     "genre": "ポップス",
@@ -15904,7 +18929,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--omvd",
+    "id": "jbt--hzrt",
     "title": "オリジナル",
     "artist": "バビロニアの旅人たち",
     "genre": "ポップス",
@@ -15929,7 +18954,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--3375",
+    "id": "jbt--ns64",
     "title": "ソーシャル",
     "artist": "paranoia",
     "genre": "ポップス",
@@ -15954,7 +18979,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--rest",
+    "id": "jbt--qhbq",
     "title": "オリジナル",
     "artist": "Hollywood Galaxy",
     "genre": "ポップス",
@@ -15979,7 +19004,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--1svp",
+    "id": "jbt--5miu",
     "title": "東方アレンジ",
     "artist": "反撃",
     "genre": "ポップス",
@@ -16004,7 +19029,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--4zyi",
+    "id": "jbt--7pbw",
     "title": "オリジナル",
     "artist": "ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～",
     "genre": "ポップス",
@@ -16029,7 +19054,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--2rkb",
+    "id": "jbt--xcqq",
     "title": "ソーシャル",
     "artist": "パンダヒーロー",
     "genre": "ポップス",
@@ -16054,7 +19079,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--7sp5",
+    "id": "jbt--obja",
     "title": "オリジナル",
     "artist": "びいすと！",
     "genre": "ポップス",
@@ -16079,7 +19104,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--zpcj",
+    "id": "jbt--wavb",
     "title": "オリジナル",
     "artist": "秘密がーる♡乙女",
     "genre": "ポップス",
@@ -16104,7 +19129,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--ivhv",
+    "id": "jbt--2lhu",
     "title": "オリジナル",
     "artist": "Four Leaves",
     "genre": "ポップス",
@@ -16129,7 +19154,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--mimf",
+    "id": "jbt--2wpp",
     "title": "オリジナル",
     "artist": "不可説不可説転",
     "genre": "ポップス",
@@ -16154,7 +19179,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--dey8",
+    "id": "jbt--e0ff",
     "title": "オリジナル",
     "artist": "FUJIMORI -祭- FESTIVAL",
     "genre": "ポップス",
@@ -16179,7 +19204,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--n2rn",
+    "id": "jbt--26w9",
     "title": "オリジナル",
     "artist": "BLACK or WHITE?",
     "genre": "ポップス",
@@ -16204,7 +19229,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--cc9b",
+    "id": "jbt--s43i",
     "title": "オリジナル",
     "artist": "Bleep Beep Bop",
     "genre": "ポップス",
@@ -16229,7 +19254,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--ho7z",
+    "id": "jbt--qtan",
     "title": "オリジナル",
     "artist": "FLOOR INFECTION Medley from SOUND VOLTEX×jubeat",
     "genre": "ポップス",
@@ -16254,7 +19279,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--mqw2",
+    "id": "jbt--hghg",
     "title": "オリジナル",
     "artist": "Phlox",
     "genre": "ポップス",
@@ -16279,7 +19304,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--qsnm",
+    "id": "jbt--8sd2",
     "title": "オリジナル",
     "artist": "変じゃない!!",
     "genre": "ポップス",
@@ -16304,7 +19329,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--hzag",
+    "id": "jbt--lg20",
     "title": "ソーシャル",
     "artist": "放課後ストライド",
     "genre": "ポップス",
@@ -16329,7 +19354,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--v4hi",
+    "id": "jbt--rfmi",
     "title": "ソーシャル",
     "artist": "僕は空気が嫁ない",
     "genre": "ポップス",
@@ -16354,7 +19379,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--ojz9",
+    "id": "jbt--xpq0",
     "title": "オリジナル",
     "artist": "星宿る空の下で",
     "genre": "ポップス",
@@ -16379,7 +19404,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--4e3b",
+    "id": "jbt--znqt",
     "title": "オリジナル",
     "artist": "Boss Rush",
     "genre": "ポップス",
@@ -16404,7 +19429,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--eptc",
+    "id": "jbt--9auq",
     "title": "オリジナル",
     "artist": "ポメグラネイト",
     "genre": "ポップス",
@@ -16429,7 +19454,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--zod2",
+    "id": "jbt--gp2b",
     "title": "オリジナル",
     "artist": "POLICY BREAK Medley from SOUND VOLTEX×jubeat",
     "genre": "ポップス",
@@ -16454,7 +19479,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--aoeq",
+    "id": "jbt--dowm",
     "title": "オリジナル",
     "artist": "Bonjour, The World!!",
     "genre": "ポップス",
@@ -16479,7 +19504,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--mbj7",
+    "id": "jbt--zur8",
     "title": "ソーシャル",
     "artist": "マトリョシカ",
     "genre": "ポップス",
@@ -16504,7 +19529,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--mu5q",
+    "id": "jbt--ld39",
     "title": "オリジナル",
     "artist": "見習い天使と星降りの丘",
     "genre": "ポップス",
@@ -16529,7 +19554,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--k2wd",
+    "id": "jbt--ss24",
     "title": "オリジナル",
     "artist": "Mirage of the Mirror",
     "genre": "ポップス",
@@ -16554,7 +19579,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--s5vy",
+    "id": "jbt--4jn2",
     "title": "オリジナル",
     "artist": "ミライプリズム",
     "genre": "ポップス",
@@ -16579,7 +19604,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--sa2n",
+    "id": "jbt--hy9x",
     "title": "オリジナル",
     "artist": "蟲の棲む処",
     "genre": "ポップス",
@@ -16604,7 +19629,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--n8v9",
+    "id": "jbt--kb3v",
     "title": "オリジナル",
     "artist": "夢有",
     "genre": "ポップス",
@@ -16629,7 +19654,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--oql6",
+    "id": "jbt--3gko",
     "title": "オリジナル",
     "artist": "Megalara Garuda",
     "genre": "ポップス",
@@ -16654,7 +19679,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--at4b",
+    "id": "jbt--mwck",
     "title": "オリジナル",
     "artist": "RHYZING BEAT",
     "genre": "ポップス",
@@ -16679,7 +19704,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--2l9z",
+    "id": "jbt--ri8e",
     "title": "東方アレンジ",
     "artist": "Runway Drive",
     "genre": "ポップス",
@@ -16704,7 +19729,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--b6ws",
+    "id": "jbt--rc3z",
     "title": "オリジナル",
     "artist": "六花にくちづけ",
     "genre": "ポップス",
@@ -16729,7 +19754,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--h5ff",
+    "id": "jbt--q6eg",
     "title": "ソーシャル",
     "artist": "炉心融解",
     "genre": "ポップス",
@@ -16754,7 +19779,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--x5fm",
+    "id": "jbt--2gh6",
     "title": "オリジナル",
     "artist": "Lost Wing at.0",
     "genre": "ポップス",
@@ -16779,7 +19804,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--adkv",
+    "id": "jbt--p2tn",
     "title": "オリジナル",
     "artist": "ロプノールの商隊",
     "genre": "ポップス",
@@ -16804,7 +19829,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--r8l1",
+    "id": "jbt--4o30",
     "title": "オリジナル",
     "artist": "ロンロンへ ライライライ！",
     "genre": "ポップス",
@@ -16829,7 +19854,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--6dsf",
+    "id": "jbt--8097",
     "title": "オリジナル",
     "artist": "分けるな危険！モモモモモモーイズム",
     "genre": "ポップス",
@@ -16854,7 +19879,7 @@ export const songs: Song[] = [
     "version": "jubeat qubell"
   },
   {
-    "id": "jbt--vlk7",
+    "id": "jbt--j61d",
     "title": "オリジナル",
     "artist": "Ausretious#1-まどろみ、或いは嘆色の夢- [ 2 ]",
     "genre": "ポップス",
@@ -16879,7 +19904,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--jz45",
+    "id": "jbt--8uup",
     "title": "オリジナル",
     "artist": "アガット [ 2 ]*4",
     "genre": "ポップス",
@@ -16904,7 +19929,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--tg6n",
+    "id": "jbt--xs4z",
     "title": "オリジナル",
     "artist": "アドレナリン",
     "genre": "ポップス",
@@ -16929,7 +19954,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ehrq",
+    "id": "jbt--ooos",
     "title": "オリジナル",
     "artist": "Another Phase",
     "genre": "ポップス",
@@ -16954,7 +19979,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--r35s",
+    "id": "jbt--zk2a",
     "title": "オリジナル",
     "artist": "Alive in my Soul",
     "genre": "ポップス",
@@ -16979,7 +20004,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--fgva",
+    "id": "jbt--jo8a",
     "title": "オリジナル",
     "artist": "EXUSIA",
     "genre": "ポップス",
@@ -17004,7 +20029,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--172s",
+    "id": "jbt--pbjp",
     "title": "オリジナル",
     "artist": "イ号零型 [ 2 ]",
     "genre": "ポップス",
@@ -17029,7 +20054,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--olcx",
+    "id": "jbt--6acl",
     "title": "ソーシャル",
     "artist": "Initial song",
     "genre": "ポップス",
@@ -17054,7 +20079,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--23s3",
+    "id": "jbt--sekj",
     "title": "オリジナル",
     "artist": "If",
     "genre": "ポップス",
@@ -17079,7 +20104,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--hqru",
+    "id": "jbt--y42d",
     "title": "オリジナル",
     "artist": "In The Ruins",
     "genre": "ポップス",
@@ -17104,7 +20129,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ujwn",
+    "id": "jbt--51an",
     "title": "オリジナル",
     "artist": "Welcome!!",
     "genre": "ポップス",
@@ -17129,7 +20154,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--30rh",
+    "id": "jbt--qn3y",
     "title": "オリジナル",
     "artist": "Aerial Skydive",
     "genre": "ポップス",
@@ -17154,7 +20179,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--09ul",
+    "id": "jbt--4pbv",
     "title": "オリジナル",
     "artist": "Everybody's Rich",
     "genre": "ポップス",
@@ -17179,7 +20204,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--s64r",
+    "id": "jbt--vjgv",
     "title": "オリジナル",
     "artist": "AI",
     "genre": "ポップス",
@@ -17204,7 +20229,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--4mdi",
+    "id": "jbt--o7oz",
     "title": "オリジナル",
     "artist": "Evans ～NOSTALGIA Ver. ～",
     "genre": "ポップス",
@@ -17229,7 +20254,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ct3e",
+    "id": "jbt--r4s6",
     "title": "オリジナル",
     "artist": "エレシュキガル",
     "genre": "ポップス",
@@ -17254,7 +20279,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--llrk",
+    "id": "jbt--qjfw",
     "title": "ソーシャル",
     "artist": "快晴",
     "genre": "ポップス",
@@ -17279,7 +20304,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--tc5c",
+    "id": "jbt--uz2k",
     "title": "オリジナル",
     "artist": "カラルの月 [ 2 ]",
     "genre": "ポップス",
@@ -17304,7 +20329,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--enfr",
+    "id": "jbt--cv4h",
     "title": "オリジナル",
     "artist": "変わりゆく時間とノスタルジアと",
     "genre": "ポップス",
@@ -17329,7 +20354,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--cnaz",
+    "id": "jbt--xa0p",
     "title": "ポップス",
     "artist": "CandyPop★Showcase",
     "genre": "ポップス",
@@ -17354,7 +20379,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--35q2",
+    "id": "jbt--hl6q",
     "title": "オリジナル",
     "artist": "狂髪天を撫でて綴れ雲の綻び 五体北風に散りて痕も無し",
     "genre": "ポップス",
@@ -17379,7 +20404,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--40qj",
+    "id": "jbt--6ecc",
     "title": "オリジナル",
     "artist": "キリステゴメン",
     "genre": "ポップス",
@@ -17404,7 +20429,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--7fta",
+    "id": "jbt--ljpt",
     "title": "オリジナル",
     "artist": "Couleur=Blanche",
     "genre": "ポップス",
@@ -17429,7 +20454,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--dmdw",
+    "id": "jbt--2yv4",
     "title": "東方アレンジ",
     "artist": "Claidheamh Soluis-光の剣- feat.はるの",
     "genre": "ポップス",
@@ -17454,7 +20479,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--cj76",
+    "id": "jbt--pxvt",
     "title": "アニメ",
     "artist": "君氏危うくも近うよれ",
     "genre": "ポップス",
@@ -17479,7 +20504,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--giu0",
+    "id": "jbt--r1w3",
     "title": "オリジナル",
     "artist": "けもののおうじゃ★めうめう*5",
     "genre": "ポップス",
@@ -17504,7 +20529,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--vo4q",
+    "id": "jbt--l85w",
     "title": "東方アレンジ",
     "artist": "現世の彼方",
     "genre": "ポップス",
@@ -17529,7 +20554,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--66is",
+    "id": "jbt--c9gn",
     "title": "ゲーム",
     "artist": "恋時雨",
     "genre": "ポップス",
@@ -17554,7 +20579,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--7hb6",
+    "id": "jbt--ut76",
     "title": "ゲーム",
     "artist": "恋のパズルマジック",
     "genre": "ポップス",
@@ -17579,7 +20604,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--0p53",
+    "id": "jbt--vdeb",
     "title": "オリジナル",
     "artist": "Xibercannon",
     "genre": "ポップス",
@@ -17604,7 +20629,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--no9b",
+    "id": "jbt--mv1g",
     "title": "オリジナル",
     "artist": "飽和世界",
     "genre": "ポップス",
@@ -17629,7 +20654,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--hqe7",
+    "id": "jbt--uquw",
     "title": "オリジナル",
     "artist": "Sulk",
     "genre": "ポップス",
@@ -17654,7 +20679,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--sx7m",
+    "id": "jbt--cz3w",
     "title": "オリジナル",
     "artist": "SEED [ 2 ]",
     "genre": "ポップス",
@@ -17679,7 +20704,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--2rat",
+    "id": "jbt--nm5k",
     "title": "オリジナル",
     "artist": "シノビシノノメ",
     "genre": "ポップス",
@@ -17704,7 +20729,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--qxfe",
+    "id": "jbt--0bux",
     "title": "オリジナル",
     "artist": "Shout!!",
     "genre": "ポップス",
@@ -17729,7 +20754,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--of9c",
+    "id": "jbt--nm1h",
     "title": "ゲーム",
     "artist": "しゃかりきリレーション",
     "genre": "ポップス",
@@ -17754,7 +20779,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--vaa0",
+    "id": "jbt--3358",
     "title": "オリジナル",
     "artist": "Jazz is Rad",
     "genre": "ポップス",
@@ -17779,7 +20804,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--d89o",
+    "id": "jbt--3t3x",
     "title": "ソーシャル",
     "artist": "シャルル",
     "genre": "ポップス",
@@ -17804,7 +20829,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--4fcm",
+    "id": "jbt--5lk4",
     "title": "オリジナル",
     "artist": "銃弾は解を撃ち抜いて",
     "genre": "ポップス",
@@ -17829,7 +20854,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--aeqs",
+    "id": "jbt--06ya",
     "title": "ソーシャル",
     "artist": "白い雪のプリンセスは [ 2 ]",
     "genre": "ポップス",
@@ -17854,7 +20879,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--tum2",
+    "id": "jbt--vx3b",
     "title": "オリジナル",
     "artist": "Singularity",
     "genre": "ポップス",
@@ -17879,7 +20904,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--tc4g",
+    "id": "jbt--rsgc",
     "title": "オリジナル",
     "artist": "水槽のクジラ",
     "genre": "ポップス",
@@ -17904,7 +20929,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--onw2",
+    "id": "jbt--x6il",
     "title": "オリジナル",
     "artist": "SUPER SUMMER SALE",
     "genre": "ポップス",
@@ -17929,7 +20954,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--kf5t",
+    "id": "jbt--wb6h",
     "title": "オリジナルゲーム",
     "artist": "Scars of FAUNA [ 2 ]",
     "genre": "ポップス",
@@ -17954,7 +20979,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--wuil",
+    "id": "jbt--p8od",
     "title": "オリジナル",
     "artist": "STAR SHIP☆HERO",
     "genre": "ポップス",
@@ -17979,7 +21004,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--hbnv",
+    "id": "jbt--iodx",
     "title": "ゲーム",
     "artist": "Strawberry Chu♡Chu♡",
     "genre": "ポップス",
@@ -18004,7 +21029,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--y8wk",
+    "id": "jbt--o6yi",
     "title": "オリジナル",
     "artist": "Spirit of the Beast",
     "genre": "ポップス",
@@ -18029,7 +21054,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--4897",
+    "id": "jbt--65io",
     "title": "東方アレンジ",
     "artist": "Spring Rouge",
     "genre": "ポップス",
@@ -18054,7 +21079,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--wrl3",
+    "id": "jbt--nnlm",
     "title": "オリジナル",
     "artist": "smooooch・∀・ [ 2 ]",
     "genre": "ポップス",
@@ -18079,7 +21104,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--x9oo",
+    "id": "jbt--7ocv",
     "title": "オリジナル",
     "artist": "星座が恋した瞬間を。",
     "genre": "ポップス",
@@ -18104,7 +21129,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--oues",
+    "id": "jbt--f78j",
     "title": "ソーシャル",
     "artist": "千本桜*6",
     "genre": "ポップス",
@@ -18129,7 +21154,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--cd3m",
+    "id": "jbt--16jt",
     "title": "オリジナル",
     "artist": "Diastrophism",
     "genre": "ポップス",
@@ -18154,7 +21179,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--pc3m",
+    "id": "jbt--5oys",
     "title": "オリジナル",
     "artist": "たからもの",
     "genre": "ポップス",
@@ -18179,7 +21204,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ci2e",
+    "id": "jbt--l328",
     "title": "ゲーム",
     "artist": "闘え! ダダンダーン V",
     "genre": "ポップス",
@@ -18204,7 +21229,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--yc1z",
+    "id": "jbt--r1lr",
     "title": "ソーシャル",
     "artist": "脱法ロック",
     "genre": "ポップス",
@@ -18229,7 +21254,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--v589",
+    "id": "jbt--mt7u",
     "title": "オリジナル",
     "artist": "chaplet [ 2 ]",
     "genre": "ポップス",
@@ -18254,7 +21279,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--di82",
+    "id": "jbt--eizs",
     "title": "東方アレンジ",
     "artist": "超人ひじりのエアマッソー",
     "genre": "ポップス",
@@ -18279,7 +21304,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--w2b6",
+    "id": "jbt--e43s",
     "title": "オリジナル",
     "artist": "Chocolate Planet",
     "genre": "ポップス",
@@ -18304,7 +21329,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ggvx",
+    "id": "jbt--fnaw",
     "title": "東方アレンジ",
     "artist": "月に叢雲華に風 [ 2 ]",
     "genre": "ポップス",
@@ -18329,7 +21354,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--7dqt",
+    "id": "jbt--1gl0",
     "title": "オリジナル",
     "artist": "トキメキメカニクス",
     "genre": "ポップス",
@@ -18354,7 +21379,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--wzmp",
+    "id": "jbt--8ors",
     "title": "ゲーム",
     "artist": "DREAMING-ING!!",
     "genre": "ポップス",
@@ -18379,7 +21404,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--1xtn",
+    "id": "jbt--ah9b",
     "title": "オリジナル",
     "artist": "Drizzly Venom",
     "genre": "ポップス",
@@ -18404,7 +21429,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--9wbz",
+    "id": "jbt--royf",
     "title": "東方アレンジ",
     "artist": "Don't Break Me Down",
     "genre": "ポップス",
@@ -18429,7 +21454,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--p01t",
+    "id": "jbt--v66w",
     "title": "オリジナル",
     "artist": "ナイト・オブ・ロンド",
     "genre": "ポップス",
@@ -18454,7 +21479,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--49wz",
+    "id": "jbt--jyfh",
     "title": "オリジナル",
     "artist": "虹の先に何があるか",
     "genre": "ポップス",
@@ -18479,7 +21504,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--z169",
+    "id": "jbt--sbws",
     "title": "オリジナル",
     "artist": "Necroxis Girl",
     "genre": "ポップス",
@@ -18504,7 +21529,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--d5mj",
+    "id": "jbt--tion",
     "title": "オリジナル",
     "artist": "Never See You Again",
     "genre": "ポップス",
@@ -18529,7 +21554,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--f2wy",
+    "id": "jbt--ogb0",
     "title": "オリジナル",
     "artist": "Northern Wind",
     "genre": "ポップス",
@@ -18554,7 +21579,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--pzfm",
+    "id": "jbt--8t32",
     "title": "オリジナル",
     "artist": "No One Can Reach The Truth",
     "genre": "ポップス",
@@ -18579,7 +21604,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--rpwu",
+    "id": "jbt--gwdr",
     "title": "オリジナル",
     "artist": "birth",
     "genre": "ポップス",
@@ -18604,7 +21629,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--aaps",
+    "id": "jbt--8tlr",
     "title": "オリジナル",
     "artist": "Passion",
     "genre": "ポップス",
@@ -18629,7 +21654,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ui5i",
+    "id": "jbt--k7c4",
     "title": "オリジナル",
     "artist": "花のやくそく",
     "genre": "ポップス",
@@ -18654,7 +21679,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--h3ce",
+    "id": "jbt--n2qb",
     "title": "オリジナル",
     "artist": "羽根亡キ少女唄",
     "genre": "ポップス",
@@ -18679,7 +21704,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ybaq",
+    "id": "jbt--787r",
     "title": "オリジナル",
     "artist": "パピポペピプペパ",
     "genre": "ポップス",
@@ -18704,7 +21729,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ujf1",
+    "id": "jbt--a5rd",
     "title": "東方アレンジ",
     "artist": "Paranoia",
     "genre": "ポップス",
@@ -18729,7 +21754,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--gnps",
+    "id": "jbt--zem1",
     "title": "ゲーム",
     "artist": "ハルイチバン",
     "genre": "ポップス",
@@ -18754,7 +21779,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--7rkj",
+    "id": "jbt--dcf4",
     "title": "オリジナル",
     "artist": "Be a Hero!",
     "genre": "ポップス",
@@ -18779,7 +21804,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ndqn",
+    "id": "jbt--pi0q",
     "title": "オリジナル",
     "artist": "Pee-wee Boogie",
     "genre": "ポップス",
@@ -18804,7 +21829,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--23yi",
+    "id": "jbt--b57e",
     "title": "オリジナル",
     "artist": "PF flowing",
     "genre": "ポップス",
@@ -18829,7 +21854,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--s4oo",
+    "id": "jbt--ovij",
     "title": "東方アレンジ",
     "artist": "向日葵サンセット",
     "genre": "ポップス",
@@ -18854,7 +21879,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--drm6",
+    "id": "jbt--blfs",
     "title": "オリジナル",
     "artist": "Puberty Dysthymia",
     "genre": "ポップス",
@@ -18879,7 +21904,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ldda",
+    "id": "jbt--wdr5",
     "title": "オリジナル",
     "artist": "Pink Rose [ 2 ]",
     "genre": "ポップス",
@@ -18904,7 +21929,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--ej7l",
+    "id": "jbt--8uwl",
     "title": "ソーシャル",
     "artist": "フィクサー",
     "genre": "ポップス",
@@ -18929,7 +21954,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--8pqy",
+    "id": "jbt--850x",
     "title": "オリジナル",
     "artist": "風鈴花火",
     "genre": "ポップス",
@@ -18954,7 +21979,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--dysm",
+    "id": "jbt--fzpk",
     "title": "オリジナル",
     "artist": "Fairy Fair",
     "genre": "ポップス",
@@ -18979,7 +22004,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--lhje",
+    "id": "jbt--zs1o",
     "title": "オリジナル",
     "artist": "Fox4-Raize-",
     "genre": "ポップス",
@@ -19004,7 +22029,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--wa9k",
+    "id": "jbt--8v3d",
     "title": "オリジナル",
     "artist": "Fly far bounce",
     "genre": "ポップス",
@@ -19029,7 +22054,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--25lb",
+    "id": "jbt--nzy7",
     "title": "オリジナル",
     "artist": "Blue Sky",
     "genre": "ポップス",
@@ -19054,7 +22079,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--hxjv",
+    "id": "jbt--dcvw",
     "title": "オリジナル",
     "artist": "Prey",
     "genre": "ポップス",
@@ -19079,7 +22104,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--vseb",
+    "id": "jbt--1xmu",
     "title": "オリジナル",
     "artist": "Prayer",
     "genre": "ポップス",
@@ -19104,7 +22129,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--8mfd",
+    "id": "jbt--wg8b",
     "title": "東方アレンジ",
     "artist": "From⑨Girl",
     "genre": "ポップス",
@@ -19129,7 +22154,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--2zp9",
+    "id": "jbt--f8pr",
     "title": "オリジナル",
     "artist": "Pale Garden",
     "genre": "ポップス",
@@ -19154,7 +22179,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--24z1",
+    "id": "jbt--pims",
     "title": "オリジナル",
     "artist": "HEAVENLY MOON [ 2 ]",
     "genre": "ポップス",
@@ -19179,7 +22204,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--zptv",
+    "id": "jbt--1do2",
     "title": "オリジナル",
     "artist": "ヘンゼルとグレーテル",
     "genre": "ポップス",
@@ -19204,7 +22229,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--y2ts",
+    "id": "jbt--p168",
     "title": "東方アレンジ",
     "artist": "星を飛び越えて",
     "genre": "ポップス",
@@ -19229,7 +22254,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--soiy",
+    "id": "jbt--w58a",
     "title": "オリジナル",
     "artist": "ミカヅキ:コネクト",
     "genre": "ポップス",
@@ -19254,7 +22279,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--kpxq",
+    "id": "jbt--juzj",
     "title": "オリジナル",
     "artist": "みたらしプラトニック (feat. nicamoq)",
     "genre": "ポップス",
@@ -19279,7 +22304,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--vm7z",
+    "id": "jbt--thct",
     "title": "オリジナル",
     "artist": "Midnight City Warfare",
     "genre": "ポップス",
@@ -19304,7 +22329,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--66e5",
+    "id": "jbt--7wqj",
     "title": "オリジナル",
     "artist": "ミラクル・スイート・スイーツ・マジック！！",
     "genre": "ポップス",
@@ -19329,7 +22354,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--i31c",
+    "id": "jbt--ev5v",
     "title": "オリジナル",
     "artist": "ヤマトなでなで♡かぐや姫",
     "genre": "ポップス",
@@ -19354,7 +22379,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--hqqv",
+    "id": "jbt--evo0",
     "title": "オリジナル",
     "artist": "Life is beautiful",
     "genre": "ポップス",
@@ -19379,7 +22404,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--iisa",
+    "id": "jbt--epcq",
     "title": "オリジナル",
     "artist": "Last Dress",
     "genre": "ポップス",
@@ -19404,7 +22429,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--gcqb",
+    "id": "jbt--9bdi",
     "title": "オリジナル",
     "artist": "Rampage☆Rag",
     "genre": "ポップス",
@@ -19429,7 +22454,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--u0o6",
+    "id": "jbt--ezji",
     "title": "オリジナル",
     "artist": "Rejoin",
     "genre": "ポップス",
@@ -19454,7 +22479,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--5w4u",
+    "id": "jbt--33rk",
     "title": "ソーシャル",
     "artist": "リバースユニバース",
     "genre": "ポップス",
@@ -19479,7 +22504,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--o7on",
+    "id": "jbt--798x",
     "title": "オリジナル",
     "artist": "ルミナスデイズ",
     "genre": "ポップス",
@@ -19504,7 +22529,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--5fh4",
+    "id": "jbt--tsz2",
     "title": "オリジナル",
     "artist": "レゾンデートル、前線より",
     "genre": "ポップス",
@@ -19529,7 +22554,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--bdab",
+    "id": "jbt--z8kw",
     "title": "オリジナル",
     "artist": "Roll the Dice",
     "genre": "ポップス",
@@ -19554,7 +22579,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--pwqm",
+    "id": "jbt--reej",
     "title": "ソーシャル",
     "artist": "ロールプレイングゲーム",
     "genre": "ポップス",
@@ -19579,7 +22604,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--dspc",
+    "id": "jbt--er90",
     "title": "ソーシャル",
     "artist": "炉心融解 [ 2 ]",
     "genre": "ポップス",
@@ -19604,7 +22629,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--vgto",
+    "id": "jbt--bslp",
     "title": "オリジナル",
     "artist": "Wowie Zowie!",
     "genre": "ポップス",
@@ -19629,7 +22654,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--5ynd",
+    "id": "jbt--lnm5",
     "title": "オリジナル",
     "artist": "Wandering Gravity",
     "genre": "ポップス",
@@ -19654,7 +22679,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--9kii",
+    "id": "jbt--8n50",
     "title": "オリジナル",
     "artist": "One More Reason",
     "genre": "ポップス",
@@ -19679,7 +22704,7 @@ export const songs: Song[] = [
     "version": "jubeat clan"
   },
   {
-    "id": "jbt--9ib9",
+    "id": "jbt--lrqt",
     "title": "オリジナル",
     "artist": "Icicles [ 2 ]",
     "genre": "ポップス",
@@ -19704,7 +22729,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--z9j1",
+    "id": "jbt--9r1s",
     "title": "オリジナル",
     "artist": "I'm so Happy [ 2 ]",
     "genre": "ポップス",
@@ -19729,7 +22754,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--0zez",
+    "id": "jbt--grzw",
     "title": "ソーシャル",
     "artist": "アカリがやってきたぞっ",
     "genre": "ポップス",
@@ -19754,7 +22779,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--uetz",
+    "id": "jbt--o9q8",
     "title": "オリジナル",
     "artist": "Agnus Dei",
     "genre": "ポップス",
@@ -19779,7 +22804,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--6tow",
+    "id": "jbt--npnu",
     "title": "ソーシャル",
     "artist": "[A]ddiction",
     "genre": "ポップス",
@@ -19804,7 +22829,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--w9d0",
+    "id": "jbt--5nj0",
     "title": "オリジナル",
     "artist": "ATRAX",
     "genre": "ポップス",
@@ -19829,7 +22854,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--tgrw",
+    "id": "jbt--miji",
     "title": "オリジナル",
     "artist": "Analyse Katharsis",
     "genre": "ポップス",
@@ -19854,7 +22879,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--h77t",
+    "id": "jbt--j66v",
     "title": "オリジナル",
     "artist": "Afterimage d'automne",
     "genre": "ポップス",
@@ -19879,7 +22904,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--jxvj",
+    "id": "jbt--ymf1",
     "title": "オリジナル",
     "artist": "Aftermath",
     "genre": "ポップス",
@@ -19904,7 +22929,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--6gja",
+    "id": "jbt--78vg",
     "title": "オリジナル",
     "artist": "Apex of the World",
     "genre": "ポップス",
@@ -19929,7 +22954,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ho8p",
+    "id": "jbt--yu8u",
     "title": "オリジナル",
     "artist": "雨上がりの空に",
     "genre": "ポップス",
@@ -19954,7 +22979,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--xrvn",
+    "id": "jbt--5bxb",
     "title": "オリジナル",
     "artist": "アモ",
     "genre": "ポップス",
@@ -19979,7 +23004,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--vwqg",
+    "id": "jbt--jhp7",
     "title": "ポップス",
     "artist": "Alba",
     "genre": "ポップス",
@@ -20004,7 +23029,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--wvzm",
+    "id": "jbt--8u90",
     "title": "オリジナル",
     "artist": "Arena Deiporta",
     "genre": "ポップス",
@@ -20029,7 +23054,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--hc3x",
+    "id": "jbt--97lo",
     "title": "オリジナル",
     "artist": "Our Faith [ 2 ]",
     "genre": "ポップス",
@@ -20054,7 +23079,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--kwhr",
+    "id": "jbt--tri3",
     "title": "オリジナル",
     "artist": "Our Love",
     "genre": "ポップス",
@@ -20079,7 +23104,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--1syb",
+    "id": "jbt--ux7z",
     "title": "オリジナル",
     "artist": "Underground Astronomy",
     "genre": "ポップス",
@@ -20104,7 +23129,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--k8bz",
+    "id": "jbt--9op7",
     "title": "ソーシャル",
     "artist": "アンビバレント",
     "genre": "ポップス",
@@ -20129,7 +23154,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ndu7",
+    "id": "jbt--ingh",
     "title": "ソーシャル",
     "artist": "いーあるふぁんくらぶ [ 2 ]",
     "genre": "ポップス",
@@ -20154,7 +23179,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--t8wy",
+    "id": "jbt--xrhw",
     "title": "オリジナル",
     "artist": "1116",
     "genre": "ポップス",
@@ -20179,7 +23204,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--a5rl",
+    "id": "jbt--pfl4",
     "title": "オリジナル",
     "artist": "鋳鉄の檻",
     "genre": "ポップス",
@@ -20204,7 +23229,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ajyr",
+    "id": "jbt--8ag3",
     "title": "オリジナル",
     "artist": "Idola (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -20229,7 +23254,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--hxnx",
+    "id": "jbt--t5cu",
     "title": "オリジナル",
     "artist": "インドがパッカーン！！煩悩マハラジャドリーム",
     "genre": "ポップス",
@@ -20254,7 +23279,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--47eb",
+    "id": "jbt--0zvk",
     "title": "オリジナル",
     "artist": "In Your EyEs",
     "genre": "ポップス",
@@ -20279,7 +23304,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--t9dr",
+    "id": "jbt--5og5",
     "title": "オリジナル",
     "artist": "Virtual Bit",
     "genre": "ポップス",
@@ -20304,7 +23329,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ruyj",
+    "id": "jbt--ewxl",
     "title": "オリジナル",
     "artist": "VIKING SHIP",
     "genre": "ポップス",
@@ -20329,7 +23354,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--n9tb",
+    "id": "jbt--4lvc",
     "title": "オリジナル",
     "artist": "VALLIS-NERIA [ 2 ]",
     "genre": "ポップス",
@@ -20354,7 +23379,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--84xb",
+    "id": "jbt--zevj",
     "title": "オリジナル",
     "artist": "Winter Gift ～クリスピーからの贈りもの～",
     "genre": "ポップス",
@@ -20379,7 +23404,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--c2rh",
+    "id": "jbt--9yd1",
     "title": "オリジナル",
     "artist": "↑↑↓↓←→←→BA",
     "genre": "ポップス",
@@ -20404,7 +23429,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--5ygd",
+    "id": "jbt--lz6a",
     "title": "オリジナル",
     "artist": "Welcome to the Mosh Pit",
     "genre": "ポップス",
@@ -20429,7 +23454,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--1vwi",
+    "id": "jbt--hdgf",
     "title": "オリジナル",
     "artist": "WELCOME TO MOTOWN PARK",
     "genre": "ポップス",
@@ -20454,7 +23479,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--9bze",
+    "id": "jbt--x96d",
     "title": "東方アレンジ",
     "artist": "泡沫、哀のまほろば",
     "genre": "ポップス",
@@ -20479,7 +23504,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--04f3",
+    "id": "jbt--5lhi",
     "title": "アニメ",
     "artist": "ETERNAL BLAZE [ 2 ]",
     "genre": "ポップス",
@@ -20504,7 +23529,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ocmt",
+    "id": "jbt--mbzh",
     "title": "オリジナル",
     "artist": "X-Plan",
     "genre": "ポップス",
@@ -20529,7 +23554,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--bs62",
+    "id": "jbt--jg4a",
     "title": "オリジナルゲーム",
     "artist": "X-ray binary",
     "genre": "ポップス",
@@ -20554,7 +23579,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--089y",
+    "id": "jbt--czhb",
     "title": "オリジナル",
     "artist": "Everlasting Message (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -20579,7 +23604,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--6uiu",
+    "id": "jbt--oum7",
     "title": "オリジナル",
     "artist": "EMOTiON TRiPPER",
     "genre": "ポップス",
@@ -20604,7 +23629,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--fnme",
+    "id": "jbt--57ce",
     "title": "オリジナル",
     "artist": "Element of SPADA (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -20629,7 +23654,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--6444",
+    "id": "jbt--3tpq",
     "title": "オリジナル",
     "artist": "Endless Beats ⇔ Endless Parties",
     "genre": "ポップス",
@@ -20654,7 +23679,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--iu3i",
+    "id": "jbt--dqv8",
     "title": "オリジナル",
     "artist": "おーまい！らぶりー！すうぃーてぃ！だーりん！",
     "genre": "ポップス",
@@ -20679,7 +23704,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--nepa",
+    "id": "jbt--ehe5",
     "title": "オリジナル",
     "artist": "All Clear!!",
     "genre": "ポップス",
@@ -20704,7 +23729,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ny8r",
+    "id": "jbt--cy3r",
     "title": "オリジナル",
     "artist": "ALL MY HEART -この恋に、わたしの全てを賭ける- [ 2 ]",
     "genre": "ポップス",
@@ -20729,7 +23754,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--rmp3",
+    "id": "jbt--ant2",
     "title": "オリジナル",
     "artist": "おにぎりディスコ",
     "genre": "ポップス",
@@ -20754,7 +23779,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--9414",
+    "id": "jbt--36nn",
     "title": "オリジナル",
     "artist": "朧 (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -20779,7 +23804,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--i1et",
+    "id": "jbt--qo3m",
     "title": "オリジナル",
     "artist": "革命パッショネイト",
     "genre": "ポップス",
@@ -20804,7 +23829,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--yg25",
+    "id": "jbt--9ayq",
     "title": "オリジナル",
     "artist": "Catapulted Arch",
     "genre": "ポップス",
@@ -20829,7 +23854,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--lk4j",
+    "id": "jbt--8bpj",
     "title": "オリジナル",
     "artist": "[E] [ 2 ]",
     "genre": "ポップス",
@@ -20854,7 +23879,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--9y7c",
+    "id": "jbt--c3lx",
     "title": "オリジナル",
     "artist": "Come to Life",
     "genre": "ポップス",
@@ -20879,7 +23904,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--2eya",
+    "id": "jbt--v4gb",
     "title": "オリジナル",
     "artist": "Colorful Cookie (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -20904,7 +23929,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--h3hl",
+    "id": "jbt--bg8t",
     "title": "東方アレンジ",
     "artist": "眼光 [ 2 ]",
     "genre": "ポップス",
@@ -20929,7 +23954,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--r1ej",
+    "id": "jbt--43l2",
     "title": "オリジナル",
     "artist": "Catch Our Fire!",
     "genre": "ポップス",
@@ -20954,7 +23979,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ajvw",
+    "id": "jbt--nh8r",
     "title": "オリジナル",
     "artist": "Catch Me",
     "genre": "ポップス",
@@ -20979,7 +24004,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--qrwc",
+    "id": "jbt--ylvm",
     "title": "オリジナル",
     "artist": "キヤロラ衛星の軌跡",
     "genre": "ポップス",
@@ -21004,7 +24029,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--h09t",
+    "id": "jbt--ri46",
     "title": "オリジナル",
     "artist": "狂水一華",
     "genre": "ポップス",
@@ -21029,7 +24054,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ex21",
+    "id": "jbt--1pcb",
     "title": "オリジナル",
     "artist": "Queen's Paradise [ 2 ]",
     "genre": "ポップス",
@@ -21054,7 +24079,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--bzfs",
+    "id": "jbt--0jcc",
     "title": "オリジナル",
     "artist": "Glitter Cube",
     "genre": "ポップス",
@@ -21079,7 +24104,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--m1k1",
+    "id": "jbt--7sek",
     "title": "オリジナル",
     "artist": "Crazy Shuffle",
     "genre": "ポップス",
@@ -21104,7 +24129,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--sk1m",
+    "id": "jbt--rkbo",
     "title": "アニメ",
     "artist": "紅蓮華",
     "genre": "ポップス",
@@ -21129,7 +24154,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--e4fk",
+    "id": "jbt--84yd",
     "title": "オリジナル",
     "artist": "Globe Glitter",
     "genre": "ポップス",
@@ -21154,7 +24179,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--s8nb",
+    "id": "jbt--724j",
     "title": "オリジナル",
     "artist": "cloche [ 2 ]",
     "genre": "ポップス",
@@ -21179,7 +24204,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--nhay",
+    "id": "jbt--02am",
     "title": "オリジナル",
     "artist": "Chronos [ 2 ]",
     "genre": "ポップス",
@@ -21204,7 +24229,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--yu1g",
+    "id": "jbt--ne3x",
     "title": "オリジナル",
     "artist": "激闘保安官！DEMPA撲滅大作戦",
     "genre": "ポップス",
@@ -21229,7 +24254,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--4m85",
+    "id": "jbt--nzea",
     "title": "オリジナル",
     "artist": "Get On The Floor",
     "genre": "ポップス",
@@ -21254,7 +24279,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--khvr",
+    "id": "jbt--8cy6",
     "title": "東方アレンジ",
     "artist": "ケムマキunderground",
     "genre": "ポップス",
@@ -21279,7 +24304,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--noy8",
+    "id": "jbt--jvpn",
     "title": "オリジナル",
     "artist": "恋歌疾風！かるたクイーンいろは",
     "genre": "ポップス",
@@ -21304,7 +24329,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--5s36",
+    "id": "jbt--3zvd",
     "title": "オリジナル",
     "artist": "恋 No リセットゲーム!!!!!",
     "genre": "ポップス",
@@ -21329,7 +24354,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--7b58",
+    "id": "jbt--pa84",
     "title": "オリジナル",
     "artist": "Ghost Clock",
     "genre": "ポップス",
@@ -21354,7 +24379,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--owjb",
+    "id": "jbt--m9ee",
     "title": "ソーシャル",
     "artist": "ゴーストルール",
     "genre": "ポップス",
@@ -21379,7 +24404,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--tfz2",
+    "id": "jbt--72w7",
     "title": "オリジナル",
     "artist": "虚空と光明のディスクール [ 2 ]",
     "genre": "ポップス",
@@ -21404,7 +24429,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--we31",
+    "id": "jbt--9w7i",
     "title": "ゲーム",
     "artist": "ここからよろしく大作戦143",
     "genre": "ポップス",
@@ -21429,7 +24454,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--s831",
+    "id": "jbt--e5oy",
     "title": "オリジナル",
     "artist": "COSMIC SYMPHONY",
     "genre": "ポップス",
@@ -21454,7 +24479,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--p851",
+    "id": "jbt--7tvl",
     "title": "オリジナル",
     "artist": "Surf on the Light",
     "genre": "ポップス",
@@ -21479,7 +24504,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ps36",
+    "id": "jbt--zmzj",
     "title": "東方アレンジ",
     "artist": "最凶アンビバレント",
     "genre": "ポップス",
@@ -21504,7 +24529,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--umfd",
+    "id": "jbt--gxgy",
     "title": "オリジナル",
     "artist": "最小三倍完全数",
     "genre": "ポップス",
@@ -21529,7 +24554,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--fyd5",
+    "id": "jbt--z3yu",
     "title": "オリジナル",
     "artist": "The Kingsroad",
     "genre": "ポップス",
@@ -21554,7 +24579,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--l9zu",
+    "id": "jbt--c894",
     "title": "オリジナル",
     "artist": "Sakura Sunrise [ 2 ]",
     "genre": "ポップス",
@@ -21579,7 +24604,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--mxbz",
+    "id": "jbt--ngnr",
     "title": "オリジナル",
     "artist": "Sahara",
     "genre": "ポップス",
@@ -21604,7 +24629,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--u7ii",
+    "id": "jbt--0ro8",
     "title": "オリジナル",
     "artist": "さよなら世界 (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -21629,7 +24654,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--3uba",
+    "id": "jbt--ng8r",
     "title": "オリジナル",
     "artist": "サヨナラ・ヘヴン [ 2 ]",
     "genre": "ポップス",
@@ -21654,7 +24679,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--3t5s",
+    "id": "jbt--4azl",
     "title": "オリジナル",
     "artist": "サヨナラ・ヘヴン (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -21679,7 +24704,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--opjq",
+    "id": "jbt--66me",
     "title": "ソーシャル",
     "artist": "39",
     "genre": "ポップス",
@@ -21704,7 +24729,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--xk6v",
+    "id": "jbt--jp2x",
     "title": "オリジナル",
     "artist": "Samba Ramba",
     "genre": "ポップス",
@@ -21729,7 +24754,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--rrc6",
+    "id": "jbt--12tt",
     "title": "オリジナル",
     "artist": "幸せが鳴る夜に",
     "genre": "ポップス",
@@ -21754,7 +24779,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--tfeg",
+    "id": "jbt--5wze",
     "title": "オリジナル",
     "artist": "Jetcoaster Windy",
     "genre": "ポップス",
@@ -21779,7 +24804,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--evqj",
+    "id": "jbt--3jwv",
     "title": "オリジナル",
     "artist": "SigSig [ 2 ]",
     "genre": "ポップス",
@@ -21804,7 +24829,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--z2qq",
+    "id": "jbt--58qc",
     "title": "ポップス",
     "artist": "思想犯",
     "genre": "ポップス",
@@ -21829,7 +24854,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--pf0r",
+    "id": "jbt--lx5h",
     "title": "オリジナル",
     "artist": "Six String Proof",
     "genre": "ポップス",
@@ -21854,7 +24879,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--cnbq",
+    "id": "jbt--ksr6",
     "title": "オリジナル",
     "artist": "灼熱Beach Side Bunny",
     "genre": "ポップス",
@@ -21879,7 +24904,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--q2pk",
+    "id": "jbt--udgb",
     "title": "オリジナル",
     "artist": "Juicy",
     "genre": "ポップス",
@@ -21904,7 +24929,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--4bfv",
+    "id": "jbt--kxfr",
     "title": "オリジナル",
     "artist": "少女、摩天楼へ",
     "genre": "ポップス",
@@ -21929,7 +24954,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--x4az",
+    "id": "jbt--8651",
     "title": "ポップス",
     "artist": "情熱大陸 [ 2 ]",
     "genre": "ポップス",
@@ -21954,7 +24979,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--w3zv",
+    "id": "jbt--loep",
     "title": "ソーシャル",
     "artist": "シル・ヴ・プレジデント",
     "genre": "ポップス",
@@ -21979,7 +25004,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--pl7s",
+    "id": "jbt--a4ti",
     "title": "オリジナル",
     "artist": "シンクロフィッシュ",
     "genre": "ポップス",
@@ -22004,7 +25029,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--1bh4",
+    "id": "jbt--s724",
     "title": "オリジナル",
     "artist": "スイーツはとまらない♪",
     "genre": "ポップス",
@@ -22029,7 +25054,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--gv1r",
+    "id": "jbt--585e",
     "title": "ゲーム",
     "artist": "「Sweet Love」",
     "genre": "ポップス",
@@ -22054,7 +25079,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--yiiw",
+    "id": "jbt--8tt6",
     "title": "オリジナル",
     "artist": "Super GERO GE-RO",
     "genre": "ポップス",
@@ -22079,7 +25104,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--b9pe",
+    "id": "jbt--jf96",
     "title": "オリジナル",
     "artist": "スーパー戦湯ババンバーン",
     "genre": "ポップス",
@@ -22104,7 +25129,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--38on",
+    "id": "jbt--3nr9",
     "title": "東方アレンジ",
     "artist": "Scarlet Moon [ 2 ]",
     "genre": "ポップス",
@@ -22129,7 +25154,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--uez6",
+    "id": "jbt--wdzr",
     "title": "ソーシャル",
     "artist": "すきなことだけでいいです",
     "genre": "ポップス",
@@ -22154,7 +25179,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--8s3j",
+    "id": "jbt--9ael",
     "title": "オリジナル",
     "artist": "StaRgAZER",
     "genre": "ポップス",
@@ -22179,7 +25204,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--g4sl",
+    "id": "jbt--nnok",
     "title": "オリジナル",
     "artist": "starmine (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -22204,7 +25229,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--rvzo",
+    "id": "jbt--9i4z",
     "title": "オリジナル",
     "artist": "Still Lonesome",
     "genre": "ポップス",
@@ -22229,7 +25254,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--o3bq",
+    "id": "jbt--5afq",
     "title": "オリジナル",
     "artist": "Snow Goose [ 2 ]",
     "genre": "ポップス",
@@ -22254,7 +25279,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--q1hg",
+    "id": "jbt--oct1",
     "title": "オリジナル",
     "artist": "スノーホワイト",
     "genre": "ポップス",
@@ -22279,7 +25304,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ps8c",
+    "id": "jbt--ifr3",
     "title": "オリジナル",
     "artist": "Sparkle Smilin'",
     "genre": "ポップス",
@@ -22304,7 +25329,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--o875",
+    "id": "jbt--7zvm",
     "title": "オリジナル",
     "artist": "Spica",
     "genre": "ポップス",
@@ -22329,7 +25354,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--qcib",
+    "id": "jbt--dsru",
     "title": "オリジナル",
     "artist": "splash!",
     "genre": "ポップス",
@@ -22354,7 +25379,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--6l98",
+    "id": "jbt--xju8",
     "title": "オリジナル",
     "artist": "SPACE INASAKU",
     "genre": "ポップス",
@@ -22379,7 +25404,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--8e1i",
+    "id": "jbt--uyqk",
     "title": "オリジナル",
     "artist": "スペースカーニバル [ 2 ]",
     "genre": "ポップス",
@@ -22404,7 +25429,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ibqw",
+    "id": "jbt--bj29",
     "title": "オリジナル",
     "artist": "スミスえかきうた",
     "genre": "ポップス",
@@ -22429,7 +25454,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--u2j7",
+    "id": "jbt--d9lp",
     "title": "オリジナル",
     "artist": "zeeros",
     "genre": "ポップス",
@@ -22454,7 +25479,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--d708",
+    "id": "jbt--bgsj",
     "title": "オリジナル",
     "artist": "世界の果てに約束の凱歌を -jubeat edition-",
     "genre": "ポップス",
@@ -22479,7 +25504,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--nmnl",
+    "id": "jbt--tug4",
     "title": "オリジナル",
     "artist": "拙者拙者拙者拙者",
     "genre": "ポップス",
@@ -22504,7 +25529,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--b2dk",
+    "id": "jbt--30br",
     "title": "オリジナル",
     "artist": "XENOViA",
     "genre": "ポップス",
@@ -22529,7 +25554,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--iw8b",
+    "id": "jbt--fvwg",
     "title": "東方アレンジ",
     "artist": "全力ハッピーライフ",
     "genre": "ポップス",
@@ -22554,7 +25579,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--dngx",
+    "id": "jbt--oqa1",
     "title": "オリジナル",
     "artist": "創世ノート [ 2 ]",
     "genre": "ポップス",
@@ -22579,7 +25604,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--8zd1",
+    "id": "jbt--eqji",
     "title": "オリジナル",
     "artist": "sola [ 2 ]",
     "genre": "ポップス",
@@ -22604,7 +25629,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--r87i",
+    "id": "jbt--ynaj",
     "title": "オリジナル",
     "artist": "Sorrows",
     "genre": "ポップス",
@@ -22629,7 +25654,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--12o5",
+    "id": "jbt--i2ob",
     "title": "オリジナルゲーム",
     "artist": "turn into white",
     "genre": "ポップス",
@@ -22654,7 +25679,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--9dgt",
+    "id": "jbt--lb0p",
     "title": "オリジナル",
     "artist": "Timepiece phase II (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -22679,7 +25704,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--zd32",
+    "id": "jbt--c0l5",
     "title": "オリジナル",
     "artist": "太陽の滴",
     "genre": "ポップス",
@@ -22704,7 +25729,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--qzgy",
+    "id": "jbt--xgq8",
     "title": "ポップス",
     "artist": "高嶺の花子さん",
     "genre": "ポップス",
@@ -22729,7 +25754,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--h3pg",
+    "id": "jbt--l5kk",
     "title": "オリジナル",
     "artist": "たたえよ！絶対覇権アリーシャ帝国",
     "genre": "ポップス",
@@ -22754,7 +25779,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt-10-o0pz",
+    "id": "jbt-10-d6zc",
     "title": "ポップス*10",
     "artist": "ただ君に晴れ",
     "genre": "ポップス",
@@ -22779,7 +25804,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--vvmz",
+    "id": "jbt--y9xy",
     "title": "オリジナル",
     "artist": "タンポポ",
     "genre": "ポップス",
@@ -22804,7 +25829,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--v1we",
+    "id": "jbt--f8uy",
     "title": "オリジナル",
     "artist": "Chippin Break",
     "genre": "ポップス",
@@ -22829,7 +25854,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--2p47",
+    "id": "jbt--qb43",
     "title": "オリジナル",
     "artist": "茶渋シンドローム",
     "genre": "ポップス",
@@ -22854,7 +25879,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--e7kz",
+    "id": "jbt--8vte",
     "title": "オリジナル",
     "artist": "チュッチュ♪マチュピチュ",
     "genre": "ポップス",
@@ -22879,7 +25904,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--o55v",
+    "id": "jbt--uw6p",
     "title": "オリジナル",
     "artist": "追憶のアラウカリア",
     "genre": "ポップス",
@@ -22904,7 +25929,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--svq6",
+    "id": "jbt--zhni",
     "title": "オリジナル",
     "artist": "ツーマンライブ [ 2 ]",
     "genre": "ポップス",
@@ -22929,7 +25954,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--fm4p",
+    "id": "jbt--pj05",
     "title": "オリジナル",
     "artist": "月影小町",
     "genre": "ポップス",
@@ -22954,7 +25979,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--em7c",
+    "id": "jbt--bm0z",
     "title": "オリジナル",
     "artist": "つぼみ [ 2 ]",
     "genre": "ポップス",
@@ -22979,7 +26004,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--xnyc",
+    "id": "jbt--gf85",
     "title": "オリジナル",
     "artist": "December in Strasbourg",
     "genre": "ポップス",
@@ -23004,7 +26029,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--8s62",
+    "id": "jbt--8z4f",
     "title": "オリジナル",
     "artist": "Din Don Dan",
     "genre": "ポップス",
@@ -23029,7 +26054,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--f0me",
+    "id": "jbt--m6v3",
     "title": "東方アレンジ",
     "artist": "DEATH WORMHOLE",
     "genre": "ポップス",
@@ -23054,7 +26079,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--t35p",
+    "id": "jbt--8ioj",
     "title": "オリジナル",
     "artist": "Duality",
     "genre": "ポップス",
@@ -23079,7 +26104,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--mztt",
+    "id": "jbt--f4g6",
     "title": "オリジナル",
     "artist": "DUAL STRIKER",
     "genre": "ポップス",
@@ -23104,7 +26129,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--aq1b",
+    "id": "jbt--3atq",
     "title": "オリジナル",
     "artist": "天空の夜明け (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -23129,7 +26154,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--quc6",
+    "id": "jbt--k2ur",
     "title": "ソーシャル",
     "artist": "デンノウス・キルズ",
     "genre": "ポップス",
@@ -23154,7 +26179,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--kmr5",
+    "id": "jbt--nxv9",
     "title": "オリジナル",
     "artist": "toy boxer",
     "genre": "ポップス",
@@ -23179,7 +26204,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--svm9",
+    "id": "jbt--6xn9",
     "title": "オリジナル",
     "artist": "Toy Robot Factory",
     "genre": "ポップス",
@@ -23204,7 +26229,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--h7es",
+    "id": "jbt--wuxb",
     "title": "オリジナル",
     "artist": "TOON MANIAC",
     "genre": "ポップス",
@@ -23229,7 +26254,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--r7u5",
+    "id": "jbt--gh11",
     "title": "オリジナル",
     "artist": "True Blue [ 2 ]",
     "genre": "ポップス",
@@ -23254,7 +26279,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--pvam",
+    "id": "jbt--g7n8",
     "title": "オリジナル",
     "artist": "TRIUMPH",
     "genre": "ポップス",
@@ -23279,7 +26304,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--9bh7",
+    "id": "jbt--cygi",
     "title": "オリジナル",
     "artist": "Dream drip macchiato",
     "genre": "ポップス",
@@ -23304,7 +26329,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--7kh4",
+    "id": "jbt--pgag",
     "title": "東方アレンジ",
     "artist": "取り残された美術(Arranged:HiZuMi) [ 2 ]",
     "genre": "ポップス",
@@ -23329,7 +26354,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--l6i8",
+    "id": "jbt--artm",
     "title": "オリジナル",
     "artist": "Triple Cross",
     "genre": "ポップス",
@@ -23354,7 +26379,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--tpwi",
+    "id": "jbt--uast",
     "title": "オリジナル",
     "artist": "Trill auf G",
     "genre": "ポップス",
@@ -23379,7 +26404,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ra1q",
+    "id": "jbt--utcw",
     "title": "オリジナル",
     "artist": "嘆きの樹 (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -23404,7 +26429,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--viie",
+    "id": "jbt--s810",
     "title": "オリジナル",
     "artist": "Neuron",
     "genre": "ポップス",
@@ -23429,7 +26454,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--lksw",
+    "id": "jbt--sha8",
     "title": "オリジナル",
     "artist": "Noob実況24時!",
     "genre": "ポップス",
@@ -23454,7 +26479,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--3qvu",
+    "id": "jbt--hgee",
     "title": "オリジナル",
     "artist": "熱情のサパデアード",
     "genre": "ポップス",
@@ -23479,7 +26504,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--7uzz",
+    "id": "jbt--dpvs",
     "title": "オリジナル",
     "artist": "ネリと琥珀糖",
     "genre": "ポップス",
@@ -23504,7 +26529,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--e3gk",
+    "id": "jbt--k82f",
     "title": "オリジナル",
     "artist": "No Rule Adventure",
     "genre": "ポップス",
@@ -23529,7 +26554,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ikvc",
+    "id": "jbt--zomm",
     "title": "オリジナル",
     "artist": "Hades Doll",
     "genre": "ポップス",
@@ -23554,7 +26579,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--j6j5",
+    "id": "jbt--ozjy",
     "title": "オリジナル",
     "artist": "箱庭のエチュード",
     "genre": "ポップス",
@@ -23579,7 +26604,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--yph9",
+    "id": "jbt--dpx9",
     "title": "オリジナル",
     "artist": "Pacify",
     "genre": "ポップス",
@@ -23604,7 +26629,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--mb5e",
+    "id": "jbt--wwk2",
     "title": "オリジナル",
     "artist": "バッドエンド・シンドローム (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -23629,7 +26654,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--p2ar",
+    "id": "jbt--mey9",
     "title": "オリジナル",
     "artist": "ピアノ独奏無言歌 \"灰燼\"",
     "genre": "ポップス",
@@ -23654,7 +26679,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--3doc",
+    "id": "jbt--92cb",
     "title": "オリジナル",
     "artist": "BEEF",
     "genre": "ポップス",
@@ -23679,7 +26704,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--pf96",
+    "id": "jbt--3wsh",
     "title": "オリジナル",
     "artist": "Hero Revealed",
     "genre": "ポップス",
@@ -23704,7 +26729,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--hlxm",
+    "id": "jbt--goih",
     "title": "オリジナル",
     "artist": "ヒカリユリイカ",
     "genre": "ポップス",
@@ -23729,7 +26754,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--i5eo",
+    "id": "jbt--3pqf",
     "title": "オリジナル",
     "artist": "ピザが食べたくてしょうがない皆さんの気持ちを代弁しました",
     "genre": "ポップス",
@@ -23754,7 +26779,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--60g2",
+    "id": "jbt--iwfs",
     "title": "オリジナル",
     "artist": "ビター・エスケープ",
     "genre": "ポップス",
@@ -23779,7 +26804,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--1hoz",
+    "id": "jbt--c9ti",
     "title": "オリジナル",
     "artist": "ビューティフル レシート",
     "genre": "ポップス",
@@ -23804,7 +26829,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--2t4a",
+    "id": "jbt--bg9y",
     "title": "オリジナル",
     "artist": "Beyond the BLUE",
     "genre": "ポップス",
@@ -23829,7 +26854,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ak87",
+    "id": "jbt--6tv1",
     "title": "オリジナル",
     "artist": "Fireball",
     "genre": "ポップス",
@@ -23854,7 +26879,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--n6es",
+    "id": "jbt--uh01",
     "title": "オリジナル",
     "artist": "Phantasmagoria",
     "genre": "ポップス",
@@ -23879,7 +26904,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--6lvg",
+    "id": "jbt--ob2o",
     "title": "オリジナル",
     "artist": "50th Memorial Songs -The BEMANI History-",
     "genre": "ポップス",
@@ -23904,7 +26929,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--m247",
+    "id": "jbt--kq50",
     "title": "オリジナル",
     "artist": "50th Memorial Songs -Beginning Story-",
     "genre": "ポップス",
@@ -23929,7 +26954,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--my8u",
+    "id": "jbt--l76m",
     "title": "オリジナル",
     "artist": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
     "genre": "ポップス",
@@ -23954,7 +26979,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--3fcw",
+    "id": "jbt--stxp",
     "title": "オリジナル",
     "artist": "50th Memorial Songs -Flagship medley-",
     "genre": "ポップス",
@@ -23979,7 +27004,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--o53y",
+    "id": "jbt--klx6",
     "title": "オリジナル",
     "artist": "封隠文様",
     "genre": "ポップス",
@@ -24004,7 +27029,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--95nh",
+    "id": "jbt--kv0c",
     "title": "オリジナル",
     "artist": "Boomy and The Boost",
     "genre": "ポップス",
@@ -24029,7 +27054,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--gg2n",
+    "id": "jbt--8n4j",
     "title": "オリジナル",
     "artist": "BLACK JACKAL",
     "genre": "ポップス",
@@ -24054,7 +27079,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--e04y",
+    "id": "jbt--lt0o",
     "title": "オリジナル",
     "artist": "FLOWER (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -24079,7 +27104,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--czqb",
+    "id": "jbt--758e",
     "title": "オリジナル",
     "artist": "Proof of the existence [ 2 ]",
     "genre": "ポップス",
@@ -24104,7 +27129,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--uhap",
+    "id": "jbt--to99",
     "title": "オリジナル",
     "artist": "Brawl",
     "genre": "ポップス",
@@ -24129,7 +27154,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--qg9c",
+    "id": "jbt--p43g",
     "title": "オリジナル",
     "artist": "Floating Eternity",
     "genre": "ポップス",
@@ -24154,7 +27179,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--sgt6",
+    "id": "jbt--9t5x",
     "title": "オリジナル",
     "artist": "Pegasus",
     "genre": "ポップス",
@@ -24179,7 +27204,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--4pag",
+    "id": "jbt--xnpf",
     "title": "オリジナル",
     "artist": "pedigree",
     "genre": "ポップス",
@@ -24204,7 +27229,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--67iw",
+    "id": "jbt--q8z5",
     "title": "オリジナル",
     "artist": "ベビーステップ",
     "genre": "ポップス",
@@ -24229,7 +27254,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--csbv",
+    "id": "jbt--d8rp",
     "title": "オリジナル",
     "artist": "Hopeful Frontier!!!",
     "genre": "ポップス",
@@ -24254,7 +27279,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ivna",
+    "id": "jbt--kefy",
     "title": "オリジナル",
     "artist": "僕らの時間",
     "genre": "ポップス",
@@ -24279,7 +27304,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--2pcn",
+    "id": "jbt--9lou",
     "title": "オリジナル",
     "artist": "星の小舟",
     "genre": "ポップス",
@@ -24304,7 +27329,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--gscv",
+    "id": "jbt--jrgk",
     "title": "オリジナル",
     "artist": "POSSESSION",
     "genre": "ポップス",
@@ -24329,7 +27354,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--q0bs",
+    "id": "jbt--lcz0",
     "title": "オリジナル",
     "artist": "POSSESSION (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -24354,7 +27379,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--o8qp",
+    "id": "jbt--syqw",
     "title": "ソーシャル",
     "artist": "ボッカデラベリタ",
     "genre": "ポップス",
@@ -24379,7 +27404,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ohhf",
+    "id": "jbt--b29k",
     "title": "ポップス",
     "artist": "HOT LIMIT [ 2 ]",
     "genre": "ポップス",
@@ -24404,7 +27429,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--pcr9",
+    "id": "jbt--2llv",
     "title": "アニメ",
     "artist": "POP TEAM EPIC",
     "genre": "ポップス",
@@ -24429,7 +27454,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--oxyu",
+    "id": "jbt--5vr7",
     "title": "オリジナル",
     "artist": "Polaris [ 2 ]",
     "genre": "ポップス",
@@ -24454,7 +27479,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--zpa3",
+    "id": "jbt--snwq",
     "title": "オリジナル",
     "artist": "voltississimo",
     "genre": "ポップス",
@@ -24479,7 +27504,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--f6k1",
+    "id": "jbt--1wzd",
     "title": "東方アレンジ",
     "artist": "マツヨイナイトバグ",
     "genre": "ポップス",
@@ -24504,7 +27529,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--daim",
+    "id": "jbt--mbx8",
     "title": "オリジナル",
     "artist": "MA・TSU・RI",
     "genre": "ポップス",
@@ -24529,7 +27554,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--u6rx",
+    "id": "jbt--gio2",
     "title": "ソーシャル",
     "artist": "みくみくにしてあげる♪【してやんよ】",
     "genre": "ポップス",
@@ -24554,7 +27579,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ooy5",
+    "id": "jbt--368z",
     "title": "オリジナル",
     "artist": "Midsummer Madness",
     "genre": "ポップス",
@@ -24579,7 +27604,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--z4f0",
+    "id": "jbt--h70f",
     "title": "オリジナル",
     "artist": "ミッドナイト☆WAR",
     "genre": "ポップス",
@@ -24604,7 +27629,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--hwyq",
+    "id": "jbt--b8fo",
     "title": "オリジナル",
     "artist": "MOVE! (We Keep It Movin')",
     "genre": "ポップス",
@@ -24629,7 +27654,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--hfws",
+    "id": "jbt--vpro",
     "title": "オリジナル",
     "artist": "斑咲花",
     "genre": "ポップス",
@@ -24654,7 +27679,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--rllv",
+    "id": "jbt--9j5g",
     "title": "オリジナル",
     "artist": "廻る季節のゆく先に",
     "genre": "ポップス",
@@ -24679,7 +27704,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--k1ia",
+    "id": "jbt--8rfq",
     "title": "オリジナル",
     "artist": "めた・メタ？ひまわり＊パンチ",
     "genre": "ポップス",
@@ -24704,7 +27729,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--nz43",
+    "id": "jbt--ny4d",
     "title": "オリジナル",
     "artist": "Metsysralos",
     "genre": "ポップス",
@@ -24729,7 +27754,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ykx0",
+    "id": "jbt--dgsa",
     "title": "ソーシャル",
     "artist": "メランコリック",
     "genre": "ポップス",
@@ -24754,7 +27779,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--rqem",
+    "id": "jbt--9q0b",
     "title": "ソーシャル",
     "artist": "妄想感傷代償連盟",
     "genre": "ポップス",
@@ -24779,7 +27804,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--11rz",
+    "id": "jbt--vb9u",
     "title": "オリジナル",
     "artist": "MODEL FT2 Miracle Version",
     "genre": "ポップス",
@@ -24804,7 +27829,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--gbmd",
+    "id": "jbt--0guf",
     "title": "オリジナル",
     "artist": "unisonote [ 2 ]",
     "genre": "ポップス",
@@ -24829,7 +27854,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--qum4",
+    "id": "jbt--232y",
     "title": "オリジナル",
     "artist": "ゆめのかなたで",
     "genre": "ポップス",
@@ -24854,7 +27879,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--97bx",
+    "id": "jbt--0bsu",
     "title": "オリジナル",
     "artist": "ユメブキ",
     "genre": "ポップス",
@@ -24879,7 +27904,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--3g1i",
+    "id": "jbt--eu2j",
     "title": "ポップス",
     "artist": "YONA YONA DANCE",
     "genre": "ポップス",
@@ -24904,7 +27929,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--voe7",
+    "id": "jbt--7kd4",
     "title": "オリジナル",
     "artist": "LIKE A VAMPIRE",
     "genre": "ポップス",
@@ -24929,7 +27954,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--0fn3",
+    "id": "jbt--rrhz",
     "title": "オリジナル",
     "artist": "Light Shine",
     "genre": "ポップス",
@@ -24954,7 +27979,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--pbrn",
+    "id": "jbt--5xyb",
     "title": "オリジナル",
     "artist": "Right Time Right Way",
     "genre": "ポップス",
@@ -24979,7 +28004,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--n1v0",
+    "id": "jbt--znvf",
     "title": "オリジナル",
     "artist": "Life Without You",
     "genre": "ポップス",
@@ -25004,7 +28029,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--017u",
+    "id": "jbt--nj5l",
     "title": "オリジナル",
     "artist": "Life Connection [ 2 ]",
     "genre": "ポップス",
@@ -25029,7 +28054,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--7ks8",
+    "id": "jbt--630p",
     "title": "オリジナル",
     "artist": "Lachryma《Re:Queen’M》 (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -25054,7 +28079,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--08l1",
+    "id": "jbt--rjy9",
     "title": "オリジナル",
     "artist": "LAST OATH",
     "genre": "ポップス",
@@ -25079,7 +28104,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--h1wm",
+    "id": "jbt--eoq4",
     "title": "ポップス",
     "artist": "LANA - キロクノカケラ - [ 2 ]",
     "genre": "ポップス",
@@ -25104,7 +28129,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--o8xm",
+    "id": "jbt--u3df",
     "title": "オリジナル",
     "artist": "Lava Flow",
     "genre": "ポップス",
@@ -25129,7 +28154,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--g2bp",
+    "id": "jbt--kfv2",
     "title": "オリジナル",
     "artist": "Lava Flow [ 2 ]",
     "genre": "ポップス",
@@ -25154,7 +28179,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--n3lc",
+    "id": "jbt--brfh",
     "title": "オリジナル",
     "artist": "Laughin' Muffin",
     "genre": "ポップス",
@@ -25179,7 +28204,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--avgb",
+    "id": "jbt--z8nx",
     "title": "オリジナル",
     "artist": "ラブキラ☆スプラッシュ",
     "genre": "ポップス",
@@ -25204,7 +28229,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--qcls",
+    "id": "jbt--3368",
     "title": "オリジナル",
     "artist": "ラプンツェル",
     "genre": "ポップス",
@@ -25229,7 +28254,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--u7r9",
+    "id": "jbt--gcjd",
     "title": "オリジナル",
     "artist": "ランカーキラーガール",
     "genre": "ポップス",
@@ -25254,7 +28279,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ndka",
+    "id": "jbt--5a6x",
     "title": "オリジナル",
     "artist": "リカーシブ・ファンクション",
     "genre": "ポップス",
@@ -25279,7 +28304,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--4nhp",
+    "id": "jbt--yep4",
     "title": "オリジナル",
     "artist": "Lisa-RICCIA (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -25304,7 +28329,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--s8lb",
+    "id": "jbt--30ft",
     "title": "オリジナル",
     "artist": "流砂の嵐 (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -25329,7 +28354,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--awfe",
+    "id": "jbt--t0jn",
     "title": "オリジナル",
     "artist": "リリーゼと炎龍レーヴァテイン",
     "genre": "ポップス",
@@ -25354,7 +28379,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ibjs",
+    "id": "jbt--6rzg",
     "title": "東方アレンジ",
     "artist": "ルナティックモンスター",
     "genre": "ポップス",
@@ -25379,7 +28404,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--ai8l",
+    "id": "jbt--5ueu",
     "title": "オリジナル",
     "artist": "RAISE YOUR HEADS UP",
     "genre": "ポップス",
@@ -25404,7 +28429,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--8w9f",
+    "id": "jbt--j3lk",
     "title": "オリジナル",
     "artist": "Radius",
     "genre": "ポップス",
@@ -25429,7 +28454,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--b2v8",
+    "id": "jbt--f26u",
     "title": "ソーシャル",
     "artist": "ロストワンの号哭 [ 2 ]",
     "genre": "ポップス",
@@ -25454,7 +28479,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--57yd",
+    "id": "jbt--lchj",
     "title": "オリジナル",
     "artist": "ROCK ju",
     "genre": "ポップス",
@@ -25479,7 +28504,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--wcqd",
+    "id": "jbt--jwoz",
     "title": "オリジナル",
     "artist": "ロミとロボの宇宙飛行",
     "genre": "ポップス",
@@ -25504,7 +28529,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--2air",
+    "id": "jbt--w3yg",
     "title": "東方アレンジ",
     "artist": "WARNING×WARNING×WARNING",
     "genre": "ポップス",
@@ -25529,7 +28554,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--o09l",
+    "id": "jbt--dzmy",
     "title": "ソーシャル",
     "artist": "ワールズエンド・ダンスホール",
     "genre": "ポップス",
@@ -25554,7 +28579,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--998t",
+    "id": "jbt--ek4z",
     "title": "オリジナル",
     "artist": "海神",
     "genre": "ポップス",
@@ -25579,7 +28604,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--jduu",
+    "id": "jbt--ycwv",
     "title": "オリジナル",
     "artist": "海神 (BEMANI SYMPHONY Arr.)",
     "genre": "ポップス",
@@ -25604,7 +28629,7 @@ export const songs: Song[] = [
     "version": "jubeat festo"
   },
   {
-    "id": "jbt--5riq",
+    "id": "jbt--9hp9",
     "title": "オリジナル",
     "artist": "Wuv U",
     "genre": "ポップス",
@@ -25636,6 +28661,8 @@ export const allLevels = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 export const stats = {
   totalSongs: songs.length,
+  aveSongs: songs.filter(s => s.version === 'Ave.').length,
+  btaSongs: songs.filter(s => s.version === 'Beyond the Ave.').length,
   licenseSongs: songs.filter(s => s.isLicense).length,
   originalSongs: songs.filter(s => !s.isLicense).length,
   level10Songs: songs.filter(s => s.difficulties.extreme.level >= 10).length,
