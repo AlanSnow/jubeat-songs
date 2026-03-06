@@ -1,6 +1,4 @@
-import { Song } from '../lib/types';
-
-export const songs: Song[] = [
+[
   {
     "id": "jbt-DENTITY-naks",
     "title": "[ ]DENTITY",
@@ -49996,14 +49994,4 @@ export const songs: Song[] = [
       "clan"
     ]
   }
-];
-
-export const allGenres = [
-  '全部',
-  'ポップス',
-  'アニメ',
-  '東方アレンジ',
-  'バラエティ',
-  'ナムコオリジナル',
-  'コナミオリジナル',
-];
+]

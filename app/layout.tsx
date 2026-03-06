@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Jubeat 曲目查询 - jubeat Ave.',
-  description: 'jubeat Ave. 曲目查询系统，支持难度筛选、搜索、诈称标记',
+  title: 'Jubeat Songs - 曲目数据库',
+  description: 'jubeat 全版本曲目数据库，支持难度筛选、搜索、版本过滤',
 };
 
 export default function RootLayout({
@@ -12,8 +12,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="zh-CN">
-      <body className="min-h-screen bg-gray-50">{children}</body>
+    <html lang="zh-CN" suppressHydrationWarning>
+      <body className="min-h-screen">{children}</body>
     </html>
   );
 }

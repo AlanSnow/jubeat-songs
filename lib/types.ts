@@ -7,6 +7,7 @@ export interface Song {
   genre: string;
   bpm: number;
   bpmRange?: string;
+  avatar?: string;              // 歌曲封面图 URL
   difficulties: {
     basic: Difficulty;
     advanced: Difficulty;
