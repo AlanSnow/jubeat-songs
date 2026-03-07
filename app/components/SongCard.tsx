@@ -61,7 +61,7 @@ export default function SongCard({ song, isDarkMode }: SongCardProps) {
       }`}
     >
       {/* Cover Image Section */}
-      <div className="relative aspect-[4/3] overflow-hidden">
+      <div className="relative aspect-square overflow-hidden max-h-40">
         {hasAvatar ? (
           <img
             src={song.avatar}
