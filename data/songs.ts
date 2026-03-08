@@ -56,7 +56,39 @@ export const songs: any[] = [
       "prop"
     ],
     "atwikiHtmlId": 1086,
-    "bpmRange": "185"
+    "bpmRange": "185",
+    "versionDifficulties": {
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 183
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 528
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 879
+        }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 183
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 528
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 879
+        }
+      }
+    }
   },
   {
     "id": "jbt-Addiction-f5m1",
@@ -231,6 +263,96 @@ export const songs: any[] = [
           "level": 9.6,
           "notes": 842
         }
+      },
+      "copious": {
+        "version": "copious",
+        "basic": {
+          "level": 6,
+          "notes": 455
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 715
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 842
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 6,
+          "notes": 455
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 715
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 842
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 6,
+          "notes": 455
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 715
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 842
+        }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 6,
+          "notes": 455
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 715
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 842
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 6,
+          "notes": 455
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 715
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 842
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 6,
+          "notes": 455
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 715
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 842
+        }
       }
     },
     "chartPatterns": {
@@ -288,7 +410,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 533,
     "genre": "オリジナル",
     "appearanceVersion": "copious( [2] : festo )",
-    "bpmRange": "152"
+    "bpmRange": "152",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 339
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 502
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 782
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 339
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 502
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 782
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 339
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 502
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 782
+        }
+      }
+    }
   },
   {
     "id": "jbt-SweetLove-mmy4",
@@ -753,7 +922,114 @@ export const songs: any[] = [
     "avatar": "http://zenius-i-vanisher.com/images/songs/4354.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : prop )",
-    "bpmRange": "190"
+    "bpmRange": "190",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 6,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 560
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 790
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 560
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 790
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 560
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 790
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 6,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 560
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 790
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 6,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 560
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 790
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 6,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 560
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 790
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 6,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 560
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 790
+        }
+      }
+    }
   },
   {
     "id": "jbt-BA-n3rm",
@@ -1159,6 +1435,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 702
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 190
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 495
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 702
         }
       }
@@ -2633,6 +2924,21 @@ export const songs: any[] = [
       },
       "音乐魔方": {
         "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 199
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 645
+        }
+      },
+      "saucer": {
+        "version": "saucer",
         "basic": {
           "level": 2,
           "notes": 199
@@ -4263,7 +4569,24 @@ export const songs: any[] = [
     "atwikiHtmlId": 246,
     "genre": "オリジナル",
     "appearanceVersion": "ripples APPEND( [2] : b_Ave. )",
-    "bpmRange": "180"
+    "bpmRange": "180",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 414
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 676
+        },
+        "extreme": {
+          "level": 10.7,
+          "notes": 1000
+        }
+      }
+    }
   },
   {
     "id": "jbt-Alba-g8xg",
@@ -4948,6 +5271,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 643
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 218
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 507
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 643
+        }
       }
     },
     "appearanceVersion": "knit( [2] : festo )",
@@ -4969,7 +5307,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 355,
     "genre": "オリジナル",
     "appearanceVersion": "knit( [2] : festo )",
-    "bpmRange": "160"
+    "bpmRange": "160",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 428
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 702
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 428
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 702
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 428
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 702
+        }
+      }
+    }
   },
   {
     "id": "jbt-Amalgamation-k0he",
@@ -6602,6 +6987,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 781
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 444
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 645
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 781
+        }
       }
     },
     "chartPatterns": {
@@ -6971,6 +7371,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 736
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 397
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 736
+        }
       }
     },
     "chartPatterns": {
@@ -7120,7 +7535,69 @@ export const songs: any[] = [
       "festo"
     ],
     "atwikiHtmlId": 1479,
-    "bpmRange": "168"
+    "bpmRange": "168",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 5,
+          "notes": 389
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 751
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 389
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 751
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 389
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 751
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 389
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 751
+        }
+      }
+    }
   },
   {
     "id": "jbt-AwakeningWings-n0qd",
@@ -9558,6 +10035,21 @@ export const songs: any[] = [
         },
         "advanced": {
           "level": 6,
+          "notes": 469
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 755
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 2,
+          "notes": 216
+        },
+        "advanced": {
+          "level": 5,
           "notes": 469
         },
         "extreme": {
@@ -12878,7 +13370,69 @@ export const songs: any[] = [
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;page=chaplet&amp;file=cha.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : clan )",
-    "bpmRange": "200"
+    "bpmRange": "200",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 582
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 752
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 582
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 752
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 582
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 752
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 582
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 752
+        }
+      }
+    }
   },
   {
     "id": "jbt-CheCheChelip-tuci",
@@ -13389,6 +13943,21 @@ export const songs: any[] = [
           "level": 10.2,
           "notes": 776
         }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 5,
+          "notes": 386
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 569
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 776
+        }
       }
     },
     "avatar": "http://i.imgur.com/oglWff4.jpg",
@@ -13683,7 +14252,54 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/Nv64FDk.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "128"
+    "bpmRange": "128",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 484
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 734
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 484
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 734
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 484
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 734
+        }
+      }
+    }
   },
   {
     "id": "jbt-CIRCUSUCRIC-tot3",
@@ -14259,6 +14875,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 860
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 375
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 570
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 860
+        }
       }
     },
     "chartPatterns": {
@@ -14497,7 +15128,54 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/dX3YFPF.png",
     "genre": "オリジナル",
     "appearanceVersion": "copious APPEND( [2] : festo )",
-    "bpmRange": "182"
+    "bpmRange": "182",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 182
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 406
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 529
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 182
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 406
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 529
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 182
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 406
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 529
+        }
+      }
+    }
   },
   {
     "id": "jbt-Clumsythoughts-xopt",
@@ -15038,6 +15716,21 @@ export const songs: any[] = [
       },
       "音乐魔方": {
         "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 660
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 802
+        }
+      },
+      "ripples": {
+        "version": "ripples",
         "basic": {
           "level": 5,
           "notes": 341
@@ -17470,7 +18163,39 @@ export const songs: any[] = [
     "avatar": "https://i.imgur.com/p2y8LV2.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : Ave. )",
-    "bpmRange": "205"
+    "bpmRange": "205",
+    "versionDifficulties": {
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 303
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 493
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 943
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 303
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 493
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 943
+        }
+      }
+    }
   },
   {
     "id": "jbt-Daisuke-cw2j",
@@ -17715,6 +18440,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 846
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 245
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 413
+        },
+        "extreme": {
+          "level": 9.2,
           "notes": 846
         }
       }
@@ -18014,6 +18754,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 482
         }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 3,
+          "notes": 184
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 437
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 515
+        }
       }
     },
     "avatar": "http://i.imgur.com/OfzMNcQ.png",
@@ -18038,7 +18793,54 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/OfzMNcQ.png",
     "genre": "アニメ",
     "appearanceVersion": "saucer fulfill",
-    "bpmRange": "150"
+    "bpmRange": "150",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 179
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 391
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 482
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 179
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 391
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 482
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 3,
+          "notes": 179
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 391
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 482
+        }
+      }
+    }
   },
   {
     "id": "jbt-Daydreamcaf2-pxj5",
@@ -18056,7 +18858,39 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/OfzMNcQ.png",
     "genre": "アニメ",
     "appearanceVersion": "saucer fulfill",
-    "bpmRange": "150"
+    "bpmRange": "150",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 179
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 391
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 482
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 179
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 391
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 482
+        }
+      }
+    }
   },
   {
     "id": "jbt-DEATHWORMHOLE-fo9a",
@@ -20464,7 +21298,39 @@ export const songs: any[] = [
     "atwikiHtmlId": 1469,
     "genre": "ポップス",
     "appearanceVersion": "prop",
-    "bpmRange": "124"
+    "bpmRange": "124",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 493
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 655
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 493
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 655
+        }
+      }
+    }
   },
   {
     "id": "jbt-DragontailButte-wjl6",
@@ -21589,6 +22455,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 535
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 3,
+          "notes": 182
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 381
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 535
+        }
       }
     },
     "chartPatterns": {
@@ -22441,6 +23322,21 @@ export const songs: any[] = [
           "level": 10.4,
           "notes": 918
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 514
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 703
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 918
+        }
       }
     },
     "chartPatterns": {
@@ -22931,6 +23827,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 567
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 224
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 378
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 567
         }
       }
@@ -23494,7 +24405,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1083,
     "avatar": "https://i.imgur.com/cJMgzns.png",
     "genre": "アニメ",
-    "appearanceVersion": "saucer( [2] : festo )"
+    "appearanceVersion": "saucer( [2] : festo )",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 209
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 372
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 471
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 209
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 372
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 471
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 209
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 372
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 471
+        }
+      }
+    }
   },
   {
     "id": "jbt-EternalDream-l053",
@@ -24649,6 +25607,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 618
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 3,
+          "notes": 202
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 388
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 618
+        }
       }
     },
     "chartPatterns": {
@@ -25297,6 +26270,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 708
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 256
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 538
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 708
+        }
       }
     },
     "avatar": "http://i.imgur.com/YKzW85X.png",
@@ -25492,6 +26480,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 8,
+          "notes": 601
+        }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 316
+        },
+        "extreme": {
+          "level": 7,
           "notes": 601
         }
       }
@@ -26487,7 +27490,114 @@ export const songs: any[] = [
     "avatar": "http://images3.wikia.nocookie.net/__cb20130224000456/dancedancerevolutionddr/images/3/36/FLOWER.png",
     "genre": "オリジナル",
     "appearanceVersion": "knit APPEND( [2] : prop )",
-    "bpmRange": "173"
+    "bpmRange": "173",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 6,
+          "notes": 402
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 683
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 950
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 402
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 683
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 950
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 402
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 683
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 950
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 6,
+          "notes": 402
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 683
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 950
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 6,
+          "notes": 402
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 683
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 950
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 6,
+          "notes": 402
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 683
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 950
+        }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 6,
+          "notes": 402
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 683
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 950
+        }
+      }
+    }
   },
   {
     "id": "jbt-FlyAbove-8jve",
@@ -27105,6 +28215,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 865
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 328
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 590
+        },
+        "extreme": {
+          "level": 8,
           "notes": 865
         }
       }
@@ -28256,6 +29381,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 856
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 394
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 645
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 856
+        }
       }
     },
     "chartPatterns": {
@@ -29374,7 +30514,99 @@ export const songs: any[] = [
     "avatar": "http://remywiki.com/images/thumb/0/02/Glacia.png/200px-Glacia.png",
     "genre": "オリジナル",
     "appearanceVersion": "prop( [2] : prop )",
-    "bpmRange": "186"
+    "bpmRange": "186",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 6,
+          "notes": 504
+        },
+        "advanced": {
+          "level": 9.5,
+          "notes": 789
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 936
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 504
+        },
+        "advanced": {
+          "level": 9.5,
+          "notes": 789
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 936
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 504
+        },
+        "advanced": {
+          "level": 9.5,
+          "notes": 789
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 936
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 6,
+          "notes": 504
+        },
+        "advanced": {
+          "level": 9.5,
+          "notes": 789
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 936
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 6,
+          "notes": 504
+        },
+        "advanced": {
+          "level": 9.5,
+          "notes": 789
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 936
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 6,
+          "notes": 504
+        },
+        "advanced": {
+          "level": 9.5,
+          "notes": 789
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 936
+        }
+      }
+    }
   },
   {
     "id": "jbt-GlitterCube-jmvq",
@@ -30516,6 +31748,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 619
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 4,
+          "notes": 243
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 434
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 619
+        }
       }
     },
     "avatar": "http://i.imgur.com/L8Dsq6D.png",
@@ -31297,6 +32544,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 787
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 3,
+          "notes": 315
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 787
+        }
       }
     },
     "appearanceVersion": "knit",
@@ -31424,6 +32686,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 711
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 216
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 402
+        },
+        "extreme": {
+          "level": 9.2,
           "notes": 711
         }
       }
@@ -33027,7 +34304,69 @@ export const songs: any[] = [
     "avatar": "https://i.imgur.com/ZVV63Ff.png",
     "genre": "オリジナル",
     "appearanceVersion": "copious( [2] : clan )",
-    "bpmRange": "185"
+    "bpmRange": "185",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 5,
+          "notes": 337
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 678
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 806
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 337
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 678
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 806
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 337
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 678
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 806
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 337
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 678
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 806
+        }
+      }
+    }
   },
   {
     "id": "jbt-HEKIREKI-8y53",
@@ -33762,6 +35101,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 786
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 2,
+          "notes": 253
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 462
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 786
+        }
       }
     },
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;page=High%20School%20Love&amp;file=anohikara.png",
@@ -34420,7 +35774,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 166,
     "genre": "ポップス",
     "appearanceVersion": "ripples( [2] : festo )",
-    "bpmRange": "139"
+    "bpmRange": "139",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 170
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 385
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 547
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 170
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 385
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 547
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 170
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 385
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 547
+        }
+      }
+    }
   },
   {
     "id": "jbt-HunnyBunny-r41h",
@@ -35283,6 +36684,21 @@ export const songs: any[] = [
           "level": 10.2,
           "notes": 806
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 265
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 529
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 806
+        }
       }
     },
     "chartPatterns": {
@@ -35334,7 +36750,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 353,
     "genre": "オリジナル",
     "appearanceVersion": "knit( [2] : festo )",
-    "bpmRange": "181"
+    "bpmRange": "181",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 243
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 426
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 771
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 243
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 426
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 771
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 243
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 426
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 771
+        }
+      }
+    }
   },
   {
     "id": "jbt-IO-7s5a",
@@ -35796,7 +37259,54 @@ export const songs: any[] = [
     "avatar": "https://p.eagate.573.jp/game/jubeat/common/jacket/3/id35367035.gif",
     "genre": "オリジナル",
     "appearanceVersion": "初代( [2] : festo )",
-    "bpmRange": "158"
+    "bpmRange": "158",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 211
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 404
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 681
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 211
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 404
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 681
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 211
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 404
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 681
+        }
+      }
+    }
   },
   {
     "id": "jbt-Idola-pch3",
@@ -35912,6 +37422,21 @@ export const songs: any[] = [
         "version": "saucer fulfill",
         "basic": {
           "level": 5,
+          "notes": 395
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 636
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 903
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
           "notes": 395
         },
         "advanced": {
@@ -37738,6 +39263,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 656
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 2,
+          "notes": 230
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 461
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 656
+        }
       }
     },
     "appearanceVersion": "ripples",
@@ -39337,6 +40877,21 @@ export const songs: any[] = [
           "level": 9.3,
           "notes": 654
         }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 495
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 654
+        }
       }
     },
     "avatar": "http://i.imgur.com/TSCkaJf.jpg",
@@ -39577,6 +41132,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 1042
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 400
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 662
+        },
+        "extreme": {
+          "level": 10.3,
           "notes": 1042
         }
       }
@@ -40302,6 +41872,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 783
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 3,
+          "notes": 323
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 552
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 783
+        }
       }
     },
     "chartPatterns": {
@@ -40924,7 +42509,54 @@ export const songs: any[] = [
     ],
     "atwikiHtmlId": 1050,
     "genre": "ポップス",
-    "appearanceVersion": "saucer( [2] : festo )"
+    "appearanceVersion": "saucer( [2] : festo )",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 91
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 322
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 485
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 91
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 322
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 485
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 91
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 322
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 485
+        }
+      }
+    }
   },
   {
     "id": "jbt-LANAsasakureUKF-x07x",
@@ -41852,7 +43484,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 2147,
     "genre": "オリジナル",
     "appearanceVersion": "festo( [2] : festo )",
-    "bpmRange": "190"
+    "bpmRange": "190",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 241
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 383
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 683
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 241
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 383
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 683
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 241
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 383
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 683
+        }
+      }
+    }
   },
   {
     "id": "jbt-lemirage-moc9",
@@ -42574,7 +44253,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1239,
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "200"
+    "bpmRange": "200",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 182
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 369
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 632
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 182
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 369
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 632
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 182
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 369
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 632
+        }
+      }
+    }
   },
   {
     "id": "jbt-Lifeisbeautiful-d445",
@@ -43652,6 +45378,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 688
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 247
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 411
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 688
+        }
       }
     },
     "avatar": "https://i.imgur.com/fh1jex2.png",
@@ -44410,6 +46151,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 666
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 3,
+          "notes": 268
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 474
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 666
+        }
       }
     },
     "appearanceVersion": "knit( [2] : prop )",
@@ -44435,7 +46191,114 @@ export const songs: any[] = [
     "atwikiHtmlId": 354,
     "genre": "オリジナル",
     "appearanceVersion": "knit( [2] : prop )",
-    "bpmRange": "184"
+    "bpmRange": "184",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 4,
+          "notes": 229
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 595
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 229
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 595
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 229
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 595
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 229
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 595
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 229
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 595
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 229
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 595
+        }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 229
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 595
+        }
+      }
+    }
   },
   {
     "id": "jbt-Love2Shuffle-frnu",
@@ -45801,6 +47664,21 @@ export const songs: any[] = [
           "level": 10.3,
           "notes": 757
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 7,
+          "notes": 396
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 582
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 757
+        }
       }
     },
     "chartPatterns": {
@@ -46804,6 +48682,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 861
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 238
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 425
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 861
+        }
       }
     },
     "chartPatterns": {
@@ -47265,6 +49158,36 @@ export const songs: any[] = [
         "version": "Qubell",
         "basic": {
           "level": 3,
+          "notes": 240
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 374
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 694
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 2,
+          "notes": 240
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 374
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 694
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 2,
           "notes": 240
         },
         "advanced": {
@@ -48293,6 +50216,21 @@ export const songs: any[] = [
         },
         "advanced": {
           "level": 8,
+          "notes": 615
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 801
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 326
+        },
+        "advanced": {
+          "level": 7,
           "notes": 615
         },
         "extreme": {
@@ -50540,7 +52478,24 @@ export const songs: any[] = [
     "avatar": "http://zenius-i-vanisher.com/images/songs/5012.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : b_Ave. )",
-    "bpmRange": "270"
+    "bpmRange": "270",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 372
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 556
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 814
+        }
+      }
+    }
   },
   {
     "id": "jbt-NeverSeeYouAgai-1rui",
@@ -50846,7 +52801,24 @@ export const songs: any[] = [
     "avatar": "https://i.imgur.com/JWhLHoY.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : b_Ave. )",
-    "bpmRange": "200"
+    "bpmRange": "200",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 522
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 854
+        }
+      }
+    }
   },
   {
     "id": "jbt-NewGravity-87v3",
@@ -53028,7 +55000,54 @@ export const songs: any[] = [
     "avatar": "https://i.imgur.com/iDpAnSk.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "175"
+    "bpmRange": "175",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 540
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 739
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 540
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 739
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 540
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 739
+        }
+      }
+    }
   },
   {
     "id": "jbt-OurLove-0ork",
@@ -54176,6 +56195,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 723
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 293
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 544
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 723
+        }
       }
     },
     "avatar": "http://i.imgur.com/KwepoVu.png",
@@ -55090,7 +57124,69 @@ export const songs: any[] = [
     "atwikiHtmlId": 1061,
     "avatar": "http://zenius-i-vanisher.com/images/songs/2001.png",
     "genre": "オリジナル",
-    "appearanceVersion": "saucer( [2] : clan )"
+    "appearanceVersion": "saucer( [2] : clan )",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 214
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 374
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 614
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 214
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 374
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 614
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 214
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 374
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 614
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 214
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 374
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 614
+        }
+      }
+    }
   },
   {
     "id": "jbt-Plan8-4t08",
@@ -55390,6 +57486,21 @@ export const songs: any[] = [
       },
       "音乐魔方": {
         "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 405
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 704
+        }
+      },
+      "saucer": {
+        "version": "saucer",
         "basic": {
           "level": 2,
           "notes": 232
@@ -56012,7 +58123,54 @@ export const songs: any[] = [
     "time": "1:54",
     "genre": "オリジナル",
     "appearanceVersion": "初代( [2] : festo )",
-    "bpmRange": "180"
+    "bpmRange": "180",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 204
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 346
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 558
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 204
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 346
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 558
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 204
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 346
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 558
+        }
+      }
+    }
   },
   {
     "id": "jbt-POLICYBREAKMedl-7wuw",
@@ -57408,7 +59566,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1106,
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "170"
+    "bpmRange": "170",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 387
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 651
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 796
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 387
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 651
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 796
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 387
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 651
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 796
+        }
+      }
+    }
   },
   {
     "id": "jbt-proptheworld-d0s9",
@@ -57709,6 +59914,21 @@ export const songs: any[] = [
       },
       "音乐魔方": {
         "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 296
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 506
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 739
+        }
+      },
+      "knit": {
+        "version": "knit",
         "basic": {
           "level": 3,
           "notes": 296
@@ -58665,6 +60885,21 @@ export const songs: any[] = [
           "level": 7,
           "notes": 629
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 4,
+          "notes": 317
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 408
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 629
+        }
       }
     },
     "chartPatterns": {
@@ -58712,7 +60947,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 193,
     "genre": "オリジナル",
     "appearanceVersion": "ripples( [2] : festo )",
-    "bpmRange": "157"
+    "bpmRange": "157",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 289
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 448
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 693
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 289
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 448
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 693
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 289
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 448
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 693
+        }
+      }
+    }
   },
   {
     "id": "jbt-RPGRockinPlayin-38ra",
@@ -59684,6 +61966,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 530
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 350
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 390
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 530
+        }
       }
     },
     "appearanceVersion": "knit",
@@ -60591,6 +62888,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 585
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 2,
+          "notes": 204
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 394
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 585
+        }
       }
     },
     "avatar": "https://i.imgur.com/c8lZ3jr.png",
@@ -61378,7 +63690,114 @@ export const songs: any[] = [
     "atwikiHtmlId": 634,
     "avatar": "//www44.atwiki.jp/reflec_beat/?cmd=upload&amp;act=open&amp;page=robin&amp;file=robin.png",
     "appearanceVersion": "saucer(plus初出)( [2] : prop )",
-    "bpmRange": "190"
+    "bpmRange": "190",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 4,
+          "notes": 245
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 420
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 597
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 245
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 420
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 597
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 245
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 420
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 597
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 245
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 420
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 597
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 245
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 420
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 597
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 245
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 420
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 597
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 245
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 420
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 597
+        }
+      }
+    }
   },
   {
     "id": "jbt-ROCKju-fzot",
@@ -62743,6 +65162,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 706
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 5,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 588
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 706
+        }
       }
     },
     "appearanceVersion": "ripples"
@@ -63164,7 +65598,54 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/1BHOzcw.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "181"
+    "bpmRange": "181",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 258
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 482
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 636
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 258
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 482
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 636
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 258
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 482
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 636
+        }
+      }
+    }
   },
   {
     "id": "jbt-SAKURA-xmlf",
@@ -63861,7 +66342,54 @@ export const songs: any[] = [
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;pageid=1582&amp;file=SM.png",
     "genre": "東方アレンジ",
     "appearanceVersion": "prop( [2] : festo )",
-    "bpmRange": "180"
+    "bpmRange": "180",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 246
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 504
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 765
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 246
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 504
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 765
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 246
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 504
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 765
+        }
+      }
+    }
   },
   {
     "id": "jbt-ScarsofFAUNA-0f4r",
@@ -64027,7 +66555,69 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/Ys8p8n1.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer fulfill( [2] : clan )",
-    "bpmRange": "165"
+    "bpmRange": "165",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 263
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 563
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 821
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 263
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 563
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 821
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 263
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 563
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 821
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 263
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 563
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 821
+        }
+      }
+    }
   },
   {
     "id": "jbt-Screamout-w7jz",
@@ -64509,7 +67099,69 @@ export const songs: any[] = [
     "avatar": "https://i.imgur.com/zPgT1LO.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : clan )",
-    "bpmRange": "152"
+    "bpmRange": "152",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 273
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 490
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 683
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 273
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 490
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 683
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 273
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 490
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 683
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 273
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 490
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 683
+        }
+      }
+    }
   },
   {
     "id": "jbt-Sephirot-ctal",
@@ -64968,6 +67620,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 932
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 404
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 602
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 932
+        }
       }
     },
     "appearanceVersion": "knit",
@@ -65194,6 +67861,21 @@ export const songs: any[] = [
           "level": 7,
           "notes": 602
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 4,
+          "notes": 279
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 406
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 602
+        }
       }
     },
     "chartPatterns": {
@@ -65335,6 +68017,21 @@ export const songs: any[] = [
       },
       "音乐魔方": {
         "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 338
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 554
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 875
+        }
+      },
+      "saucer": {
+        "version": "saucer",
         "basic": {
           "level": 4,
           "notes": 338
@@ -65893,7 +68590,54 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/cNscA5w.png",
     "genre": "オリジナル",
     "appearanceVersion": "初代( [2] : festo )",
-    "bpmRange": "179"
+    "bpmRange": "179",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 283
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 656
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 939
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 283
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 656
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 939
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 283
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 656
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 939
+        }
+      }
+    }
   },
   {
     "id": "jbt-SilentStory-clp3",
@@ -67288,7 +70032,69 @@ export const songs: any[] = [
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;page=smooooch%EF%BD%A5%E2%88%80%EF%BD%A5&amp;file=smooooch.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : clan )",
-    "bpmRange": "177"
+    "bpmRange": "177",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 751
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 751
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 751
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 751
+        }
+      }
+    }
   },
   {
     "id": "jbt-SnowFalcon-bb5u",
@@ -67546,7 +70352,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 38,
     "genre": "オリジナル",
     "appearanceVersion": "初代( [2] : festo )",
-    "bpmRange": "200"
+    "bpmRange": "200",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 247
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 414
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 741
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 247
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 414
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 741
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 247
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 414
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 741
+        }
+      }
+    }
   },
   {
     "id": "jbt-snowprism-aymy",
@@ -68275,7 +71128,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1208,
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "135"
+    "bpmRange": "135",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 175
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 342
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 594
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 175
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 342
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 594
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 175
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 342
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 594
+        }
+      }
+    }
   },
   {
     "id": "jbt-Sorrows-zw2x",
@@ -68716,6 +71616,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 611
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 291
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 496
+        },
+        "extreme": {
+          "level": 8,
           "notes": 611
         }
       }
@@ -70482,6 +73397,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 654
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 4,
+          "notes": 292
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 416
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 654
+        }
       }
     },
     "appearanceVersion": "ripples",
@@ -71152,6 +74082,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 867
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 370
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 579
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 867
+        }
       }
     },
     "chartPatterns": {
@@ -71744,6 +74689,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 642
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 2,
+          "notes": 220
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 441
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 642
+        }
       }
     },
     "appearanceVersion": "knit",
@@ -71896,7 +74856,84 @@ export const songs: any[] = [
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;pageid=1585&amp;file=str.png",
     "genre": "東方アレンジ",
     "appearanceVersion": "prop( [2] : Qubell )",
-    "bpmRange": "180"
+    "bpmRange": "180",
+    "versionDifficulties": {
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 2,
+          "notes": 198
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 372
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 615
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 198
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 372
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 615
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 198
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 372
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 615
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 198
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 372
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 615
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 2,
+          "notes": 198
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 372
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 615
+        }
+      }
+    }
   },
   {
     "id": "jbt-STULTI-v53j",
@@ -73254,6 +76291,21 @@ export const songs: any[] = [
           "level": 9.7,
           "notes": 641
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 4,
+          "notes": 210
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 370
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 641
+        }
       }
     },
     "chartPatterns": {
@@ -73712,6 +76764,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 808
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 279
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 577
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 808
+        }
       }
     },
     "appearanceVersion": "knit",
@@ -73911,7 +76978,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 968,
     "genre": "アニメ",
     "appearanceVersion": "saucer",
-    "bpmRange": "159"
+    "bpmRange": "159",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 2,
+          "notes": 185
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 484
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 626
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 2,
+          "notes": 185
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 484
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 626
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 2,
+          "notes": 185
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 484
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 626
+        }
+      }
+    }
   },
   {
     "id": "jbt-SynchronizedLov-c6qr",
@@ -74362,6 +77476,21 @@ export const songs: any[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 269
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 439
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 747
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
         "basic": {
           "level": 3,
           "notes": 269
@@ -75633,6 +78762,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 731
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 339
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 515
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 731
+        }
       }
     },
     "chartPatterns": {
@@ -75772,6 +78916,21 @@ export const songs: any[] = [
       },
       "saucer fulfill": {
         "version": "saucer fulfill",
+        "basic": {
+          "level": 4,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 516
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 719
+        }
+      },
+      "saucer": {
+        "version": "saucer",
         "basic": {
           "level": 4,
           "notes": 301
@@ -76083,7 +79242,99 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/9on9TCI.png",
     "genre": "オリジナル",
     "appearanceVersion": "prop( [2] : prop )",
-    "bpmRange": "138"
+    "bpmRange": "138",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 4,
+          "notes": 355
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 723
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 906
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 355
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 723
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 906
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 355
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 723
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 906
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 355
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 723
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 906
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 355
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 723
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 906
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 355
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 723
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 906
+        }
+      }
+    }
   },
   {
     "id": "jbt-TOONMANIAC-tstn",
@@ -77249,7 +80500,54 @@ export const songs: any[] = [
     "avatar": "http://livedoor.blogimg.jp/matomepo/imgs/e/4/e48c49bc-s.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "164"
+    "bpmRange": "164",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 908
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 908
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 908
+        }
+      }
+    }
   },
   {
     "id": "jbt-TRUELOVE-vyk5",
@@ -77442,6 +80740,21 @@ export const songs: any[] = [
       },
       "音乐魔方": {
         "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 287
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 439
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 596
+        }
+      },
+      "jubeat": {
+        "version": "jubeat",
         "basic": {
           "level": 3,
           "notes": 287
@@ -79348,6 +82661,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 799
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 2,
+          "notes": 186
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 457
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 799
+        }
       }
     },
     "chartPatterns": {
@@ -79412,7 +82740,54 @@ export const songs: any[] = [
     "avatar": "https://p.eagate.573.jp/game/jubeat/common/jacket/5/id58919478.gif",
     "genre": "オリジナル",
     "appearanceVersion": "saucer fulfill( [2] : festo )",
-    "bpmRange": "168"
+    "bpmRange": "168",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 226
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 559
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 807
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 226
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 559
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 807
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 226
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 559
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 807
+        }
+      }
+    }
   },
   {
     "id": "jbt-UniverseUnivers-9yju",
@@ -80175,7 +83550,54 @@ export const songs: any[] = [
     "avatar": "http://images3.wikia.nocookie.net/__cb20130824005711/dancedancerevolutionddr/images/a/a8/VALLIS-NERIA.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "185"
+    "bpmRange": "185",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 381
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 705
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 896
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 381
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 705
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 896
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 381
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 705
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 896
+        }
+      }
+    }
   },
   {
     "id": "jbt-VampireKiller-q8x8",
@@ -81740,7 +85162,24 @@ export const songs: any[] = [
     "avatar": "https://i.imgur.com/6xilCO9.png",
     "genre": "東方アレンジ",
     "appearanceVersion": "festo( [2] : b_Ave. )",
-    "bpmRange": "172"
+    "bpmRange": "172",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 246
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 536
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 782
+        }
+      }
+    }
   },
   {
     "id": "jbt-WaterHorizon-cjrd",
@@ -82249,7 +85688,114 @@ export const songs: any[] = [
     "avatar": "http://cdn-ak.f.st-hatena.com/images/fotolife/j/jabelin/20131228/20131228122053.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : prop )",
-    "bpmRange": "185"
+    "bpmRange": "185",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 4,
+          "notes": 268
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 624
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 904
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 268
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 624
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 904
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 268
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 624
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 904
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 268
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 624
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 904
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 268
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 624
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 904
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 268
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 624
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 904
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 268
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 624
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 904
+        }
+      }
+    }
   },
   {
     "id": "jbt-WELCOMETOMOTOWN-7dca",
@@ -82741,7 +86287,84 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/1EThxrq.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : Qubell )",
-    "bpmRange": "180"
+    "bpmRange": "180",
+    "versionDifficulties": {
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 465
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 690
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 465
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 690
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 465
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 690
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 465
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 690
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 465
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 690
+        }
+      }
+    }
   },
   {
     "id": "jbt-WinterGift-66rj",
@@ -84976,7 +88599,69 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/wjsUyFv.png",
     "genre": "オリジナル",
     "appearanceVersion": "prop( [2] : clan )",
-    "bpmRange": "200"
+    "bpmRange": "200",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 5,
+          "notes": 441
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 762
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 942
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 441
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 762
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 942
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 441
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 762
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 942
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 441
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 762
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 942
+        }
+      }
+    }
   },
   {
     "id": "jbt--qvfp",
@@ -86409,7 +90094,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1274,
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "plus",
-    "bpmRange": "145"
+    "bpmRange": "145",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 159
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 361
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 501
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 159
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 361
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 501
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 159
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 361
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 501
+        }
+      }
+    }
   },
   {
     "id": "jbt--5enn",
@@ -87101,7 +90833,69 @@ export const songs: any[] = [
     "atwikiHtmlId": 1242,
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : clan )",
-    "bpmRange": "170"
+    "bpmRange": "170",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 202
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 363
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 603
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 202
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 363
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 603
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 202
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 363
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 603
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 202
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 363
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 603
+        }
+      }
+    }
   },
   {
     "id": "jbt--jrvl",
@@ -87662,7 +91456,24 @@ export const songs: any[] = [
     "atwikiHtmlId": 1740,
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "Qubell( [2] : b_Ave. )",
-    "bpmRange": "152"
+    "bpmRange": "152",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 251
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 591
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 920
+        }
+      }
+    }
   },
   {
     "id": "jbt--oqvb",
@@ -89739,7 +93550,24 @@ export const songs: any[] = [
     "atwikiHtmlId": 631,
     "avatar": "//www44.atwiki.jp/reflec_beat/?cmd=upload&amp;act=open&amp;page=%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%8B%E3%83%83%E3%83%84&amp;file=%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%9F%E3%83%8B%E3%83%83%E3%83%84.png",
     "appearanceVersion": "saucer(plus初出)( [2] : b_Ave.・plus初出)",
-    "bpmRange": "152"
+    "bpmRange": "152",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 180
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 354
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 550
+        }
+      }
+    }
   },
   {
     "id": "jbt--zbij",
@@ -89947,7 +93775,69 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/eyDgMUo.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : clan )",
-    "bpmRange": "135"
+    "bpmRange": "135",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 299
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 472
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 699
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 299
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 472
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 699
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 299
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 472
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 699
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 299
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 472
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 699
+        }
+      }
+    }
   },
   {
     "id": "jbt--tzgy",
@@ -90397,7 +94287,69 @@ export const songs: any[] = [
     ],
     "atwikiHtmlId": 1246,
     "appearanceVersion": "saucer",
-    "bpmRange": "94"
+    "bpmRange": "94",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 2,
+          "notes": 168
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 353
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 556
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 2,
+          "notes": 168
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 353
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 556
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 2,
+          "notes": 168
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 353
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 556
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 2,
+          "notes": 168
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 353
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 556
+        }
+      }
+    }
   },
   {
     "id": "jbt-jubeat-c15p",
@@ -91656,6 +95608,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 544
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 184
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 387
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 544
+        }
       }
     },
     "genre": "ソーシャルミュージック",
@@ -92626,6 +96593,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 814
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 366
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 610
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 814
+        }
       }
     },
     "chartPatterns": {
@@ -92660,7 +96642,24 @@ export const songs: any[] = [
     "atwikiHtmlId": 1380,
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "saucer fulfill( [2] : b_Ave. )",
-    "bpmRange": "190"
+    "bpmRange": "190",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 354
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 589
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 908
+        }
+      }
+    }
   },
   {
     "id": "jbt-underground-6m5v",
@@ -93474,6 +97473,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 631
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 2,
+          "notes": 228
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 403
+        },
+        "extreme": {
+          "level": 8,
           "notes": 631
         }
       }
@@ -94436,7 +98450,54 @@ export const songs: any[] = [
     "avatar": "https://i.imgur.com/ReseTbw.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer([ 2 ]:festo)",
-    "bpmRange": "111"
+    "bpmRange": "111",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 241
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 566
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 911
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 241
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 566
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 911
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 241
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 566
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 911
+        }
+      }
+    }
   },
   {
     "id": "jbt--z5qq",
@@ -94599,6 +98660,21 @@ export const songs: any[] = [
       },
       "音乐魔方": {
         "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 223
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 528
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 654
+        }
+      },
+      "knit": {
+        "version": "knit",
         "basic": {
           "level": 3,
           "notes": 223
@@ -97160,7 +101236,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 248,
     "genre": "オリジナル",
     "appearanceVersion": "ripples APPEND( [2] : festo )",
-    "bpmRange": "160"
+    "bpmRange": "160",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 240
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 445
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 641
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 240
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 445
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 641
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 240
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 445
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 641
+        }
+      }
+    }
   },
   {
     "id": "jbt--omr1",
@@ -99563,7 +103686,54 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/SSWdb1a.png",
     "genre": "オリジナル",
     "appearanceVersion": "prop( [2] : festo )",
-    "bpmRange": "174"
+    "bpmRange": "174",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 150
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 442
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 562
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 150
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 442
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 562
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 150
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 442
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 562
+        }
+      }
+    }
   },
   {
     "id": "jbt--nsf9",
@@ -100002,7 +104172,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1157,
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "184"
+    "bpmRange": "184",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 188
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 603
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 188
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 603
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 188
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 603
+        }
+      }
+    }
   },
   {
     "id": "jbt--a4sd",
@@ -100766,6 +104983,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 1077
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 390
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 684
+        },
+        "extreme": {
+          "level": 10.7,
           "notes": 1077
         }
       }
@@ -101975,7 +106207,114 @@ export const songs: any[] = [
     "atwikiHtmlId": 1105,
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : prop )",
-    "bpmRange": "185"
+    "bpmRange": "185",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 316
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 974
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 316
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 974
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 316
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 974
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 316
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 974
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 316
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 974
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 316
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 974
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 316
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 974
+        }
+      }
+    }
   },
   {
     "id": "jbt--z3g7",
@@ -102975,7 +107314,69 @@ export const songs: any[] = [
     "atwikiHtmlId": 1150,
     "genre": "ポップス",
     "appearanceVersion": "saucer",
-    "bpmRange": "130"
+    "bpmRange": "130",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 356
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 600
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 356
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 600
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 356
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 600
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 356
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 600
+        }
+      }
+    }
   },
   {
     "id": "jbt--eoa2",
@@ -103494,7 +107895,24 @@ export const songs: any[] = [
     "atwikiHtmlId": 2460,
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "beyond the Ave.",
-    "bpmRange": "155"
+    "bpmRange": "155",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 222
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 427
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 770
+        }
+      }
+    }
   },
   {
     "id": "jbt--6o4n",
@@ -104493,6 +108911,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 593
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 216
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 383
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 593
+        }
       }
     },
     "chartPatterns": {
@@ -104855,6 +109288,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 896
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 342
+        },
+        "advanced": {
+          "level": 9.1,
+          "notes": 722
+        },
+        "extreme": {
+          "level": 10.2,
           "notes": 896
         }
       }
@@ -106994,6 +111442,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 894
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 367
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 643
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 894
+        }
       }
     },
     "chartPatterns": {
@@ -108130,6 +112593,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 854
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 367
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 637
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 854
         }
       }
@@ -109716,6 +114194,21 @@ export const songs: any[] = [
         },
         "advanced": {
           "level": 7,
+          "notes": 494
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 614
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 274
+        },
+        "advanced": {
+          "level": 6,
           "notes": 494
         },
         "extreme": {
@@ -112882,6 +117375,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 700
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 400
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 488
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 700
+        }
       }
     },
     "chartPatterns": {
@@ -113308,7 +117816,39 @@ export const songs: any[] = [
     "atwikiHtmlId": 1472,
     "genre": "アニメ",
     "appearanceVersion": "prop",
-    "bpmRange": "137"
+    "bpmRange": "137",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 1,
+          "notes": 76
+        },
+        "advanced": {
+          "level": 3,
+          "notes": 203
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 360
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 1,
+          "notes": 76
+        },
+        "advanced": {
+          "level": 3,
+          "notes": 203
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 360
+        }
+      }
+    }
   },
   {
     "id": "jbt--zqmw",
@@ -113596,7 +118136,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1271,
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "plus",
-    "bpmRange": "162"
+    "bpmRange": "162",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 372
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 984
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 372
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 984
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 372
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 984
+        }
+      }
+    }
   },
   {
     "id": "jbt--lkxy",
@@ -118387,7 +122974,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1697,
     "genre": "東方アレンジ",
     "appearanceVersion": "Qubell( [2] : festo )",
-    "bpmRange": "165"
+    "bpmRange": "165",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 134
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 592
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 134
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 592
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 134
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 592
+        }
+      }
+    }
   },
   {
     "id": "jbt--erfk",
@@ -119206,7 +123840,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1198,
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "140"
+    "bpmRange": "140",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 156
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 305
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 538
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 156
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 305
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 538
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 156
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 305
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 538
+        }
+      }
+    }
   },
   {
     "id": "jbt--ffr0",
@@ -120095,6 +124776,21 @@ export const songs: any[] = [
           "level": 9.8,
           "notes": 683
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 4,
+          "notes": 379
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 536
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 683
+        }
       }
     },
     "chartPatterns": {
@@ -120352,7 +125048,24 @@ export const songs: any[] = [
     "atwikiHtmlId": 1030,
     "genre": "アニメ",
     "appearanceVersion": "plus Xperia",
-    "bpmRange": "165"
+    "bpmRange": "165",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 192
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 313
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 528
+        }
+      }
+    }
   },
   {
     "id": "jbt-featsayurina-5ji2",
@@ -120500,7 +125213,69 @@ export const songs: any[] = [
     "atwikiHtmlId": 393,
     "genre": "アニメ",
     "appearanceVersion": "knit APPEND(plus初出)",
-    "bpmRange": "140"
+    "bpmRange": "140",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 175
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 430
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 673
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 175
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 430
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 673
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 175
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 430
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 673
+        }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 3,
+          "notes": 175
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 430
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 673
+        }
+      }
+    }
   },
   {
     "id": "jbt--p6ln",
@@ -120951,7 +125726,69 @@ export const songs: any[] = [
     "atwikiHtmlId": 1633,
     "genre": "東方アレンジ",
     "appearanceVersion": "Qubell( [2] : clan )",
-    "bpmRange": "160"
+    "bpmRange": "160",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 189
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 430
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 638
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 189
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 430
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 638
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 189
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 430
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 638
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 189
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 430
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 638
+        }
+      }
+    }
   },
   {
     "id": "jbt--5wu0",
@@ -121732,6 +126569,21 @@ export const songs: any[] = [
           "level": 9,
           "notes": 644
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 461
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 644
+        }
       }
     },
     "chartPatterns": {
@@ -121762,7 +126614,24 @@ export const songs: any[] = [
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;page=%E5%B9%BB%E6%83%B3%E7%B3%BB%E4%B8%96%E7%95%8C%E4%BF%AE%E5%BE%A9%E5%B0%91%E5%A5%B3&amp;file=syuhuku.png",
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "saucer fulfill( [2] : b_Ave. )",
-    "bpmRange": "193"
+    "bpmRange": "193",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 287
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 444
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 782
+        }
+      }
+    }
   },
   {
     "id": "jbt--y2hu",
@@ -121976,6 +126845,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 889
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 496
+        },
+        "advanced": {
+          "level": 9.1,
+          "notes": 710
+        },
+        "extreme": {
+          "level": 10.3,
           "notes": 889
         }
       }
@@ -123877,7 +128761,24 @@ export const songs: any[] = [
     "atwikiHtmlId": 1913,
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "clan",
-    "bpmRange": "95"
+    "bpmRange": "95",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 2,
+          "notes": 76
+        },
+        "advanced": {
+          "level": 4,
+          "notes": 171
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 475
+        }
+      }
+    }
   },
   {
     "id": "jbt--a7l4",
@@ -124516,7 +129417,84 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/n7BPcQg.jpg",
     "genre": "オリジナル",
     "appearanceVersion": "saucer fulfill( [2] : Qubell )",
-    "bpmRange": "204"
+    "bpmRange": "204",
+    "versionDifficulties": {
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 357
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 519
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 735
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 357
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 519
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 735
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 357
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 519
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 735
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 357
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 519
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 735
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 357
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 519
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 735
+        }
+      }
+    }
   },
   {
     "id": "jbt--qja0",
@@ -125120,7 +130098,54 @@ export const songs: any[] = [
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;pageid=1584&amp;file=torinokosareta.png",
     "genre": "東方アレンジ",
     "appearanceVersion": "prop( [2] : festo )",
-    "bpmRange": "160"
+    "bpmRange": "160",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 499
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 744
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 499
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 744
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 499
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 744
+        }
+      }
+    }
   },
   {
     "id": "jbt--6xnd",
@@ -125543,6 +130568,21 @@ export const songs: any[] = [
       },
       "saucer fulfill": {
         "version": "saucer fulfill",
+        "basic": {
+          "level": 4,
+          "notes": 286
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 582
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 734
+        }
+      },
+      "saucer": {
+        "version": "saucer",
         "basic": {
           "level": 4,
           "notes": 286
@@ -125982,7 +131022,69 @@ export const songs: any[] = [
     "atwikiHtmlId": 526,
     "genre": "TV CM",
     "appearanceVersion": "copious(plus初出)",
-    "bpmRange": "143"
+    "bpmRange": "143",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 2,
+          "notes": 170
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 409
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 593
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 2,
+          "notes": 170
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 409
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 593
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 2,
+          "notes": 170
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 409
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 593
+        }
+      },
+      "copious": {
+        "version": "copious",
+        "basic": {
+          "level": 2,
+          "notes": 170
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 409
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 593
+        }
+      }
+    }
   },
   {
     "id": "jbt--envv",
@@ -126979,7 +132081,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 163,
     "genre": "ポップス",
     "appearanceVersion": "ripples( [2] : festo )",
-    "bpmRange": "128"
+    "bpmRange": "128",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 193
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 489
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 830
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 193
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 489
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 830
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 193
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 489
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 830
+        }
+      }
+    }
   },
   {
     "id": "jbt--9vgy",
@@ -129032,7 +134181,24 @@ export const songs: any[] = [
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;pageid=1594&amp;file=kotowari-1.png",
     "genre": "東方アレンジ",
     "appearanceVersion": "prop( [2] : b_Ave. )",
-    "bpmRange": "153"
+    "bpmRange": "153",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 332
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 481
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 882
+        }
+      }
+    }
   },
   {
     "id": "jbt--dfy1",
@@ -129743,7 +134909,54 @@ export const songs: any[] = [
     "atwikiHtmlId": 1146,
     "genre": "オリジナル",
     "appearanceVersion": "saucer( [2] : festo )",
-    "bpmRange": "200"
+    "bpmRange": "200",
+    "versionDifficulties": {
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 260
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 547
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 765
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 260
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 547
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 765
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 260
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 547
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 765
+        }
+      }
+    }
   },
   {
     "id": "jbt--j5wr",
@@ -130024,7 +135237,24 @@ export const songs: any[] = [
     "avatar": "https://i.imgur.com/H6JMhLt.png",
     "genre": "東方アレンジ",
     "appearanceVersion": "Qubell( [2] : b_Ave. )",
-    "bpmRange": "150"
+    "bpmRange": "150",
+    "versionDifficulties": {
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 234
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 448
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 775
+        }
+      }
+    }
   },
   {
     "id": "jbt--82vy",
@@ -130364,7 +135594,114 @@ export const songs: any[] = [
     "avatar": "http://i.imgur.com/zv5eXkl.png",
     "genre": "オリジナル",
     "appearanceVersion": "saucer fulfill( [2] : prop )",
-    "bpmRange": "170"
+    "bpmRange": "170",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 4,
+          "notes": 215
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 316
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 551
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 215
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 316
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 551
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 215
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 316
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 551
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 215
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 316
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 551
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 215
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 316
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 551
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 215
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 316
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 551
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 4,
+          "notes": 215
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 316
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 551
+        }
+      }
+    }
   },
   {
     "id": "jbt--udh7",
@@ -131772,7 +137109,114 @@ export const songs: any[] = [
     ],
     "atwikiHtmlId": 1275,
     "genre": "ソーシャルミュージック",
-    "appearanceVersion": "plus"
+    "appearanceVersion": "plus",
+    "versionDifficulties": {
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 4,
+          "notes": 259
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 557
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 701
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 259
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 557
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 701
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 259
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 557
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 701
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 259
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 557
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 701
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 259
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 557
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 701
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 259
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 557
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 701
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 259
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 557
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 701
+        }
+      }
+    }
   },
   {
     "id": "jbt--f50h",
@@ -133859,6 +139303,21 @@ export const songs: any[] = [
           "level": 9.5,
           "notes": 812
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 254
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 496
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 812
+        }
       }
     },
     "chartPatterns": {
@@ -134300,7 +139759,69 @@ export const songs: any[] = [
     "atwikiHtmlId": 1468,
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "prop( [2] : clan )",
-    "bpmRange": "200"
+    "bpmRange": "200",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 251
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 474
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 743
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 251
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 474
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 743
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 251
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 474
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 743
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 251
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 474
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 743
+        }
+      }
+    }
   },
   {
     "id": "jbt--r9gi",
@@ -134458,6 +139979,21 @@ export const songs: any[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 666
+        }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 4,
+          "notes": 350
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 469
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 666
         }
       }
@@ -135072,6 +140608,21 @@ export const songs: any[] = [
         },
         "advanced": {
           "level": 6,
+          "notes": 468
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 694
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 5,
           "notes": 468
         },
         "extreme": {
@@ -140509,6 +146060,21 @@ export const songs: any[] = [
           "level": 8,
           "notes": 673
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 5,
+          "notes": 333
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 506
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 673
+        }
       }
     },
     "chartPatterns": {
@@ -141565,7 +147131,69 @@ export const songs: any[] = [
     "atwikiHtmlId": 1737,
     "genre": "ソーシャルミュージック",
     "appearanceVersion": "Qubell(plus初出)( [2] : clan )",
-    "bpmRange": "165"
+    "bpmRange": "165",
+    "versionDifficulties": {
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 2,
+          "notes": 168
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 403
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 632
+        }
+      },
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 168
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 403
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 632
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 168
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 403
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 632
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 168
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 403
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 632
+        }
+      }
+    }
   },
   {
     "id": "jbt-CALLING-shlk",
@@ -143637,6 +149265,21 @@ export const songs: any[] = [
           "level": 9.5,
           "notes": 828
         }
+      },
+      "ripples": {
+        "version": "ripples",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 828
+        }
       }
     },
     "chartPatterns": {
@@ -144143,6 +149786,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 776
         }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 776
+        }
       }
     },
     "chartPatterns": {
@@ -144337,6 +149995,21 @@ export const songs: any[] = [
           "level": 10,
           "notes": 757
         }
+      },
+      "knit": {
+        "version": "knit",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 757
+        }
       }
     },
     "chartPatterns": {
@@ -144456,7 +150129,24 @@ export const songs: any[] = [
     "versionHistory": [
       "Qubell"
     ],
-    "bpmRange": "193"
+    "bpmRange": "193",
+    "versionDifficulties": {
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 171
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 361
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 471
+        }
+      }
+    }
   },
   {
     "id": "jbt-Shake-8xhy",
@@ -144467,7 +150157,24 @@ export const songs: any[] = [
     "versionHistory": [
       "Qubell"
     ],
-    "bpmRange": "170"
+    "bpmRange": "170",
+    "versionDifficulties": {
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 241
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 461
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 595
+        }
+      }
+    }
   },
   {
     "id": "jbt-Big_Daddy-hru5",
