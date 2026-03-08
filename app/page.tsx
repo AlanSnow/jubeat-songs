@@ -1,53 +1,53 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { songs } from '@/data/songs';
+import { Song, getDifficultyForVersion } from '@/lib/types';
 import Fuse from 'fuse.js';
 import Navbar from './components/Navbar';
-import FilterBar from './components/FilterBar';
+import FilterBar, { FilterState, INITIAL_FILTERS } from './components/FilterBar';
+import { Music2, LayoutGrid, List } from 'lucide-react';
 import SongCard from './components/SongCard';
-import { Music2 } from 'lucide-react';
 
-interface FilterState {
-  search: string;
-  firstAppearance: string;
-  difficulty: 'all' | 'basic' | 'advanced' | 'extreme';
-  minLevel: number | null;
-  maxLevel: number | null;
-  minNotes: number | null;
-  maxNotes: number | null;
-  artist: string;
-  minBpm: number | null;
-  maxBpm: number | null;
-  isLicense: 'all' | 'license' | 'original';
-  genre: string;
-}
-
-const INITIAL_FILTERS: FilterState = {
-  search: '',
-  firstAppearance: '全部',
-  difficulty: 'all',
-  minLevel: null,
-  maxLevel: null,
-  minNotes: null,
-  maxNotes: null,
-  artist: '',
-  minBpm: null,
-  maxBpm: null,
-  isLicense: 'all',
-  genre: '全部',
-};
+// Lazy loading config
+const INITIAL_ITEM_COUNT = 24; // Initial number of items to show
+const BATCH_SIZE = 16; // Number of items to load per batch
 
 export default function Home() {
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [selectedVersion, setSelectedVersion] = useState('all');
   const [filters, setFilters] = useState<FilterState>(INITIAL_FILTERS);
+  // 移动端检测并设置默认视图模式
+  const [viewMode, setViewMode] = useState<'card' | 'list'>('list');
+
+  // Lazy loading state (shared between card and list mode)
+  const [visibleItemCount, setVisibleItemCount] = useState(INITIAL_ITEM_COUNT);
+  const loadMoreTriggerRef = useRef<HTMLDivElement>(null);
 
   // Initialize dark mode from system preference
   useEffect(() => {
     if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
       setIsDarkMode(true);
     }
+  }, []);
+
+  // 移动端检测：如果是移动端则默认使用列表模式
+  useEffect(() => {
+    const checkMobile = () => {
+      // 屏幕宽度小于 768px 认为是移动端
+      if (window.innerWidth < 768) {
+        setViewMode('list');
+      } else {
+        setViewMode('card');
+      }
+    };
+
+    // 初始检测
+    checkMobile();
+
+    // 监听窗口大小变化
+    window.addEventListener('resize', checkMobile);
+    return () => window.removeEventListener('resize', checkMobile);
   }, []);
 
   // Apply dark mode class to document
@@ -60,10 +60,28 @@ export default function Home() {
   }, [isDarkMode]);
 
   // Filter songs based on selected navbar version
+  // Also prepare version-specific difficulties
   const versionFilteredSongs = useMemo(() => {
-    if (selectedVersion === 'all') return songs;
-    return songs.filter((song) => song.versionHistory?.includes(selectedVersion));
+    let filtered = songs;
+    if (selectedVersion !== 'all') {
+      filtered = songs.filter((song) => song.versionHistory?.includes(selectedVersion));
+    }
+
+    // For each song, calculate the difficulty to display for the selected version
+    return filtered.map(song => {
+      const versionDifficulties = getDifficultyForVersion(song, selectedVersion);
+      return {
+        ...song,
+        // Override difficulties with version-specific ones if available
+        displayDifficulties: versionDifficulties || song.difficulties,
+      };
+    });
   }, [selectedVersion]);
+
+  // Reset visible card count when filters or version changes
+  useEffect(() => {
+    setVisibleItemCount(INITIAL_ITEM_COUNT);
+  }, [filters, selectedVersion]);
 
   // Setup Fuse.js for fuzzy search
   const fuse = useMemo(() => {
@@ -91,7 +109,12 @@ export default function Home() {
 
     // Genre filter
     if (filters.genre !== '全部') {
-      result = result.filter((song) => song.genre === filters.genre);
+      if (filters.genre === '未分类') {
+        // 筛选没有 genre 的歌曲
+        result = result.filter((song) => !song.genre);
+      } else {
+        result = result.filter((song) => song.genre === filters.genre);
+      }
     }
 
     // firstAppearance filter
@@ -99,18 +122,11 @@ export default function Home() {
       result = result.filter((song) => song.firstAppearance === filters.firstAppearance);
     }
 
-    // License filter
-    if (filters.isLicense !== 'all') {
-      result = result.filter((song) =>
-        filters.isLicense === 'license' ? song.isLicense : !song.isLicense
-      );
-    }
-
-    // Difficulty type and level filters
+    // Difficulty type and level filters (use displayDifficulties)
     if (filters.difficulty !== 'all') {
       const diffKey = filters.difficulty;
       result = result.filter((song) => {
-        const level = song.difficulties[diffKey].level;
+        const level = song.displayDifficulties[diffKey].level;
         if (filters.minLevel && level < filters.minLevel) return false;
         if (filters.maxLevel && level > filters.maxLevel) return false;
         return true;
@@ -118,17 +134,17 @@ export default function Home() {
     } else if (filters.minLevel || filters.maxLevel) {
       // If no specific difficulty selected, check extreme by default
       result = result.filter((song) => {
-        const level = song.difficulties.extreme.level;
+        const level = song.displayDifficulties.extreme.level;
         if (filters.minLevel && level < filters.minLevel) return false;
         if (filters.maxLevel && level > filters.maxLevel) return false;
         return true;
       });
     }
 
-    // Notes range filter
+    // Notes range filter (use displayDifficulties)
     if (filters.minNotes || filters.maxNotes) {
       result = result.filter((song) => {
-        const notes = song.difficulties.extreme.notes;
+        const notes = song.displayDifficulties.extreme.notes;
         if (filters.minNotes && notes < filters.minNotes) return false;
         if (filters.maxNotes && notes > filters.maxNotes) return false;
         return true;
@@ -144,23 +160,68 @@ export default function Home() {
       });
     }
 
+    // 谱面标记过滤器
+    if (filters.chartPattern !== 'all') {
+      result = result.filter((song) => {
+        const patterns = song.chartPatterns;
+        if (!patterns) return false;
+
+        // 如果指定了难度，只检查该难度
+        if (filters.chartPatternDifficulty !== 'all') {
+          const diffPatterns = patterns[filters.chartPatternDifficulty];
+          if (!diffPatterns) return false;
+          return diffPatterns.some((p) => p.type === filters.chartPattern);
+        }
+
+        // 检查所有难度
+        return Object.values(patterns).some((diffPatterns) =>
+          diffPatterns?.some((p) => p.type === filters.chartPattern)
+        );
+      });
+    }
+
     return result;
   }, [versionFilteredSongs, filters, fuse]);
 
-  // Get active filter count
-  const activeFilterCount = useMemo(() => {
-    let count = 0;
-    if (filters.search) count++;
-    if (filters.firstAppearance !== '全部') count++;
-    if (filters.difficulty !== 'all') count++;
-    if (filters.minLevel || filters.maxLevel) count++;
-    if (filters.minNotes || filters.maxNotes) count++;
-    if (filters.artist) count++;
-    if (filters.minBpm || filters.maxBpm) count++;
-    if (filters.isLicense !== 'all') count++;
-    if (filters.genre !== '全部') count++;
-    return count;
-  }, [filters]);
+  // Lazy loading - Intersection Observer for both card and list mode
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const [entry] = entries;
+        if (entry.isIntersecting) {
+          // Load more items when trigger element comes into view
+          setVisibleItemCount((prev) => {
+            const nextCount = prev + BATCH_SIZE;
+            return Math.min(nextCount, filteredSongs.length);
+          });
+        }
+      },
+      {
+        root: null, // viewport
+        rootMargin: '200px', // Start loading before element is fully in view
+        threshold: 0,
+      }
+    );
+
+    const triggerElement = loadMoreTriggerRef.current;
+    if (triggerElement) {
+      observer.observe(triggerElement);
+    }
+
+    return () => {
+      if (triggerElement) {
+        observer.unobserve(triggerElement);
+      }
+    };
+  }, [filteredSongs.length]);
+
+  // Get visible items for both card and list mode
+  const visibleItems = useMemo(() => {
+    return filteredSongs.slice(0, visibleItemCount);
+  }, [filteredSongs, visibleItemCount]);
+
+  // Check if there are more items to load
+  const hasMoreItems = visibleItemCount < filteredSongs.length;
 
   return (
     <div className={`min-h-screen transition-colors duration-300 ${isDarkMode ? 'bg-gray-900' : 'bg-gray-50'}`}>
@@ -173,9 +234,9 @@ export default function Home() {
       />
 
       {/* Main Content */}
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-        {/* Filter Bar */}
-        <div className="mb-6">
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 relative">
+        {/* Filter Bar - Sticky positioned */}
+        <div className="sticky top-4 z-30 mb-6">
           <FilterBar filters={filters} onFiltersChange={setFilters} isDarkMode={isDarkMode} />
         </div>
 
@@ -196,27 +257,79 @@ export default function Home() {
             >
               {filteredSongs.length} 首
             </span>
-            {activeFilterCount > 0 && (
-              <span
-                className={`px-3 py-1 rounded-full text-sm font-medium bg-pink-500 text-white`}
-              >
-                {activeFilterCount} 个筛选条件
-              </span>
-            )}
           </div>
 
-          {/* Sort Options (placeholder for future) */}
-          <div className="text-sm text-gray-500 dark:text-gray-400">
-            按标题排序 (A-Z)
+          {/* View Mode Toggle */}
+          <div className={`flex items-center gap-1 p-1 rounded-lg ${isDarkMode ? 'bg-gray-800' : 'bg-gray-100'}`}>
+            <button
+              onClick={() => setViewMode('card')}
+              className={`p-2 rounded-md transition-all ${
+                viewMode === 'card'
+                  ? 'bg-pink-500 text-white shadow-md'
+                  : isDarkMode
+                  ? 'text-gray-400 hover:text-gray-200'
+                  : 'text-gray-500 hover:text-gray-700'
+              }`}
+              title="卡片模式"
+            >
+              <LayoutGrid className="w-4 h-4" />
+            </button>
+            <button
+              onClick={() => setViewMode('list')}
+              className={`p-2 rounded-md transition-all ${
+                viewMode === 'list'
+                  ? 'bg-pink-500 text-white shadow-md'
+                  : isDarkMode
+                  ? 'text-gray-400 hover:text-gray-200'
+                  : 'text-gray-500 hover:text-gray-700'
+              }`}
+              title="列表模式"
+            >
+              <List className="w-4 h-4" />
+            </button>
           </div>
         </div>
 
-        {/* Song Grid */}
+        {/* Song List */}
         {filteredSongs.length > 0 ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-            {filteredSongs.map((song) => (
-              <SongCard key={song.id} song={song} isDarkMode={isDarkMode} />
-            ))}
+          <div>
+            {viewMode === 'list' ? (
+              // List mode with lazy loading
+              <div className="flex flex-col gap-2">
+                {visibleItems.map((song) => (
+                  <SongCard key={song.id} song={song} isDarkMode={isDarkMode} viewMode="list" />
+                ))}
+              </div>
+            ) : (
+              // Card mode with lazy loading
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                {visibleItems.map((song) => (
+                  <SongCard key={song.id} song={song} isDarkMode={isDarkMode} viewMode="card" />
+                ))}
+              </div>
+            )}
+            {/* Load more trigger element - shared between both modes */}
+            {hasMoreItems && (
+              <div
+                ref={loadMoreTriggerRef}
+                className={`flex items-center justify-center py-8 ${
+                  isDarkMode ? 'text-gray-500' : 'text-gray-400'
+                }`}
+              >
+                <div className="flex items-center gap-2">
+                  <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '0ms' }} />
+                  <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '150ms' }} />
+                  <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '300ms' }} />
+                  <span className="text-sm ml-2">加载更多...</span>
+                </div>
+              </div>
+            )}
+            {/* Loaded all message */}
+            {!hasMoreItems && filteredSongs.length > INITIAL_ITEM_COUNT && (
+              <div className={`text-center py-8 text-sm ${isDarkMode ? 'text-gray-500' : 'text-gray-400'}`}>
+                已加载全部 {filteredSongs.length} 首歌曲
+              </div>
+            )}
           </div>
         ) : (
           /* Empty State */

@@ -196,7 +196,7 @@ export default function Navbar({
 
         {/* Mobile Version Selector */}
         <div className="md:hidden pb-3">
-          <label className={`block text-xs mb-1 ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>可游玩版本</label>
+          <label className={`block text-xs mb-1 ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>当前版本</label>
           <select
             value={selectedVersion}
             onChange={(e) => onVersionChange(e.target.value)}

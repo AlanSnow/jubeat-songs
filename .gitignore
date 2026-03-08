@@ -32,3 +32,6 @@ logs/
 # Build
 build/
 coverage/
+
+# Source data (crawled HTML files)
+sources/
