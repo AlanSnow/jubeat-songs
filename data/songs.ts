@@ -224,7 +224,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 533,
     "versionDifficulties": {
@@ -260,6 +261,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 6,
+          "notes": 455
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 715
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 842
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 6,
           "notes": 455
@@ -657,7 +673,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1020,
     "versionDifficulties": {
@@ -778,6 +795,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 875
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 365
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 590
+        },
+        "extreme": {
+          "level": 10.2,
           "notes": 875
         }
       }
@@ -1910,7 +1942,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1019,
     "versionDifficulties": {
@@ -2031,6 +2064,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 908
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 7,
+          "notes": 511
+        },
+        "advanced": {
+          "level": 9.6,
+          "notes": 770
+        },
+        "extreme": {
+          "level": 10.3,
           "notes": 908
         }
       }
@@ -2635,7 +2683,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 813,
     "versionDifficulties": {
@@ -2773,6 +2822,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 700
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 7,
+          "notes": 306
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 522
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 700
+        }
       }
     },
     "chartPatterns": {
@@ -2893,7 +2957,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "saucer",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1430,
     "versionDifficulties": {
@@ -2995,6 +3060,21 @@ export const songs: Song[] = [
         },
         "advanced": {
           "level": 7,
+          "notes": 399
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 645
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 199
+        },
+        "advanced": {
+          "level": 6,
           "notes": 399
         },
         "extreme": {
@@ -3210,7 +3290,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 929,
     "versionDifficulties": {
@@ -3346,6 +3427,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 610
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 310
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 516
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 610
         }
       }
@@ -4603,7 +4699,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 246,
     "versionDifficulties": {
@@ -4771,6 +4868,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 967
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 362
+        },
+        "advanced": {
+          "level": 9.7,
+          "notes": 744
+        },
+        "extreme": {
+          "level": 10.7,
+          "notes": 967
+        }
       }
     },
     "chartPatterns": {
@@ -4910,7 +5022,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 236,
     "versionDifficulties": {
@@ -5076,6 +5189,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 731
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 332
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 584
+        },
+        "extreme": {
+          "level": 10.1,
           "notes": 731
         }
       }
@@ -6055,7 +6183,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1131,
     "versionDifficulties": {
@@ -6176,6 +6305,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 711
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 286
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 545
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 711
         }
       }
@@ -7017,7 +7161,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1166,
     "versionDifficulties": {
@@ -7140,6 +7285,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 797
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 230
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 509
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 797
+        }
       }
     },
     "genre": "オリジナル",
@@ -7176,7 +7336,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1194,
     "versionDifficulties": {
@@ -7297,6 +7458,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 647
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 224
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 425
+        },
+        "extreme": {
+          "level": 8,
           "notes": 647
         }
       }
@@ -8143,7 +8319,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 972,
     "versionDifficulties": {
@@ -8264,6 +8441,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 677
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 297
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 559
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 677
         }
       }
@@ -8726,7 +8918,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 84,
     "versionDifficulties": {
@@ -8867,6 +9060,21 @@ export const songs: Song[] = [
       },
       "saucer": {
         "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 298
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 371
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 573
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 5,
           "notes": 298
@@ -9070,7 +9278,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1011,
     "versionDifficulties": {
@@ -9191,6 +9400,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 1000
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 339
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 656
+        },
+        "extreme": {
+          "level": 10.7,
           "notes": 1000
         }
       }
@@ -10002,7 +10226,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2084,
     "versionDifficulties": {
@@ -10038,6 +10263,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 223
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 402
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 736
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 4,
           "notes": 223
@@ -11894,7 +12134,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1178,
     "versionDifficulties": {
@@ -12015,6 +12256,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 676
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 264
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 431
+        },
+        "extreme": {
+          "level": 8,
           "notes": 676
         }
       }
@@ -13336,7 +13592,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1772,
     "versionDifficulties": {
@@ -13412,6 +13669,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 570
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 223
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 455
+        },
+        "extreme": {
+          "level": 8,
           "notes": 570
         }
       }
@@ -14130,7 +14402,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 83,
     "versionDifficulties": {
@@ -14283,6 +14556,21 @@ export const songs: Song[] = [
           "level": 8,
           "notes": 443
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 319
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 356
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 443
+        }
       }
     },
     "chartPatterns": {
@@ -14332,7 +14620,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1187,
     "versionDifficulties": {
@@ -14453,6 +14742,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 772
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 277
+        },
+        "advanced": {
+          "level": 9.3,
+          "notes": 678
+        },
+        "extreme": {
+          "level": 10.2,
           "notes": 772
         }
       }
@@ -15249,7 +15553,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1075,
     "versionDifficulties": {
@@ -15372,6 +15677,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 820
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 312
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 583
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 820
+        }
       }
     },
     "chartPatterns": {
@@ -15457,7 +15777,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1640,
     "versionDifficulties": {
@@ -15533,6 +15854,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 662
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 254
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 485
+        },
+        "extreme": {
+          "level": 8,
           "notes": 662
         }
       }
@@ -16127,7 +16463,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 809,
     "versionDifficulties": {
@@ -16265,6 +16602,21 @@ export const songs: Song[] = [
           "level": 8,
           "notes": 512
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 389
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 512
+        }
       }
     },
     "chartPatterns": {
@@ -16354,7 +16706,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1123,
     "versionDifficulties": {
@@ -16475,6 +16828,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 644
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 545
+        },
+        "extreme": {
+          "level": 8,
           "notes": 644
         }
       }
@@ -16775,7 +17143,8 @@ export const songs: Song[] = [
       "clan",
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 202,
     "versionDifficulties": {
@@ -16911,6 +17280,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 802
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 660
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 802
         }
       }
@@ -17512,7 +17896,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1109,
     "versionDifficulties": {
@@ -17633,6 +18018,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 1021
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 539
+        },
+        "advanced": {
+          "level": 10.4,
+          "notes": 919
+        },
+        "extreme": {
+          "level": 10.7,
           "notes": 1021
         }
       }
@@ -17775,7 +18175,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1078,
     "versionDifficulties": {
@@ -17888,6 +18289,21 @@ export const songs: Song[] = [
         "version": "saucer",
         "basic": {
           "level": 5,
+          "notes": 364
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 575
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 808
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
           "notes": 364
         },
         "advanced": {
@@ -19422,7 +19838,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1054,
     "versionDifficulties": {
@@ -19543,6 +19960,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 975
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 349
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 684
+        },
+        "extreme": {
+          "level": 10.3,
           "notes": 975
         }
       }
@@ -24727,7 +25159,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1149,
     "versionDifficulties": {
@@ -24850,6 +25283,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 1023
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 498
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 715
+        },
+        "extreme": {
+          "level": 10.6,
+          "notes": 1023
+        }
       }
     },
     "genre": "オリジナル",
@@ -24945,7 +25393,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1975,
     "versionDifficulties": {
@@ -24981,6 +25430,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 241
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 394
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 650
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 241
@@ -25209,7 +25673,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "saucer",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1340,
     "versionDifficulties": {
@@ -25315,6 +25780,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 918
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 514
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 703
+        },
+        "extreme": {
+          "level": 10.4,
           "notes": 918
         }
       }
@@ -25902,7 +26382,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1290,
     "versionDifficulties": {
@@ -26025,6 +26506,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 733
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 518
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 733
+        }
       }
     },
     "genre": "オリジナル",
@@ -26058,7 +26554,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1704,
     "versionDifficulties": {
@@ -26134,6 +26631,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 798
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 433
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 645
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 798
         }
       }
@@ -26659,7 +27171,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 103,
     "versionDifficulties": {
@@ -26825,6 +27338,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 805
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 414
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 491
+        },
+        "extreme": {
+          "level": 10.6,
           "notes": 805
         }
       }
@@ -27290,7 +27818,8 @@ export const songs: Song[] = [
       "festo",
       "clan",
       "Qubell",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1450,
     "versionDifficulties": {
@@ -27396,6 +27925,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 709
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 296
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 534
+        },
+        "extreme": {
+          "level": 8,
           "notes": 709
         }
       }
@@ -27605,7 +28149,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 200,
     "versionDifficulties": {
@@ -27741,6 +28286,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 618
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 202
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 388
+        },
+        "extreme": {
+          "level": 8,
           "notes": 618
         }
       }
@@ -28008,7 +28568,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 845,
     "versionDifficulties": {
@@ -28129,6 +28690,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 717
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 480
+        },
+        "extreme": {
+          "level": 8,
           "notes": 717
         }
       }
@@ -29533,7 +30109,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 427,
     "versionDifficulties": {
@@ -29684,6 +30261,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 939
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 477
+        },
+        "advanced": {
+          "level": 9.7,
+          "notes": 828
+        },
+        "extreme": {
+          "level": 10.5,
           "notes": 939
         }
       }
@@ -30069,7 +30661,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1217,
     "versionDifficulties": {
@@ -30190,6 +30783,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 845
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 255
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 621
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 845
         }
       }
@@ -30979,7 +31587,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 536,
     "versionDifficulties": {
@@ -31105,6 +31714,21 @@ export const songs: Song[] = [
       },
       "saucer": {
         "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 425
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 540
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 4,
           "notes": 221
@@ -32906,7 +33530,8 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan",
-      "Qubell"
+      "Qubell",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1492,
     "versionDifficulties": {
@@ -32998,6 +33623,21 @@ export const songs: Song[] = [
         "extreme": {
           "level": 10,
           "notes": 936
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 494
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 750
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 945
         }
       }
     },
@@ -33583,7 +34223,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1220,
     "versionDifficulties": {
@@ -33704,6 +34345,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 708
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 261
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 708
         }
       }
@@ -35720,7 +36376,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1044,
     "versionDifficulties": {
@@ -35841,6 +36498,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 601
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 331
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 478
+        },
+        "extreme": {
+          "level": 8,
           "notes": 601
         }
       }
@@ -36181,7 +36853,8 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2303,
     "versionDifficulties": {
@@ -36202,6 +36875,21 @@ export const songs: Song[] = [
       },
       "Beyond the Ave.": {
         "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 307
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 527
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 748
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 5,
           "notes": 307
@@ -36975,7 +37663,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 537,
     "versionDifficulties": {
@@ -37111,6 +37800,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 886
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 347
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 596
+        },
+        "extreme": {
+          "level": 10.4,
           "notes": 886
         }
       }
@@ -37683,7 +38387,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1216,
     "versionDifficulties": {
@@ -37804,6 +38509,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 604
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 259
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 429
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 604
         }
       }
@@ -39592,7 +40312,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 353,
     "versionDifficulties": {
@@ -39730,6 +40451,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 806
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 265
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 529
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 806
+        }
       }
     },
     "chartPatterns": {
@@ -39827,7 +40563,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1156,
     "versionDifficulties": {
@@ -39948,6 +40685,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 680
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 310
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 469
+        },
+        "extreme": {
+          "level": 8,
           "notes": 680
         }
       }
@@ -41977,7 +42729,8 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2322,
     "versionDifficulties": {
@@ -41998,6 +42751,21 @@ export const songs: Song[] = [
       },
       "Beyond the Ave.": {
         "version": "Beyond the Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 446
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 719
+        },
+        "extreme": {
+          "level": 10.7,
+          "notes": 998
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 6,
           "notes": 446
@@ -42053,7 +42821,8 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2320,
     "versionDifficulties": {
@@ -42074,6 +42843,21 @@ export const songs: Song[] = [
       },
       "Beyond the Ave.": {
         "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 379
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 602
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 759
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 4,
           "notes": 379
@@ -42135,7 +42919,8 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2321,
     "versionDifficulties": {
@@ -42156,6 +42941,21 @@ export const songs: Song[] = [
       },
       "Beyond the Ave.": {
         "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 372
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 650
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 923
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 5,
           "notes": 372
@@ -42870,7 +43670,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 426,
     "versionDifficulties": {
@@ -43021,6 +43822,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 718
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 342
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 506
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 718
         }
       }
@@ -43330,7 +44146,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 822,
     "versionDifficulties": {
@@ -43466,6 +44283,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 922
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 7,
+          "notes": 480
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 757
+        },
+        "extreme": {
+          "level": 10.6,
           "notes": 922
         }
       }
@@ -43782,7 +44614,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 79,
     "versionDifficulties": {
@@ -43923,6 +44756,21 @@ export const songs: Song[] = [
       },
       "saucer": {
         "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 328
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 477
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 632
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 5,
           "notes": 328
@@ -47311,7 +48159,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 249,
     "versionDifficulties": {
@@ -47477,6 +48326,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 627
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 205
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 418
+        },
+        "extreme": {
+          "level": 8,
           "notes": 627
         }
       }
@@ -47689,7 +48553,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1239,
     "versionDifficulties": {
@@ -47810,6 +48675,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 8,
+          "notes": 582
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 269
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 453
+        },
+        "extreme": {
+          "level": 7,
           "notes": 582
         }
       }
@@ -48500,7 +49380,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1265,
     "versionDifficulties": {
@@ -48621,6 +49502,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 1023
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 337
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 600
+        },
+        "extreme": {
+          "level": 10.5,
           "notes": 1023
         }
       }
@@ -48956,7 +49852,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "saucer",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1313,
     "versionDifficulties": {
@@ -49064,6 +49961,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 688
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 247
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 411
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 688
+        }
       }
     },
     "avatar": "https://i.imgur.com/fh1jex2.png",
@@ -49101,7 +50013,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1017,
     "versionDifficulties": {
@@ -49222,6 +50135,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 735
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 272
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 452
+        },
+        "extreme": {
+          "level": 8,
           "notes": 735
         }
       }
@@ -50967,7 +51895,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1016,
     "versionDifficulties": {
@@ -51088,6 +52017,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 922
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 367
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 653
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 922
         }
       }
@@ -51335,7 +52279,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 192,
     "versionDifficulties": {
@@ -51471,6 +52416,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 757
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 7,
+          "notes": 396
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 582
+        },
+        "extreme": {
+          "level": 10.3,
           "notes": 757
         }
       }
@@ -51701,7 +52661,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1064,
     "versionDifficulties": {
@@ -51822,6 +52783,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 795
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 368
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 578
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 795
         }
       }
@@ -52310,7 +53286,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1732,
     "versionDifficulties": {
@@ -52386,6 +53363,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 914
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 10.4,
+          "notes": 932
+        },
+        "advanced": {
+          "level": 10.5,
+          "notes": 912
+        },
+        "extreme": {
+          "level": 10.7,
           "notes": 914
         }
       }
@@ -52489,7 +53481,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "saucer",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1400,
     "versionDifficulties": {
@@ -52595,6 +53588,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 861
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 238
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 425
+        },
+        "extreme": {
+          "level": 8,
           "notes": 861
         }
       }
@@ -53221,7 +54229,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1035,
     "versionDifficulties": {
@@ -53332,6 +54341,21 @@ export const songs: Song[] = [
       },
       "saucer": {
         "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 261
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 553
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 717
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 4,
           "notes": 261
@@ -54516,7 +55540,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 994,
     "versionDifficulties": {
@@ -54637,6 +55662,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 740
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 292
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 518
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 740
         }
       }
@@ -55372,7 +56412,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1057,
     "versionDifficulties": {
@@ -55493,6 +56534,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 820
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 437
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 566
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 820
         }
       }
@@ -56986,7 +58042,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1212,
     "versionDifficulties": {
@@ -57109,6 +58166,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 714
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 281
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 503
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 714
+        }
       }
     },
     "chartPatterns": {
@@ -57199,7 +58271,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1218,
     "versionDifficulties": {
@@ -57320,6 +58393,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 555
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 247
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 507
+        },
+        "extreme": {
+          "level": 8,
           "notes": 555
         }
       }
@@ -58811,7 +59899,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1076,
     "versionDifficulties": {
@@ -58932,6 +60021,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 567
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 212
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 385
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 567
         }
       }
@@ -61499,7 +62603,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1974,
     "versionDifficulties": {
@@ -61535,6 +62640,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 189
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 550
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 773
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 189
@@ -62016,7 +63136,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1108,
     "versionDifficulties": {
@@ -62139,6 +63260,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 888
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 444
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 666
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 888
+        }
       }
     },
     "chartPatterns": {
@@ -62184,7 +63320,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "saucer",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1429,
     "versionDifficulties": {
@@ -62292,6 +63429,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 704
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 232
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 405
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 704
+        }
       }
     },
     "chartPatterns": {
@@ -62337,7 +63489,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 930,
     "versionDifficulties": {
@@ -62473,6 +63626,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 693
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 528
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 693
         }
       }
@@ -63095,7 +64263,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 538,
     "versionDifficulties": {
@@ -63231,6 +64400,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 687
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 313
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 411
+        },
+        "extreme": {
+          "level": 8,
           "notes": 687
         }
       }
@@ -63739,7 +64923,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1010,
     "versionDifficulties": {
@@ -63860,6 +65045,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 841
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 319
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 530
+        },
+        "extreme": {
+          "level": 9.8,
           "notes": 841
         }
       }
@@ -64324,7 +65524,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1106,
     "versionDifficulties": {
@@ -64447,6 +65648,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 737
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 279
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 499
+        },
+        "extreme": {
+          "level": 10.3,
+          "notes": 737
+        }
       }
     },
     "chartPatterns": {
@@ -64531,7 +65747,8 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan",
-      "Qubell"
+      "Qubell",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1473,
     "versionDifficulties": {
@@ -64624,6 +65841,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 774
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 271
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 518
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 774
+        }
       }
     },
     "chartPatterns": {
@@ -64672,7 +65904,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 340,
     "versionDifficulties": {
@@ -64808,6 +66041,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 739
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 296
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 506
+        },
+        "extreme": {
+          "level": 8,
           "notes": 739
         }
       }
@@ -65393,7 +66641,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 842,
     "versionDifficulties": {
@@ -65514,6 +66763,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 641
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 342
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 578
+        },
+        "extreme": {
+          "level": 8,
           "notes": 641
         }
       }
@@ -65698,7 +66962,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 193,
     "versionDifficulties": {
@@ -65834,6 +67099,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 8,
+          "notes": 629
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 317
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 408
+        },
+        "extreme": {
+          "level": 7,
           "notes": 629
         }
       }
@@ -67277,7 +68557,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1154,
     "versionDifficulties": {
@@ -67398,6 +68679,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 871
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 309
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 612
+        },
+        "extreme": {
+          "level": 10.3,
           "notes": 871
         }
       }
@@ -67638,7 +68934,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 932,
     "versionDifficulties": {
@@ -67776,6 +69073,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 648
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 215
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 360
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 648
+        }
       }
     },
     "chartPatterns": {
@@ -67830,7 +69142,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "saucer",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1389,
     "versionDifficulties": {
@@ -67938,6 +69251,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 585
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 204
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 394
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 585
+        }
       }
     },
     "avatar": "https://i.imgur.com/c8lZ3jr.png",
@@ -67972,7 +69300,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1644,
     "versionDifficulties": {
@@ -68048,6 +69377,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 890
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 383
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 643
+        },
+        "extreme": {
+          "level": 10.4,
           "notes": 890
         }
       }
@@ -68620,7 +69964,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 634,
     "versionDifficulties": {
@@ -68741,6 +70086,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 567
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 263
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 417
+        },
+        "extreme": {
+          "level": 8,
           "notes": 567
         }
       }
@@ -68922,7 +70282,8 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan",
-      "Qubell"
+      "Qubell",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1565,
     "versionDifficulties": {
@@ -69013,6 +70374,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 919
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 315
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 626
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 919
         }
       }
@@ -69833,7 +71209,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 926,
     "versionDifficulties": {
@@ -69969,6 +71346,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 813
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 323
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 568
+        },
+        "extreme": {
+          "level": 8,
           "notes": 813
         }
       }
@@ -70562,7 +71954,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1120,
     "versionDifficulties": {
@@ -70683,6 +72076,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 674
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 312
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 553
+        },
+        "extreme": {
+          "level": 9.2,
           "notes": 674
         }
       }
@@ -71609,7 +73017,8 @@ export const songs: Song[] = [
       "festo",
       "clan",
       "Qubell",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1439,
     "versionDifficulties": {
@@ -71715,6 +73124,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 810
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 288
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 549
+        },
+        "extreme": {
+          "level": 9.2,
           "notes": 810
         }
       }
@@ -72080,7 +73504,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1026,
     "versionDifficulties": {
@@ -72201,6 +73626,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 771
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 7,
+          "notes": 525
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 699
+        },
+        "extreme": {
+          "level": 9.8,
           "notes": 771
         }
       }
@@ -72639,7 +74079,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 342,
     "versionDifficulties": {
@@ -72777,6 +74218,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 932
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 404
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 602
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 932
+        }
       }
     },
     "appearanceVersion": "knit"
@@ -72877,7 +74333,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 198,
     "versionDifficulties": {
@@ -73015,6 +74472,21 @@ export const songs: Song[] = [
           "level": 8,
           "notes": 602
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 279
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 406
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 602
+        }
       }
     },
     "chartPatterns": {
@@ -73058,7 +74530,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "saucer",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1314,
     "versionDifficulties": {
@@ -73164,6 +74637,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 875
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 338
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 554
+        },
+        "extreme": {
+          "level": 9.3,
           "notes": 875
         }
       }
@@ -73549,7 +75037,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 99,
     "versionDifficulties": {
@@ -73715,6 +75204,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 824
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 369
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 568
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 824
         }
       }
@@ -74681,7 +76185,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 100,
     "versionDifficulties": {
@@ -74862,6 +76367,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 675
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 316
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 489
+        },
+        "extreme": {
+          "level": 9.8,
           "notes": 675
         }
       }
@@ -75108,7 +76628,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1286,
     "versionDifficulties": {
@@ -75229,6 +76750,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 772
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 255
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 637
+        },
+        "extreme": {
+          "level": 10.1,
           "notes": 772
         }
       }
@@ -75630,7 +77166,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1077,
     "versionDifficulties": {
@@ -75751,6 +77288,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 636
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 264
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 522
+        },
+        "extreme": {
+          "level": 8,
           "notes": 636
         }
       }
@@ -76183,7 +77735,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1208,
     "versionDifficulties": {
@@ -76304,6 +77857,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 744
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 228
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 480
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 744
         }
       }
@@ -78134,7 +79702,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1261,
     "versionDifficulties": {
@@ -78255,6 +79824,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 961
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 485
+        },
+        "advanced": {
+          "level": 9.5,
+          "notes": 753
+        },
+        "extreme": {
+          "level": 10.8,
           "notes": 961
         }
       }
@@ -78683,7 +80267,8 @@ export const songs: Song[] = [
       "clan",
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 228,
     "versionDifficulties": {
@@ -78809,6 +80394,21 @@ export const songs: Song[] = [
       },
       "saucer": {
         "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 292
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 416
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 654
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 4,
           "notes": 292
@@ -80452,7 +82052,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1144,
     "versionDifficulties": {
@@ -80573,6 +82174,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 718
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 244
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 480
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 718
         }
       }
@@ -81618,7 +83234,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2108,
     "versionDifficulties": {
@@ -81654,6 +83271,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 194
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 349
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 709
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 194
@@ -81775,7 +83407,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 196,
     "versionDifficulties": {
@@ -81911,6 +83544,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 641
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 210
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 370
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 641
         }
       }
@@ -83255,7 +84903,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2032,
     "versionDifficulties": {
@@ -83291,6 +84940,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 166
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 459
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 729
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 166
@@ -83509,7 +85173,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 771,
     "versionDifficulties": {
@@ -83647,6 +85312,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 814
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 380
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 631
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 814
+        }
       }
     },
     "chartPatterns": {
@@ -83707,7 +85387,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 425,
     "versionDifficulties": {
@@ -83858,6 +85539,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 858
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 427
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 725
+        },
+        "extreme": {
+          "level": 9.3,
           "notes": 858
         }
       }
@@ -84022,7 +85718,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 812,
     "versionDifficulties": {
@@ -84158,6 +85855,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 719
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 177
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 375
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 719
         }
       }
@@ -85471,7 +87183,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2141,
     "versionDifficulties": {
@@ -85507,6 +87220,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 303
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 526
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 854
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 4,
           "notes": 303
@@ -85631,7 +87359,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1693,
     "versionDifficulties": {
@@ -85707,6 +87436,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 921
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 451
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 800
+        },
+        "extreme": {
+          "level": 10.4,
           "notes": 921
         }
       }
@@ -85832,7 +87576,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1223,
     "versionDifficulties": {
@@ -85953,6 +87698,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 648
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 304
+        },
+        "advanced": {
+          "level": 9.2,
+          "notes": 591
+        },
+        "extreme": {
+          "level": 9.8,
           "notes": 648
         }
       }
@@ -86158,7 +87918,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1067,
     "versionDifficulties": {
@@ -86281,6 +88042,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 904
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 342
+        },
+        "advanced": {
+          "level": 9.7,
+          "notes": 702
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 904
+        }
       }
     },
     "chartPatterns": {
@@ -86390,7 +88166,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 229,
     "versionDifficulties": {
@@ -86558,6 +88335,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 596
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 287
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 439
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 596
+        }
       }
     },
     "appearanceVersion": "初代"
@@ -86593,7 +88385,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1244,
     "versionDifficulties": {
@@ -86714,6 +88507,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 927
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 283
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 647
+        },
+        "extreme": {
+          "level": 10.4,
           "notes": 927
         }
       }
@@ -87265,7 +89073,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 849,
     "versionDifficulties": {
@@ -87401,6 +89210,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 722
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 254
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 527
+        },
+        "extreme": {
+          "level": 9.2,
           "notes": 722
         }
       }
@@ -88059,7 +89883,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2203,
     "versionDifficulties": {
@@ -88095,6 +89920,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 207
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 420
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 815
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 207
@@ -89205,7 +91045,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1792,
     "versionDifficulties": {
@@ -89283,6 +91124,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 841
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 436
+        },
+        "advanced": {
+          "level": 9.1,
+          "notes": 703
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 841
+        }
       }
     },
     "chartPatterns": {
@@ -89338,7 +91194,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1264,
     "versionDifficulties": {
@@ -89459,6 +91316,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 911
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 276
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 745
+        },
+        "extreme": {
+          "level": 10.4,
           "notes": 911
         }
       }
@@ -91725,7 +93597,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1245,
     "versionDifficulties": {
@@ -91846,6 +93719,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 915
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 248
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 724
+        },
+        "extreme": {
+          "level": 10.4,
           "notes": 915
         }
       }
@@ -92291,7 +94179,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1184,
     "versionDifficulties": {
@@ -92412,6 +94301,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 716
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 257
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 514
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 716
         }
       }
@@ -92603,7 +94507,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 704,
     "versionDifficulties": {
@@ -92741,6 +94646,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 893
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 544
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 732
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 893
+        }
       }
     },
     "chartPatterns": {
@@ -92785,7 +94705,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1127,
     "versionDifficulties": {
@@ -92906,6 +94827,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 848
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 263
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 592
+        },
+        "extreme": {
+          "level": 9.3,
           "notes": 848
         }
       }
@@ -93564,7 +95500,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 706,
     "versionDifficulties": {
@@ -93700,6 +95637,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 765
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 7,
+          "notes": 513
+        },
+        "advanced": {
+          "level": 10.4,
+          "notes": 754
+        },
+        "extreme": {
+          "level": 10.4,
           "notes": 765
         }
       }
@@ -95844,7 +97796,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 531,
     "versionDifficulties": {
@@ -95982,6 +97935,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 764
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 356
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 457
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 764
+        }
       }
     },
     "chartPatterns": {
@@ -96052,7 +98020,8 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan",
-      "Qubell"
+      "Qubell",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1478,
     "versionDifficulties": {
@@ -96143,6 +98112,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 671
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 231
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 394
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 671
         }
       }
@@ -97186,7 +99170,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1242,
     "versionDifficulties": {
@@ -97307,6 +99292,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 728
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 200
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 293
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 728
         }
       }
@@ -97661,7 +99661,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 422,
     "versionDifficulties": {
@@ -97812,6 +99813,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 758
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 266
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 542
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 758
         }
       }
@@ -100188,7 +102204,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 631,
     "versionDifficulties": {
@@ -100311,6 +102328,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 595
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 140
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 346
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 595
+        }
       }
     },
     "chartPatterns": {
@@ -100419,7 +102451,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1177,
     "versionDifficulties": {
@@ -100540,6 +102573,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 760
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 267
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 471
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 760
         }
       }
@@ -101174,7 +103222,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 934,
     "versionDifficulties": {
@@ -101310,6 +103359,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 667
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 308
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 422
+        },
+        "extreme": {
+          "level": 9.8,
           "notes": 667
         }
       }
@@ -103190,7 +105254,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 424,
     "versionDifficulties": {
@@ -103341,6 +105406,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 755
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 310
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 516
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 755
         }
       }
@@ -104061,7 +106141,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 247,
     "versionDifficulties": {
@@ -104217,6 +106298,21 @@ export const songs: Song[] = [
       },
       "saucer": {
         "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 231
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 425
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 524
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 231
@@ -104932,7 +107028,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1132,
     "versionDifficulties": {
@@ -105053,6 +107150,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 814
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 296
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 542
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 814
         }
       }
@@ -105433,7 +107545,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1172,
     "versionDifficulties": {
@@ -105554,6 +107667,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 686
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 193
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 466
+        },
+        "extreme": {
+          "level": 8,
           "notes": 686
         }
       }
@@ -105752,7 +107880,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 265,
     "versionDifficulties": {
@@ -105888,6 +108017,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 654
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 223
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 528
+        },
+        "extreme": {
+          "level": 8,
           "notes": 654
         }
       }
@@ -108357,7 +110501,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1186,
     "versionDifficulties": {
@@ -108478,6 +110623,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 720
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 213
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 542
+        },
+        "extreme": {
+          "level": 8,
           "notes": 720
         }
       }
@@ -111717,7 +113877,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1240,
     "versionDifficulties": {
@@ -111838,6 +113999,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 8,
+          "notes": 583
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 199
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 388
+        },
+        "extreme": {
+          "level": 7,
           "notes": 583
         }
       }
@@ -113257,7 +115433,8 @@ export const songs: Song[] = [
       "clan",
       "Ave.",
       "Beyond the Ave.",
-      "festo"
+      "festo",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1837,
     "versionDifficulties": {
@@ -113308,6 +115485,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 470
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 746
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 235
@@ -114200,7 +116392,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1105,
     "versionDifficulties": {
@@ -114321,6 +116514,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 947
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 438
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 642
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 947
         }
       }
@@ -114862,7 +117070,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 772,
     "versionDifficulties": {
@@ -115000,6 +117209,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 582
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 287
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 442
+        },
+        "extreme": {
+          "level": 9.6,
+          "notes": 582
+        }
       }
     },
     "appearanceVersion": "copious APPEND"
@@ -115080,7 +117304,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1752,
     "versionDifficulties": {
@@ -115156,6 +117381,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 662
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 246
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 496
+        },
+        "extreme": {
+          "level": 8,
           "notes": 662
         }
       }
@@ -115755,7 +117995,8 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan",
-      "Qubell"
+      "Qubell",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1537,
     "versionDifficulties": {
@@ -115846,6 +118087,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 846
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 383
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 614
+        },
+        "extreme": {
+          "level": 10.1,
           "notes": 846
         }
       }
@@ -118715,7 +120971,8 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan",
-      "Qubell"
+      "Qubell",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1536,
     "versionDifficulties": {
@@ -118806,6 +121063,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 667
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 301
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 471
+        },
+        "extreme": {
+          "level": 8,
           "notes": 667
         }
       }
@@ -121185,7 +123457,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1238,
     "versionDifficulties": {
@@ -121306,6 +123579,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 592
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 225
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 425
+        },
+        "extreme": {
+          "level": 8,
           "notes": 592
         }
       }
@@ -126672,7 +128960,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1173,
     "versionDifficulties": {
@@ -126783,6 +129072,21 @@ export const songs: Song[] = [
       },
       "saucer": {
         "version": "saucer",
+        "basic": {
+          "level": 3,
+          "notes": 207
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 357
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 555
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 207
@@ -129656,7 +131960,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2009,
     "versionDifficulties": {
@@ -129692,6 +131997,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 226
+        },
+        "advanced": {
+          "level": 9.7,
+          "notes": 729
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 836
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 5,
           "notes": 226
@@ -129944,7 +132264,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1236,
     "versionDifficulties": {
@@ -130065,6 +132386,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 786
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 278
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 443
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 786
         }
       }
@@ -130626,7 +132962,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1221,
     "versionDifficulties": {
@@ -130747,6 +133084,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 702
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 218
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 428
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 702
         }
       }
@@ -131902,7 +134254,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 971,
     "versionDifficulties": {
@@ -132013,6 +134366,21 @@ export const songs: Song[] = [
       },
       "saucer": {
         "version": "saucer",
+        "basic": {
+          "level": 4,
+          "notes": 272
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 363
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 565
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 4,
           "notes": 272
@@ -132479,7 +134847,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1755,
     "versionDifficulties": {
@@ -132555,6 +134924,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 657
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 222
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 482
+        },
+        "extreme": {
+          "level": 9.2,
           "notes": 657
         }
       }
@@ -135092,7 +137476,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 201,
     "versionDifficulties": {
@@ -135230,6 +137615,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 683
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 379
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 536
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 683
+        }
       }
     },
     "chartPatterns": {
@@ -135284,7 +137684,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1125,
     "versionDifficulties": {
@@ -135405,6 +137806,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 8,
+          "notes": 484
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 166
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 368
+        },
+        "extreme": {
+          "level": 7,
           "notes": 484
         }
       }
@@ -136237,7 +138653,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1976,
     "versionDifficulties": {
@@ -136273,6 +138690,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 189
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 438
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 661
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 189
@@ -137723,7 +140155,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 804,
     "versionDifficulties": {
@@ -137861,6 +140294,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 612
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 190
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 416
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 612
+        }
       }
     },
     "appearanceVersion": "copious APPEND"
@@ -137896,7 +140344,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1069,
     "versionDifficulties": {
@@ -138017,6 +140466,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 889
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 324
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 572
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 889
         }
       }
@@ -138187,7 +140651,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1096,
     "versionDifficulties": {
@@ -138308,6 +140773,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 600
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 189
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 381
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 600
         }
       }
@@ -138653,7 +141133,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1175,
     "versionDifficulties": {
@@ -138774,6 +141255,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 927
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 246
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 365
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 927
         }
       }
@@ -140947,7 +143443,8 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan",
-      "Qubell"
+      "Qubell",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1447,
     "versionDifficulties": {
@@ -141053,6 +143550,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 753
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 292
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 527
+        },
+        "extreme": {
+          "level": 9.3,
           "notes": 753
         }
       }
@@ -141512,7 +144024,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 539,
     "versionDifficulties": {
@@ -141648,6 +144161,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 504
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 269
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 444
+        },
+        "extreme": {
+          "level": 8,
           "notes": 504
         }
       }
@@ -142488,7 +145016,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 237,
     "versionDifficulties": {
@@ -142654,6 +145183,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 659
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 297
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 485
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 659
         }
       }
@@ -144646,7 +147190,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1145,
     "versionDifficulties": {
@@ -144767,6 +147312,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 818
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 353
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 524
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 818
         }
       }
@@ -146561,7 +149121,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1229,
     "versionDifficulties": {
@@ -146682,6 +149243,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 599
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 393
+        },
+        "extreme": {
+          "level": 8,
           "notes": 599
         }
       }
@@ -146922,7 +149498,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2201,
     "versionDifficulties": {
@@ -146958,6 +149535,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 287
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 463
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 823
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 287
@@ -148557,7 +151149,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1643,
     "versionDifficulties": {
@@ -148629,6 +151222,21 @@ export const songs: Song[] = [
         },
         "advanced": {
           "level": 9,
+          "notes": 656
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 847
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 310
+        },
+        "advanced": {
+          "level": 8,
           "notes": 656
         },
         "extreme": {
@@ -150536,7 +153144,8 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan",
-      "Qubell"
+      "Qubell",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1567,
     "versionDifficulties": {
@@ -150629,6 +153238,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 749
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 255
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 488
+        },
+        "extreme": {
+          "level": 9.3,
+          "notes": 749
+        }
       }
     },
     "genre": "オリジナル",
@@ -150711,7 +153335,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "saucer",
-      "prop"
+      "prop",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1390,
     "versionDifficulties": {
@@ -150817,6 +153442,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 812
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 254
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 496
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 812
         }
       }
@@ -152768,7 +155408,8 @@ export const songs: Song[] = [
       "Ave.",
       "Beyond the Ave.",
       "festo",
-      "clan"
+      "clan",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1767,
     "versionDifficulties": {
@@ -152844,6 +155485,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 710
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 258
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 572
+        },
+        "extreme": {
+          "level": 9.6,
           "notes": 710
         }
       }
@@ -153671,7 +156327,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1193,
     "versionDifficulties": {
@@ -153792,6 +156449,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 563
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 221
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 413
+        },
+        "extreme": {
+          "level": 8,
           "notes": 563
         }
       }
@@ -155981,7 +158653,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 633,
     "versionDifficulties": {
@@ -156102,6 +158775,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 694
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 176
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 423
+        },
+        "extreme": {
+          "level": 8,
           "notes": 694
         }
       }
@@ -156404,7 +159092,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 527,
     "versionDifficulties": {
@@ -156542,6 +159231,21 @@ export const songs: Song[] = [
           "level": 8,
           "notes": 565
         }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 226
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 355
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 565
+        }
       }
     },
     "appearanceVersion": "copious"
@@ -156580,7 +159284,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 540,
     "versionDifficulties": {
@@ -156716,6 +159421,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 806
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 400
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 527
+        },
+        "extreme": {
+          "level": 9.4,
           "notes": 806
         }
       }
@@ -157101,7 +159821,8 @@ export const songs: Song[] = [
       "Qubell",
       "prop",
       "saucer fulfill",
-      "saucer"
+      "saucer",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 541,
     "versionDifficulties": {
@@ -157237,6 +159958,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 801
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 5,
+          "notes": 330
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 536
+        },
+        "extreme": {
+          "level": 10.5,
           "notes": 801
         }
       }
@@ -157610,7 +160346,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1287,
     "versionDifficulties": {
@@ -157723,6 +160460,21 @@ export const songs: Song[] = [
         "version": "saucer",
         "basic": {
           "level": 5,
+          "notes": 439
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 745
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 966
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
           "notes": 439
         },
         "advanced": {
@@ -158987,7 +161739,8 @@ export const songs: Song[] = [
     "versionHistory": [
       "festo",
       "Ave.",
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2117,
     "versionDifficulties": {
@@ -159023,6 +161776,21 @@ export const songs: Song[] = [
       },
       "festo": {
         "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 273
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 540
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 925
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 3,
           "notes": 273
@@ -159182,7 +161950,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1079,
     "versionDifficulties": {
@@ -159299,6 +162068,21 @@ export const songs: Song[] = [
         },
         "advanced": {
           "level": 7,
+          "notes": 482
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 590
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 6,
           "notes": 482
         },
         "extreme": {
@@ -159696,7 +162480,8 @@ export const songs: Song[] = [
     "deletedDate": "",
     "deletedIn": "",
     "versionHistory": [
-      "Beyond the Ave."
+      "Beyond the Ave.",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 2256,
     "versionDifficulties": {
@@ -159717,6 +162502,21 @@ export const songs: Song[] = [
       },
       "Beyond the Ave.": {
         "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 313
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 471
+        },
+        "extreme": {
+          "level": 10.4,
+          "notes": 752
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
         "basic": {
           "level": 4,
           "notes": 313
@@ -160605,7 +163405,8 @@ export const songs: Song[] = [
       "clan",
       "Qubell",
       "prop",
-      "saucer fulfill"
+      "saucer fulfill",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 1056,
     "versionDifficulties": {
@@ -160726,6 +163527,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 688
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 266
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 508
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 688
         }
       }
@@ -161634,7 +164450,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 132,
     "versionDifficulties": {
@@ -161770,6 +164587,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 828
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 9.5,
           "notes": 828
         }
       }
@@ -162008,7 +164840,8 @@ export const songs: Song[] = [
       "prop",
       "saucer fulfill",
       "saucer",
-      "copious"
+      "copious",
+      "音乐魔方"
     ],
     "atwikiHtmlId": 86,
     "versionDifficulties": {
@@ -162159,6 +164992,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 716
+        }
+      },
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 9.7,
           "notes": 716
         }
       }
@@ -162685,6 +165533,788 @@ export const songs: Song[] = [
     "versionHistory": [
       "Qubell"
     ]
+  },
+  {
+    "id": "jbt-Big_Daddy-hru5",
+    "title": "Big Daddy",
+    "artist": "USAO",
+    "bpm": 190,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9.8,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Booby_Trap-g1fn",
+    "title": "Booby Trap",
+    "artist": "Yooh",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 10.1,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Conflict-xc4v",
+    "title": "Conflict",
+    "artist": "siromaru&amp;CRANKY",
+    "bpm": 160,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9.9,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9.9,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Dash_Dash_Groovy_Rus-5oen",
+    "title": "Dash Dash Groovy Rush!!!",
+    "artist": "GENESA MUSIC \"DeadEye\"",
+    "bpm": 140,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Dim_t_ensions-m9w2",
+    "title": "Dim(t)ensions",
+    "artist": "GENESA MUSIC \"DynaSiren\"",
+    "bpm": 175,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Fete_of_Fate-90cg",
+    "title": "Fete of Fate",
+    "artist": "MYUKKE.",
+    "bpm": 145,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9.2,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Heracles-jimu",
+    "title": "Heracles",
+    "artist": "Yooh",
+    "bpm": 193,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 10.5,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 10.5,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-HYPERBOUNCE-4jvv",
+    "title": "HYPERBOUNCE",
+    "artist": "EBIMAYO",
+    "bpm": 180,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9.2,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Iris-cuxy",
+    "title": "Iris",
+    "artist": "GENESA MUSIC \"Florist\"",
+    "bpm": 180,
+    "difficulties": {
+      "basic": {
+        "level": 1,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 3,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 1,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 3,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-ln_guis_tics__jubeat-jia7",
+    "title": "ln(guis·tics)-jubeat Edit-",
+    "artist": "Sephid (from 华立电竞WEC2025)",
+    "bpm": 175,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9.5,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Wildfire-l9bo",
+    "title": "Wildfire",
+    "artist": "USAO",
+    "bpm": 203,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 10.2,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 10.2,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-Obsession-9dru",
+    "title": "Obsession",
+    "artist": "GENESA MUSIC \"MoleQ\"",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9.4,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 3,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9.4,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-ROM_ANTiC_SYND_ROM-lx6n",
+    "title": "ROM-ANTiC SYND-ROM",
+    "artist": "MYUKKE.",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9.5,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 4,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-The_Encounter_Code__-vedb",
+    "title": "The Encounter Code -jubeat Edit-",
+    "artist": "technoplanet (from 华立电竞WEC2025)",
+    "bpm": 212,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 9.1,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 9.1,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "Licenses",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-____-9tq3",
+    "title": "初次见面",
+    "artist": "扭蛋姬",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "中文",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-____-m1zv",
+    "title": "袖手旁棺",
+    "artist": "扭蛋姬",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 5,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 7,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 2,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 7,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "中文",
+    "isLicense": true
+  },
+  {
+    "id": "jbt-____Go_Go_Go-6pdy",
+    "title": "新年快乐Go Go Go",
+    "artist": "乐华家族 (乐华娱乐群星)",
+    "bpm": 0,
+    "difficulties": {
+      "basic": {
+        "level": 1,
+        "notes": 0
+      },
+      "advanced": {
+        "level": 4,
+        "notes": 0
+      },
+      "extreme": {
+        "level": 6,
+        "notes": 0
+      }
+    },
+    "firstAppearance": "音乐魔方",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "音乐魔方"
+    ],
+    "versionDifficulties": {
+      "音乐魔方": {
+        "version": "音乐魔方",
+        "basic": {
+          "level": 1,
+          "notes": 0
+        },
+        "advanced": {
+          "level": 4,
+          "notes": 0
+        },
+        "extreme": {
+          "level": 6,
+          "notes": 0
+        }
+      }
+    },
+    "genre": "中文",
+    "isLicense": true
   }
 ];
 
