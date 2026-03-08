@@ -12,7 +12,7 @@ interface NavbarProps {
 
 // 版本按时间倒序排列（最新的在前）
 const PLAYABLE_VERSIONS = [
-  { value: '音乐魔方', label: '音乐魔方', labelZh: '音乐魔方 (中国版)' },
+  { value: '音乐魔方', label: '音乐魔方', labelZh: '音乐魔方' },
   { value: 'Beyond the Ave.', label: 'Beyond the Ave.', labelZh: 'Beyond the Ave.' },
   { value: 'Ave.', label: 'Ave.', labelZh: 'Ave.' },
   { value: 'festo', label: 'festo', labelZh: 'festo' },
@@ -84,9 +84,11 @@ export default function Navbar({
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-3">
               <Music className="w-7 h-7 text-pink-500" />
-              <span className="text-xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
-                Jubeat Songs
-              </span>
+              <div className="flex flex-col">
+                <span className="text-xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
+                  Jubeat Songs
+                </span>
+              </div>
             </div>
           </div>
         </div>
@@ -105,9 +107,14 @@ export default function Navbar({
           {/* Logo and Title */}
           <div className="flex items-center gap-3">
             <Music className="w-7 h-7 text-pink-500" />
-            <span className="text-xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
-              Jubeat Songs
-            </span>
+            <div className="flex flex-col">
+              <span className="text-xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
+                Jubeat Songs
+              </span>
+              <span className={`text-[10px] ${isDarkMode ? 'text-gray-500' : 'text-gray-400'}`}>
+                by 5nowy
+              </span>
+            </div>
           </div>
 
           {/* Version Selector - Shows songs playable in this version */}
