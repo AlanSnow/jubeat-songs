@@ -152,56 +152,58 @@ export default function Navbar({
               {isDarkMode ? <Sun className="w-5 h-5" /> : <Moon className="w-5 h-5" />}
             </button>
 
-            {/* Language Selector */}
-            <div className="relative">
-              <button
-                onClick={() => setIsLangMenuOpen(!isLangMenuOpen)}
-                className={`p-2 rounded-lg transition-colors flex items-center gap-1 ${
-                  isDarkMode
-                    ? 'hover:bg-gray-800 text-gray-300'
-                    : 'hover:bg-gray-100 text-gray-600'
-                }`}
-                title="Change Language"
-              >
-                <Globe className="w-5 h-5" />
-                <span className="text-sm font-medium hidden sm:inline">{currentLang.toUpperCase()}</span>
-              </button>
-
-              {isLangMenuOpen && (
-                <>
-                  <div
-                    className="fixed inset-0 z-10"
-                    onClick={() => setIsLangMenuOpen(false)}
-                  />
-                  <div className={`absolute right-0 mt-2 w-32 rounded-lg shadow-lg border z-20 ${
+            {/* Language Selector - 暂时隐藏 */}
+            {false && (
+              <div className="relative">
+                <button
+                  onClick={() => setIsLangMenuOpen(!isLangMenuOpen)}
+                  className={`p-2 rounded-lg transition-colors flex items-center gap-1 ${
                     isDarkMode
-                      ? 'bg-gray-800 border-gray-700'
-                      : 'bg-white border-gray-200'
-                  }`}>
-                    {LANGUAGES.map((lang) => (
-                      <button
-                        key={lang.code}
-                        onClick={() => {
-                          setCurrentLang(lang.code);
-                          setIsLangMenuOpen(false);
-                        }}
-                        className={`w-full px-4 py-2 text-left text-sm first:rounded-t-lg last:rounded-b-lg transition-colors ${
-                          currentLang === lang.code
-                            ? isDarkMode
-                              ? 'bg-gray-700 text-white'
-                              : 'bg-gray-100 text-gray-900'
-                            : isDarkMode
-                              ? 'text-gray-300 hover:bg-gray-700'
-                              : 'text-gray-700 hover:bg-gray-50'
-                        }`}
-                      >
-                        {lang.label}
-                      </button>
-                    ))}
-                  </div>
-                </>
-              )}
-            </div>
+                      ? 'hover:bg-gray-800 text-gray-300'
+                      : 'hover:bg-gray-100 text-gray-600'
+                  }`}
+                  title="Change Language"
+                >
+                  <Globe className="w-5 h-5" />
+                  <span className="text-sm font-medium hidden sm:inline">{currentLang.toUpperCase()}</span>
+                </button>
+
+                {isLangMenuOpen && (
+                  <>
+                    <div
+                      className="fixed inset-0 z-10"
+                      onClick={() => setIsLangMenuOpen(false)}
+                    />
+                    <div className={`absolute right-0 mt-2 w-32 rounded-lg shadow-lg border z-20 ${
+                      isDarkMode
+                        ? 'bg-gray-800 border-gray-700'
+                        : 'bg-white border-gray-200'
+                    }`}>
+                      {LANGUAGES.map((lang) => (
+                        <button
+                          key={lang.code}
+                          onClick={() => {
+                            setCurrentLang(lang.code);
+                            setIsLangMenuOpen(false);
+                          }}
+                          className={`w-full px-4 py-2 text-left text-sm first:rounded-t-lg last:rounded-b-lg transition-colors ${
+                            currentLang === lang.code
+                              ? isDarkMode
+                                ? 'bg-gray-700 text-white'
+                                : 'bg-gray-100 text-gray-900'
+                              : isDarkMode
+                                ? 'text-gray-300 hover:bg-gray-700'
+                                : 'text-gray-700 hover:bg-gray-50'
+                          }`}
+                        >
+                          {lang.label}
+                        </button>
+                      ))}
+                    </div>
+                  </>
+                )}
+              </div>
+            )}
 
             {/* GitHub Link */}
             <a
