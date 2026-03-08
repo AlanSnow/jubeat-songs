@@ -44,7 +44,7 @@ interface FilterBarProps {
 
 const GENRES = ['全部', '未分类', 'アニメ', '東方アレンジ', 'バラエティ', 'ナムコオリジナル', 'コナミオリジナル', 'オリジナル', 'TV CM', '懐メロ', 'TVドラマ', 'TV ドラマ・バラエティ', '洋楽', 'クラシック', 'ソーシャルミュージック'];
 
-const VERSIONS = ['全部', 'jubeat', 'ripples', 'knit', 'copious', 'saucer', 'saucer fulfill', 'prop', 'Qubell', 'clan', 'festo', 'Ave.', 'Beyond the Ave.'];
+const VERSIONS = ['全部', 'jubeat', 'ripples', 'knit', 'copious', 'saucer', 'saucer fulfill', 'prop', 'Qubell', 'clan', 'festo', 'Ave.', 'Beyond the Ave.', '音乐魔方'];
 
 const LEVEL_OPTIONS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 

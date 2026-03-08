@@ -130,7 +130,8 @@ export const VERSIONS = [
   'clan',
   'festo',
   'Ave.',
-  'Beyond the Ave.'
+  'Beyond the Ave.',
+  '音乐魔方'
 ] as const;
 
 export const VERSION_LABELS: Record<string, string> = {
@@ -145,6 +146,7 @@ export const VERSION_LABELS: Record<string, string> = {
   'festo': 'festo',
   'Ave.': 'Ave.',
   'Beyond the Ave.': 'Beyond the Ave.',
+  '音乐魔方': '音乐魔方',
 };
 
 // 获取歌曲在指定版本的难度

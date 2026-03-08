@@ -24,6 +24,7 @@ const PLAYABLE_VERSIONS = [
   { value: 'festo', label: 'festo', labelZh: 'festo' },
   { value: 'Ave.', label: 'Ave.', labelZh: 'Ave.' },
   { value: 'Beyond the Ave.', label: 'Beyond the Ave.', labelZh: 'Beyond the Ave.' },
+  { value: '音乐魔方', label: '音乐魔方', labelZh: '音乐魔方 (中国版)' },
 ];
 
 const LANGUAGES = [
