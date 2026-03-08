@@ -123,20 +123,27 @@ export default function Home() {
     }
 
     // Difficulty type and level filters (use displayDifficulties)
+    // 默认等级范围是 1-10.9，如果不是默认值则应用过滤
+    const isDefaultLevelRange = (filters.minLevel ?? 1) === 1 && (filters.maxLevel ?? 10.9) === 10.9;
+
     if (filters.difficulty !== 'all') {
       const diffKey = filters.difficulty;
       result = result.filter((song) => {
         const level = song.displayDifficulties[diffKey].level;
-        if (filters.minLevel && level < filters.minLevel) return false;
-        if (filters.maxLevel && level > filters.maxLevel) return false;
+        const minLevel = filters.minLevel ?? 1;
+        const maxLevel = filters.maxLevel ?? 10.9;
+        if (level < minLevel) return false;
+        if (level > maxLevel) return false;
         return true;
       });
-    } else if (filters.minLevel || filters.maxLevel) {
+    } else if (!isDefaultLevelRange) {
       // If no specific difficulty selected, check extreme by default
       result = result.filter((song) => {
         const level = song.displayDifficulties.extreme.level;
-        if (filters.minLevel && level < filters.minLevel) return false;
-        if (filters.maxLevel && level > filters.maxLevel) return false;
+        const minLevel = filters.minLevel ?? 1;
+        const maxLevel = filters.maxLevel ?? 10.9;
+        if (level < minLevel) return false;
+        if (level > maxLevel) return false;
         return true;
       });
     }
