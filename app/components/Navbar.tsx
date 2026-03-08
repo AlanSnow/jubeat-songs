@@ -10,21 +10,22 @@ interface NavbarProps {
   onDarkModeChange: (isDark: boolean) => void;
 }
 
+// 版本按时间倒序排列（最新的在前）
 const PLAYABLE_VERSIONS = [
-  { value: 'all', label: 'All Versions', labelZh: '全部版本' },
-  { value: 'jubeat', label: 'jubeat', labelZh: 'jubeat (初代)' },
-  { value: 'ripples', label: 'ripples', labelZh: 'ripples' },
-  { value: 'knit', label: 'knit', labelZh: 'knit' },
-  { value: 'copious', label: 'copious', labelZh: 'copious' },
-  { value: 'saucer', label: 'saucer', labelZh: 'saucer' },
-  { value: 'saucer fulfill', label: 'saucer fulfill', labelZh: 'saucer fulfill' },
-  { value: 'prop', label: 'prop', labelZh: 'prop' },
-  { value: 'Qubell', label: 'Qubell', labelZh: 'Qubell' },
-  { value: 'clan', label: 'clan', labelZh: 'clan' },
-  { value: 'festo', label: 'festo', labelZh: 'festo' },
-  { value: 'Ave.', label: 'Ave.', labelZh: 'Ave.' },
-  { value: 'Beyond the Ave.', label: 'Beyond the Ave.', labelZh: 'Beyond the Ave.' },
   { value: '音乐魔方', label: '音乐魔方', labelZh: '音乐魔方 (中国版)' },
+  { value: 'Beyond the Ave.', label: 'Beyond the Ave.', labelZh: 'Beyond the Ave.' },
+  { value: 'Ave.', label: 'Ave.', labelZh: 'Ave.' },
+  { value: 'festo', label: 'festo', labelZh: 'festo' },
+  { value: 'clan', label: 'clan', labelZh: 'clan' },
+  { value: 'Qubell', label: 'Qubell', labelZh: 'Qubell' },
+  { value: 'prop', label: 'prop', labelZh: 'prop' },
+  { value: 'saucer fulfill', label: 'saucer fulfill', labelZh: 'saucer fulfill' },
+  { value: 'saucer', label: 'saucer', labelZh: 'saucer' },
+  { value: 'copious', label: 'copious', labelZh: 'copious' },
+  { value: 'knit', label: 'knit', labelZh: 'knit' },
+  { value: 'ripples', label: 'ripples', labelZh: 'ripples' },
+  { value: 'jubeat', label: 'jubeat', labelZh: 'jubeat (初代)' },
+  { value: 'all', label: 'All Versions', labelZh: '全部版本' },
 ];
 
 const LANGUAGES = [
@@ -32,6 +33,8 @@ const LANGUAGES = [
   { code: 'ja', label: '日本語' },
   { code: 'en', label: 'English' },
 ];
+
+const VERSION_STORAGE_KEY = 'jubeat-selected-version';
 
 export default function Navbar({
   selectedVersion,
@@ -47,6 +50,28 @@ export default function Navbar({
   useEffect(() => {
     setMounted(true);
   }, []);
+
+  // 从 localStorage 读取保存的版本
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const savedVersion = localStorage.getItem(VERSION_STORAGE_KEY);
+      if (savedVersion && savedVersion !== selectedVersion) {
+        // 验证版本是否有效
+        const validVersion = PLAYABLE_VERSIONS.find(v => v.value === savedVersion);
+        if (validVersion) {
+          onVersionChange(savedVersion);
+        }
+      }
+    }
+  }, []);
+
+  // 保存版本选择到 localStorage
+  const handleVersionChange = (version: string) => {
+    if (typeof window !== 'undefined') {
+      localStorage.setItem(VERSION_STORAGE_KEY, version);
+    }
+    onVersionChange(version);
+  };
 
   const selectedVersionLabel = PLAYABLE_VERSIONS.find(
     (v) => v.value === selectedVersion
@@ -91,7 +116,7 @@ export default function Navbar({
             <div className="relative">
               <select
                 value={selectedVersion}
-                onChange={(e) => onVersionChange(e.target.value)}
+                onChange={(e) => handleVersionChange(e.target.value)}
                 className={`appearance-none pl-4 pr-10 py-2 rounded-lg border text-sm font-medium focus:outline-none focus:ring-2 focus:ring-pink-500 cursor-pointer transition-colors ${
                   isDarkMode
                     ? 'bg-gray-800 border-gray-600 text-white hover:bg-gray-700'
@@ -200,7 +225,7 @@ export default function Navbar({
           <label className={`block text-xs mb-1 ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>当前版本</label>
           <select
             value={selectedVersion}
-            onChange={(e) => onVersionChange(e.target.value)}
+            onChange={(e) => handleVersionChange(e.target.value)}
             className={`w-full appearance-none px-4 py-2 rounded-lg border text-sm font-medium focus:outline-none focus:ring-2 focus:ring-pink-500 cursor-pointer transition-colors ${
               isDarkMode
                 ? 'bg-gray-800 border-gray-600 text-white'
