@@ -347,132 +347,6 @@ export const songs: Song[] = [
   {
     "id": "jbt-SweetLove-mmy4",
     "title": "「Sweet Love」",
-    "artist": "ときめきメモリアル Girl&#039;s Side 4th Heart",
-    "bpm": 135,
-    "difficulties": {
-      "basic": {
-        "level": 2,
-        "notes": 165
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 305
-      },
-      "extreme": {
-        "level": 7,
-        "notes": 427
-      }
-    },
-    "firstAppearance": "festo",
-    "releaseDate": "jubeat(アプリ)先行配信",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "festo",
-      "Ave."
-    ],
-    "atwikiHtmlId": 2185,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 165
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 305
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 427
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 165
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 305
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 427
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 2,
-          "notes": 165
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 305
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 427
-        }
-      }
-    },
-    "chartPatterns": {
-      "basic": [
-        {
-          "type": "shape",
-          "description": "坂道"
-        },
-        {
-          "type": "shape",
-          "description": "なんか違う(左右反転)"
-        },
-        {
-          "type": "shape",
-          "description": "めぐり会える"
-        },
-        {
-          "type": "text",
-          "description": "坂道,なんか違う(左右反転),めぐり会える,L"
-        },
-        {
-          "type": "kojinsa",
-          "label": "个人差"
-        }
-      ],
-      "advanced": [
-        {
-          "type": "shape",
-          "description": "回る"
-        },
-        {
-          "type": "sahyou",
-          "label": "诈称"
-        }
-      ],
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "回る"
-        },
-        {
-          "type": "text",
-          "description": "回る,風車"
-        },
-        {
-          "type": "sahyou",
-          "label": "诈称"
-        }
-      ]
-    },
-    "genre": "ゲーム",
-    "appearanceVersion": "festo"
-  },
-  {
-    "id": "jbt-SweetLove-0ine",
-    "title": "「Sweet Love」",
     "artist": "ときめきメモリアル Girl's Side 4th Heart",
     "bpm": 135,
     "difficulties": {
@@ -495,6 +369,7 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "festo",
+      "Ave.",
       "Beyond the Ave."
     ],
     "atwikiHtmlId": 2185,
@@ -966,7 +841,7 @@ export const songs: Song[] = [
         "notes": 560
       },
       "extreme": {
-        "level": 10,
+        "level": 10.3,
         "notes": 790
       }
     },
@@ -1355,7 +1230,7 @@ export const songs: Song[] = [
         "notes": 495
       },
       "extreme": {
-        "level": 10,
+        "level": 9.1,
         "notes": 702
       }
     },
@@ -1942,129 +1817,6 @@ export const songs: Song[] = [
     "appearanceVersion": "prop"
   },
   {
-    "id": "jbt-3AM-i48y",
-    "title": "3 A.M. ディテクティブ・ゲーム",
-    "artist": "162",
-    "bpm": 3,
-    "difficulties": {
-      "basic": {
-        "level": 6,
-        "notes": 502
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 749
-      },
-      "extreme": {
-        "level": 310,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "prop",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "prop"
-    ],
-    "atwikiHtmlId": 1604,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 310
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 502
-        },
-        "extreme": {
-          "level": 9.1,
-          "notes": 749
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 310
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 502
-        },
-        "extreme": {
-          "level": 9.1,
-          "notes": 749
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 310
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 502
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 749
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 310
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 502
-        },
-        "extreme": {
-          "level": 9.1,
-          "notes": 749
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 3,
-          "notes": 310
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 502
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 749
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 310
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 502
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 749
-        }
-      }
-    },
-    "avatar": "https://p.eagate.573.jp/game/jubeat/common/jacket/2/id29523504.gif",
-    "genre": "オリジナル",
-    "appearanceVersion": "prop"
-  },
-  {
     "id": "jbt-39-zy0x",
     "title": "39",
     "artist": "sasakure.UK＆DECO*27",
@@ -2533,7 +2285,7 @@ export const songs: Song[] = [
     "id": "jbt-50thMemorialSon-gdq0",
     "title": "50th Memorial Songs -Flagship medley-",
     "artist": "BEMANI Sound Team",
-    "bpm": 135,
+    "bpm": "135-175",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -3117,11 +2869,11 @@ export const songs: Song[] = [
     "bpm": 156,
     "difficulties": {
       "basic": {
-        "level": 3,
+        "level": 2,
         "notes": 199
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 399
       },
       "extreme": {
@@ -3612,62 +3364,6 @@ export const songs: Song[] = [
     },
     "genre": "オリジナル",
     "appearanceVersion": "copious APPEND"
-  },
-  {
-    "id": "jbt-A-u6pb",
-    "title": "A",
-    "artist": "いーあるふぁんくらぶ",
-    "bpm": 0,
-    "difficulties": {
-      "basic": {
-        "level": 145,
-        "notes": 8
-      },
-      "advanced": {
-        "level": 2,
-        "notes": 187
-      },
-      "extreme": {
-        "level": 5,
-        "notes": 321
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "607",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1274
-  },
-  {
-    "id": "jbt-A-pp6d",
-    "title": "A",
-    "artist": "非公開日誌",
-    "bpm": 0,
-    "difficulties": {
-      "basic": {
-        "level": 190,
-        "notes": 8
-      },
-      "advanced": {
-        "level": 4,
-        "notes": 318
-      },
-      "extreme": {
-        "level": 6,
-        "notes": 468
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "694",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1377
   },
   {
     "id": "jbt-aburningbullet-m02a",
@@ -5723,182 +5419,15 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "knit",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "prop",
+      "copious",
+      "saucer",
       "saucer fulfill",
-      "saucer"
-    ],
-    "atwikiHtmlId": 355,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 643
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 643
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 643
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 643
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 643
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 643
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 643
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 643
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 4,
-          "notes": 218
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 507
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 643
-        }
-      }
-    },
-    "appearanceVersion": "knit( [2] : festo )"
-  },
-  {
-    "id": "jbt-ALLMYHEART-yevk",
-    "title": "ALL MY HEART",
-    "artist": "SUPER HEROINE 彩香 -AYAKA-",
-    "bpm": 160,
-    "genre": "オリジナル",
-    "difficulties": {
-      "basic": {
-        "level": 4,
-        "notes": 218
-      },
-      "advanced": {
-        "level": 8,
-        "notes": 507
-      },
-      "extreme": {
-        "level": 9,
-        "notes": 643
-      }
-    },
-    "firstAppearance": "knit",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "knit",
-      "copious"
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 355,
     "versionDifficulties": {
@@ -6418,7 +5947,7 @@ export const songs: Song[] = [
     "id": "jbt-AnalyseKatharsi-ghrg",
     "title": "Analyse Katharsis",
     "artist": "red glasses",
-    "bpm": 142,
+    "bpm": "142-178",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -7257,197 +6786,6 @@ export const songs: Song[] = [
     },
     "avatar": "http://ecx.images-amazon.com/images/I/51ro9TZTkDL._AA115_.jpg",
     "appearanceVersion": "knit"
-  },
-  {
-    "id": "jbt-AREA51-3xde",
-    "title": "AREA 51",
-    "artist": "96",
-    "bpm": 188,
-    "genre": "オリジナル",
-    "difficulties": {
-      "basic": {
-        "level": 6,
-        "notes": 409
-      },
-      "advanced": {
-        "level": 7,
-        "notes": 562
-      },
-      "extreme": {
-        "level": 9.5,
-        "notes": 828
-      }
-    },
-    "firstAppearance": "ripples",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "ripples",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill",
-      "saucer",
-      "copious"
-    ],
-    "atwikiHtmlId": 132,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 9.5,
-          "notes": 828
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 9.5,
-          "notes": 828
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 828
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 828
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 9.5,
-          "notes": 828
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 828
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 828
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 828
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 6,
-          "notes": 409
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 562
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 828
-        }
-      }
-    },
-    "chartPatterns": {
-      "basic": [
-        {
-          "type": "gyakusahyou",
-          "label": "逆诈称"
-        }
-      ],
-      "extreme": [
-        {
-          "type": "kojinsa",
-          "label": "个人差"
-        }
-      ]
-    },
-    "avatar": "http://i.imgur.com/dERBf0d.png",
-    "appearanceVersion": "ripples"
   },
   {
     "id": "jbt-ArenaDeiporta-ju5z",
@@ -8393,7 +7731,7 @@ export const songs: Song[] = [
     "bpm": 175,
     "difficulties": {
       "basic": {
-        "level": 4,
+        "level": 3,
         "notes": 301
       },
       "advanced": {
@@ -8401,7 +7739,7 @@ export const songs: Song[] = [
         "notes": 397
       },
       "extreme": {
-        "level": 9,
+        "level": 9.4,
         "notes": 736
       }
     },
@@ -8773,62 +8111,6 @@ export const songs: Song[] = [
     },
     "genre": "オリジナル",
     "appearanceVersion": "Ave."
-  },
-  {
-    "id": "jbt-B-h572",
-    "title": "B",
-    "artist": "天ノ弱",
-    "bpm": 164,
-    "difficulties": {
-      "basic": {
-        "level": 200,
-        "notes": 9
-      },
-      "advanced": {
-        "level": 3,
-        "notes": 196
-      },
-      "extreme": {
-        "level": 6,
-        "notes": 398
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "675",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1275
-  },
-  {
-    "id": "jbt-B-ybbt",
-    "title": "B",
-    "artist": "十面相",
-    "bpm": 0,
-    "difficulties": {
-      "basic": {
-        "level": 173,
-        "notes": 9
-      },
-      "advanced": {
-        "level": 4,
-        "notes": 286
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 582
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "734",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1378
   },
   {
     "id": "jbt-BabyBleepMarch-secr",
@@ -10497,7 +9779,7 @@ export const songs: Song[] = [
     "id": "jbt-birth-944z",
     "title": "birth",
     "artist": "Yu_Asahina",
-    "bpm": 200,
+    "bpm": "200-220",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -11357,11 +10639,11 @@ export const songs: Song[] = [
     "bpm": 191,
     "difficulties": {
       "basic": {
-        "level": 3,
+        "level": 2,
         "notes": 216
       },
       "advanced": {
-        "level": 6,
+        "level": 5,
         "notes": 469
       },
       "extreme": {
@@ -13216,62 +12498,6 @@ export const songs: Song[] = [
       }
     },
     "appearanceVersion": "saucer(plus初出)"
-  },
-  {
-    "id": "jbt-C-m51b",
-    "title": "C",
-    "artist": "セツナトリップ",
-    "bpm": 0,
-    "difficulties": {
-      "basic": {
-        "level": 145,
-        "notes": 9
-      },
-      "advanced": {
-        "level": 3,
-        "notes": 234
-      },
-      "extreme": {
-        "level": 7,
-        "notes": 457
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "715",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1277
-  },
-  {
-    "id": "jbt-C-8d5d",
-    "title": "C",
-    "artist": "ルービックキューブ",
-    "bpm": 0,
-    "difficulties": {
-      "basic": {
-        "level": 140,
-        "notes": 9
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 400
-      },
-      "extreme": {
-        "level": 7,
-        "notes": 488
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "700",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1379
   },
   {
     "id": "jbt-CakeHouseKorean-x4ee",
@@ -16722,7 +15948,7 @@ export const songs: Song[] = [
         "notes": 570
       },
       "extreme": {
-        "level": 10,
+        "level": 10.6,
         "notes": 860
       }
     },
@@ -17541,198 +16767,15 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "ripples",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "prop",
+      "copious",
+      "saucer",
       "saucer fulfill",
-      "saucer"
-    ],
-    "atwikiHtmlId": 202,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 802
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 802
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 802
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 802
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 802
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 802
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 802
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 802
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 660
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 802
-        }
-      }
-    },
-    "chartPatterns": {
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "c"
-        },
-        {
-          "type": "shape",
-          "description": "t"
-        },
-        {
-          "type": "text",
-          "description": "c,t,c,t"
-        }
-      ]
-    },
-    "appearanceVersion": "ripples"
-  },
-  {
-    "id": "jbt-comingtrue-9hkt",
-    "title": "coming true",
-    "artist": "GUHROOVY Vs.L.E.D.",
-    "bpm": 175,
-    "genre": "オリジナル",
-    "difficulties": {
-      "basic": {
-        "level": 5,
-        "notes": 341
-      },
-      "advanced": {
-        "level": 7,
-        "notes": 660
-      },
-      "extreme": {
-        "level": 9,
-        "notes": 802
-      }
-    },
-    "firstAppearance": "ripples",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "ripples",
-      "copious"
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 202,
     "versionDifficulties": {
@@ -17894,7 +16937,7 @@ export const songs: Song[] = [
     "id": "jbt-ConcertinoinBlu-chgt",
     "title": "Concertino in Blue",
     "artist": "佐々木博史",
-    "bpm": 130,
+    "bpm": "130-155",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -19076,7 +18119,7 @@ export const songs: Song[] = [
     "id": "jbt-CouleurBlanche-m5b2",
     "title": "Couleur=Blanche",
     "artist": "#FFFFFF",
-    "bpm": 90,
+    "bpm": "90-185",
     "difficulties": {
       "basic": {
         "level": 6,
@@ -19954,7 +18997,7 @@ export const songs: Song[] = [
     "id": "jbt-croiX-1qaa",
     "title": "croiX",
     "artist": "TeamGrimoire+あま猫",
-    "bpm": 160,
+    "bpm": "160-195",
     "difficulties": {
       "basic": {
         "level": 6,
@@ -20349,62 +19392,6 @@ export const songs: Song[] = [
     "appearanceVersion": "beyond the Ave."
   },
   {
-    "id": "jbt-D-clii",
-    "title": "D",
-    "artist": "ロストワンの号哭",
-    "bpm": 0,
-    "difficulties": {
-      "basic": {
-        "level": 162,
-        "notes": 10
-      },
-      "advanced": {
-        "level": 4,
-        "notes": 336
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 629
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "930",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1271
-  },
-  {
-    "id": "jbt-D-egfh",
-    "title": "D",
-    "artist": "ケッペキショウ",
-    "bpm": 0,
-    "difficulties": {
-      "basic": {
-        "level": 190,
-        "notes": 10
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 366
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 610
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "814",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1380
-  },
-  {
     "id": "jbt-DailyLunchSpeci-byes",
     "title": "Daily Lunch Special",
     "artist": "Lucky Vacuum",
@@ -20770,11 +19757,11 @@ export const songs: Song[] = [
         "notes": 245
       },
       "advanced": {
-        "level": 6,
+        "level": 5,
         "notes": 413
       },
       "extreme": {
-        "level": 9,
+        "level": 9.2,
         "notes": 846
       }
     },
@@ -22044,189 +21031,6 @@ export const songs: Song[] = [
       }
     },
     "appearanceVersion": "saucer fulfill"
-  },
-  {
-    "id": "jbt-DevilFishDumpli-jkqa",
-    "title": "Devil Fish Dumpling",
-    "artist": "96",
-    "bpm": 166,
-    "genre": "オリジナル",
-    "difficulties": {
-      "basic": {
-        "level": 4,
-        "notes": 361
-      },
-      "advanced": {
-        "level": 7,
-        "notes": 512
-      },
-      "extreme": {
-        "level": 10.1,
-        "notes": 733
-      }
-    },
-    "firstAppearance": "copious",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "copious",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill",
-      "saucer"
-    ],
-    "atwikiHtmlId": 535,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10.1,
-          "notes": 733
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10.1,
-          "notes": 733
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 4,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 733
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 5,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 733
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 4,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10.1,
-          "notes": 733
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 5,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 733
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 5,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 733
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 5,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 733
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 5,
-          "notes": 361
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 512
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 733
-        }
-      }
-    },
-    "chartPatterns": {
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "蛸"
-        }
-      ]
-    },
-    "appearanceVersion": "copious"
   },
   {
     "id": "jbt-DevilsRule-srf8",
@@ -26389,7 +25193,7 @@ export const songs: Song[] = [
         "notes": 703
       },
       "extreme": {
-        "level": 10,
+        "level": 10.4,
         "notes": 918
       }
     },
@@ -26680,162 +25484,10 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "saucer",
+      "clan",
+      "festo",
       "Ave.",
-      "Beyond the Ave.",
-      "festo"
-    ],
-    "atwikiHtmlId": 1273,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 140
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 334
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 587
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 140
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 334
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 587
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 2,
-          "notes": 140
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 334
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 587
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 2,
-          "notes": 140
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 334
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 587
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 2,
-          "notes": 140
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 334
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 587
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 2,
-          "notes": 140
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 334
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 587
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 2,
-          "notes": 140
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 334
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 587
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 2,
-          "notes": 140
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 334
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 587
-        }
-      }
-    },
-    "genre": "オリジナル",
-    "appearanceVersion": "saucer(plus初出)"
-  },
-  {
-    "id": "jbt-EndlessChain2-w8yd",
-    "title": "Endless Chain ～2人でトリガーをひこう～",
-    "artist": "私立BEMANI学園 軽音楽部",
-    "bpm": 162,
-    "difficulties": {
-      "basic": {
-        "level": 2,
-        "notes": 140
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 334
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 587
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer",
-      "clan"
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1273,
     "versionDifficulties": {
@@ -27089,7 +25741,7 @@ export const songs: Song[] = [
         "notes": 378
       },
       "extreme": {
-        "level": 9,
+        "level": 9.6,
         "notes": 567
       }
     },
@@ -27604,7 +26256,7 @@ export const songs: Song[] = [
     "id": "jbt-ETERNALBLAZE-wz91",
     "title": "ETERNAL BLAZE",
     "artist": "(水樹奈々)",
-    "bpm": 105,
+    "bpm": "105-155",
     "difficulties": {
       "basic": {
         "level": 1,
@@ -27785,7 +26437,7 @@ export const songs: Song[] = [
     "id": "jbt-ETERNALBLAZE2-f1i7",
     "title": "ETERNAL BLAZE[2]",
     "artist": "(水樹奈々)",
-    "bpm": 105,
+    "bpm": "105-155",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -28225,7 +26877,7 @@ export const songs: Song[] = [
     "id": "jbt-EvansNOSTALGIAV-mvp6",
     "title": "Evans ～NOSTALGIA Ver. ～",
     "artist": "DJ YOSHITAKA Arranged by まらしぃ",
-    "bpm": 112,
+    "bpm": "112-182",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -28322,7 +26974,7 @@ export const songs: Song[] = [
     "id": "jbt-EverlastingMess-t8ok",
     "title": "Everlasting Message (BEMANI SYMPHONY Arr.)",
     "artist": "ぺのれり × Osamu Kubota + gaQdan",
-    "bpm": 92,
+    "bpm": "92-214",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -30741,7 +29393,7 @@ export const songs: Song[] = [
     "id": "jbt-FLOORINFECTIONM-esq3",
     "title": "FLOOR INFECTION Medley from SOUND VOLTEX×jubeat",
     "artist": "United Composers from SOUND VOLTEX",
-    "bpm": 145,
+    "bpm": "145-195",
     "difficulties": {
       "basic": {
         "level": 6,
@@ -31157,7 +29809,7 @@ export const songs: Song[] = [
         "notes": 683
       },
       "extreme": {
-        "level": 10,
+        "level": 10.4,
         "notes": 950
       }
     },
@@ -31734,15 +30386,15 @@ export const songs: Song[] = [
     "bpm": 140,
     "difficulties": {
       "basic": {
-        "level": 4,
+        "level": 3,
         "notes": 328
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 590
       },
       "extreme": {
-        "level": 9,
+        "level": 8,
         "notes": 865
       }
     },
@@ -32002,7 +30654,7 @@ export const songs: Song[] = [
     "id": "jbt-Fox4Raize-k488",
     "title": "Fox4-Raize-",
     "artist": "Getty vs. DJ DiA",
-    "bpm": 50,
+    "bpm": "50-200",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -33825,7 +32477,7 @@ export const songs: Song[] = [
       },
       "advanced": {
         "level": 8,
-        "notes": 622
+        "notes": 657
       },
       "extreme": {
         "level": 10.5,
@@ -34002,197 +32654,6 @@ export const songs: Song[] = [
     },
     "genre": "オリジナル",
     "appearanceVersion": "Qubell"
-  },
-  {
-    "id": "jbt-GIGABREAK-2o8m",
-    "title": "GIGA BREAK",
-    "artist": "96",
-    "bpm": 135,
-    "genre": "オリジナル",
-    "difficulties": {
-      "basic": {
-        "level": 6,
-        "notes": 335
-      },
-      "advanced": {
-        "level": 7,
-        "notes": 449
-      },
-      "extreme": {
-        "level": 9.7,
-        "notes": 716
-      }
-    },
-    "firstAppearance": "jubeat",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "jubeat",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill",
-      "saucer",
-      "copious"
-    ],
-    "atwikiHtmlId": 86,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 716
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 716
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 716
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 716
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 716
-        }
-      },
-      "jubeat": {
-        "version": "jubeat",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 716
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 716
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 716
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 716
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 6,
-          "notes": 335
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 449
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 716
-        }
-      }
-    },
-    "appearanceVersion": "初代"
   },
   {
     "id": "jbt-GimmeaBigBeat-62y9",
@@ -35548,125 +34009,10 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "Qubell",
+      "clan",
+      "festo",
       "Ave.",
-      "clan"
-    ],
-    "atwikiHtmlId": 1669,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 397
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 642
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 397
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 642
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 397
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 642
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 397
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 642
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 397
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 642
-        }
-      }
-    },
-    "chartPatterns": {
-      "advanced": [
-        {
-          "type": "gyakusahyou",
-          "label": "逆诈称"
-        }
-      ]
-    },
-    "genre": "オリジナル",
-    "appearanceVersion": "Qubell"
-  },
-  {
-    "id": "jbt-GoodbyeSummer-1k6e",
-    "title": "Good bye, Summer～さよならは言わない～",
-    "artist": "私立BEMANI学園 軽音部 OB",
-    "bpm": 165,
-    "difficulties": {
-      "basic": {
-        "level": 3,
-        "notes": 202
-      },
-      "advanced": {
-        "level": 7,
-        "notes": 397
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 642
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell",
-      "Beyond the Ave.",
-      "festo"
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1669,
     "versionDifficulties": {
@@ -36918,11 +35264,11 @@ export const songs: Song[] = [
         "notes": 216
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 402
       },
       "extreme": {
-        "level": 9,
+        "level": 9.2,
         "notes": 711
       }
     },
@@ -38416,211 +36762,14 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "copious",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "prop",
+      "saucer",
       "saucer fulfill",
-      "saucer"
-    ],
-    "atwikiHtmlId": 805,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 9.2,
-          "notes": 918
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 9.2,
-          "notes": 918
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 918
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 918
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 9.2,
-          "notes": 918
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 918
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 918
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 918
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 5,
-          "notes": 380
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 795
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 918
-        }
-      }
-    },
-    "chartPatterns": {
-      "advanced": [
-        {
-          "type": "shape",
-          "description": "U"
-        },
-        {
-          "type": "text",
-          "description": "O,U"
-        }
-      ],
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "人々"
-        },
-        {
-          "type": "shape",
-          "description": "C"
-        },
-        {
-          "type": "shape",
-          "description": "U"
-        },
-        {
-          "type": "text",
-          "description": "人々,C,Uへ,J(小型)"
-        }
-      ]
-    },
-    "genre": "オリジナル",
-    "appearanceVersion": "copious APPEND"
-  },
-  {
-    "id": "jbt-HEATBITHITBEAT-awyc",
-    "title": "HEAT-BIT-HIT-BEAT",
-    "artist": "V.C.O",
-    "bpm": 180,
-    "difficulties": {
-      "basic": {
-        "level": 5,
-        "notes": 380
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 795
-      },
-      "extreme": {
-        "level": 10,
-        "notes": 918
-      }
-    },
-    "firstAppearance": "copious",
-    "releaseDate": "桃",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "copious"
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 805,
     "versionDifficulties": {
@@ -39733,15 +37882,15 @@ export const songs: Song[] = [
     "bpm": 180,
     "difficulties": {
       "basic": {
-        "level": 3,
+        "level": 2,
         "notes": 253
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 462
       },
       "extreme": {
-        "level": 9,
+        "level": 8,
         "notes": 786
       }
     },
@@ -40059,7 +38208,7 @@ export const songs: Song[] = [
     "id": "jbt-HolySnow-p078",
     "title": "Holy Snow",
     "artist": "Mutsuhiko Izumi",
-    "bpm": 130,
+    "bpm": "130-160",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -40734,181 +38883,6 @@ export const songs: Song[] = [
     "avatar": "https://remywiki.com/images/thumb/0/00/Hunny_Bunny.png/200px-Hunny_Bunny.png",
     "genre": "オリジナル",
     "appearanceVersion": "Qubell"
-  },
-  {
-    "id": "jbt-HYDRA-muju",
-    "title": "HYDRA",
-    "artist": "96",
-    "bpm": 277,
-    "difficulties": {
-      "basic": {
-        "level": 3,
-        "notes": 235
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 672
-      },
-      "extreme": {
-        "level": 10,
-        "notes": 776
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "saucer",
-      "prop"
-    ],
-    "atwikiHtmlId": 1309,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 235
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 672
-        },
-        "extreme": {
-          "level": 9.2,
-          "notes": 776
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 235
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 672
-        },
-        "extreme": {
-          "level": 9.2,
-          "notes": 776
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 235
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 672
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 776
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 235
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 672
-        },
-        "extreme": {
-          "level": 9.2,
-          "notes": 776
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 3,
-          "notes": 235
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 672
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 776
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 235
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 672
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 776
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 3,
-          "notes": 235
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 672
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 776
-        }
-      }
-    },
-    "chartPatterns": {
-      "advanced": [
-        {
-          "type": "shape",
-          "description": "蛇"
-        },
-        {
-          "type": "shape",
-          "description": "大蛇"
-        },
-        {
-          "type": "text",
-          "description": "蛇,大蛇"
-        }
-      ],
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "蛇"
-        },
-        {
-          "type": "shape",
-          "description": "大蛇"
-        },
-        {
-          "type": "text",
-          "description": "蛇,大蛇,蛇"
-        }
-      ]
-    },
-    "avatar": "http://i.imgur.com/glCK4x7.png",
-    "genre": "オリジナル",
-    "appearanceVersion": "saucer fulfill"
   },
   {
     "id": "jbt-HYENA-rxrc",
@@ -42345,7 +40319,7 @@ export const songs: Song[] = [
     "bpm": 201,
     "difficulties": {
       "basic": {
-        "level": 5,
+        "level": 4,
         "notes": 395
       },
       "advanced": {
@@ -42462,6 +40436,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 903
         }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 5,
+          "notes": 395
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 636
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 903
+        }
       }
     },
     "avatar": "//cdn44.atwikiimg.com/reflec_beat/?cmd=upload&amp;act=open&amp;page=Idola&amp;file=idola.png",
@@ -42472,7 +40461,7 @@ export const songs: Song[] = [
     "id": "jbt-IdolaBEMANISYMP-87cy",
     "title": "Idola (BEMANI SYMPHONY Arr.)",
     "artist": "iconoclasm × 原口 大 + gaQdan",
-    "bpm": 140,
+    "bpm": "140-176",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -42551,116 +40540,6 @@ export const songs: Song[] = [
   {
     "id": "jbt-If-9en7",
     "title": "If",
-    "artist": "Pa&#039;s Lam System",
-    "bpm": 170,
-    "difficulties": {
-      "basic": {
-        "level": 3,
-        "notes": 203
-      },
-      "advanced": {
-        "level": 7,
-        "notes": 481
-      },
-      "extreme": {
-        "level": 9.8,
-        "notes": 685
-      }
-    },
-    "firstAppearance": "clan",
-    "releaseDate": "plus先行配信",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "clan",
-      "Ave."
-    ],
-    "atwikiHtmlId": 1890,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 203
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 481
-        },
-        "extreme": {
-          "level": 9.8,
-          "notes": 685
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 203
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 481
-        },
-        "extreme": {
-          "level": 9.8,
-          "notes": 685
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 203
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 481
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 685
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 203
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 481
-        },
-        "extreme": {
-          "level": 9.8,
-          "notes": 685
-        }
-      }
-    },
-    "chartPatterns": {
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "F"
-        },
-        {
-          "type": "text",
-          "description": "I,F"
-        },
-        {
-          "type": "gyakusahyou",
-          "label": "逆诈称"
-        }
-      ]
-    },
-    "avatar": "https://i.imgur.com/jCmA7OR.png",
-    "genre": "オリジナル",
-    "appearanceVersion": "clan(plus初出)"
-  },
-  {
-    "id": "jbt-If-p7cn",
-    "title": "If",
     "artist": "Pa's Lam System",
     "bpm": 170,
     "difficulties": {
@@ -42683,8 +40562,9 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "clan",
-      "Beyond the Ave.",
-      "festo"
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1890,
     "versionDifficulties": {
@@ -42931,7 +40811,7 @@ export const songs: Song[] = [
     "id": "jbt-IGNITETHEIRONHE-jala",
     "title": "IGNITE THE IRON HEART",
     "artist": "BEMANI Sound Team \"L.E.D.\"",
-    "bpm": 100,
+    "bpm": "100-155",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -43194,7 +41074,7 @@ export const songs: Song[] = [
     "id": "jbt-InTheBreeze-qoiq",
     "title": "In The Breeze",
     "artist": "96 & Sota ft. Mayumi Morinaga",
-    "bpm": 123,
+    "bpm": "123-142",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -43344,233 +41224,15 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "jubeat",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "prop",
+      "copious",
+      "saucer",
       "saucer fulfill",
-      "saucer"
-    ],
-    "atwikiHtmlId": 85,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 762
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 762
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 5,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 762
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 6,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 762
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 5,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 762
-        }
-      },
-      "jubeat": {
-        "version": "jubeat",
-        "basic": {
-          "level": 6,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 762
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 6,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 762
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 6,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 762
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 6,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 762
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 6,
-          "notes": 469
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 607
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 762
-        }
-      }
-    },
-    "chartPatterns": {
-      "advanced": [
-        {
-          "type": "shape",
-          "description": "(中"
-        },
-        {
-          "type": "shape",
-          "description": "大)"
-        },
-        {
-          "type": "text",
-          "description": "L,(中,大)"
-        }
-      ],
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "(中"
-        },
-        {
-          "type": "shape",
-          "description": "大)"
-        },
-        {
-          "type": "text",
-          "description": "L,(中,大)"
-        }
-      ],
-      "basic": [
-        {
-          "type": "gyakusahyou",
-          "label": "逆诈称"
-        }
-      ]
-    },
-    "appearanceVersion": "初代"
-  },
-  {
-    "id": "jbt-INTHENAMEOFLOVE-80ix",
-    "title": "IN THE NAME OF LOVE",
-    "artist": "Y&Co.feat.Erica",
-    "bpm": 155,
-    "genre": "オリジナル",
-    "difficulties": {
-      "basic": {
-        "level": 6,
-        "notes": 469
-      },
-      "advanced": {
-        "level": 7,
-        "notes": 607
-      },
-      "extreme": {
-        "level": 9,
-        "notes": 762
-      }
-    },
-    "firstAppearance": "jubeat",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "jubeat",
-      "copious"
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 85,
     "versionDifficulties": {
@@ -45175,113 +42837,6 @@ export const songs: Song[] = [
     "appearanceVersion": "Qubell"
   },
   {
-    "id": "jbt-JACKTHERIPPERfe-fyh9",
-    "title": "JACK THE RIPPER feat. Iceon",
-    "artist": "145",
-    "bpm": 2,
-    "difficulties": {
-      "basic": {
-        "level": 7,
-        "notes": 408
-      },
-      "advanced": {
-        "level": 10,
-        "notes": 810
-      },
-      "extreme": {
-        "level": 130,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1699,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 130
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 408
-        },
-        "extreme": {
-          "level": 10.3,
-          "notes": 810
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 130
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 408
-        },
-        "extreme": {
-          "level": 10.3,
-          "notes": 810
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 2,
-          "notes": 130
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 408
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 810
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 2,
-          "notes": 130
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 408
-        },
-        "extreme": {
-          "level": 10.3,
-          "notes": 810
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 2,
-          "notes": 130
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 408
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 810
-        }
-      }
-    },
-    "genre": "東方アレンジ",
-    "appearanceVersion": "Qubell"
-  },
-  {
     "id": "jbt-Jailbreak-4fin",
     "title": "Jailbreak",
     "artist": "Kozo Nakamura",
@@ -45745,7 +43300,7 @@ export const songs: Song[] = [
     "id": "jbt-JOMANDA-zm92",
     "title": "JOMANDA",
     "artist": "DJ YOSHITAKA",
-    "bpm": 90,
+    "bpm": "90-195",
     "genre": "オリジナル",
     "difficulties": {
       "basic": {
@@ -46820,15 +44375,15 @@ export const songs: Song[] = [
     "bpm": 180,
     "difficulties": {
       "basic": {
-        "level": 5,
+        "level": 4,
         "notes": 400
       },
       "advanced": {
-        "level": 8,
+        "level": 7,
         "notes": 662
       },
       "extreme": {
-        "level": 10,
+        "level": 10.3,
         "notes": 1042
       }
     },
@@ -47954,175 +45509,6 @@ export const songs: Song[] = [
   {
     "id": "jbt-LANAAnswerI-o6ny",
     "title": "LANA - Answer I -",
-    "artist": "TOMOSUKE×Jazzin&#039;park",
-    "bpm": 171,
-    "difficulties": {
-      "basic": {
-        "level": 2,
-        "notes": 205
-      },
-      "advanced": {
-        "level": 6,
-        "notes": 419
-      },
-      "extreme": {
-        "level": 7,
-        "notes": 519
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer",
-      "Ave.",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1082,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 205
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 419
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 519
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 205
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 419
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 519
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 2,
-          "notes": 205
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 419
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 519
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 2,
-          "notes": 205
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 419
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 519
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 2,
-          "notes": 205
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 419
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 519
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 2,
-          "notes": 205
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 419
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 519
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 2,
-          "notes": 205
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 419
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 519
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 2,
-          "notes": 205
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 419
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 519
-        }
-      }
-    },
-    "chartPatterns": {
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "○"
-        },
-        {
-          "type": "text",
-          "description": "○,U"
-        }
-      ]
-    },
-    "genre": "ポップス",
-    "appearanceVersion": "saucer"
-  },
-  {
-    "id": "jbt-LANAAnswerI-m0k7",
-    "title": "LANA - Answer I -",
     "artist": "TOMOSUKE×Jazzin'park",
     "bpm": 171,
     "difficulties": {
@@ -48145,8 +45531,13 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "saucer",
-      "Beyond the Ave.",
-      "festo"
+      "saucer fulfill",
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1082,
     "versionDifficulties": {
@@ -48289,163 +45680,6 @@ export const songs: Song[] = [
   {
     "id": "jbt-LANAAnswer-b4hi",
     "title": "LANA - Answer Ⅱ -",
-    "artist": "TOMOSUKE×Jazzin&#039;park",
-    "bpm": 165,
-    "difficulties": {
-      "basic": {
-        "level": 2,
-        "notes": 146
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 384
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 540
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer",
-      "Ave.",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1117,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 146
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 384
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 540
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 146
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 384
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 540
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 2,
-          "notes": 146
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 384
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 540
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 2,
-          "notes": 146
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 384
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 540
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 2,
-          "notes": 146
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 384
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 540
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 2,
-          "notes": 146
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 384
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 540
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 2,
-          "notes": 146
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 384
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 540
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 2,
-          "notes": 146
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 384
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 540
-        }
-      }
-    },
-    "genre": "ポップス",
-    "appearanceVersion": "saucer"
-  },
-  {
-    "id": "jbt-LANAAnswer-7rhb",
-    "title": "LANA - Answer Ⅱ -",
     "artist": "TOMOSUKE×Jazzin'park",
     "bpm": 165,
     "difficulties": {
@@ -48468,8 +45702,13 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "saucer",
-      "Beyond the Ave.",
-      "festo"
+      "saucer fulfill",
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1117,
     "versionDifficulties": {
@@ -48600,188 +45839,8 @@ export const songs: Song[] = [
   {
     "id": "jbt-LANA-ef01",
     "title": "LANA - キロクノカケラ -",
-    "artist": "TOMOSUKE×Jazzin&#039;park",
-    "bpm": 84,
-    "difficulties": {
-      "basic": {
-        "level": 3,
-        "notes": 188
-      },
-      "advanced": {
-        "level": 6,
-        "notes": 372
-      },
-      "extreme": {
-        "level": 7,
-        "notes": 493
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "bpmRange": "84-168",
-    "versionHistory": [
-      "saucer",
-      "Ave.",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1050,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 91
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 322
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 485
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 91
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 322
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 485
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 372
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 493
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 372
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 493
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 3,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 372
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 493
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 372
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 493
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 3,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 372
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 493
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 3,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 372
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 493
-        }
-      }
-    },
-    "chartPatterns": {
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "両手"
-        },
-        {
-          "type": "shape",
-          "description": "欠片"
-        },
-        {
-          "type": "text",
-          "description": "両手,欠片"
-        }
-      ],
-      "basic": [
-        {
-          "type": "gyakusahyou",
-          "label": "逆诈称"
-        }
-      ]
-    },
-    "genre": "ポップス",
-    "appearanceVersion": "saucer( [2] : festo )"
-  },
-  {
-    "id": "jbt-LANA-rzql",
-    "title": "LANA - キロクノカケラ -",
     "artist": "TOMOSUKE×Jazzin'park",
-    "bpm": 84,
+    "bpm": "84-168",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -48803,8 +45862,13 @@ export const songs: Song[] = [
     "bpmRange": "84-168",
     "versionHistory": [
       "saucer",
-      "Beyond the Ave.",
-      "festo"
+      "saucer fulfill",
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1050,
     "versionDifficulties": {
@@ -48957,40 +46021,8 @@ export const songs: Song[] = [
   {
     "id": "jbt-LANA2-sqdq",
     "title": "LANA - キロクノカケラ -[2]",
-    "artist": "TOMOSUKE×Jazzin&#039;park",
-    "bpm": 84,
-    "difficulties": {
-      "basic": {
-        "level": 2,
-        "notes": 91
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 322
-      },
-      "extreme": {
-        "level": 7,
-        "notes": 485
-      }
-    },
-    "firstAppearance": "festo",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "bpmRange": "84-168",
-    "versionHistory": [
-      "festo",
-      "Ave."
-    ],
-    "atwikiHtmlId": 1050,
-    "genre": "ポップス",
-    "appearanceVersion": "saucer( [2] : festo )"
-  },
-  {
-    "id": "jbt-LANA2-esn8",
-    "title": "LANA - キロクノカケラ -[2]",
     "artist": "TOMOSUKE×Jazzin'park",
-    "bpm": 84,
+    "bpm": "84-168",
     "difficulties": {
       "basic": {
         "level": 2,
@@ -49012,6 +46044,7 @@ export const songs: Song[] = [
     "bpmRange": "84-168",
     "versionHistory": [
       "festo",
+      "Ave.",
       "Beyond the Ave."
     ],
     "atwikiHtmlId": 1050,
@@ -49021,163 +46054,6 @@ export const songs: Song[] = [
   {
     "id": "jbt-LANAsasakureUKF-x07x",
     "title": "LANA - キロクノカケラ (sasakure.UK Framework Remix) -",
-    "artist": "TOMOSUKE×Jazzin&#039;park",
-    "bpm": 200,
-    "difficulties": {
-      "basic": {
-        "level": 3,
-        "notes": 202
-      },
-      "advanced": {
-        "level": 6,
-        "notes": 453
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 648
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer",
-      "Ave.",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1258,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 453
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 648
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 453
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 648
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 453
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 648
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 453
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 648
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 453
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 648
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 453
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 648
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 453
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 648
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 3,
-          "notes": 202
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 453
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 648
-        }
-      }
-    },
-    "genre": "ポップス",
-    "appearanceVersion": "saucer"
-  },
-  {
-    "id": "jbt-LANAsasakureUKF-a1z4",
-    "title": "LANA - キロクノカケラ (sasakure.UK Framework Remix) -",
     "artist": "TOMOSUKE×Jazzin'park",
     "bpm": 200,
     "difficulties": {
@@ -49200,8 +46076,13 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "saucer",
-      "Beyond the Ave.",
-      "festo"
+      "saucer fulfill",
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1258,
     "versionDifficulties": {
@@ -49332,171 +46213,6 @@ export const songs: Song[] = [
   {
     "id": "jbt-LANA-ikry",
     "title": "LANA - ココロノキオク -",
-    "artist": "TOMOSUKE×Jazzin&#039;park",
-    "bpm": 84,
-    "difficulties": {
-      "basic": {
-        "level": 1,
-        "notes": 117
-      },
-      "advanced": {
-        "level": 4,
-        "notes": 229
-      },
-      "extreme": {
-        "level": 5,
-        "notes": 353
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer",
-      "Ave.",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1169,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 1,
-          "notes": 117
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 229
-        },
-        "extreme": {
-          "level": 5,
-          "notes": 353
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 1,
-          "notes": 117
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 229
-        },
-        "extreme": {
-          "level": 5,
-          "notes": 353
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 1,
-          "notes": 117
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 229
-        },
-        "extreme": {
-          "level": 5,
-          "notes": 353
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 1,
-          "notes": 117
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 229
-        },
-        "extreme": {
-          "level": 5,
-          "notes": 353
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 1,
-          "notes": 117
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 229
-        },
-        "extreme": {
-          "level": 6,
-          "notes": 353
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 1,
-          "notes": 117
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 229
-        },
-        "extreme": {
-          "level": 6,
-          "notes": 353
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 1,
-          "notes": 117
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 229
-        },
-        "extreme": {
-          "level": 6,
-          "notes": 353
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 1,
-          "notes": 117
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 229
-        },
-        "extreme": {
-          "level": 6,
-          "notes": 353
-        }
-      }
-    },
-    "chartPatterns": {
-      "basic": [
-        {
-          "type": "sahyou",
-          "label": "诈称"
-        }
-      ]
-    },
-    "genre": "ポップス",
-    "appearanceVersion": "saucer"
-  },
-  {
-    "id": "jbt-LANA-2uu2",
-    "title": "LANA - ココロノキオク -",
     "artist": "TOMOSUKE×Jazzin'park",
     "bpm": 84,
     "difficulties": {
@@ -49519,8 +46235,13 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "saucer",
-      "Beyond the Ave.",
-      "festo"
+      "saucer fulfill",
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1169,
     "versionDifficulties": {
@@ -49659,163 +46380,6 @@ export const songs: Song[] = [
   {
     "id": "jbt-LANA-owth",
     "title": "LANA - セカイノハズレ -",
-    "artist": "TOMOSUKE×Jazzin&#039;park",
-    "bpm": 214,
-    "difficulties": {
-      "basic": {
-        "level": 3,
-        "notes": 229
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 307
-      },
-      "extreme": {
-        "level": 7,
-        "notes": 482
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer",
-      "Ave.",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1170,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 229
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 307
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 482
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 229
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 307
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 482
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 229
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 307
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 482
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 229
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 307
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 482
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 3,
-          "notes": 229
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 307
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 482
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 229
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 307
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 482
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 3,
-          "notes": 229
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 307
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 482
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 3,
-          "notes": 229
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 307
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 482
-        }
-      }
-    },
-    "genre": "ポップス",
-    "appearanceVersion": "saucer"
-  },
-  {
-    "id": "jbt-LANA-8ir2",
-    "title": "LANA - セカイノハズレ -",
     "artist": "TOMOSUKE×Jazzin'park",
     "bpm": 214,
     "difficulties": {
@@ -49838,8 +46402,13 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "saucer",
-      "Beyond the Ave.",
-      "festo"
+      "saucer fulfill",
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1170,
     "versionDifficulties": {
@@ -49970,163 +46539,6 @@ export const songs: Song[] = [
   {
     "id": "jbt-LANA-4a6v",
     "title": "LANA - ヒトリノウタ -",
-    "artist": "TOMOSUKE×Jazzin&#039;park",
-    "bpm": 180,
-    "difficulties": {
-      "basic": {
-        "level": 2,
-        "notes": 191
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 320
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 538
-      }
-    },
-    "firstAppearance": "saucer",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer",
-      "Ave.",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1094,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 191
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 320
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 538
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 191
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 320
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 538
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 2,
-          "notes": 191
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 320
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 538
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 2,
-          "notes": 191
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 320
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 538
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 2,
-          "notes": 191
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 320
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 538
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 2,
-          "notes": 191
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 320
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 538
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 2,
-          "notes": 191
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 320
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 538
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 2,
-          "notes": 191
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 320
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 538
-        }
-      }
-    },
-    "genre": "ポップス",
-    "appearanceVersion": "saucer"
-  },
-  {
-    "id": "jbt-LANA-joff",
-    "title": "LANA - ヒトリノウタ -",
     "artist": "TOMOSUKE×Jazzin'park",
     "bpm": 180,
     "difficulties": {
@@ -50149,8 +46561,13 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "saucer",
-      "Beyond the Ave.",
-      "festo"
+      "saucer fulfill",
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1094,
     "versionDifficulties": {
@@ -53081,7 +49498,7 @@ export const songs: Song[] = [
         "notes": 496
       },
       "extreme": {
-        "level": 9,
+        "level": 9.3,
         "notes": 690
       }
     },
@@ -53506,7 +49923,7 @@ export const songs: Song[] = [
         "notes": 399
       },
       "extreme": {
-        "level": 9,
+        "level": 9.4,
         "notes": 595
       }
     },
@@ -56052,11 +52469,11 @@ export const songs: Song[] = [
         "notes": 238
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 425
       },
       "extreme": {
-        "level": 9,
+        "level": 8,
         "notes": 861
       }
     },
@@ -56605,7 +53022,7 @@ export const songs: Song[] = [
     "bpm": 189,
     "difficulties": {
       "basic": {
-        "level": 3,
+        "level": 2,
         "notes": 240
       },
       "advanced": {
@@ -57181,7 +53598,7 @@ export const songs: Song[] = [
     "id": "jbt-MirageoftheMirr-ufha",
     "title": "Mirage of the Mirror",
     "artist": "SHAMDEL",
-    "bpm": 122,
+    "bpm": "122-163",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -57725,11 +54142,11 @@ export const songs: Song[] = [
     "bpm": 186,
     "difficulties": {
       "basic": {
-        "level": 4,
+        "level": 3,
         "notes": 326
       },
       "advanced": {
-        "level": 8,
+        "level": 7,
         "notes": 615
       },
       "extreme": {
@@ -57875,7 +54292,7 @@ export const songs: Song[] = [
     "id": "jbt-MONOLITH-noa3",
     "title": "MONOLITH",
     "artist": "TOMOSUKE",
-    "bpm": 170,
+    "bpm": "170-205",
     "difficulties": {
       "basic": {
         "level": 2,
@@ -59618,7 +56035,7 @@ export const songs: Song[] = [
     "id": "jbt-NEONWORLD-14gn",
     "title": "NEON WORLD",
     "artist": "SOUND HOLIC feat. Nana Takahashi",
-    "bpm": 154,
+    "bpm": "154-164",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -62254,7 +58671,7 @@ export const songs: Song[] = [
     "id": "jbt-nostos-6dk1",
     "title": "nostos",
     "artist": "Setaria Virtuoso",
-    "bpm": 86,
+    "bpm": "86-144",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -62362,54 +58779,6 @@ export const songs: Song[] = [
     "avatar": "http://i.imgur.com/rOjvffA.png",
     "genre": "オリジナル",
     "appearanceVersion": "Qubell"
-  },
-  {
-    "id": "jbt-NowLoading-k83s",
-    "title": "Now Loading!!!!",
-    "artist": "193",
-    "bpm": 3,
-    "difficulties": {
-      "basic": {
-        "level": 6,
-        "notes": 361
-      },
-      "advanced": {
-        "level": 8,
-        "notes": 471
-      },
-      "extreme": {
-        "level": 171,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1687,
-    "versionDifficulties": {
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 171
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 361
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 471
-        }
-      }
-    },
-    "avatar": "http://i.imgur.com/txCkPaU.jpg",
-    "genre": "アニメ",
-    "appearanceVersion": "Qubell(plus初出)"
   },
   {
     "id": "jbt-OJIYA-op68",
@@ -64093,16 +60462,16 @@ export const songs: Song[] = [
     "bpm": 150,
     "difficulties": {
       "basic": {
-        "level": 3,
-        "notes": 172
+        "level": 4,
+        "notes": 389
       },
       "advanced": {
-        "level": 6,
-        "notes": 414
+        "level": 8,
+        "notes": 733
       },
       "extreme": {
-        "level": 8,
-        "notes": 563
+        "level": 9,
+        "notes": 965
       }
     },
     "firstAppearance": "Qubell",
@@ -64335,7 +60704,7 @@ export const songs: Song[] = [
     "id": "jbt-Passion-3cd0",
     "title": "Passion",
     "artist": "KAN TAKAHIKO",
-    "bpm": 105,
+    "bpm": "105-120",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -64766,7 +61135,7 @@ export const songs: Song[] = [
     "id": "jbt-PeeweeBoogie-772y",
     "title": "Pee-wee Boogie",
     "artist": "ARM",
-    "bpm": 45,
+    "bpm": "45-180",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -65388,7 +61757,7 @@ export const songs: Song[] = [
     "id": "jbt-PinkRose-9szh",
     "title": "Pink Rose",
     "artist": "Kiyommy+Seiya",
-    "bpm": 116,
+    "bpm": "116-146",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -65585,7 +61954,7 @@ export const songs: Song[] = [
     "id": "jbt-PinkRose2-ousf",
     "title": "Pink Rose[2]",
     "artist": "Kiyommy+Seiya",
-    "bpm": 116,
+    "bpm": "116-146",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -65791,15 +62160,15 @@ export const songs: Song[] = [
     "bpm": 164,
     "difficulties": {
       "basic": {
-        "level": 3,
+        "level": 2,
         "notes": 232
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 405
       },
       "extreme": {
-        "level": 10,
+        "level": 9.2,
         "notes": 704
       }
     },
@@ -66578,7 +62947,7 @@ export const songs: Song[] = [
     "id": "jbt-POLICYBREAKMedl-7wuw",
     "title": "POLICY BREAK Medley from SOUND VOLTEX×jubeat",
     "artist": "United Composers from jubeat",
-    "bpm": 93,
+    "bpm": "93-311",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -68495,7 +64864,7 @@ export const songs: Song[] = [
     "id": "jbt-PubertyDysthymi-1niq",
     "title": "Puberty Dysthymia",
     "artist": "BEMANI Sound Team \"person09\"",
-    "bpm": 70,
+    "bpm": "70-210",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -68995,7 +65364,7 @@ export const songs: Song[] = [
     "id": "jbt-quaver-bzk9",
     "title": "quaver♪",
     "artist": "Risk Junk",
-    "bpm": 182,
+    "bpm": "182-186",
     "genre": "オリジナル",
     "difficulties": {
       "basic": {
@@ -71437,15 +67806,15 @@ export const songs: Song[] = [
     "bpm": 140,
     "difficulties": {
       "basic": {
-        "level": 3,
+        "level": 2,
         "notes": 204
       },
       "advanced": {
-        "level": 6,
+        "level": 5,
         "notes": 394
       },
       "extreme": {
-        "level": 9,
+        "level": 8,
         "notes": 585
       }
     },
@@ -72402,7 +68771,7 @@ export const songs: Song[] = [
         "notes": 420
       },
       "extreme": {
-        "level": 9,
+        "level": 9.2,
         "notes": 597
       }
     },
@@ -73089,7 +69458,7 @@ export const songs: Song[] = [
   {
     "id": "jbt-rose-xh29",
     "title": "rose",
-    "artist": "ANNA inspi&#039; NANA(BLACK STONES)",
+    "artist": "ANNA inspi' NANA(BLACK STONES)",
     "bpm": 172,
     "difficulties": {
       "basic": {
@@ -73111,130 +69480,9 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "jubeat",
-      "saucer fulfill",
-      "saucer"
-    ],
-    "atwikiHtmlId": 46,
-    "versionDifficulties": {
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 1,
-          "notes": 154
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 253
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 452
-        }
-      },
-      "jubeat": {
-        "version": "jubeat",
-        "basic": {
-          "level": 2,
-          "notes": 154
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 253
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 452
-        }
-      },
-      "knit": {
-        "version": "knit",
-        "basic": {
-          "level": 1,
-          "notes": 154
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 253
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 452
-        }
-      },
-      "ripples": {
-        "version": "ripples",
-        "basic": {
-          "level": 1,
-          "notes": 154
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 253
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 452
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 1,
-          "notes": 154
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 253
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 452
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 1,
-          "notes": 154
-        },
-        "advanced": {
-          "level": 4,
-          "notes": 253
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 452
-        }
-      }
-    },
-    "appearanceVersion": "初代"
-  },
-  {
-    "id": "jbt-rose-j8gc",
-    "title": "rose",
-    "artist": "ANNA inspi&#039; NANA (BLACK STONES)",
-    "bpm": 172,
-    "difficulties": {
-      "basic": {
-        "level": 1,
-        "notes": 154
-      },
-      "advanced": {
-        "level": 4,
-        "notes": 253
-      },
-      "extreme": {
-        "level": 7,
-        "notes": 452
-      }
-    },
-    "firstAppearance": "jubeat",
-    "releaseDate": "赤",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "jubeat",
-      "copious"
+      "copious",
+      "saucer",
+      "saucer fulfill"
     ],
     "atwikiHtmlId": 46,
     "versionDifficulties": {
@@ -73875,7 +70123,7 @@ export const songs: Song[] = [
     "id": "jbt-RussianSnowyDan-8m4y",
     "title": "Russian Snowy Dance",
     "artist": "Mutsuhiko Izumi",
-    "bpm": 170,
+    "bpm": "170-240",
     "genre": "オリジナル",
     "difficulties": {
       "basic": {
@@ -74188,7 +70436,7 @@ export const songs: Song[] = [
     "id": "jbt-Sahara-wvnj",
     "title": "Sahara",
     "artist": "Hommarju",
-    "bpm": 95,
+    "bpm": "95-155",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -76198,54 +72446,6 @@ export const songs: Song[] = [
     "appearanceVersion": "clan"
   },
   {
-    "id": "jbt-Shake-044p",
-    "title": "Shake!",
-    "artist": "170",
-    "bpm": 4,
-    "difficulties": {
-      "basic": {
-        "level": 7,
-        "notes": 461
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 595
-      },
-      "extreme": {
-        "level": 241,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1686,
-    "versionDifficulties": {
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 4,
-          "notes": 241
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 461
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 595
-        }
-      }
-    },
-    "avatar": "http://i.imgur.com/ERjUebk.jpg",
-    "genre": "アニメ",
-    "appearanceVersion": "Qubell(plus初出)"
-  },
-  {
     "id": "jbt-ShareTheWorld-yn61",
     "title": "Share The World",
     "artist": "東方神起",
@@ -76828,190 +73028,6 @@ export const songs: Song[] = [
     "appearanceVersion": "ripples"
   },
   {
-    "id": "jbt-ShiningWizard-0tb1",
-    "title": "Shining Wizard",
-    "artist": "96",
-    "bpm": 158,
-    "genre": "オリジナル",
-    "difficulties": {
-      "basic": {
-        "level": 5,
-        "notes": 341
-      },
-      "advanced": {
-        "level": 8,
-        "notes": 585
-      },
-      "extreme": {
-        "level": 9.8,
-        "notes": 757
-      }
-    },
-    "firstAppearance": "knit",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "knit",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill",
-      "saucer",
-      "copious"
-    ],
-    "atwikiHtmlId": 270,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 9.8,
-          "notes": 757
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 9.8,
-          "notes": 757
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 757
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 757
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 9.8,
-          "notes": 757
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 757
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 757
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 757
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 5,
-          "notes": 341
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 585
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 757
-        }
-      }
-    },
-    "chartPatterns": {
-      "extreme": [
-        {
-          "type": "sahyou",
-          "label": "诈称"
-        }
-      ]
-    },
-    "appearanceVersion": "knit"
-  },
-  {
     "id": "jbt-SHION-qrlq",
     "title": "SHION",
     "artist": "DJ YOSHITAKA",
@@ -77026,7 +73042,7 @@ export const songs: Song[] = [
         "notes": 554
       },
       "extreme": {
-        "level": 9,
+        "level": 9.3,
         "notes": 875
       }
     },
@@ -78928,7 +74944,7 @@ export const songs: Song[] = [
     "id": "jbt-Slluuddggee-ujiv",
     "title": "Slluuddggee",
     "artist": "Hommarju",
-    "bpm": 83,
+    "bpm": "83-174",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -79958,7 +75974,7 @@ export const songs: Song[] = [
     "id": "jbt-SolCosineJob2-4hov",
     "title": "Sol Cosine Job 2",
     "artist": "DJ TECHNORCH",
-    "bpm": 190,
+    "bpm": "190-200",
     "difficulties": {
       "basic": {
         "level": 6,
@@ -80731,7 +76747,7 @@ export const songs: Song[] = [
     "bpm": 180,
     "difficulties": {
       "basic": {
-        "level": 4,
+        "level": 3,
         "notes": 291
       },
       "advanced": {
@@ -80739,7 +76755,7 @@ export const songs: Song[] = [
         "notes": 496
       },
       "extreme": {
-        "level": 9,
+        "level": 8,
         "notes": 611
       }
     },
@@ -82659,182 +78675,15 @@ export const songs: Song[] = [
     "deletedIn": "",
     "versionHistory": [
       "ripples",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo"
-    ],
-    "atwikiHtmlId": 228,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      },
-      "copious": {
-        "version": "copious",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      },
-      "saucer fulfill": {
-        "version": "saucer fulfill",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      },
-      "saucer": {
-        "version": "saucer",
-        "basic": {
-          "level": 4,
-          "notes": 292
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 416
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 654
-        }
-      }
-    },
-    "appearanceVersion": "ripples"
-  },
-  {
-    "id": "jbt-STARLITDUST-hlx9",
-    "title": "STARLIT DUST/スティルに捧ぐ",
-    "artist": "Des-ROW＋ANT",
-    "bpm": 183,
-    "genre": "オリジナル",
-    "difficulties": {
-      "basic": {
-        "level": 4,
-        "notes": 292
-      },
-      "advanced": {
-        "level": 6,
-        "notes": 416
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 654
-      }
-    },
-    "firstAppearance": "ripples",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "ripples",
-      "clan",
-      "Qubell",
-      "prop",
-      "saucer fulfill",
+      "copious",
       "saucer",
-      "copious"
+      "saucer fulfill",
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 228,
     "versionDifficulties": {
@@ -82980,7 +78829,7 @@ export const songs: Song[] = [
     "id": "jbt-starmineBEMANIS-l2dw",
     "title": "starmine (BEMANI SYMPHONY Arr.)",
     "artist": "Ryu☆ × デビン木下 + gaQdan",
-    "bpm": 100,
+    "bpm": "100-164",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -83187,7 +79036,7 @@ export const songs: Song[] = [
     "id": "jbt-StellaSinistra-bb3o",
     "title": "Stella Sinistra",
     "artist": "Akhuta Philharmonic Orchestra",
-    "bpm": 120,
+    "bpm": "120-180",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -83596,7 +79445,7 @@ export const songs: Song[] = [
     "bpm": 175,
     "difficulties": {
       "basic": {
-        "level": 5,
+        "level": 4,
         "notes": 370
       },
       "advanced": {
@@ -83604,7 +79453,7 @@ export const songs: Song[] = [
         "notes": 579
       },
       "extreme": {
-        "level": 10,
+        "level": 10.2,
         "notes": 867
       }
     },
@@ -84575,7 +80424,7 @@ export const songs: Song[] = [
     "id": "jbt-STULTI-v53j",
     "title": "STULTI",
     "artist": "MAX MAXIMIZER VS DJ TOTTO",
-    "bpm": 90,
+    "bpm": "90-182",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -86269,7 +82118,7 @@ export const songs: Song[] = [
     "id": "jbt-SWEETHOMEPARTY-9n9d",
     "title": "SWEET HOME PARTY",
     "artist": "劇団レコード",
-    "bpm": 134,
+    "bpm": "134-180",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -92459,7 +88308,7 @@ export const songs: Song[] = [
         "notes": 644
       },
       "extreme": {
-        "level": 10,
+        "level": 10.2,
         "notes": 808
       }
     },
@@ -92637,11 +88486,11 @@ export const songs: Song[] = [
         "notes": 186
       },
       "advanced": {
-        "level": 4,
+        "level": 6,
         "notes": 457
       },
       "extreme": {
-        "level": 9,
+        "level": 9.2,
         "notes": 799
       }
     },
@@ -93459,132 +89308,6 @@ export const songs: Song[] = [
     "appearanceVersion": "Qubell"
   },
   {
-    "id": "jbt-Valanga-6tvo",
-    "title": "Valanga",
-    "artist": "186",
-    "bpm": 6,
-    "difficulties": {
-      "basic": {
-        "level": 9,
-        "notes": 703
-      },
-      "advanced": {
-        "level": 10,
-        "notes": 841
-      },
-      "extreme": {
-        "level": 436,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1792,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 6,
-          "notes": 436
-        },
-        "advanced": {
-          "level": 9.1,
-          "notes": 703
-        },
-        "extreme": {
-          "level": 10.5,
-          "notes": 841
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 6,
-          "notes": 436
-        },
-        "advanced": {
-          "level": 9.1,
-          "notes": 703
-        },
-        "extreme": {
-          "level": 10.5,
-          "notes": 841
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 6,
-          "notes": 436
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 703
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 841
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 6,
-          "notes": 436
-        },
-        "advanced": {
-          "level": 9.1,
-          "notes": 703
-        },
-        "extreme": {
-          "level": 10.5,
-          "notes": 841
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 6,
-          "notes": 436
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 703
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 841
-        }
-      }
-    },
-    "chartPatterns": {
-      "advanced": [
-        {
-          "type": "shape",
-          "description": "雪崩"
-        }
-      ],
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "雪崩"
-        },
-        {
-          "type": "sahyou",
-          "label": "诈称"
-        }
-      ]
-    },
-    "avatar": "http://i.imgur.com/Va7AFKS.png",
-    "genre": "オリジナル",
-    "appearanceVersion": "Qubell"
-  },
-  {
     "id": "jbt-VALLISNERIA-c515",
     "title": "VALLIS-NERIA",
     "artist": "DJ YOSHITAKA",
@@ -93942,7 +89665,7 @@ export const songs: Song[] = [
     "id": "jbt-Vanity-ywlw",
     "title": "Vanity",
     "artist": "Vivian",
-    "bpm": 125,
+    "bpm": "125-150",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -96172,7 +91895,7 @@ export const songs: Song[] = [
         "notes": 624
       },
       "extreme": {
-        "level": 10,
+        "level": 10.2,
         "notes": 904
       }
     },
@@ -98265,7 +93988,7 @@ export const songs: Song[] = [
     "id": "jbt-zeeros-tvg5",
     "title": "zeeros",
     "artist": "onoken",
-    "bpm": 146,
+    "bpm": "146-187",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -98464,7 +94187,7 @@ export const songs: Song[] = [
     "id": "jbt-ZIGZAGCOWBOY-fndu",
     "title": "ZIGZAG COWBOY",
     "artist": "BEMANI Sound Team \"劇団レコード\"",
-    "bpm": 128,
+    "bpm": "128-140",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -100790,6 +96513,21 @@ export const songs: Song[] = [
           "level": 8,
           "notes": 607
         }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 2,
+          "notes": 187
+        },
+        "advanced": {
+          "level": 5,
+          "notes": 321
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 607
+        }
       }
     },
     "chartPatterns": {
@@ -101639,7 +97377,7 @@ export const songs: Song[] = [
     "id": "jbt--jrvl",
     "title": "ウィリアム・テル序曲",
     "artist": "W.T.Orchestra",
-    "bpm": 120,
+    "bpm": "120-190",
     "genre": "クラシック",
     "difficulties": {
       "basic": {
@@ -102281,129 +98019,6 @@ export const songs: Song[] = [
       "festo",
       "clan",
       "Qubell"
-    ],
-    "atwikiHtmlId": 1603,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 300
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 584
-        },
-        "extreme": {
-          "level": 9.4,
-          "notes": 705
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 5,
-          "notes": 300
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 584
-        },
-        "extreme": {
-          "level": 9.4,
-          "notes": 705
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 5,
-          "notes": 300
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 584
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 705
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 5,
-          "notes": 300
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 584
-        },
-        "extreme": {
-          "level": 9.4,
-          "notes": 705
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 5,
-          "notes": 300
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 584
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 705
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 5,
-          "notes": 300
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 584
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 705
-        }
-      }
-    },
-    "avatar": "https://i.imgur.com/jpazxmv.png",
-    "genre": "オリジナル",
-    "appearanceVersion": "prop"
-  },
-  {
-    "id": "jbt--pma2",
-    "title": "エキサイティング！！も・ちゃ・ちゃ☆",
-    "artist": "187",
-    "bpm": 5,
-    "difficulties": {
-      "basic": {
-        "level": 7,
-        "notes": 584
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 705
-      },
-      "extreme": {
-        "level": 300,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "prop",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "prop"
     ],
     "atwikiHtmlId": 1603,
     "versionDifficulties": {
@@ -104994,118 +100609,6 @@ export const songs: Song[] = [
     "appearanceVersion": "saucer( [2] : clan )"
   },
   {
-    "id": "jbt--e8xl",
-    "title": "がんばれゴエモン ～ ビーストメドレー ～",
-    "artist": "96",
-    "bpm": 113,
-    "difficulties": {
-      "basic": {
-        "level": 2,
-        "notes": 188
-      },
-      "advanced": {
-        "level": 6,
-        "notes": 370
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 526
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "bpmRange": "113-190",
-    "versionHistory": [
-      "Qubell",
-      "Ave.",
-      "Beyond the Ave.",
-      "festo",
-      "clan"
-    ],
-    "atwikiHtmlId": 1775,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 370
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 526
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 370
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 526
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 2,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 370
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 526
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 2,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 370
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 526
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 188
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 370
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 526
-        }
-      }
-    },
-    "genre": "ゲーム",
-    "appearanceVersion": "Qubell"
-  },
-  {
     "id": "jbt--tzgy",
     "title": "がんばれよ",
     "artist": "TEE",
@@ -106927,7 +102430,7 @@ export const songs: Song[] = [
   {
     "id": "jbt--19j8",
     "title": "きょうもハレバレ",
-    "artist": "ふわりP feat.GUMI&#039;s",
+    "artist": "ふわりP feat.GUMI's",
     "bpm": 134,
     "difficulties": {
       "basic": {
@@ -106948,136 +102451,14 @@ export const songs: Song[] = [
     "deletedDate": "",
     "deletedIn": "",
     "versionHistory": [
-      "saucer fulfill",
-      "Ave.",
-      "clan",
-      "Qubell",
       "saucer",
-      "prop"
-    ],
-    "atwikiHtmlId": 1381,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 184
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 387
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 544
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 184
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 387
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 544
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 184
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 387
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 544
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 184
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 387
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 544
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 3,
-          "notes": 184
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 387
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 544
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 184
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 387
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 544
-        }
-      }
-    },
-    "genre": "ソーシャルミュージック",
-    "appearanceVersion": "plus"
-  },
-  {
-    "id": "jbt--7jol",
-    "title": "きょうもハレバレ",
-    "artist": "ふわりP feat.GUMI's",
-    "bpm": 134,
-    "difficulties": {
-      "basic": {
-        "level": 3,
-        "notes": 184
-      },
-      "advanced": {
-        "level": 6,
-        "notes": 387
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 544
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "plus先行配信",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
       "saucer fulfill",
-      "Beyond the Ave.",
-      "festo"
+      "prop",
+      "Qubell",
+      "clan",
+      "festo",
+      "Ave.",
+      "Beyond the Ave."
     ],
     "atwikiHtmlId": 1381,
     "versionDifficulties": {
@@ -107158,6 +102539,21 @@ export const songs: Song[] = [
       },
       "Qubell": {
         "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 184
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 387
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 544
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
         "basic": {
           "level": 3,
           "notes": 184
@@ -108263,6 +103659,21 @@ export const songs: Song[] = [
           "level": 10,
           "notes": 814
         }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 5,
+          "notes": 366
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 610
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 814
+        }
       }
     },
     "chartPatterns": {
@@ -109087,18 +104498,18 @@ export const songs: Song[] = [
     "id": "jbt--dhvf",
     "title": "コドモライブ",
     "artist": "onoken feat.asami",
-    "bpm": 140,
+    "bpm": "140-146",
     "difficulties": {
       "basic": {
-        "level": 3,
+        "level": 2,
         "notes": 228
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 403
       },
       "extreme": {
-        "level": 9,
+        "level": 8,
         "notes": 631
       }
     },
@@ -110507,7 +105918,7 @@ export const songs: Song[] = [
     "id": "jbt-BEMANISYMPHONYA-vrgb",
     "title": "さよなら世界 (BEMANI SYMPHONY Arr.)",
     "artist": "猫叉Master Arranged by ござ",
-    "bpm": 104,
+    "bpm": "104-120",
     "difficulties": {
       "basic": {
         "level": 2,
@@ -113449,34 +108860,6 @@ export const songs: Song[] = [
     "appearanceVersion": "ripples APPEND( [2] : festo )"
   },
   {
-    "id": "jbt--d5xp",
-    "title": "スペシャル",
-    "artist": "Idola",
-    "bpm": 0,
-    "difficulties": {
-      "basic": {
-        "level": 201,
-        "notes": 10
-      },
-      "advanced": {
-        "level": 5,
-        "notes": 395
-      },
-      "extreme": {
-        "level": 8,
-        "notes": 636
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "903",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1382
-  },
-  {
     "id": "jbt--omr1",
     "title": "スミスえかきうた",
     "artist": "jubeat staff",
@@ -113837,6 +109220,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 715
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 3,
+          "notes": 234
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 457
+        },
+        "extreme": {
+          "level": 9.3,
           "notes": 715
         }
       }
@@ -114491,7 +109889,7 @@ export const songs: Song[] = [
     "id": "jbt--33ag",
     "title": "たたえよ！絶対覇権アリーシャ帝国",
     "artist": "Blanc Bunny Bandit",
-    "bpm": 100,
+    "bpm": "100-145",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -117536,125 +112934,6 @@ export const songs: Song[] = [
     "appearanceVersion": "Qubell"
   },
   {
-    "id": "jbt--01nf",
-    "title": "ドーナツホール",
-    "artist": "252",
-    "bpm": 4,
-    "difficulties": {
-      "basic": {
-        "level": 6,
-        "notes": 479
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 704
-      },
-      "extreme": {
-        "level": 223,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1765,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 223
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 479
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 704
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 223
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 479
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 704
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 4,
-          "notes": 223
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 479
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 704
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 4,
-          "notes": 223
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 479
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 704
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 4,
-          "notes": 223
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 479
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 704
-        }
-      }
-    },
-    "chartPatterns": {
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "穴"
-        },
-        {
-          "type": "text",
-          "description": "穴,ドーナツホール(反転)"
-        }
-      ]
-    },
-    "genre": "ソーシャルミュージック",
-    "appearanceVersion": "Qubell"
-  },
-  {
     "id": "jbt--8jja",
     "title": "ドーパミン",
     "artist": "U1 overground",
@@ -117665,11 +112944,11 @@ export const songs: Song[] = [
         "notes": 390
       },
       "advanced": {
-        "level": 9,
+        "level": 8,
         "notes": 684
       },
       "extreme": {
-        "level": 10,
+        "level": 10.7,
         "notes": 1077
       }
     },
@@ -118545,161 +113824,6 @@ export const songs: Song[] = [
     "appearanceVersion": "prop"
   },
   {
-    "id": "jbt--zkhq",
-    "title": "とびっきりのふわっふわ",
-    "artist": "110",
-    "bpm": 3,
-    "difficulties": {
-      "basic": {
-        "level": 6,
-        "notes": 325
-      },
-      "advanced": {
-        "level": 7,
-        "notes": 425
-      },
-      "extreme": {
-        "level": 213,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "prop",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "prop"
-    ],
-    "atwikiHtmlId": 1602,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 213
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 325
-        },
-        "extreme": {
-          "level": 6,
-          "notes": 425
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 213
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 325
-        },
-        "extreme": {
-          "level": 6,
-          "notes": 425
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 213
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 325
-        },
-        "extreme": {
-          "level": 6,
-          "notes": 425
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 213
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 325
-        },
-        "extreme": {
-          "level": 6,
-          "notes": 425
-        }
-      },
-      "prop": {
-        "version": "prop",
-        "basic": {
-          "level": 3,
-          "notes": 213
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 325
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 425
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 213
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 325
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 425
-        }
-      }
-    },
-    "chartPatterns": {
-      "basic": [
-        {
-          "type": "text",
-          "description": "太陽,満月"
-        }
-      ],
-      "advanced": [
-        {
-          "type": "text",
-          "description": "太陽,満月"
-        }
-      ],
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "両手"
-        },
-        {
-          "type": "shape",
-          "description": "ハート"
-        },
-        {
-          "type": "text",
-          "description": "太陽,1,2,3,4,両手,ハート,♪"
-        },
-        {
-          "type": "kojinsa",
-          "label": "个人差"
-        }
-      ]
-    },
-    "avatar": "https://i.imgur.com/nZdj92U.png",
-    "genre": "オリジナル",
-    "appearanceVersion": "prop"
-  },
-  {
     "id": "jbt--0puc",
     "title": "とまどい→レシピ",
     "artist": "みかくにんぐッ！",
@@ -119263,7 +114387,7 @@ export const songs: Song[] = [
     "bpm": 185,
     "difficulties": {
       "basic": {
-        "level": 4,
+        "level": 3,
         "notes": 316
       },
       "advanced": {
@@ -119271,7 +114395,7 @@ export const songs: Song[] = [
         "notes": 585
       },
       "extreme": {
-        "level": 10,
+        "level": 10.3,
         "notes": 974
       }
     },
@@ -119296,7 +114420,7 @@ export const songs: Song[] = [
     "id": "jbt--z3g7",
     "title": "トルコ行進曲",
     "artist": "T.M. Orchestra",
-    "bpm": 150,
+    "bpm": "150-199",
     "genre": "クラシック",
     "difficulties": {
       "basic": {
@@ -120470,7 +115594,7 @@ export const songs: Song[] = [
     "id": "jbt--fvop",
     "title": "ネハン",
     "artist": "Somari",
-    "bpm": 130,
+    "bpm": "130-160",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -122063,7 +117187,7 @@ export const songs: Song[] = [
     "id": "jbt-5jubeatversion-v7bx",
     "title": "ハンガリー舞曲 第5番 (jubeat version)",
     "artist": "H.D.5 Orchestra",
-    "bpm": 80,
+    "bpm": "80-200",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -122074,7 +117198,7 @@ export const songs: Song[] = [
         "notes": 383
       },
       "extreme": {
-        "level": 9,
+        "level": 9.7,
         "notes": 593
       }
     },
@@ -122468,137 +117592,6 @@ export const songs: Song[] = [
     "appearanceVersion": "Qubell(plus初出)"
   },
   {
-    "id": "jbt--pv6j",
-    "title": "パンダヒーロー",
-    "artist": "190",
-    "bpm": 4,
-    "difficulties": {
-      "basic": {
-        "level": 7,
-        "notes": 490
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 826
-      },
-      "extreme": {
-        "level": 249,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1764,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 249
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 490
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 826
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 249
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 490
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 826
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 4,
-          "notes": 249
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 490
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 826
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 4,
-          "notes": 249
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 490
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 826
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 4,
-          "notes": 249
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 490
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 826
-        }
-      }
-    },
-    "chartPatterns": {
-      "extreme": [
-        {
-          "type": "shape",
-          "description": "注射の針"
-        },
-        {
-          "type": "shape",
-          "description": "金属バット"
-        },
-        {
-          "type": "shape",
-          "description": "呑まれてく"
-        },
-        {
-          "type": "text",
-          "description": "注射の針,金属バット,呑まれてく"
-        },
-        {
-          "type": "sahyou",
-          "label": "诈称"
-        }
-      ]
-    },
-    "genre": "ソーシャルミュージック",
-    "appearanceVersion": "Qubell(plus初出)"
-  },
-  {
     "id": "jbt--vbe9",
     "title": "バンブーソード・ガール",
     "artist": "cosMo@暴走P",
@@ -122609,11 +117602,11 @@ export const songs: Song[] = [
         "notes": 342
       },
       "advanced": {
-        "level": 9,
+        "level": 9.1,
         "notes": 722
       },
       "extreme": {
-        "level": 10,
+        "level": 10.2,
         "notes": 896
       }
     },
@@ -122767,7 +117760,7 @@ export const songs: Song[] = [
     "id": "jbt--a890",
     "title": "ピアノ独奏無言歌 ”灰燼”",
     "artist": "BEMANI Sound Team \"Virkato Wakhmaninov\"",
-    "bpm": 100,
+    "bpm": "100-200",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -125067,11 +120060,11 @@ export const songs: Song[] = [
         "notes": 367
       },
       "advanced": {
-        "level": 8,
+        "level": 7,
         "notes": 643
       },
       "extreme": {
-        "level": 10,
+        "level": 10.3,
         "notes": 894
       }
     },
@@ -126343,11 +121336,11 @@ export const songs: Song[] = [
         "notes": 367
       },
       "advanced": {
-        "level": 8,
+        "level": 7,
         "notes": 637
       },
       "extreme": {
-        "level": 9,
+        "level": 9.5,
         "notes": 854
       }
     },
@@ -127901,38 +122894,10 @@ export const songs: Song[] = [
     "appearanceVersion": "festo"
   },
   {
-    "id": "jbt--t283",
-    "title": "まとめ",
-    "artist": "きょうもハレバレ",
-    "bpm": 39,
-    "difficulties": {
-      "basic": {
-        "level": 134,
-        "notes": 8
-      },
-      "advanced": {
-        "level": 3,
-        "notes": 184
-      },
-      "extreme": {
-        "level": 6,
-        "notes": 387
-      }
-    },
-    "firstAppearance": "saucer fulfill",
-    "releaseDate": "544",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "saucer fulfill"
-    ],
-    "atwikiHtmlId": 1381
-  },
-  {
     "id": "jbt--onuf",
     "title": "マトリョシカ",
     "artist": "ハチ",
-    "bpm": 205,
+    "bpm": "205-296",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -128224,11 +123189,11 @@ export const songs: Song[] = [
     "bpm": 155,
     "difficulties": {
       "basic": {
-        "level": 4,
+        "level": 3,
         "notes": 274
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 494
       },
       "extreme": {
@@ -129089,7 +124054,7 @@ export const songs: Song[] = [
     "id": "jbt--44j7",
     "title": "ミラクル・スイート・スイーツ・マジック！！",
     "artist": "日向美ビタースイーツ♪",
-    "bpm": 88,
+    "bpm": "88-206",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -129220,7 +124185,7 @@ export const songs: Song[] = [
     "id": "jbt--vc2f",
     "title": "ムラサキグルマ",
     "artist": "ここなつ Produced by はるなば",
-    "bpm": 144,
+    "bpm": "144-180",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -131944,15 +126909,15 @@ export const songs: Song[] = [
     "bpm": 140,
     "difficulties": {
       "basic": {
-        "level": 5,
+        "level": 4,
         "notes": 400
       },
       "advanced": {
-        "level": 7,
+        "level": 6,
         "notes": 488
       },
       "extreme": {
-        "level": 9,
+        "level": 8,
         "notes": 700
       }
     },
@@ -132059,6 +127024,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 700
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 5,
+          "notes": 400
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 488
+        },
+        "extreme": {
+          "level": 8,
           "notes": 700
         }
       }
@@ -132830,6 +127810,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 10,
+          "notes": 930
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 4,
+          "notes": 336
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 629
+        },
+        "extreme": {
+          "level": 9.1,
           "notes": 930
         }
       }
@@ -134801,7 +129796,7 @@ export const songs: Song[] = [
     "id": "jbt--0v6s",
     "title": "運命",
     "artist": "No.5 Orchestra",
-    "bpm": 198,
+    "bpm": "198-299",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -136879,7 +131874,7 @@ export const songs: Song[] = [
     "id": "jbt--hhzq",
     "title": "我が麗しのバレンシア",
     "artist": "劇団レコード feat. Mille Face",
-    "bpm": 130,
+    "bpm": "130-150",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -137918,7 +132913,7 @@ export const songs: Song[] = [
     "id": "jbt--rjbc",
     "title": "覚悟せよ！エンタンメ～ン ～より身の切り売り自暴自棄版～",
     "artist": "マキシウキョウ",
-    "bpm": 141,
+    "bpm": "141-176",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -138220,113 +133215,6 @@ export const songs: Song[] = [
       "Beyond the Ave.",
       "festo",
       "clan"
-    ],
-    "atwikiHtmlId": 1697,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 134
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 399
-        },
-        "extreme": {
-          "level": 9.1,
-          "notes": 592
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 2,
-          "notes": 134
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 399
-        },
-        "extreme": {
-          "level": 9.1,
-          "notes": 592
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 308
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 500
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 687
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 308
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 500
-        },
-        "extreme": {
-          "level": 7,
-          "notes": 687
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 4,
-          "notes": 308
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 500
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 687
-        }
-      }
-    },
-    "genre": "東方アレンジ",
-    "appearanceVersion": "Qubell( [2] : festo )"
-  },
-  {
-    "id": "jbt--s19x",
-    "title": "眼光",
-    "artist": "165",
-    "bpm": 4,
-    "difficulties": {
-      "basic": {
-        "level": 7,
-        "notes": 500
-      },
-      "advanced": {
-        "level": 8,
-        "notes": 687
-      },
-      "extreme": {
-        "level": 308,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
     ],
     "atwikiHtmlId": 1697,
     "versionDifficulties": {
@@ -141710,114 +136598,6 @@ export const songs: Song[] = [
     "appearanceVersion": "Qubell"
   },
   {
-    "id": "jbt--aue1",
-    "title": "見習い天使と星降りの丘",
-    "artist": "174",
-    "bpm": 4,
-    "difficulties": {
-      "basic": {
-        "level": 8,
-        "notes": 553
-      },
-      "advanced": {
-        "level": 10,
-        "notes": 806
-      },
-      "extreme": {
-        "level": 264,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1791,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 264
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 553
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 806
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 3,
-          "notes": 264
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 553
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 806
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 264
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 553
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 806
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 3,
-          "notes": 264
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 553
-        },
-        "extreme": {
-          "level": 9.7,
-          "notes": 806
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 4,
-          "notes": 264
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 553
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 806
-        }
-      }
-    },
-    "avatar": "http://i.imgur.com/udyobF0.png",
-    "genre": "オリジナル",
-    "appearanceVersion": "Qubell"
-  },
-  {
     "id": "jbt--yd6k",
     "title": "元気でやってるのかい?",
     "artist": "イルリメ",
@@ -142121,113 +136901,6 @@ export const songs: Song[] = [
     "appearanceVersion": "Qubell"
   },
   {
-    "id": "jbt--pmj1",
-    "title": "厳冬記",
-    "artist": "150",
-    "bpm": 5,
-    "difficulties": {
-      "basic": {
-        "level": 9,
-        "notes": 653
-      },
-      "advanced": {
-        "level": 10,
-        "notes": 745
-      },
-      "extreme": {
-        "level": 332,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1700,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 332
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 653
-        },
-        "extreme": {
-          "level": 10.4,
-          "notes": 745
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 332
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 653
-        },
-        "extreme": {
-          "level": 10.4,
-          "notes": 745
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 4,
-          "notes": 332
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 653
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 745
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 4,
-          "notes": 332
-        },
-        "advanced": {
-          "level": 8,
-          "notes": 653
-        },
-        "extreme": {
-          "level": 10.4,
-          "notes": 745
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 5,
-          "notes": 332
-        },
-        "advanced": {
-          "level": 9,
-          "notes": 653
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 745
-        }
-      }
-    },
-    "genre": "東方アレンジ",
-    "appearanceVersion": "Qubell"
-  },
-  {
     "id": "jbt--yz0l",
     "title": "幻想リフレクト",
     "artist": "イルカブ",
@@ -142290,7 +136963,7 @@ export const songs: Song[] = [
         "notes": 461
       },
       "extreme": {
-        "level": 9,
+        "level": 8,
         "notes": 644
       }
     },
@@ -142566,18 +137239,18 @@ export const songs: Song[] = [
     "id": "jbt--xd3o",
     "title": "御千手メディテーション",
     "artist": "昇天家族",
-    "bpm": 150,
+    "bpm": "150-190",
     "difficulties": {
       "basic": {
-        "level": 6,
+        "level": 5,
         "notes": 496
       },
       "advanced": {
-        "level": 9,
+        "level": 9.1,
         "notes": 710
       },
       "extreme": {
-        "level": 10,
+        "level": 10.3,
         "notes": 889
       }
     },
@@ -145544,37 +140217,6 @@ export const songs: Song[] = [
     "appearanceVersion": "saucer fulfill( [2] : Qubell )"
   },
   {
-    "id": "jbt-2-g892",
-    "title": "枝に結ぶ願い[2]",
-    "artist": "204",
-    "bpm": 4,
-    "difficulties": {
-      "basic": {
-        "level": 8,
-        "notes": 519
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 735
-      },
-      "extreme": {
-        "level": 357,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1416,
-    "avatar": "http://i.imgur.com/n7BPcQg.jpg",
-    "genre": "オリジナル",
-    "appearanceVersion": "saucer fulfill( [2] : Qubell )"
-  },
-  {
     "id": "jbt--qja0",
     "title": "時の妖花",
     "artist": "ゲーム実況わくわくバンド",
@@ -146612,7 +141254,7 @@ export const songs: Song[] = [
         "notes": 582
       },
       "extreme": {
-        "level": 9,
+        "level": 9.2,
         "notes": 734
       }
     },
@@ -146719,6 +141361,21 @@ export const songs: Song[] = [
         },
         "extreme": {
           "level": 9,
+          "notes": 734
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 4,
+          "notes": 286
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 582
+        },
+        "extreme": {
+          "level": 9.2,
           "notes": 734
         }
       }
@@ -149109,68 +143766,6 @@ export const songs: Song[] = [
     "versionHistory": [
       "Qubell",
       "clan"
-    ],
-    "atwikiHtmlId": 1698,
-    "versionDifficulties": {
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 2,
-          "notes": 240
-        },
-        "advanced": {
-          "level": 5,
-          "notes": 429
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 728
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 3,
-          "notes": 240
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 429
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 728
-        }
-      }
-    },
-    "genre": "ソーシャルミュージック",
-    "appearanceVersion": "Qubell"
-  },
-  {
-    "id": "jbt--d1fa",
-    "title": "制作現場での出来事",
-    "artist": "150",
-    "bpm": 3,
-    "difficulties": {
-      "basic": {
-        "level": 6,
-        "notes": 429
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 728
-      },
-      "extreme": {
-        "level": 240,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
     ],
     "atwikiHtmlId": 1698,
     "versionDifficulties": {
@@ -152633,7 +147228,7 @@ export const songs: Song[] = [
     "id": "jbt-BEMANISYMPHONYA-65jo",
     "title": "嘆きの樹 (BEMANI SYMPHONY Arr.)",
     "artist": "金獅子 × Nagiha & Osamu Kubota + gaQdan",
-    "bpm": 61,
+    "bpm": "61-156",
     "difficulties": {
       "basic": {
         "level": 5,
@@ -153734,7 +148329,7 @@ export const songs: Song[] = [
     "id": "jbt--baph",
     "title": "天ノ弱",
     "artist": "164 feat. GUMI",
-    "bpm": 200,
+    "bpm": "200-205",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -153869,6 +148464,21 @@ export const songs: Song[] = [
           "level": 9,
           "notes": 675
         }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 3,
+          "notes": 196
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 398
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 675
+        }
       }
     },
     "chartPatterns": {
@@ -153886,7 +148496,7 @@ export const songs: Song[] = [
     "id": "jbt-2-4789",
     "title": "天ノ弱[2]",
     "artist": "164 feat. GUMI",
-    "bpm": 200,
+    "bpm": "200-205",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -153897,7 +148507,7 @@ export const songs: Song[] = [
         "notes": 557
       },
       "extreme": {
-        "level": 9,
+        "level": 9.8,
         "notes": 701
       }
     },
@@ -154267,7 +148877,7 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--ye40",
-    "title": "天国と地獄",
+    "title": "天国と地獄 (Mutsuhiko Izumi)",
     "artist": "Mutsuhiko Izumi",
     "bpm": 195,
     "genre": "クラシック",
@@ -154489,7 +149099,7 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--vl11",
-    "title": "天国と地獄",
+    "title": "天国と地獄 (UNISON SQUARE GARDEN)",
     "artist": "UNISON SQUARE GARDEN",
     "bpm": 150,
     "genre": "クラシック",
@@ -156085,7 +150695,7 @@ export const songs: Song[] = [
         "notes": 496
       },
       "extreme": {
-        "level": 10,
+        "level": 9.5,
         "notes": 812
       }
     },
@@ -156726,7 +151336,7 @@ export const songs: Song[] = [
     "id": "jbt--r9gi",
     "title": "白鳥の湖",
     "artist": "Swan Lake Orchestra",
-    "bpm": 180,
+    "bpm": "180-300",
     "genre": "クラシック",
     "difficulties": {
       "basic": {
@@ -157238,7 +151848,7 @@ export const songs: Song[] = [
     "id": "jbt--a2ux",
     "title": "斑咲花",
     "artist": "mami,駄々子 by BEMANI Sound Team \"Akhuta Works\"",
-    "bpm": 134,
+    "bpm": "134-201",
     "difficulties": {
       "basic": {
         "level": 4,
@@ -157485,7 +152095,7 @@ export const songs: Song[] = [
         "notes": 318
       },
       "advanced": {
-        "level": 6,
+        "level": 5,
         "notes": 468
       },
       "extreme": {
@@ -157586,6 +152196,21 @@ export const songs: Song[] = [
       },
       "Qubell": {
         "version": "Qubell",
+        "basic": {
+          "level": 4,
+          "notes": 318
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 468
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 694
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
         "basic": {
           "level": 4,
           "notes": 318
@@ -157833,68 +152458,6 @@ export const songs: Song[] = [
     "versionHistory": [
       "Qubell",
       "clan"
-    ],
-    "atwikiHtmlId": 1701,
-    "versionDifficulties": {
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 3,
-          "notes": 258
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 451
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 924
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 4,
-          "notes": 258
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 451
-        },
-        "extreme": {
-          "level": 10,
-          "notes": 924
-        }
-      }
-    },
-    "genre": "ソーシャルミュージック",
-    "appearanceVersion": "Qubell"
-  },
-  {
-    "id": "jbt-RunnersHigh-b36n",
-    "title": "負けないよ…-Runners High-",
-    "artist": "155",
-    "bpm": 4,
-    "difficulties": {
-      "basic": {
-        "level": 7,
-        "notes": 451
-      },
-      "advanced": {
-        "level": 10,
-        "notes": 924
-      },
-      "extreme": {
-        "level": 258,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
     ],
     "atwikiHtmlId": 1701,
     "versionDifficulties": {
@@ -158466,7 +153029,7 @@ export const songs: Song[] = [
     "id": "jbt--xlu0",
     "title": "変わりゆく時間とノスタルジアと",
     "artist": "あずときだしゅんすけ",
-    "bpm": 105,
+    "bpm": "105-141",
     "difficulties": {
       "basic": {
         "level": 2,
@@ -158985,7 +153548,7 @@ export const songs: Song[] = [
     "id": "jbt--v947",
     "title": "飽和世界",
     "artist": "猫叉Master",
-    "bpm": 70,
+    "bpm": "70-118",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -160588,7 +155151,7 @@ export const songs: Song[] = [
     "id": "jbt--7hbk",
     "title": "夢有",
     "artist": "Des-ROW・組",
-    "bpm": 145,
+    "bpm": "145-170",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -161987,7 +156550,7 @@ export const songs: Song[] = [
     "id": "jbt--8oro",
     "title": "流砂の嵐",
     "artist": "劇団レコード",
-    "bpm": 140,
+    "bpm": "140-146",
     "genre": "オリジナル",
     "difficulties": {
       "basic": {
@@ -164401,7 +158964,7 @@ export const songs: Song[] = [
     "id": "jbt--f07j",
     "title": "恋歌疾風！かるたクイーンいろは",
     "artist": "ねこまんまチーム！",
-    "bpm": 120,
+    "bpm": "120-168",
     "difficulties": {
       "basic": {
         "level": 3,
@@ -165110,114 +159673,6 @@ export const songs: Song[] = [
     "appearanceVersion": "Qubell"
   },
   {
-    "id": "jbt--tmna",
-    "title": "六花にくちづけ",
-    "artist": "210",
-    "bpm": 5,
-    "difficulties": {
-      "basic": {
-        "level": 7,
-        "notes": 538
-      },
-      "advanced": {
-        "level": 9,
-        "notes": 694
-      },
-      "extreme": {
-        "level": 291,
-        "notes": 0
-      }
-    },
-    "firstAppearance": "Qubell",
-    "releaseDate": "",
-    "deletedDate": "",
-    "deletedIn": "",
-    "versionHistory": [
-      "Qubell"
-    ],
-    "atwikiHtmlId": 1671,
-    "versionDifficulties": {
-      "Ave.": {
-        "version": "Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 291
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 538
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 694
-        }
-      },
-      "Beyond the Ave.": {
-        "version": "Beyond the Ave.",
-        "basic": {
-          "level": 4,
-          "notes": 291
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 538
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 694
-        }
-      },
-      "clan": {
-        "version": "clan",
-        "basic": {
-          "level": 4,
-          "notes": 291
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 538
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 694
-        }
-      },
-      "festo": {
-        "version": "festo",
-        "basic": {
-          "level": 4,
-          "notes": 291
-        },
-        "advanced": {
-          "level": 6,
-          "notes": 538
-        },
-        "extreme": {
-          "level": 8,
-          "notes": 694
-        }
-      },
-      "Qubell": {
-        "version": "Qubell",
-        "basic": {
-          "level": 5,
-          "notes": 291
-        },
-        "advanced": {
-          "level": 7,
-          "notes": 538
-        },
-        "extreme": {
-          "level": 9,
-          "notes": 694
-        }
-      }
-    },
-    "avatar": "https://remywiki.com/images/thumb/3/3f/Rikka_ni_kuchizuke.png/200px-Rikka_ni_kuchizuke.png",
-    "genre": "オリジナル",
-    "appearanceVersion": "Qubell"
-  },
-  {
     "id": "jbt-beat-jcs9",
     "title": "和beat",
     "artist": "Flash back Dominant",
@@ -165502,7 +159957,7 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--dpjg",
-    "title": "凛として咲く花の如く",
+    "title": "凛として咲く花の如く (紅色リトマス)",
     "artist": "紅色リトマス",
     "bpm": 163,
     "genre": "オリジナル",
@@ -165513,11 +159968,11 @@ export const songs: Song[] = [
       },
       "advanced": {
         "level": 6,
-        "notes": 532
+        "notes": 542
       },
       "extreme": {
         "level": 9.1,
-        "notes": 772
+        "notes": 926
       }
     },
     "firstAppearance": "jubeat",
@@ -165732,7 +160187,7 @@ export const songs: Song[] = [
   },
   {
     "id": "jbt--5k58",
-    "title": "凛として咲く花の如く",
+    "title": "凛として咲く花の如く (大神ミオ)",
     "artist": "大神ミオ",
     "bpm": 163,
     "genre": "オリジナル",
@@ -167144,5 +161599,1093 @@ export const songs: Song[] = [
     },
     "genre": "アニメ",
     "appearanceVersion": "Qubell"
+  },
+  {
+    "id": "jbt-AREA51-3xde",
+    "title": "AREA 51",
+    "artist": "96",
+    "bpm": 188,
+    "genre": "オリジナル",
+    "difficulties": {
+      "basic": {
+        "level": 6,
+        "notes": 409
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 562
+      },
+      "extreme": {
+        "level": 9.5,
+        "notes": 828
+      }
+    },
+    "firstAppearance": "ripples",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "ripples",
+      "Ave.",
+      "Beyond the Ave.",
+      "festo",
+      "clan",
+      "Qubell",
+      "prop",
+      "saucer fulfill",
+      "saucer",
+      "copious"
+    ],
+    "atwikiHtmlId": 132,
+    "versionDifficulties": {
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 828
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 828
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 828
+        }
+      },
+      "copious": {
+        "version": "copious",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 828
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 9.5,
+          "notes": 828
+        }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 828
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 828
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 828
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 6,
+          "notes": 409
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 562
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 828
+        }
+      }
+    },
+    "chartPatterns": {
+      "basic": [
+        {
+          "type": "gyakusahyou",
+          "label": "逆诈称"
+        }
+      ],
+      "extreme": [
+        {
+          "type": "kojinsa",
+          "label": "个人差"
+        }
+      ]
+    },
+    "avatar": "http://i.imgur.com/dERBf0d.png",
+    "appearanceVersion": "ripples"
+  },
+  {
+    "id": "jbt-DevilFishDumpli-jkqa",
+    "title": "Devil Fish Dumpling",
+    "artist": "96",
+    "bpm": 166,
+    "genre": "オリジナル",
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 361
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 512
+      },
+      "extreme": {
+        "level": 10.1,
+        "notes": 733
+      }
+    },
+    "firstAppearance": "copious",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "copious",
+      "Ave.",
+      "Beyond the Ave.",
+      "festo",
+      "clan",
+      "Qubell",
+      "prop",
+      "saucer fulfill",
+      "saucer"
+    ],
+    "atwikiHtmlId": 535,
+    "versionDifficulties": {
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 733
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 4,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 733
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 4,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 733
+        }
+      },
+      "copious": {
+        "version": "copious",
+        "basic": {
+          "level": 5,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 733
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 4,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10.1,
+          "notes": 733
+        }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 5,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 733
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 5,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 733
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 5,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 733
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 361
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 512
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 733
+        }
+      }
+    },
+    "chartPatterns": {
+      "extreme": [
+        {
+          "type": "shape",
+          "description": "蛸"
+        }
+      ]
+    },
+    "appearanceVersion": "copious"
+  },
+  {
+    "id": "jbt-GIGABREAK-2o8m",
+    "title": "GIGA BREAK",
+    "artist": "96",
+    "bpm": 135,
+    "genre": "オリジナル",
+    "difficulties": {
+      "basic": {
+        "level": 6,
+        "notes": 335
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 449
+      },
+      "extreme": {
+        "level": 9.7,
+        "notes": 716
+      }
+    },
+    "firstAppearance": "jubeat",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "jubeat",
+      "Ave.",
+      "Beyond the Ave.",
+      "festo",
+      "clan",
+      "Qubell",
+      "prop",
+      "saucer fulfill",
+      "saucer",
+      "copious"
+    ],
+    "atwikiHtmlId": 86,
+    "versionDifficulties": {
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 716
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 716
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 716
+        }
+      },
+      "copious": {
+        "version": "copious",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 716
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 9.7,
+          "notes": 716
+        }
+      },
+      "jubeat": {
+        "version": "jubeat",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 716
+        }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 716
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 716
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 716
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 6,
+          "notes": 335
+        },
+        "advanced": {
+          "level": 7,
+          "notes": 449
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 716
+        }
+      }
+    },
+    "appearanceVersion": "初代"
+  },
+  {
+    "id": "jbt-HYDRA-muju",
+    "title": "HYDRA",
+    "artist": "96",
+    "bpm": 277,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 235
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 672
+      },
+      "extreme": {
+        "level": 9.2,
+        "notes": 776
+      }
+    },
+    "firstAppearance": "saucer",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "saucer fulfill",
+      "Ave.",
+      "Beyond the Ave.",
+      "festo",
+      "clan",
+      "Qubell",
+      "saucer",
+      "prop"
+    ],
+    "atwikiHtmlId": 1309,
+    "versionDifficulties": {
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 776
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 776
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 776
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 9.2,
+          "notes": 776
+        }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 9,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 776
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 9,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 776
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 3,
+          "notes": 235
+        },
+        "advanced": {
+          "level": 9,
+          "notes": 672
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 776
+        }
+      }
+    },
+    "chartPatterns": {
+      "advanced": [
+        {
+          "type": "shape",
+          "description": "蛇"
+        },
+        {
+          "type": "shape",
+          "description": "大蛇"
+        },
+        {
+          "type": "text",
+          "description": "蛇,大蛇"
+        }
+      ],
+      "extreme": [
+        {
+          "type": "shape",
+          "description": "蛇"
+        },
+        {
+          "type": "shape",
+          "description": "大蛇"
+        },
+        {
+          "type": "text",
+          "description": "蛇,大蛇,蛇"
+        }
+      ]
+    },
+    "avatar": "http://i.imgur.com/glCK4x7.png",
+    "genre": "オリジナル",
+    "appearanceVersion": "saucer fulfill"
+  },
+  {
+    "id": "jbt-ShiningWizard-0tb1",
+    "title": "Shining Wizard",
+    "artist": "96",
+    "bpm": 158,
+    "genre": "オリジナル",
+    "difficulties": {
+      "basic": {
+        "level": 5,
+        "notes": 341
+      },
+      "advanced": {
+        "level": 8,
+        "notes": 585
+      },
+      "extreme": {
+        "level": 9.8,
+        "notes": 757
+      }
+    },
+    "firstAppearance": "knit",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "versionHistory": [
+      "knit",
+      "Ave.",
+      "Beyond the Ave.",
+      "festo",
+      "clan",
+      "Qubell",
+      "prop",
+      "saucer fulfill",
+      "saucer",
+      "copious"
+    ],
+    "atwikiHtmlId": 270,
+    "versionDifficulties": {
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 757
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 757
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 757
+        }
+      },
+      "copious": {
+        "version": "copious",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 757
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 9.8,
+          "notes": 757
+        }
+      },
+      "prop": {
+        "version": "prop",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 757
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 757
+        }
+      },
+      "saucer fulfill": {
+        "version": "saucer fulfill",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 757
+        }
+      },
+      "saucer": {
+        "version": "saucer",
+        "basic": {
+          "level": 5,
+          "notes": 341
+        },
+        "advanced": {
+          "level": 8,
+          "notes": 585
+        },
+        "extreme": {
+          "level": 10,
+          "notes": 757
+        }
+      }
+    },
+    "chartPatterns": {
+      "extreme": [
+        {
+          "type": "sahyou",
+          "label": "诈称"
+        }
+      ]
+    },
+    "appearanceVersion": "knit"
+  },
+  {
+    "id": "jbt--e8xl",
+    "title": "がんばれゴエモン ～ ビーストメドレー ～",
+    "artist": "96",
+    "bpm": "113-190",
+    "difficulties": {
+      "basic": {
+        "level": 2,
+        "notes": 188
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 370
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 526
+      }
+    },
+    "firstAppearance": "Qubell",
+    "releaseDate": "",
+    "deletedDate": "",
+    "deletedIn": "",
+    "bpmRange": "113-190",
+    "versionHistory": [
+      "Qubell",
+      "Ave.",
+      "Beyond the Ave.",
+      "festo",
+      "clan"
+    ],
+    "atwikiHtmlId": 1775,
+    "versionDifficulties": {
+      "Ave.": {
+        "version": "Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 188
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 370
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 526
+        }
+      },
+      "Beyond the Ave.": {
+        "version": "Beyond the Ave.",
+        "basic": {
+          "level": 2,
+          "notes": 188
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 370
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 526
+        }
+      },
+      "clan": {
+        "version": "clan",
+        "basic": {
+          "level": 2,
+          "notes": 188
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 370
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 526
+        }
+      },
+      "festo": {
+        "version": "festo",
+        "basic": {
+          "level": 2,
+          "notes": 188
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 370
+        },
+        "extreme": {
+          "level": 8,
+          "notes": 526
+        }
+      },
+      "Qubell": {
+        "version": "Qubell",
+        "basic": {
+          "level": 3,
+          "notes": 188
+        },
+        "advanced": {
+          "level": 6,
+          "notes": 370
+        },
+        "extreme": {
+          "level": 9,
+          "notes": 526
+        }
+      }
+    },
+    "genre": "ゲーム",
+    "appearanceVersion": "Qubell"
+  },
+  {
+    "id": "jbt-NowLoading-qp97",
+    "title": "Now Loading!!!!",
+    "artist": "fourfolium",
+    "bpm": 193,
+    "difficulties": {
+      "basic": {
+        "level": 3,
+        "notes": 171
+      },
+      "advanced": {
+        "level": 6,
+        "notes": 361
+      },
+      "extreme": {
+        "level": 8,
+        "notes": 471
+      }
+    },
+    "firstAppearance": "Qubell",
+    "isLicense": true,
+    "versionHistory": [
+      "Qubell"
+    ]
+  },
+  {
+    "id": "jbt-Shake-8xhy",
+    "title": "Shake!",
+    "artist": "fourfolium",
+    "bpm": 170,
+    "difficulties": {
+      "basic": {
+        "level": 4,
+        "notes": 241
+      },
+      "advanced": {
+        "level": 7,
+        "notes": 461
+      },
+      "extreme": {
+        "level": 9,
+        "notes": 595
+      }
+    },
+    "firstAppearance": "Qubell",
+    "isLicense": true,
+    "versionHistory": [
+      "Qubell"
+    ]
   }
 ];
+
+export default songs;
