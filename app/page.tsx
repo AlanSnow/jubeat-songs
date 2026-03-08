@@ -73,7 +73,7 @@ export default function Home() {
       return {
         ...song,
         // Override difficulties with version-specific ones if available
-        displayDifficulties: versionDifficulties || song.difficulties,
+        displayDifficulties: versionDifficulties || Object.values(song.versionDifficulties)[0],
       };
     });
   }, [selectedVersion]);
@@ -161,8 +161,26 @@ export default function Home() {
     // BPM range filter
     if (filters.minBpm || filters.maxBpm) {
       result = result.filter((song) => {
-        if (filters.minBpm && song.bpm < filters.minBpm) return false;
-        if (filters.maxBpm && song.bpm > filters.maxBpm) return false;
+        // 解析 bpmRange (可能是 "160" 或 "135-175")
+        const bpmRange = song.bpmRange;
+        if (!bpmRange) return true;
+
+        let minBpm: number;
+        let maxBpm: number;
+
+        if (bpmRange.includes('-')) {
+          const [min, max] = bpmRange.split('-').map(Number);
+          minBpm = min;
+          maxBpm = max;
+        } else {
+          const bpm = Number(bpmRange);
+          minBpm = bpm;
+          maxBpm = bpm;
+        }
+
+        // 如果歌曲的 BPM 范围与过滤条件有重叠，则保留
+        if (filters.minBpm && maxBpm < filters.minBpm) return false;
+        if (filters.maxBpm && minBpm > filters.maxBpm) return false;
         return true;
       });
     }

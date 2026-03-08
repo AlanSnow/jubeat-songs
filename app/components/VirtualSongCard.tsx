@@ -4,8 +4,17 @@ import { memo, CSSProperties } from 'react';
 import { Song } from '@/lib/types';
 import { ImageOff } from 'lucide-react';
 
+// Extended song type with displayDifficulties
+interface DisplaySong extends Song {
+  displayDifficulties?: {
+    basic: { level: number; notes: number };
+    advanced: { level: number; notes: number };
+    extreme: { level: number; notes: number };
+  };
+}
+
 interface VirtualSongCardProps {
-  song: Song;
+  song: DisplaySong;
   isDarkMode: boolean;
   viewMode: 'card' | 'list';
   style?: CSSProperties;
@@ -39,11 +48,11 @@ const VERSION_COLORS: Record<string, string> = {
   'Qubell': 'bg-fuchsia-500',
   'clan': 'bg-rose-500',
   'festo': 'bg-cyan-500',
-  'Ave.': 'bg-pink-500',
-  'Beyond the Ave.': 'bg-purple-600',
+  'Ave.': 'bg-teal-500',
+  'Beyond the Ave.': 'bg-pink-500',
+  '音乐魔方': 'bg-red-600',
 };
 
-// Genre colors
 const GENRE_COLORS: Record<string, string> = {
   'ポップス': 'bg-pink-500',
   'アニメ': 'bg-orange-500',
@@ -51,50 +60,78 @@ const GENRE_COLORS: Record<string, string> = {
   'バラエティ': 'bg-green-500',
   'ナムコオリジナル': 'bg-blue-500',
   'コナミオリジナル': 'bg-red-500',
+  'オリジナル': 'bg-indigo-500',
+  'TV CM': 'bg-cyan-500',
+  'TV CM洋楽': 'bg-cyan-600',
+  '懐メロ': 'bg-amber-500',
+  'TVドラマ': 'bg-teal-500',
+  'TV ドラマ': 'bg-teal-500',
+  'TV ドラマ・バラエティ': 'bg-teal-600',
+  '洋楽': 'bg-blue-400',
+  'クラシック': 'bg-yellow-600',
+  'ソーシャルミュージック': 'bg-green-400',
+  'ゲーム': 'bg-purple-400',
 };
 
 const GENRE_LABELS: Record<string, string> = {
   'ポップス': '流行',
-  'アニメ': '动漫',
+  'アニメ': '动画',
   '東方アレンジ': '东方',
   'バラエティ': '综艺',
-  'ナムコオリジナル': 'NAMCO原创',
-  'コナミオリジナル': 'KONAMI原创',
+  'ナムコオリジナル': 'NAMCO',
+  'コナミオリジナル': 'KONAMI',
+  'オリジナル': '原创',
+  'TV CM': '广告',
+  'TV CM洋楽': '洋乐广告',
+  '懐メロ': '怀旧',
+  'TVドラマ': '剧集',
+  'TV ドラマ': '剧集',
+  'TV ドラマ・バラエティ': '剧综',
+  '洋楽': '洋乐',
+  'クラシック': '古典',
+  'ソーシャルミュージック': '社交音乐',
+  'ゲーム': '游戏',
+  'VOCALOID': 'V家',
+  'バラエティ懐メロ': '怀旧综艺',
+  'TVドラマ懐メロ': '怀旧剧集',
+  'TV ドラマ・バラエティ懐メロ': '怀旧综艺剧集',
 };
 
-// Memoized for performance in virtual scrolling
 function VirtualSongCard({ song, isDarkMode, viewMode, style }: VirtualSongCardProps) {
   const hasAvatar = song.avatar && song.avatar.length > 0;
 
+  // Use version-specific difficulties if available, otherwise use first available version
+  const difficulties = song.displayDifficulties || Object.values(song.versionDifficulties)[0];
+
+  // List mode - compact horizontal layout
   if (viewMode === 'list') {
     return (
       <div
-        className={`flex items-center gap-3 p-3 rounded-lg transition-all duration-200 hover:shadow-md ${
-          isDarkMode
-            ? 'bg-gray-800/50 border border-gray-700 hover:border-gray-600'
-            : 'bg-white border border-gray-200 hover:border-gray-300'
-        }`}
         style={style}
+        className={`flex items-center gap-3 px-4 py-3 border-b transition-colors ${
+          isDarkMode
+            ? 'border-gray-700 hover:bg-gray-800/50'
+            : 'border-gray-100 hover:bg-gray-50'
+        }`}
       >
         {/* Cover */}
-        <div className="relative w-12 h-12 flex-shrink-0 rounded-md overflow-hidden">
+        <div className="relative w-10 h-10 flex-shrink-0 rounded-md overflow-hidden">
           {hasAvatar ? (
             <img
               src={song.avatar}
               alt={song.title}
               className="w-full h-full object-cover"
-              loading="lazy"
             />
           ) : (
             <div className={`w-full h-full flex items-center justify-center ${isDarkMode ? 'bg-gray-700' : 'bg-gray-100'}`}>
-              <ImageOff className={`w-5 h-5 ${isDarkMode ? 'text-gray-600' : 'text-gray-300'}`} />
+              <ImageOff className={`w-4 h-4 ${isDarkMode ? 'text-gray-600' : 'text-gray-300'}`} />
             </div>
           )}
         </div>
 
         {/* Title & Artist */}
         <div className="flex-1 min-w-0">
-          <h3 className={`font-semibold text-sm truncate ${isDarkMode ? 'text-gray-100' : 'text-gray-900'}`}>
+          <h3 className={`font-medium text-sm truncate ${isDarkMode ? 'text-gray-100' : 'text-gray-900'}`}>
             {song.title}
           </h3>
           <p className={`text-xs truncate ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>
@@ -108,7 +145,7 @@ function VirtualSongCard({ song, isDarkMode, viewMode, style }: VirtualSongCardP
             {song.firstAppearance}
           </span>
           <span className="px-1.5 py-0.5 rounded text-[10px] font-medium text-white bg-blue-500">
-            BPM {song.bpm}
+            BPM {song.bpmRange}
           </span>
           {song.genre && (
             <span
@@ -130,16 +167,16 @@ function VirtualSongCard({ song, isDarkMode, viewMode, style }: VirtualSongCardP
         <div className="flex items-center gap-2 flex-shrink-0">
           {/* Mobile: Just colored circles */}
           <div className="flex items-center gap-1 sm:hidden">
-            <DifficultyDot type="basic" level={song.difficulties.basic.level} />
-            <DifficultyDot type="advanced" level={song.difficulties.advanced.level} />
-            <DifficultyDot type="extreme" level={song.difficulties.extreme.level} />
+            <DifficultyDot type="basic" level={difficulties.basic.level} />
+            <DifficultyDot type="advanced" level={difficulties.advanced.level} />
+            <DifficultyDot type="extreme" level={difficulties.extreme.level} />
           </div>
 
           {/* Desktop: Full badges */}
           <div className="hidden sm:flex items-center gap-3">
-            <ListDifficultyBadge type="basic" level={song.difficulties.basic.level} />
-            <ListDifficultyBadge type="advanced" level={song.difficulties.advanced.level} />
-            <ListDifficultyBadge type="extreme" level={song.difficulties.extreme.level} />
+            <ListDifficultyBadge type="basic" level={difficulties.basic.level} isDarkMode={isDarkMode} />
+            <ListDifficultyBadge type="advanced" level={difficulties.advanced.level} isDarkMode={isDarkMode} />
+            <ListDifficultyBadge type="extreme" level={difficulties.extreme.level} isDarkMode={isDarkMode} />
           </div>
         </div>
       </div>
@@ -149,100 +186,126 @@ function VirtualSongCard({ song, isDarkMode, viewMode, style }: VirtualSongCardP
   // Card mode
   return (
     <div
-      className={`rounded-xl overflow-hidden transition-all duration-300 hover:shadow-xl ${
-        isDarkMode
-          ? 'bg-gray-800/50 border border-gray-700 hover:border-gray-600'
-          : 'bg-white border border-gray-200 hover:border-gray-300 shadow-sm'
-      }`}
       style={style}
+      className={`h-full p-3 rounded-xl border transition-all hover:shadow-md ${
+        isDarkMode
+          ? 'bg-gray-800 border-gray-700 hover:border-gray-600'
+          : 'bg-white border-gray-200 hover:border-gray-300'
+      }`}
     >
-      {/* Cover Image - 1:1 Aspect Ratio */}
-      <div className="relative aspect-square overflow-hidden">
+      {/* Cover */}
+      <div className="relative w-full pb-[100%] mb-3 rounded-lg overflow-hidden">
         {hasAvatar ? (
           <img
             src={song.avatar}
             alt={song.title}
-            className="w-full h-full object-cover"
-            loading="lazy"
+            className="absolute inset-0 w-full h-full object-cover"
           />
         ) : (
-          <div className={`w-full h-full flex flex-col items-center justify-center ${isDarkMode ? 'bg-gray-700' : 'bg-gray-100'}`}>
-            <ImageOff className={`w-12 h-12 mb-2 ${isDarkMode ? 'text-gray-600' : 'text-gray-300'}`} />
-            <span className={`text-xs ${isDarkMode ? 'text-gray-500' : 'text-gray-400'}`}>No Cover</span>
+          <div className={`absolute inset-0 flex items-center justify-center ${isDarkMode ? 'bg-gray-700' : 'bg-gray-100'}`}>
+            <ImageOff className={`w-8 h-8 ${isDarkMode ? 'text-gray-600' : 'text-gray-300'}`} />
           </div>
         )}
       </div>
 
-      {/* Content Section */}
-      <div className="p-3">
-        {/* Title & Artist */}
-        <div className="mb-2">
-          <h3 className={`font-bold text-sm leading-tight line-clamp-2 ${isDarkMode ? 'text-gray-100' : 'text-gray-900'}`}>
-            {song.title}
-          </h3>
-          <p className={`text-xs truncate mt-1 ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>
-            {song.artist}
-          </p>
-        </div>
+      {/* Title & Artist */}
+      <div className="mb-2">
+        <h3
+          className={`font-semibold text-sm line-clamp-2 ${isDarkMode ? 'text-gray-100' : 'text-gray-900'}`}
+          title={song.title}
+        >
+          {song.title}
+        </h3>
+        <p className={`text-xs truncate mt-1 ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>
+          {song.artist}
+        </p>
+      </div>
 
-        {/* Tags Row: 来源、BPM、Genre */}
-        <div className="flex flex-wrap gap-1.5 mb-3">
-          <Tag label={song.firstAppearance} colorClass={`${VERSION_COLORS[song.firstAppearance] || 'bg-slate-500'} text-white`} />
-          <Tag label={`BPM ${song.bpm}`} colorClass="bg-blue-500 text-white" />
-          {song.genre && <Tag label={GENRE_LABELS[song.genre] || song.genre} colorClass={GENRE_COLORS[song.genre] || 'bg-gray-500'} />}
-          {song.deletedIn && <Tag label="Deleted" colorClass="bg-red-500" />}
-        </div>
+      {/* Tags */}
+      <div className="flex flex-wrap gap-1 mb-3">
+        <Tag label={song.firstAppearance} colorClass={`${VERSION_COLORS[song.firstAppearance] || 'bg-slate-500'} text-white`} />
+        <Tag label={`BPM ${song.bpmRange}`} colorClass="bg-blue-500 text-white" />
+        {song.genre && (
+          <Tag
+            label={GENRE_LABELS[song.genre] || song.genre}
+            colorClass={GENRE_COLORS[song.genre] || 'bg-gray-500'}
+          />
+        )}
+      </div>
 
-        {/* Difficulties */}
-        <div className="grid grid-cols-3 gap-1">
-          <CardDifficultyBadge type="basic" level={song.difficulties.basic.level} notes={song.difficulties.basic.notes} />
-          <CardDifficultyBadge type="advanced" level={song.difficulties.advanced.level} notes={song.difficulties.advanced.notes} />
-          <CardDifficultyBadge type="extreme" level={song.difficulties.extreme.level} notes={song.difficulties.extreme.notes} />
-        </div>
+      {/* Difficulties */}
+      <div className="grid grid-cols-3 gap-1">
+        <CardDifficultyBadge type="basic" level={difficulties.basic.level} notes={difficulties.basic.notes} />
+        <CardDifficultyBadge type="advanced" level={difficulties.advanced.level} notes={difficulties.advanced.notes} />
+        <CardDifficultyBadge type="extreme" level={difficulties.extreme.level} notes={difficulties.extreme.notes} />
       </div>
     </div>
   );
 }
 
-// Simple colored dot for mobile
+// Simple colored dot with level
 function DifficultyDot({ type, level }: { type: 'basic' | 'advanced' | 'extreme'; level: number }) {
   const colors = DIFFICULTY_COLORS[type];
+
   return (
-    <div className={`w-6 h-6 rounded-full ${colors.bg} flex items-center justify-center`}>
-      <span className="text-white text-[10px] font-bold">{level}</span>
+    <div
+      className={`w-6 h-6 rounded-full flex items-center justify-center text-[10px] font-bold text-white ${colors.bg}`}
+      title={`${type}: ${level}`}
+    >
+      {Math.floor(level)}
     </div>
   );
 }
 
-// List mode difficulty badge
-function ListDifficultyBadge({ type, level }: { type: 'basic' | 'advanced' | 'extreme'; level: number }) {
+// List view difficulty badge
+function ListDifficultyBadge({
+  type,
+  level,
+  isDarkMode,
+}: {
+  type: 'basic' | 'advanced' | 'extreme';
+  level: number;
+  isDarkMode: boolean;
+}) {
   const colors = DIFFICULTY_COLORS[type];
-  const label = type === 'basic' ? 'BSC' : type === 'advanced' ? 'ADV' : 'EXT';
 
   return (
     <div className="flex items-center gap-1">
-      <span className={`text-xs font-bold ${colors.text}`}>{label}</span>
-      <span className={`inline-flex items-center justify-center w-6 h-6 rounded-full text-white font-bold text-xs ${colors.bg}`}>
+      <span className={`text-[10px] font-medium w-8 ${colors.text} ${type === 'extreme' ? 'text-red-500' : ''}`}>
+        {type === 'basic' ? 'BSC' : type === 'advanced' ? 'ADV' : 'EXT'}
+      </span>
+      <span className={`font-bold text-sm ${isDarkMode ? 'text-gray-200' : 'text-gray-700'}`}>
         {level}
       </span>
     </div>
   );
 }
 
-// Card mode difficulty badge
-function CardDifficultyBadge({ type, level, notes }: { type: 'basic' | 'advanced' | 'extreme'; level: number; notes: number }) {
+// Card view difficulty badge with notes
+function CardDifficultyBadge({
+  type,
+  level,
+  notes,
+}: {
+  type: 'basic' | 'advanced' | 'extreme';
+  level: number;
+  notes?: number;
+}) {
   const colors = DIFFICULTY_COLORS[type];
-  const label = type === 'basic' ? 'BSC' : type === 'advanced' ? 'ADV' : 'EXT';
-
-  const bgLightClass = type === 'basic' ? 'bg-[#7CB342]/10 border-[#7CB342]/30' :
-                       type === 'advanced' ? 'bg-[#FBC02D]/10 border-[#FBC02D]/30' :
-                       'bg-[#E53935]/10 border-[#E53935]/30';
 
   return (
-    <div className={`flex flex-col items-center py-2 rounded-lg border ${bgLightClass}`}>
-      <span className={`text-[10px] font-bold uppercase ${colors.text}`}>{label}</span>
-      <span className={`text-lg font-bold ${colors.text} leading-tight my-0.5`}>{level}</span>
-      <span className="text-[10px] text-gray-500">{notes}N</span>
+    <div className={`${colors.bg} rounded-lg px-2 py-1.5 text-center`}>
+      <div className="text-[10px] text-white/80 font-medium">
+        {type === 'basic' ? 'BSC' : type === 'advanced' ? 'ADV' : 'EXT'}
+      </div>
+      <div className="text-sm font-bold text-white leading-tight">
+        {level}
+      </div>
+      {notes !== undefined && (
+        <div className="text-[9px] text-white/70 leading-tight">
+          {notes}
+        </div>
+      )}
     </div>
   );
 }
@@ -250,17 +313,10 @@ function CardDifficultyBadge({ type, level, notes }: { type: 'basic' | 'advanced
 // Tag component
 function Tag({ label, colorClass }: { label: string; colorClass: string }) {
   return (
-    <span className={`px-2 py-0.5 rounded text-[10px] font-medium text-white ${colorClass}`}>
+    <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${colorClass}`}>
       {label}
     </span>
   );
 }
 
-// Export memoized version for virtual scrolling performance
-export default memo(VirtualSongCard, (prev, next) => {
-  return (
-    prev.song.id === next.song.id &&
-    prev.isDarkMode === next.isDarkMode &&
-    prev.viewMode === next.viewMode
-  );
-});
+export default memo(VirtualSongCard);

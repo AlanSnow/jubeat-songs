@@ -104,8 +104,8 @@ const GENRE_LABELS: Record<string, string> = {
 export default function SongCard({ song, isDarkMode, viewMode = 'card' }: SongCardProps) {
   const hasAvatar = song.avatar && song.avatar.length > 0;
 
-  // Use version-specific difficulties if available, otherwise use default
-  const difficulties = song.displayDifficulties || song.difficulties;
+  // Use version-specific difficulties if available, otherwise use first available version
+  const difficulties = song.displayDifficulties || Object.values(song.versionDifficulties)[0];
 
   // List Mode - Horizontal layout with responsive design
   if (viewMode === 'list') {
@@ -148,7 +148,7 @@ export default function SongCard({ song, isDarkMode, viewMode = 'card' }: SongCa
             {song.firstAppearance}
           </span>
           <span className="px-1.5 py-0.5 rounded text-[10px] font-medium text-white bg-blue-500">
-            BPM {song.bpm}
+            BPM {song.bpmRange}
           </span>
           {song.genre && (
             <span
@@ -242,7 +242,7 @@ export default function SongCard({ song, isDarkMode, viewMode = 'card' }: SongCa
         {/* Tags Row: 来源、BPM、Genre */}
         <div className="flex flex-wrap gap-1.5 mb-3">
           <Tag label={song.firstAppearance} colorClass={`${VERSION_COLORS[song.firstAppearance] || 'bg-slate-500'} text-white`} />
-          <Tag label={`BPM ${song.bpm}`} colorClass="bg-blue-500 text-white" />
+          <Tag label={`BPM ${song.bpmRange}`} colorClass="bg-blue-500 text-white" />
           {song.genre && (
             <Tag
               label={GENRE_LABELS[song.genre] || song.genre}

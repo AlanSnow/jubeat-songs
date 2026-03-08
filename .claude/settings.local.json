@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm add:*)",
+      "Bash(timeout 60 node:*)",
+      "Bash(node:*)",
+      "Bash(rm:*)",
+      "Bash(git:*)"
+    ]
+  }
+}

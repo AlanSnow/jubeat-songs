@@ -112,7 +112,7 @@ export default function Navbar({
 
           {/* Version Selector - Shows songs playable in this version */}
           <div className="hidden md:flex items-center gap-2">
-            <span className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>可游玩版本:</span>
+            <span className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>版本数据:</span>
             <div className="relative">
               <select
                 value={selectedVersion}

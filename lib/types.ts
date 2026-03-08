@@ -8,20 +8,12 @@ export interface ChartPattern {
 export interface Song {
   id: string;
   title: string;
-  titleRomaji?: string;
-  titleChinese?: string;
   artist: string;
   genre?: string;
-  bpm: number;
-  bpmRange?: string;
+  bpmRange: string;             // BPM 范围，如 "160" 或 "135-175"
   avatar?: string;              // 歌曲封面图 URL
-  difficulties: {
-    basic: Difficulty;
-    advanced: Difficulty;
-    extreme: Difficulty;
-  };
-  // 按版本存储的难度历史
-  versionDifficulties?: Record<string, VersionDifficulty>;
+  // 按版本存储的难度历史（必需）
+  versionDifficulties: Record<string, VersionDifficulty>;
   // 谱面标记（按难度分类）
   chartPatterns?: {
     basic?: ChartPattern[];
@@ -149,6 +141,35 @@ export const VERSION_LABELS: Record<string, string> = {
   '音乐魔方': '音乐魔方',
 };
 
+// 版本优先级（时间倒序，最新的在前）
+const VERSION_PRIORITY = [
+  '音乐魔方',
+  'Beyond the Ave.',
+  'Ave.',
+  'festo',
+  'clan',
+  'Qubell',
+  'prop',
+  'saucer fulfill',
+  'saucer',
+  'copious',
+  'knit',
+  'ripples',
+  'jubeat'
+];
+
+// 获取歌曲的最新版本
+export function getLatestVersion(versionHistory: string[]): string | null {
+  if (!versionHistory || versionHistory.length === 0) return null;
+
+  for (const version of VERSION_PRIORITY) {
+    if (versionHistory.includes(version)) {
+      return version;
+    }
+  }
+  return versionHistory[versionHistory.length - 1];
+}
+
 // 获取歌曲在指定版本的难度
 export function getDifficultyForVersion(
   song: Song,
@@ -156,7 +177,16 @@ export function getDifficultyForVersion(
 ): { basic: Difficulty; advanced: Difficulty; extreme: Difficulty } | null {
   // 如果指定了 ALL，返回最新版本的难度
   if (version === 'all') {
-    return song.difficulties;
+    const latestVersion = getLatestVersion(song.versionHistory);
+    if (latestVersion && song.versionDifficulties?.[latestVersion]) {
+      return song.versionDifficulties[latestVersion];
+    }
+    // 如果没有找到最新版本，返回第一个可用的版本难度
+    const availableVersions = Object.keys(song.versionDifficulties || {});
+    if (availableVersions.length > 0) {
+      return song.versionDifficulties[availableVersions[0]];
+    }
+    return null;
   }
 
   // 检查该歌曲是否存在于该版本
@@ -164,13 +194,13 @@ export function getDifficultyForVersion(
     return null;
   }
 
-  // 如果该版本有特定的难度数据，使用它
+  // 返回该版本的难度数据
   if (song.versionDifficulties?.[version]) {
     return song.versionDifficulties[version];
   }
 
-  // 如果没有特定版本数据，返回默认难度
-  return song.difficulties;
+  // 如果该版本没有难度数据，返回 null（表示数据缺失）
+  return null;
 }
 
 // 获取歌曲在某个版本之后的最新难度
@@ -179,7 +209,18 @@ export function getLatestDifficultyBeforeVersion(
   targetVersion: string
 ): { basic: Difficulty; advanced: Difficulty; extreme: Difficulty } | null {
   const targetIndex = VERSIONS.indexOf(targetVersion as any);
-  if (targetIndex === -1) return song.difficulties;
+  if (targetIndex === -1) {
+    // 返回最新可用版本的难度
+    const latestVersion = getLatestVersion(song.versionHistory);
+    if (latestVersion && song.versionDifficulties?.[latestVersion]) {
+      return song.versionDifficulties[latestVersion];
+    }
+    const availableVersions = Object.keys(song.versionDifficulties || {});
+    if (availableVersions.length > 0) {
+      return song.versionDifficulties[availableVersions[0]];
+    }
+    return null;
+  }
 
   // 从目标版本往前找，找到第一个有难度数据的版本
   for (let i = targetIndex; i >= 0; i--) {
@@ -189,6 +230,10 @@ export function getLatestDifficultyBeforeVersion(
     }
   }
 
-  // 如果没有找到特定版本数据，返回默认难度
-  return song.difficulties;
+  // 如果没有找到特定版本数据，返回第一个可用版本的难度
+  const availableVersions = Object.keys(song.versionDifficulties || {});
+  if (availableVersions.length > 0) {
+    return song.versionDifficulties[availableVersions[0]];
+  }
+  return null;
 }
