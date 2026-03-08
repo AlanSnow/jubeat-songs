@@ -188,7 +188,7 @@ export default function Home() {
     // 谱面标记过滤器
     if (filters.chartPattern !== 'all') {
       result = result.filter((song) => {
-        const patterns = song.chartPatterns;
+        const patterns = song.chartPatterns as Record<string, Array<{ type: string }>> | undefined;
         if (!patterns) return false;
 
         // 如果指定了难度，只检查该难度

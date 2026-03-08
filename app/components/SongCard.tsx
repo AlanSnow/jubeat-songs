@@ -1,10 +1,10 @@
 'use client';
 
-import { Song } from '@/lib/types';
+import { Song, DisplayDifficulty } from '@/lib/types';
 import { ImageOff } from 'lucide-react';
 
 interface SongCardProps {
-  song: Song & { displayDifficulties?: Song['difficulties'] };
+  song: Song & { displayDifficulties?: DisplayDifficulty };
   isDarkMode: boolean;
   viewMode?: 'card' | 'list';
 }

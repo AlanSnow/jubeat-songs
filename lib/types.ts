@@ -45,6 +45,13 @@ export interface VersionDifficulty {
   extreme: Difficulty;
 }
 
+// 用于展示的难度数据（不包含 version 字段）
+export interface DisplayDifficulty {
+  basic: Difficulty;
+  advanced: Difficulty;
+  extreme: Difficulty;
+}
+
 export type DifficultyType = 'basic' | 'advanced' | 'extreme';
 
 export type Genre =
@@ -174,7 +181,7 @@ export function getLatestVersion(versionHistory: string[]): string | null {
 export function getDifficultyForVersion(
   song: Song,
   version: string
-): { basic: Difficulty; advanced: Difficulty; extreme: Difficulty } | null {
+): DisplayDifficulty | null {
   // 如果指定了 ALL，返回最新版本的难度
   if (version === 'all') {
     const latestVersion = getLatestVersion(song.versionHistory);
@@ -207,7 +214,7 @@ export function getDifficultyForVersion(
 export function getLatestDifficultyBeforeVersion(
   song: Song,
   targetVersion: string
-): { basic: Difficulty; advanced: Difficulty; extreme: Difficulty } | null {
+): DisplayDifficulty | null {
   const targetIndex = VERSIONS.indexOf(targetVersion as any);
   if (targetIndex === -1) {
     // 返回最新可用版本的难度

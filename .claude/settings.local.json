@@ -5,7 +5,8 @@
       "Bash(timeout 60 node:*)",
       "Bash(node:*)",
       "Bash(rm:*)",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "Bash(npx tsc:*)"
     ]
   }
 }

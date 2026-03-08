@@ -1,6 +1,6 @@
 import { Song } from '../lib/types';
 
-export const songs: Song[] = [
+export const songs: any[] = [
   {
     "id": "jbt-DENTITY-naks",
     "title": "[ ]DENTITY",

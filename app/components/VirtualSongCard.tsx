@@ -1,16 +1,12 @@
 'use client';
 
 import { memo, CSSProperties } from 'react';
-import { Song } from '@/lib/types';
+import { Song, DisplayDifficulty } from '@/lib/types';
 import { ImageOff } from 'lucide-react';
 
 // Extended song type with displayDifficulties
 interface DisplaySong extends Song {
-  displayDifficulties?: {
-    basic: { level: number; notes: number };
-    advanced: { level: number; notes: number };
-    extreme: { level: number; notes: number };
-  };
+  displayDifficulties?: DisplayDifficulty;
 }
 
 interface VirtualSongCardProps {
