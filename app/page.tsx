@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useMemo, useEffect, useRef } from 'react';
-import { songs } from '@/data/songs';
 import { Song, getDifficultyForVersion } from '@/lib/types';
 import Fuse from 'fuse.js';
 import Navbar from './components/Navbar';
@@ -13,7 +12,16 @@ import SongCard from './components/SongCard';
 const INITIAL_ITEM_COUNT = 24; // Initial number of items to show
 const BATCH_SIZE = 16; // Number of items to load per batch
 
+type DisplaySong = Song & {
+  displayDifficulties: NonNullable<ReturnType<typeof getDifficultyForVersion>>;
+};
+
 export default function Home() {
+  const [songs, setSongs] = useState<Song[]>([]);
+  const [isLoadingSongs, setIsLoadingSongs] = useState(true);
+  const [loadingProgress, setLoadingProgress] = useState(0);
+  const [loadingError, setLoadingError] = useState<string | null>(null);
+
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [selectedVersion, setSelectedVersion] = useState('all');
   const [filters, setFilters] = useState<FilterState>(INITIAL_FILTERS);
@@ -24,6 +32,72 @@ export default function Home() {
   // Lazy loading state (shared between card and list mode)
   const [visibleItemCount, setVisibleItemCount] = useState(INITIAL_ITEM_COUNT);
   const loadMoreTriggerRef = useRef<HTMLDivElement>(null);
+
+  // 动态加载 songs 数据并展示进度
+  useEffect(() => {
+    const controller = new AbortController();
+
+    const loadSongs = async () => {
+      try {
+        setIsLoadingSongs(true);
+        setLoadingError(null);
+        setLoadingProgress(0);
+
+        const response = await fetch('/api/songs', { signal: controller.signal });
+        if (!response.ok) {
+          throw new Error(`数据请求失败: ${response.status}`);
+        }
+
+        if (!response.body) {
+          const fallbackSongs = (await response.json()) as Song[];
+          setSongs(fallbackSongs);
+          setLoadingProgress(100);
+          return;
+        }
+
+        const contentLength = response.headers.get('content-length');
+        const total = contentLength ? Number(contentLength) : 0;
+
+        const reader = response.body.getReader();
+        const decoder = new TextDecoder();
+        let received = 0;
+        let text = '';
+
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+
+          if (value) {
+            received += value.length;
+            text += decoder.decode(value, { stream: true });
+
+            if (total > 0) {
+              setLoadingProgress(Math.min(99, Math.round((received / total) * 100)));
+            } else {
+              setLoadingProgress((prev) => Math.min(95, prev + 2));
+            }
+          }
+        }
+
+        text += decoder.decode();
+        const parsedSongs = JSON.parse(text) as Song[];
+        setSongs(parsedSongs);
+        setLoadingProgress(100);
+      } catch (error) {
+        if (controller.signal.aborted) return;
+        console.error(error);
+        setLoadingError('加载歌曲数据失败，请刷新重试。');
+      } finally {
+        if (!controller.signal.aborted) {
+          setIsLoadingSongs(false);
+        }
+      }
+    };
+
+    loadSongs();
+
+    return () => controller.abort();
+  }, []);
 
   // Initialize dark mode from system preference
   useEffect(() => {
@@ -77,7 +151,7 @@ export default function Home() {
     }
 
     // For each song, calculate the difficulty to display for the selected version
-    return filtered.map(song => {
+    return filtered.map((song) => {
       const versionDifficulties = getDifficultyForVersion(song, selectedVersion);
       return {
         ...song,
@@ -85,7 +159,7 @@ export default function Home() {
         displayDifficulties: versionDifficulties || Object.values(song.versionDifficulties)[0],
       };
     });
-  }, [selectedVersion]);
+  }, [songs, selectedVersion]);
 
   // Reset visible card count when filters or version changes
   useEffect(() => {
@@ -102,7 +176,7 @@ export default function Home() {
 
   // Apply all filters
   const filteredSongs = useMemo(() => {
-    let result = versionFilteredSongs;
+    let result: DisplaySong[] = versionFilteredSongs;
 
     // Text search
     if (filters.search.trim()) {
@@ -269,125 +343,161 @@ export default function Home() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 relative">
-        {/* Filter Bar - Sticky positioned */}
-        <div className="sticky top-4 z-30 mb-6">
-          <FilterBar filters={filters} onFiltersChange={setFilters} isDarkMode={isDarkMode} />
-        </div>
-
-        {/* Results Header */}
-        <div className="flex items-center justify-between mb-6">
-          <div className="flex items-center gap-3">
-            <h2
-              className={`text-lg font-semibold ${
-                isDarkMode ? 'text-white' : 'text-gray-900'
-              }`}
-            >
-              曲目列表
-            </h2>
-            <span
-              className={`px-3 py-1 rounded-full text-sm font-medium ${
-                isDarkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-600'
-              }`}
-            >
-              {filteredSongs.length} 首
-            </span>
-          </div>
-
-          {/* View Mode Toggle */}
-          <div className={`flex items-center gap-1 p-1 rounded-lg ${isDarkMode ? 'bg-gray-800' : 'bg-gray-100'}`}>
-            <button
-              onClick={() => setViewMode('card')}
-              className={`p-2 rounded-md transition-all ${
-                viewMode === 'card'
-                  ? 'bg-pink-500 text-white shadow-md'
-                  : isDarkMode
-                  ? 'text-gray-400 hover:text-gray-200'
-                  : 'text-gray-500 hover:text-gray-700'
-              }`}
-              title="卡片模式"
-            >
-              <LayoutGrid className="w-4 h-4" />
-            </button>
-            <button
-              onClick={() => setViewMode('list')}
-              className={`p-2 rounded-md transition-all ${
-                viewMode === 'list'
-                  ? 'bg-pink-500 text-white shadow-md'
-                  : isDarkMode
-                  ? 'text-gray-400 hover:text-gray-200'
-                  : 'text-gray-500 hover:text-gray-700'
-              }`}
-              title="列表模式"
-            >
-              <List className="w-4 h-4" />
-            </button>
-          </div>
-        </div>
-
-        {/* Song List */}
-        {filteredSongs.length > 0 ? (
-          <div>
-            {viewMode === 'list' ? (
-              // List mode with lazy loading
-              <div className="flex flex-col gap-2">
-                {visibleItems.map((song) => (
-                  <SongCard key={song.id} song={song} isDarkMode={isDarkMode} viewMode="list" />
-                ))}
-              </div>
-            ) : (
-              // Card mode with lazy loading
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-                {visibleItems.map((song) => (
-                  <SongCard key={song.id} song={song} isDarkMode={isDarkMode} viewMode="card" />
-                ))}
-              </div>
-            )}
-            {/* Load more trigger element - shared between both modes */}
-            {hasMoreItems && (
-              <div
-                ref={loadMoreTriggerRef}
-                className={`flex items-center justify-center py-8 ${
-                  isDarkMode ? 'text-gray-500' : 'text-gray-400'
-                }`}
-              >
-                <div className="flex items-center gap-2">
-                  <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '0ms' }} />
-                  <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '150ms' }} />
-                  <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '300ms' }} />
-                  <span className="text-sm ml-2">加载更多...</span>
-                </div>
-              </div>
-            )}
-            {/* Loaded all message */}
-            {!hasMoreItems && filteredSongs.length > INITIAL_ITEM_COUNT && (
-              <div className={`text-center py-8 text-sm ${isDarkMode ? 'text-gray-500' : 'text-gray-400'}`}>
-                已加载全部 {filteredSongs.length} 首歌曲
-              </div>
-            )}
-          </div>
-        ) : (
-          /* Empty State */
+        {isLoadingSongs ? (
           <div
-            className={`flex flex-col items-center justify-center py-20 rounded-2xl border-2 border-dashed ${
-              isDarkMode
-                ? 'border-gray-700 bg-gray-800/30'
-                : 'border-gray-200 bg-gray-50'
+            className={`mt-12 rounded-2xl p-8 border ${
+              isDarkMode ? 'border-gray-700 bg-gray-800/50' : 'border-gray-200 bg-white'
             }`}
           >
-            <Music2
-              className={`w-20 h-20 mb-6 ${isDarkMode ? 'text-gray-600' : 'text-gray-300'}`}
-            />
-            <h3
-              className={`text-xl font-semibold mb-2 ${
-                isDarkMode ? 'text-gray-300' : 'text-gray-700'
-              }`}
-            >
-              没有找到曲目
-            </h3>
-            <p className={`text-sm ${isDarkMode ? 'text-gray-500' : 'text-gray-400'}`}>
-              尝试调整筛选条件或搜索关键词
+            <div className="flex items-center justify-between mb-3">
+              <h2 className={`text-base font-semibold ${isDarkMode ? 'text-gray-100' : 'text-gray-900'}`}>
+                正在加载歌曲数据
+              </h2>
+              <span className={`text-sm tabular-nums ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>
+                {loadingProgress}%
+              </span>
+            </div>
+            <div className={`h-3 w-full rounded-full overflow-hidden ${isDarkMode ? 'bg-gray-700' : 'bg-gray-200'}`}>
+              <div
+                className="h-full bg-pink-500 transition-all duration-200"
+                style={{ width: `${Math.max(5, loadingProgress)}%` }}
+              />
+            </div>
+            <p className={`mt-3 text-sm ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>
+              首次打开会按需拉取数据，加载完成后可进行筛选与搜索。
             </p>
           </div>
+        ) : loadingError ? (
+          <div
+            className={`mt-12 rounded-2xl p-8 border ${
+              isDarkMode ? 'border-red-900/50 bg-red-950/30 text-red-300' : 'border-red-200 bg-red-50 text-red-600'
+            }`}
+          >
+            <p className="font-medium">{loadingError}</p>
+          </div>
+        ) : (
+          <>
+            {/* Filter Bar - Sticky positioned */}
+            <div className="sticky top-4 z-30 mb-6">
+              <FilterBar filters={filters} onFiltersChange={setFilters} isDarkMode={isDarkMode} />
+            </div>
+
+            {/* Results Header */}
+            <div className="flex items-center justify-between mb-6">
+              <div className="flex items-center gap-3">
+                <h2
+                  className={`text-lg font-semibold ${
+                    isDarkMode ? 'text-white' : 'text-gray-900'
+                  }`}
+                >
+                  曲目列表
+                </h2>
+                <span
+                  className={`px-3 py-1 rounded-full text-sm font-medium ${
+                    isDarkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-600'
+                  }`}
+                >
+                  {filteredSongs.length} 首
+                </span>
+              </div>
+
+              {/* View Mode Toggle */}
+              <div className={`flex items-center gap-1 p-1 rounded-lg ${isDarkMode ? 'bg-gray-800' : 'bg-gray-100'}`}>
+                <button
+                  onClick={() => setViewMode('card')}
+                  className={`p-2 rounded-md transition-all ${
+                    viewMode === 'card'
+                      ? 'bg-pink-500 text-white shadow-md'
+                      : isDarkMode
+                      ? 'text-gray-400 hover:text-gray-200'
+                      : 'text-gray-500 hover:text-gray-700'
+                  }`}
+                  title="卡片模式"
+                >
+                  <LayoutGrid className="w-4 h-4" />
+                </button>
+                <button
+                  onClick={() => setViewMode('list')}
+                  className={`p-2 rounded-md transition-all ${
+                    viewMode === 'list'
+                      ? 'bg-pink-500 text-white shadow-md'
+                      : isDarkMode
+                      ? 'text-gray-400 hover:text-gray-200'
+                      : 'text-gray-500 hover:text-gray-700'
+                  }`}
+                  title="列表模式"
+                >
+                  <List className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
+
+            {/* Song List */}
+            {filteredSongs.length > 0 ? (
+              <div>
+                {viewMode === 'list' ? (
+                  // List mode with lazy loading
+                  <div className="flex flex-col gap-2">
+                    {visibleItems.map((song) => (
+                      <SongCard key={song.id} song={song} isDarkMode={isDarkMode} viewMode="list" />
+                    ))}
+                  </div>
+                ) : (
+                  // Card mode with lazy loading
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                    {visibleItems.map((song) => (
+                      <SongCard key={song.id} song={song} isDarkMode={isDarkMode} viewMode="card" />
+                    ))}
+                  </div>
+                )}
+                {/* Load more trigger element - shared between both modes */}
+                {hasMoreItems && (
+                  <div
+                    ref={loadMoreTriggerRef}
+                    className={`flex items-center justify-center py-8 ${
+                      isDarkMode ? 'text-gray-500' : 'text-gray-400'
+                    }`}
+                  >
+                    <div className="flex items-center gap-2">
+                      <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '0ms' }} />
+                      <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '150ms' }} />
+                      <div className="w-2 h-2 rounded-full bg-pink-500 animate-bounce" style={{ animationDelay: '300ms' }} />
+                      <span className="text-sm ml-2">加载更多...</span>
+                    </div>
+                  </div>
+                )}
+                {/* Loaded all message */}
+                {!hasMoreItems && filteredSongs.length > INITIAL_ITEM_COUNT && (
+                  <div className={`text-center py-8 text-sm ${isDarkMode ? 'text-gray-500' : 'text-gray-400'}`}>
+                    已加载全部 {filteredSongs.length} 首歌曲
+                  </div>
+                )}
+              </div>
+            ) : (
+              /* Empty State */
+              <div
+                className={`flex flex-col items-center justify-center py-20 rounded-2xl border-2 border-dashed ${
+                  isDarkMode
+                    ? 'border-gray-700 bg-gray-800/30'
+                    : 'border-gray-200 bg-gray-50'
+                }`}
+              >
+                <Music2
+                  className={`w-20 h-20 mb-6 ${isDarkMode ? 'text-gray-600' : 'text-gray-300'}`}
+                />
+                <h3
+                  className={`text-xl font-semibold mb-2 ${
+                    isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                  }`}
+                >
+                  没有找到曲目
+                </h3>
+                <p className={`text-sm ${isDarkMode ? 'text-gray-500' : 'text-gray-400'}`}>
+                  尝试调整筛选条件或搜索关键词
+                </p>
+              </div>
+            )}
+          </>
         )}
       </main>
 
