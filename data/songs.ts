@@ -166,8 +166,20 @@ export const songs: any[] = [
           "description": "×"
         },
         {
-          "type": "text",
-          "description": "ハート,キス,×,P,I,A,y"
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "A"
+        },
+        {
+          "type": "shape",
+          "description": "y"
         }
       ],
       "advanced": [
@@ -358,7 +370,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "O"
         }
       ],
@@ -372,8 +384,8 @@ export const songs: any[] = [
           "description": "S"
         },
         {
-          "type": "text",
-          "description": "c,S,O"
+          "type": "shape",
+          "description": "O"
         },
         {
           "type": "kojinsa",
@@ -386,8 +398,16 @@ export const songs: any[] = [
           "description": "x"
         },
         {
-          "type": "text",
-          "description": "x,L,b,サムズアップ"
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "b"
+        },
+        {
+          "type": "shape",
+          "description": "サムズアップ"
         }
       ]
     },
@@ -535,8 +555,8 @@ export const songs: any[] = [
           "description": "めぐり会える"
         },
         {
-          "type": "text",
-          "description": "坂道,なんか違う(左右反転),めぐり会える,L"
+          "type": "shape",
+          "description": "L"
         },
         {
           "type": "kojinsa",
@@ -559,8 +579,8 @@ export const songs: any[] = [
           "description": "回る"
         },
         {
-          "type": "text",
-          "description": "回る,風車"
+          "type": "shape",
+          "description": "風車"
         },
         {
           "type": "sahyou",
@@ -685,8 +705,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "猫(小型),猫(大型)"
+          "type": "shape",
+          "description": "猫(小型)"
+        },
+        {
+          "type": "shape",
+          "description": "猫(大型)"
         },
         {
           "type": "kojinsa",
@@ -867,8 +891,8 @@ export const songs: any[] = [
           "description": "T"
         },
         {
-          "type": "text",
-          "description": "猫(小型),L,T"
+          "type": "shape",
+          "description": "猫(小型)"
         },
         {
           "type": "kojinsa",
@@ -881,8 +905,12 @@ export const songs: any[] = [
           "description": "悪魔"
         },
         {
-          "type": "text",
-          "description": "悪魔,猫(小型),猫(中型)"
+          "type": "shape",
+          "description": "猫(小型)"
+        },
+        {
+          "type": "shape",
+          "description": "猫(中型)"
         },
         {
           "type": "kojinsa",
@@ -891,8 +919,24 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "悪魔,猫(大型),波,A,C"
+          "type": "shape",
+          "description": "悪魔"
+        },
+        {
+          "type": "shape",
+          "description": "猫(大型)"
+        },
+        {
+          "type": "shape",
+          "description": "波"
+        },
+        {
+          "type": "shape",
+          "description": "A"
+        },
+        {
+          "type": "shape",
+          "description": "C"
         }
       ]
     },
@@ -1099,8 +1143,8 @@ export const songs: any[] = [
           "description": "↑↑↓↓←→←→BA"
         },
         {
-          "type": "text",
-          "description": "↑↑↓↓←→←→BA,自爆"
+          "type": "shape",
+          "description": "自爆"
         }
       ]
     },
@@ -1188,10 +1232,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "祈っている"
-        },
-        {
-          "type": "text",
-          "description": "くるくる,祈っている"
         }
       ]
     },
@@ -1457,8 +1497,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "1,0"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "0"
         },
         {
           "type": "gyakusahyou",
@@ -1467,8 +1511,12 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "1,0"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "0"
         }
       ]
     },
@@ -1590,8 +1638,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
-          "description": "1(1番パネル),6(6番パネル)"
+          "type": "shape",
+          "description": "1(1番パネル)"
+        },
+        {
+          "type": "shape",
+          "description": "6(6番パネル)"
         }
       ],
       "advanced": [
@@ -1600,8 +1652,12 @@ export const songs: any[] = [
           "description": "1116"
         },
         {
-          "type": "text",
-          "description": "1116(1,6)"
+          "type": "shape",
+          "description": "1116(1"
+        },
+        {
+          "type": "shape",
+          "description": "6)"
         }
       ],
       "extreme": [
@@ -1610,8 +1666,12 @@ export const songs: any[] = [
           "description": "1116"
         },
         {
-          "type": "text",
-          "description": "1116(1,6)"
+          "type": "shape",
+          "description": "1116(1"
+        },
+        {
+          "type": "shape",
+          "description": "6)"
         },
         {
           "type": "gyakusahyou",
@@ -2054,19 +2114,19 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ブルーレイディスク"
         }
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ブルーレイディスク"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "y"
         }
       ]
@@ -2108,7 +2168,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "C"
         }
       ],
@@ -2226,8 +2286,20 @@ export const songs: any[] = [
           "description": "ビッグコアの攻撃"
         },
         {
-          "type": "text",
-          "description": "収録タイトルの頭文字(S,Y,a,K,F,T),ツインビー,キセル,オプション,ビックバイパー,ビッグコアの攻撃"
+          "type": "shape",
+          "description": "収録タイトルの頭文字(S"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "T)"
+        },
+        {
+          "type": "shape",
+          "description": "キセル"
         }
       ],
       "extreme": [
@@ -2256,8 +2328,52 @@ export const songs: any[] = [
           "description": "ザブの大群"
         },
         {
-          "type": "text",
-          "description": "収録タイトルの頭文字(S,Y,n,A,K,F,T,w,b),ベル,ツインビー,ゴエモン(大百日蔓),キセル,ビックバイパー,ショット,ビッグコアの攻撃,ザブの大群,爆発"
+          "type": "shape",
+          "description": "収録タイトルの頭文字(S"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "n"
+        },
+        {
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "w"
+        },
+        {
+          "type": "shape",
+          "description": "b)"
+        },
+        {
+          "type": "shape",
+          "description": "ベル"
+        },
+        {
+          "type": "shape",
+          "description": "ツインビー"
+        },
+        {
+          "type": "shape",
+          "description": "キセル"
+        },
+        {
+          "type": "shape",
+          "description": "ビックバイパー"
+        },
+        {
+          "type": "shape",
+          "description": "爆発"
         },
         {
           "type": "sahyou",
@@ -2335,7 +2451,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "P"
         }
       ],
@@ -2357,8 +2473,24 @@ export const songs: any[] = [
           "description": "50"
         },
         {
-          "type": "text",
-          "description": "W,K,ベース,P,麻雀牌(4面子+1枚),M,!,g,50"
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "M"
+        },
+        {
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "g"
         }
       ]
     },
@@ -2522,8 +2654,8 @@ export const songs: any[] = [
           "description": "花"
         },
         {
-          "type": "text",
-          "description": "ハート,花,伝説の樹"
+          "type": "shape",
+          "description": "伝説の樹"
         }
       ],
       "extreme": [
@@ -2536,8 +2668,20 @@ export const songs: any[] = [
           "description": "forever with you"
         },
         {
-          "type": "text",
-          "description": "花,伝説の樹,M,きらめき,forever with you,ハート"
+          "type": "shape",
+          "description": "花"
+        },
+        {
+          "type": "shape",
+          "description": "伝説の樹"
+        },
+        {
+          "type": "shape",
+          "description": "きらめき"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
         },
         {
           "type": "gyakusahyou",
@@ -2729,8 +2873,8 @@ export const songs: any[] = [
           "description": "N"
         },
         {
-          "type": "text",
-          "description": "N,O"
+          "type": "shape",
+          "description": "O"
         }
       ],
       "extreme": [
@@ -2741,10 +2885,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "○"
-        },
-        {
-          "type": "text",
-          "description": "×,○"
         },
         {
           "type": "sahyou",
@@ -3293,10 +3433,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "レーザー光線"
-        },
-        {
-          "type": "text",
-          "description": "レーザー光線,レーザー光線"
         }
       ]
     },
@@ -3678,10 +3814,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "N"
-        },
-        {
-          "type": "text",
-          "description": "丁髷(ちょんまげ),N"
         }
       ]
     },
@@ -5031,8 +5163,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "A,I,S"
+          "type": "shape",
+          "description": "A"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "S"
         }
       ]
     },
@@ -7007,8 +7147,20 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "拳銃,命中,バネ,T"
+          "type": "shape",
+          "description": "拳銃"
+        },
+        {
+          "type": "shape",
+          "description": "命中"
+        },
+        {
+          "type": "shape",
+          "description": "バネ"
+        },
+        {
+          "type": "shape",
+          "description": "T"
         }
       ],
       "basic": [
@@ -7238,7 +7390,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ]
@@ -7391,7 +7543,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "オーラ"
         }
       ]
@@ -7816,14 +7968,22 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
-          "description": "爆発,◇"
+          "type": "shape",
+          "description": "爆発"
+        },
+        {
+          "type": "shape",
+          "description": "◇"
         }
       ],
       "advanced": [
         {
-          "type": "text",
-          "description": "Y,爆発"
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "爆発"
         },
         {
           "type": "gyakusahyou",
@@ -7856,8 +8016,20 @@ export const songs: any[] = [
           "description": "矢印(左下方向)"
         },
         {
-          "type": "text",
-          "description": "ガラガラ(玩具),回転(赤色灯),積み木,盥(たらい),ベッドベビーカー,揺り籠,矢印(左下方向),爆発,赤ん坊"
+          "type": "shape",
+          "description": "盥(たらい)"
+        },
+        {
+          "type": "shape",
+          "description": "ベッドベビーカー"
+        },
+        {
+          "type": "shape",
+          "description": "爆発"
+        },
+        {
+          "type": "shape",
+          "description": "赤ん坊"
         }
       ]
     },
@@ -8508,8 +8680,12 @@ export const songs: any[] = [
           "description": "一番"
         },
         {
-          "type": "text",
-          "description": "一番,H,Y"
+          "type": "shape",
+          "description": "H"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
         }
       ]
     },
@@ -8677,7 +8853,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "発砲"
         },
         {
@@ -8952,8 +9128,72 @@ export const songs: any[] = [
           "description": "令和(R1)"
         },
         {
-          "type": "text",
-          "description": "牛,角(書き順が違う→格がちゃう),A5,十字架,C,R.I.P,y,w,c,f,s,i,n,バッファロー,荷馬車,雷光,三,?,令和(R1),いただきます,食卓,箸"
+          "type": "shape",
+          "description": "牛"
+        },
+        {
+          "type": "shape",
+          "description": "十字架"
+        },
+        {
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "w"
+        },
+        {
+          "type": "shape",
+          "description": "c"
+        },
+        {
+          "type": "shape",
+          "description": "f"
+        },
+        {
+          "type": "shape",
+          "description": "s"
+        },
+        {
+          "type": "shape",
+          "description": "i"
+        },
+        {
+          "type": "shape",
+          "description": "n"
+        },
+        {
+          "type": "shape",
+          "description": "バッファロー"
+        },
+        {
+          "type": "shape",
+          "description": "荷馬車"
+        },
+        {
+          "type": "shape",
+          "description": "雷光"
+        },
+        {
+          "type": "shape",
+          "description": "三"
+        },
+        {
+          "type": "shape",
+          "description": "いただきます"
+        },
+        {
+          "type": "shape",
+          "description": "食卓"
+        },
+        {
+          "type": "shape",
+          "description": "箸"
         },
         {
           "type": "gyakusahyou",
@@ -9655,7 +9895,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "矢印"
         }
       ]
@@ -10329,7 +10569,7 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "太陽"
         }
       ]
@@ -10486,8 +10726,8 @@ export const songs: any[] = [
           "description": "流れ星"
         },
         {
-          "type": "text",
-          "description": "天の川,流れ星"
+          "type": "shape",
+          "description": "天の川"
         },
         {
           "type": "sahyou",
@@ -10607,8 +10847,20 @@ export const songs: any[] = [
           "description": "バズーカ"
         },
         {
-          "type": "text",
-          "description": "爆発,H,バズーカ,Y,K,I,W"
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "W"
         },
         {
           "type": "gyakusahyou",
@@ -11173,8 +11425,16 @@ export const songs: any[] = [
           "description": "×"
         },
         {
-          "type": "text",
-          "description": "ハート,×,W,Y"
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "W"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
         }
       ]
     },
@@ -11424,7 +11684,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "建造物"
         },
         {
@@ -11990,8 +12250,8 @@ export const songs: any[] = [
           "description": "C"
         },
         {
-          "type": "text",
-          "description": "C,S"
+          "type": "shape",
+          "description": "S"
         }
       ]
     },
@@ -12035,8 +12295,8 @@ export const songs: any[] = [
           "description": "キャノン砲"
         },
         {
-          "type": "text",
-          "description": "キャノン砲,C"
+          "type": "shape",
+          "description": "C"
         },
         {
           "type": "kojinsa",
@@ -12934,8 +13194,12 @@ export const songs: any[] = [
           "description": "前に進め"
         },
         {
-          "type": "text",
-          "description": "y,j,n,前に進め,C"
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "C"
         },
         {
           "type": "kojinsa",
@@ -12952,8 +13216,12 @@ export const songs: any[] = [
           "description": "C"
         },
         {
-          "type": "text",
-          "description": "y,C,K,A,C"
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "K"
         },
         {
           "type": "sahyou",
@@ -13158,14 +13426,22 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "C,D"
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "D"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "C,D"
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "D"
         }
       ]
     },
@@ -13332,7 +13608,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         },
         {
@@ -13778,8 +14054,8 @@ export const songs: any[] = [
           "description": "1dk"
         },
         {
-          "type": "text",
-          "description": "1dk,L"
+          "type": "shape",
+          "description": "L"
         }
       ]
     },
@@ -14215,11 +14491,11 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "C"
         },
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ],
@@ -14441,10 +14717,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "回って"
-        },
-        {
-          "type": "text",
-          "description": "ブランコ,幕,綱渡り,爪先,パントマイム,回って"
         }
       ]
     },
@@ -14903,8 +15175,8 @@ export const songs: any[] = [
           "description": "ピラミッド"
         },
         {
-          "type": "text",
-          "description": "砂嵐,ピラミッド,棺桶,ピラミッド"
+          "type": "shape",
+          "description": "棺桶"
         }
       ]
     },
@@ -15100,10 +15372,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "鈴"
-        },
-        {
-          "type": "text",
-          "description": "釣鐘,ハンドベル,鈴"
         }
       ]
     },
@@ -15341,8 +15609,8 @@ export const songs: any[] = [
           "description": "×"
         },
         {
-          "type": "text",
-          "description": "×,ノ"
+          "type": "shape",
+          "description": "ノ"
         }
       ]
     },
@@ -15754,10 +16022,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "t"
-        },
-        {
-          "type": "text",
-          "description": "c,t,c,t"
         }
       ]
     },
@@ -15915,10 +16179,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "降雪"
-        },
-        {
-          "type": "text",
-          "description": "地吹雪,降雪"
         }
       ],
       "extreme": [
@@ -15929,10 +16189,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "C"
-        },
-        {
-          "type": "text",
-          "description": "地吹雪,C"
         }
       ]
     },
@@ -16429,7 +16685,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "キャラメル"
         },
         {
@@ -16451,8 +16707,24 @@ export const songs: any[] = [
           "description": "C"
         },
         {
-          "type": "text",
-          "description": "!,L,E,D,S,C,U,キャラメル"
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "D"
+        },
+        {
+          "type": "shape",
+          "description": "U"
+        },
+        {
+          "type": "shape",
+          "description": "キャラメル"
         }
       ],
       "extreme": [
@@ -16473,8 +16745,16 @@ export const songs: any[] = [
           "description": "C"
         },
         {
-          "type": "text",
-          "description": "綿飴,L,E,D,S,C,U"
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "D"
+        },
+        {
+          "type": "shape",
+          "description": "U"
         },
         {
           "type": "kojinsa",
@@ -16684,8 +16964,8 @@ export const songs: any[] = [
           "description": "ハリケーン"
         },
         {
-          "type": "text",
-          "description": "ハリケーン,T"
+          "type": "shape",
+          "description": "T"
         }
       ]
     },
@@ -16946,8 +17226,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
-          "description": "3,2,1"
+          "type": "shape",
+          "description": "3"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "1"
         },
         {
           "type": "sahyou",
@@ -16960,8 +17248,20 @@ export const songs: any[] = [
           "description": "時計の針(clanの街にも対応)"
         },
         {
-          "type": "text",
-          "description": "時計の針(clanの街にも対応),F,3,2,1"
+          "type": "shape",
+          "description": "F"
+        },
+        {
+          "type": "shape",
+          "description": "3"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "1"
         }
       ],
       "extreme": [
@@ -16970,8 +17270,8 @@ export const songs: any[] = [
           "description": "時計の針(clanの街にも対応)"
         },
         {
-          "type": "text",
-          "description": "時計の針(clanの街にも対応),F"
+          "type": "shape",
+          "description": "F"
         },
         {
           "type": "sahyou",
@@ -17580,20 +17880,12 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "クロワッサン(パン)"
-        },
-        {
-          "type": "text",
-          "description": "クロワッサン(パン),クロワッサン(パン)"
         }
       ],
       "extreme": [
         {
           "type": "shape",
           "description": "クロワッサン(パン)"
-        },
-        {
-          "type": "text",
-          "description": "クロワッサン(パン),クロワッサン(パン)"
         }
       ]
     },
@@ -18121,8 +18413,8 @@ export const songs: any[] = [
           "description": "開店"
         },
         {
-          "type": "text",
-          "description": "開店,LV"
+          "type": "shape",
+          "description": "LV"
         },
         {
           "type": "kojinsa",
@@ -18293,13 +18585,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "d"
         }
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "d"
         },
         {
@@ -18309,8 +18601,12 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "D,腕クロス"
+          "type": "shape",
+          "description": "D"
+        },
+        {
+          "type": "shape",
+          "description": "腕クロス"
         }
       ]
     },
@@ -18650,7 +18946,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "+"
         }
       ]
@@ -18960,8 +19256,8 @@ export const songs: any[] = [
           "description": "渦巻"
         },
         {
-          "type": "text",
-          "description": "ワームホール,渦巻"
+          "type": "shape",
+          "description": "ワームホール"
         }
       ]
     },
@@ -19190,8 +19486,8 @@ export const songs: any[] = [
           "description": "サンタクロース"
         },
         {
-          "type": "text",
-          "description": "ソリ,サンタクロース"
+          "type": "shape",
+          "description": "ソリ"
         },
         {
           "type": "kojinsa",
@@ -19251,8 +19547,48 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "十字架(墓標),1,2,K,f,V,U,v,10,ト,J"
+          "type": "shape",
+          "description": "十字架(墓標)"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "f"
+        },
+        {
+          "type": "shape",
+          "description": "V"
+        },
+        {
+          "type": "shape",
+          "description": "U"
+        },
+        {
+          "type": "shape",
+          "description": "v"
+        },
+        {
+          "type": "shape",
+          "description": "10"
+        },
+        {
+          "type": "shape",
+          "description": "ト"
+        },
+        {
+          "type": "shape",
+          "description": "J"
         }
       ]
     },
@@ -19589,8 +19925,8 @@ export const songs: any[] = [
           "description": "線路"
         },
         {
-          "type": "text",
-          "description": "線路,交差点"
+          "type": "shape",
+          "description": "交差点"
         },
         {
           "type": "kojinsa",
@@ -19962,7 +20298,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "剣"
         }
       ],
@@ -19972,8 +20308,8 @@ export const songs: any[] = [
           "description": "剣"
         },
         {
-          "type": "text",
-          "description": "剣,ド"
+          "type": "shape",
+          "description": "ド"
         },
         {
           "type": "gyakusahyou",
@@ -20049,8 +20385,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "d(反転または回転してp,b,q)"
+          "type": "shape",
+          "description": "d(反転または回転してp"
+        },
+        {
+          "type": "shape",
+          "description": "b"
+        },
+        {
+          "type": "shape",
+          "description": "q)"
         },
         {
           "type": "kojinsa",
@@ -20166,8 +20510,8 @@ export const songs: any[] = [
           "description": "ドア"
         },
         {
-          "type": "text",
-          "description": "d,心(ハート),ドア"
+          "type": "shape",
+          "description": "d"
         }
       ]
     },
@@ -21050,10 +21394,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "剣"
-        },
-        {
-          "type": "text",
-          "description": "龍,剣"
         }
       ],
       "extreme": [
@@ -21066,8 +21406,8 @@ export const songs: any[] = [
           "description": "龍"
         },
         {
-          "type": "text",
-          "description": "剣,龍,楯"
+          "type": "shape",
+          "description": "楯"
         }
       ]
     },
@@ -21224,8 +21564,8 @@ export const songs: any[] = [
           "description": "龍"
         },
         {
-          "type": "text",
-          "description": "龍,龍,D"
+          "type": "shape",
+          "description": "D"
         }
       ]
     },
@@ -21549,7 +21889,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ],
@@ -22650,8 +22990,20 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "M,r,.(ピリオド),T"
+          "type": "shape",
+          "description": "M"
+        },
+        {
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": ".(ピリオド)"
+        },
+        {
+          "type": "shape",
+          "description": "T"
         }
       ]
     },
@@ -23173,8 +23525,8 @@ export const songs: any[] = [
           "description": "○"
         },
         {
-          "type": "text",
-          "description": "S,×,○,爆発"
+          "type": "shape",
+          "description": "爆発"
         }
       ]
     },
@@ -23350,10 +23702,6 @@ export const songs: any[] = [
           "description": "高層ビル"
         },
         {
-          "type": "text",
-          "description": "ビル風,高層ビル"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         }
@@ -23366,10 +23714,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "高層ビル"
-        },
-        {
-          "type": "text",
-          "description": "ビル風,高層ビル"
         }
       ],
       "extreme": [
@@ -23380,10 +23724,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "ビル風"
-        },
-        {
-          "type": "text",
-          "description": "高層ビル,ビル風"
         }
       ]
     },
@@ -24124,8 +24464,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "1,2,g"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "g"
         }
       ],
       "extreme": [
@@ -24373,10 +24721,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "炎"
-        },
-        {
-          "type": "text",
-          "description": "十字架,炎"
         },
         {
           "type": "shape",
@@ -24798,10 +25142,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "8分)"
-        },
-        {
-          "type": "text",
-          "description": "渦(反時計回り,8分)"
         }
       ],
       "extreme": [
@@ -24812,10 +25152,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "16分)"
-        },
-        {
-          "type": "text",
-          "description": "渦(反時計回り,16分)"
         },
         {
           "type": "gyakusahyou",
@@ -25139,8 +25475,8 @@ export const songs: any[] = [
           "description": "F"
         },
         {
-          "type": "text",
-          "description": "F,T"
+          "type": "shape",
+          "description": "T"
         }
       ]
     },
@@ -25993,8 +26329,8 @@ export const songs: any[] = [
           "description": "妖精"
         },
         {
-          "type": "text",
-          "description": "ブーツ,降雪,妖精,N"
+          "type": "shape",
+          "description": "N"
         }
       ]
     },
@@ -26793,8 +27129,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "C,D"
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "D"
         }
       ],
       "advanced": [
@@ -27017,7 +27357,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "U"
         }
       ]
@@ -27379,7 +27719,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "花"
         }
       ],
@@ -27647,7 +27987,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "飛行物体"
         },
         {
@@ -27752,10 +28092,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "鍵盤"
-        },
-        {
-          "type": "text",
-          "description": "階段,鍵盤"
         }
       ],
       "extreme": [
@@ -27766,10 +28102,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "鍵盤"
-        },
-        {
-          "type": "text",
-          "description": "階段,鍵盤"
         }
       ]
     },
@@ -28797,8 +29129,12 @@ export const songs: any[] = [
           "description": "カ"
         },
         {
-          "type": "text",
-          "description": "ト,ド,イ,テ,ル,カ"
+          "type": "shape",
+          "description": "ト"
+        },
+        {
+          "type": "shape",
+          "description": "テ"
         }
       ]
     },
@@ -29079,10 +29415,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "F"
-        },
-        {
-          "type": "text",
-          "description": "F,F"
         }
       ],
       "extreme": [
@@ -29103,8 +29435,12 @@ export const songs: any[] = [
           "description": "?"
         },
         {
-          "type": "text",
-          "description": "神輿(みこし),F,F,J,M,?,℃"
+          "type": "shape",
+          "description": "J"
+        },
+        {
+          "type": "shape",
+          "description": "℃"
         }
       ]
     },
@@ -29401,13 +29737,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ハイビスカス"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ハイビスカス"
         }
       ],
@@ -29567,8 +29903,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "L,猫(中型)"
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "猫(中型)"
         }
       ],
       "extreme": [
@@ -29585,8 +29925,24 @@ export const songs: any[] = [
           "description": "E"
         },
         {
-          "type": "text",
-          "description": "A,I,!,G,L,E,D,猫(大型)"
+          "type": "shape",
+          "description": "A"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "D"
+        },
+        {
+          "type": "shape",
+          "description": "猫(大型)"
         },
         {
           "type": "sahyou",
@@ -30857,7 +31213,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ジャケットの手"
         },
         {
@@ -30867,8 +31223,24 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "S,A,U,P,ジャケットの手"
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "A"
+        },
+        {
+          "type": "shape",
+          "description": "U"
+        },
+        {
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "ジャケットの手"
         }
       ],
       "basic": [
@@ -31898,7 +32270,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "蝶"
         }
       ],
@@ -33119,10 +33491,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "上昇"
-        },
-        {
-          "type": "text",
-          "description": "×,笑顔,下降,上昇"
         }
       ]
     },
@@ -33338,13 +33706,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "!"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "?"
         }
       ]
@@ -33450,8 +33818,32 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "!!,Y,B,K,P,?,S"
+          "type": "shape",
+          "description": "!!"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "B"
+        },
+        {
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "?"
+        },
+        {
+          "type": "shape",
+          "description": "S"
         }
       ]
     },
@@ -34049,8 +34441,8 @@ export const songs: any[] = [
           "description": "U"
         },
         {
-          "type": "text",
-          "description": "O,U"
+          "type": "shape",
+          "description": "O"
         }
       ],
       "extreme": [
@@ -34067,8 +34459,12 @@ export const songs: any[] = [
           "description": "U"
         },
         {
-          "type": "text",
-          "description": "人々,C,Uへ,J(小型)"
+          "type": "shape",
+          "description": "Uへ"
+        },
+        {
+          "type": "shape",
+          "description": "J(小型)"
         }
       ]
     },
@@ -34253,7 +34649,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "H"
         },
         {
@@ -34263,7 +34659,7 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "月"
         },
         {
@@ -34271,8 +34667,8 @@ export const songs: any[] = [
           "description": "h"
         },
         {
-          "type": "text",
-          "description": "h,MOON(三日月)"
+          "type": "shape",
+          "description": "MOON(三日月)"
         }
       ],
       "basic": [
@@ -34630,8 +35026,20 @@ export const songs: any[] = [
           "description": "H"
         },
         {
-          "type": "text",
-          "description": "h,!,お月様(三日月),逆さまのお月様,H"
+          "type": "shape",
+          "description": "h"
+        },
+        {
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "お月様(三日月)"
+        },
+        {
+          "type": "shape",
+          "description": "逆さまのお月様"
         }
       ]
     },
@@ -34752,7 +35160,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "H"
         },
         {
@@ -35269,7 +35677,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "H"
         }
       ]
@@ -35430,10 +35838,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "上昇気流"
-        },
-        {
-          "type": "text",
-          "description": "吹雪,上昇気流"
         }
       ]
     },
@@ -35539,8 +35943,16 @@ export const songs: any[] = [
           "description": "!"
         },
         {
-          "type": "text",
-          "description": "H,F,!,y,!"
+          "type": "shape",
+          "description": "H"
+        },
+        {
+          "type": "shape",
+          "description": "F"
+        },
+        {
+          "type": "shape",
+          "description": "y"
         },
         {
           "type": "sahyou",
@@ -35553,8 +35965,12 @@ export const songs: any[] = [
           "description": "!!!"
         },
         {
-          "type": "text",
-          "description": "c,y,!!!"
+          "type": "shape",
+          "description": "c"
+        },
+        {
+          "type": "shape",
+          "description": "y"
         },
         {
           "type": "gyakusahyou",
@@ -36071,10 +36487,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "疾走"
-        },
-        {
-          "type": "text",
-          "description": "ハイエナ,疾走"
         }
       ]
     },
@@ -36130,8 +36542,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "I,暗転"
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "暗転"
         },
         {
           "type": "gyakusahyou",
@@ -36188,8 +36604,64 @@ export const songs: any[] = [
           "description": "THANK YOU(1と9、総ノーツ数1009に引っ掛けたダジャレ)"
         },
         {
-          "type": "text",
-          "description": "L,V,O,S,心(ハート),P(小,大),♪,咲く,一輪の花,N,花,W,Y,ハート,C(小,中,大),THANK YOU(1と9、総ノーツ数1009に引っ掛けたダジャレ)"
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "P(小"
+        },
+        {
+          "type": "shape",
+          "description": "大)"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
+        },
+        {
+          "type": "shape",
+          "description": "咲く"
+        },
+        {
+          "type": "shape",
+          "description": "一輪の花"
+        },
+        {
+          "type": "shape",
+          "description": "N"
+        },
+        {
+          "type": "shape",
+          "description": "花"
+        },
+        {
+          "type": "shape",
+          "description": "W"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "C(小"
+        },
+        {
+          "type": "shape",
+          "description": "中"
         }
       ]
     },
@@ -36714,16 +37186,28 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "1,2,I,S,H"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "H"
         },
         {
           "type": "shape",
           "description": "P"
-        },
-        {
-          "type": "text",
-          "description": "1,2,I,S,H,P"
         },
         {
           "type": "kojinsa",
@@ -36965,10 +37449,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "O"
-        },
-        {
-          "type": "text",
-          "description": "I,O"
         }
       ],
       "advanced": [
@@ -36979,8 +37459,12 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "◇,I/O"
+          "type": "shape",
+          "description": "◇"
+        },
+        {
+          "type": "shape",
+          "description": "I/O"
         }
       ]
     },
@@ -37603,8 +38087,8 @@ export const songs: any[] = [
           "description": "F"
         },
         {
-          "type": "text",
-          "description": "I,F"
+          "type": "shape",
+          "description": "I"
         },
         {
           "type": "gyakusahyou",
@@ -38293,8 +38777,8 @@ export const songs: any[] = [
           "description": "大)"
         },
         {
-          "type": "text",
-          "description": "L,(中,大)"
+          "type": "shape",
+          "description": "L"
         }
       ],
       "extreme": [
@@ -38307,8 +38791,8 @@ export const songs: any[] = [
           "description": "大)"
         },
         {
-          "type": "text",
-          "description": "L,(中,大)"
+          "type": "shape",
+          "description": "L"
         }
       ],
       "basic": [
@@ -38481,7 +38965,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "k"
         },
         {
@@ -38906,13 +39390,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "三日月"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "三日月"
         },
         {
@@ -38990,7 +39474,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "太陽"
         }
       ]
@@ -39460,7 +39944,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ベンチ"
         },
         {
@@ -39488,8 +39972,8 @@ export const songs: any[] = [
           "description": "バックスクリーンホームラン"
         },
         {
-          "type": "text",
-          "description": "X,IX,ベンチ,バックスクリーンホームラン"
+          "type": "shape",
+          "description": "ベンチ"
         },
         {
           "type": "gyakusahyou",
@@ -39886,7 +40370,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "両手"
         }
       ],
@@ -39898,10 +40382,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "♪"
-        },
-        {
-          "type": "text",
-          "description": "ラ,♪"
         }
       ]
     },
@@ -39945,8 +40425,8 @@ export const songs: any[] = [
           "description": "ジェットコースター(急降下、コークスクリュー)"
         },
         {
-          "type": "text",
-          "description": "♪,ジェットコースター(急降下、コークスクリュー)"
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -40197,8 +40677,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
-          "description": "O,ニ"
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "ニ"
         },
         {
           "type": "kojinsa",
@@ -40211,8 +40695,12 @@ export const songs: any[] = [
           "description": "2"
         },
         {
-          "type": "text",
-          "description": "N,2,ニ"
+          "type": "shape",
+          "description": "N"
+        },
+        {
+          "type": "shape",
+          "description": "ニ"
         }
       ],
       "extreme": [
@@ -40221,8 +40709,12 @@ export const songs: any[] = [
           "description": "大回転(反時計回り)"
         },
         {
-          "type": "text",
-          "description": "大回転(反時計回り),十字架,DJ(間)"
+          "type": "shape",
+          "description": "十字架"
+        },
+        {
+          "type": "shape",
+          "description": "DJ(間)"
         },
         {
           "type": "gyakusahyou",
@@ -40296,7 +40788,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "j"
         },
         {
@@ -40314,8 +40806,24 @@ export const songs: any[] = [
           "description": "h"
         },
         {
-          "type": "text",
-          "description": "b,j,c,M,h,G,J"
+          "type": "shape",
+          "description": "b"
+        },
+        {
+          "type": "shape",
+          "description": "j"
+        },
+        {
+          "type": "shape",
+          "description": "c"
+        },
+        {
+          "type": "shape",
+          "description": "G"
+        },
+        {
+          "type": "shape",
+          "description": "J"
         },
         {
           "type": "kojinsa",
@@ -41164,8 +41672,8 @@ export const songs: any[] = [
           "description": "スフィンクス"
         },
         {
-          "type": "text",
-          "description": "スフィンクス,稲妻"
+          "type": "shape",
+          "description": "稲妻"
         }
       ]
     },
@@ -41700,7 +42208,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "H"
         }
       ],
@@ -42172,8 +42680,8 @@ export const songs: any[] = [
           "description": "○"
         },
         {
-          "type": "text",
-          "description": "○,U"
+          "type": "shape",
+          "description": "U"
         }
       ]
     },
@@ -42477,10 +42985,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "欠片"
-        },
-        {
-          "type": "text",
-          "description": "両手,欠片"
         }
       ],
       "basic": [
@@ -43378,8 +43882,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "L,M"
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "M"
         },
         {
           "type": "kojinsa",
@@ -43681,8 +44189,8 @@ export const songs: any[] = [
           "description": "アンテナ"
         },
         {
-          "type": "text",
-          "description": "アンテナ,ハート"
+          "type": "shape",
+          "description": "ハート"
         }
       ]
     },
@@ -44212,10 +44720,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "c"
-        },
-        {
-          "type": "text",
-          "description": "L,c"
         },
         {
           "type": "sahyou",
@@ -45228,7 +45732,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "花(ヘッドホン)"
         }
       ]
@@ -46517,7 +47021,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "U"
         }
       ]
@@ -46874,8 +47378,20 @@ export const songs: any[] = [
           "description": "×"
         },
         {
-          "type": "text",
-          "description": "4,F,×,ハート,L"
+          "type": "shape",
+          "description": "4"
+        },
+        {
+          "type": "shape",
+          "description": "F"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "L"
         }
       ]
     },
@@ -47043,8 +47559,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "S,T,K"
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "K"
         }
       ],
       "advanced": [
@@ -48009,13 +48533,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "◇"
         }
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "+"
         }
       ],
@@ -48029,8 +48553,12 @@ export const songs: any[] = [
           "description": "S"
         },
         {
-          "type": "text",
-          "description": "磁石,S,F,J,S"
+          "type": "shape",
+          "description": "F"
+        },
+        {
+          "type": "shape",
+          "description": "J"
         }
       ]
     },
@@ -48706,8 +49234,8 @@ export const songs: any[] = [
           "description": "h"
         },
         {
-          "type": "text",
-          "description": "h,j"
+          "type": "shape",
+          "description": "j"
         },
         {
           "type": "sahyou",
@@ -49402,10 +49930,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "熊"
-        },
-        {
-          "type": "text",
-          "description": "かき氷,熊"
         }
       ],
       "advanced": [
@@ -49939,8 +50463,12 @@ export const songs: any[] = [
           "description": "メロン"
         },
         {
-          "type": "text",
-          "description": "山,0,メロン"
+          "type": "shape",
+          "description": "山"
+        },
+        {
+          "type": "shape",
+          "description": "0"
         },
         {
           "type": "gyakusahyou",
@@ -49985,8 +50513,16 @@ export const songs: any[] = [
           "description": "ミ"
         },
         {
-          "type": "text",
-          "description": "牛久大仏,納豆,ノ,0.1,3,6,×,メロン,滝,裏8のリズム,ミ,ト"
+          "type": "shape",
+          "description": "ノ"
+        },
+        {
+          "type": "shape",
+          "description": "×"
+        },
+        {
+          "type": "shape",
+          "description": "ト"
         }
       ]
     },
@@ -50067,10 +50603,6 @@ export const songs: any[] = [
           "description": "Polaris"
         },
         {
-          "type": "text",
-          "description": "流れ星,Polaris"
-        },
-        {
           "type": "kojinsa",
           "label": "个人差"
         }
@@ -50083,10 +50615,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "Polaris"
-        },
-        {
-          "type": "text",
-          "description": "流れ星,Polaris"
         },
         {
           "type": "kojinsa",
@@ -50301,7 +50829,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "モノリス"
         }
       ]
@@ -50570,8 +51098,12 @@ export const songs: any[] = [
           "description": "母艦がぼっかーん"
         },
         {
-          "type": "text",
-          "description": "母艦がぼっかーん,発砲,お辞儀"
+          "type": "shape",
+          "description": "発砲"
+        },
+        {
+          "type": "shape",
+          "description": "お辞儀"
         }
       ],
       "extreme": [
@@ -50588,8 +51120,20 @@ export const songs: any[] = [
           "description": "母艦がぼっかーん"
         },
         {
-          "type": "text",
-          "description": "浮上,沈下,母艦がぼっかーん,発砲,潜水艦,N,orz"
+          "type": "shape",
+          "description": "発砲"
+        },
+        {
+          "type": "shape",
+          "description": "潜水艦"
+        },
+        {
+          "type": "shape",
+          "description": "N"
+        },
+        {
+          "type": "shape",
+          "description": "orz"
         }
       ]
     },
@@ -51304,10 +51848,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "○"
-        },
-        {
-          "type": "text",
-          "description": "×,○"
         }
       ]
     },
@@ -51748,10 +52288,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "猫(大型)"
-        },
-        {
-          "type": "text",
-          "description": "ハート,猫(大型)"
         }
       ]
     },
@@ -52047,7 +52583,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "N"
         },
         {
@@ -52227,7 +52763,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "N"
         },
         {
@@ -52589,10 +53125,6 @@ export const songs: any[] = [
           "description": "花弁"
         },
         {
-          "type": "text",
-          "description": "両腕(ドーパミンのジャケット),U1,花弁"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         }
@@ -52762,7 +53294,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "N"
         },
         {
@@ -52770,8 +53302,8 @@ export const songs: any[] = [
           "description": "[E]"
         },
         {
-          "type": "text",
-          "description": "矢印,[E]"
+          "type": "shape",
+          "description": "矢印"
         }
       ],
       "advanced": [
@@ -53474,10 +54006,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "トラック"
-        },
-        {
-          "type": "text",
-          "description": "Uターン(転回),道路,トラック"
         }
       ],
       "advanced": [
@@ -53492,10 +54020,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "道路"
-        },
-        {
-          "type": "text",
-          "description": "トラック,街灯,道路"
         }
       ],
       "extreme": [
@@ -53675,8 +54199,24 @@ export const songs: any[] = [
           "description": "H"
         },
         {
-          "type": "text",
-          "description": "LOVE(ハート),愛(ハート),花びら,欠片(かけら),星,H,V,e,n,s"
+          "type": "shape",
+          "description": "LOVE(ハート)"
+        },
+        {
+          "type": "shape",
+          "description": "V"
+        },
+        {
+          "type": "shape",
+          "description": "e"
+        },
+        {
+          "type": "shape",
+          "description": "n"
+        },
+        {
+          "type": "shape",
+          "description": "s"
         }
       ]
     },
@@ -54401,8 +54941,16 @@ export const songs: any[] = [
           "description": "ターバン"
         },
         {
-          "type": "text",
-          "description": "ターバン,o,j,y"
+          "type": "shape",
+          "description": "o"
+        },
+        {
+          "type": "shape",
+          "description": "j"
+        },
+        {
+          "type": "shape",
+          "description": "y"
         }
       ]
     },
@@ -54807,7 +55355,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "◇"
         }
       ]
@@ -54959,8 +55507,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "Z,A"
+          "type": "shape",
+          "description": "Z"
+        },
+        {
+          "type": "shape",
+          "description": "A"
         },
         {
           "type": "sahyou",
@@ -55117,8 +55669,24 @@ export const songs: any[] = [
           "description": "lapix"
         },
         {
-          "type": "text",
-          "description": "lapix(l,a,p,i,x)"
+          "type": "shape",
+          "description": "lapix(l"
+        },
+        {
+          "type": "shape",
+          "description": "a"
+        },
+        {
+          "type": "shape",
+          "description": "p"
+        },
+        {
+          "type": "shape",
+          "description": "i"
+        },
+        {
+          "type": "shape",
+          "description": "x)"
         },
         {
           "type": "kojinsa",
@@ -55444,7 +56012,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "X"
         }
       ],
@@ -55617,7 +56185,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "◇"
         }
       ],
@@ -55861,7 +56429,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "y"
         }
       ],
@@ -55969,7 +56537,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "y"
         }
       ],
@@ -56063,7 +56631,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "P"
         }
       ]
@@ -56346,13 +56914,17 @@ export const songs: any[] = [
           "description": "t"
         },
         {
-          "type": "text",
-          "description": "j,u,b,e,a,t"
+          "type": "shape",
+          "description": "j"
+        },
+        {
+          "type": "shape",
+          "description": "e"
         }
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "S"
         },
         {
@@ -56452,7 +57024,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "猫"
         }
       ]
@@ -56533,8 +57105,8 @@ export const songs: any[] = [
           "description": "×"
         },
         {
-          "type": "text",
-          "description": "〇,×,S"
+          "type": "shape",
+          "description": "S"
         },
         {
           "type": "sahyou",
@@ -56640,10 +57212,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "猫"
-        },
-        {
-          "type": "text",
-          "description": "螺旋階段,鍵盤,階段,猫"
         }
       ],
       "extreme": [
@@ -56658,10 +57226,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "螺旋階段"
-        },
-        {
-          "type": "text",
-          "description": "階段,鍵盤,螺旋階段"
         }
       ]
     },
@@ -57077,8 +57641,8 @@ export const songs: any[] = [
           "description": "花吹雪"
         },
         {
-          "type": "text",
-          "description": "傷口,花吹雪,薔薇(ばら)"
+          "type": "shape",
+          "description": "薔薇(ばら)"
         },
         {
           "type": "shape",
@@ -57095,10 +57659,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "花びら"
-        },
-        {
-          "type": "text",
-          "description": "傷口,落ちてくる,繰り返す,抱きしめて,花びら"
         }
       ]
     },
@@ -57348,7 +57908,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "8"
         }
       ]
@@ -57703,7 +58263,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "スモモ"
         }
       ]
@@ -57863,10 +58423,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "渦巻"
-        },
-        {
-          "type": "text",
-          "description": "階段,渦巻"
         }
       ],
       "advanced": [
@@ -58457,8 +59013,8 @@ export const songs: any[] = [
           "description": "回転"
         },
         {
-          "type": "text",
-          "description": "U,回転"
+          "type": "shape",
+          "description": "U"
         }
       ],
       "advanced": [
@@ -58511,8 +59067,12 @@ export const songs: any[] = [
           "description": "フレーフレー"
         },
         {
-          "type": "text",
-          "description": "+,♪,フレーフレー,P,♪"
+          "type": "shape",
+          "description": "+"
+        },
+        {
+          "type": "shape",
+          "description": "P"
         }
       ]
     },
@@ -58747,13 +59307,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "◎(ムービーに登場)"
         }
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "◎"
         },
         {
@@ -58763,8 +59323,12 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "◎,T"
+          "type": "shape",
+          "description": "◎"
+        },
+        {
+          "type": "shape",
+          "description": "T"
         },
         {
           "type": "gyakusahyou",
@@ -58841,7 +59405,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T(横向き)"
         },
         {
@@ -59014,7 +59578,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "L"
         },
         {
@@ -60059,8 +60623,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "p,d"
+          "type": "shape",
+          "description": "p"
+        },
+        {
+          "type": "shape",
+          "description": "d"
         }
       ],
       "basic": [
@@ -60687,14 +61255,38 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "T,y,f,P"
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "f"
+        },
+        {
+          "type": "shape",
+          "description": "P"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "T,Y,F,P"
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "F"
+        },
+        {
+          "type": "shape",
+          "description": "P"
         },
         {
           "type": "sahyou",
@@ -60913,8 +61505,40 @@ export const songs: any[] = [
           "description": "L"
         },
         {
-          "type": "text",
-          "description": "ハート(小),y,Y,i,W,L,p,n,f,d,星"
+          "type": "shape",
+          "description": "ハート(小)"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "i"
+        },
+        {
+          "type": "shape",
+          "description": "W"
+        },
+        {
+          "type": "shape",
+          "description": "p"
+        },
+        {
+          "type": "shape",
+          "description": "n"
+        },
+        {
+          "type": "shape",
+          "description": "f"
+        },
+        {
+          "type": "shape",
+          "description": "d"
+        },
+        {
+          "type": "shape",
+          "description": "星"
         },
         {
           "type": "sahyou",
@@ -61173,8 +61797,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "H,花"
+          "type": "shape",
+          "description": "H"
+        },
+        {
+          "type": "shape",
+          "description": "花"
         }
       ]
     },
@@ -61245,7 +61873,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "S"
         }
       ]
@@ -61410,8 +62038,8 @@ export const songs: any[] = [
           "description": "地吹雪"
         },
         {
-          "type": "text",
-          "description": "1,2,花,地吹雪"
+          "type": "shape",
+          "description": "1"
         }
       ]
     },
@@ -61736,8 +62364,8 @@ export const songs: any[] = [
           "description": "光線"
         },
         {
-          "type": "text",
-          "description": "光線,爆発"
+          "type": "shape",
+          "description": "爆発"
         }
       ],
       "advanced": [
@@ -62210,7 +62838,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ガチョウ"
         }
       ]
@@ -62383,8 +63011,8 @@ export const songs: any[] = [
           "description": "N"
         },
         {
-          "type": "text",
-          "description": "N,8"
+          "type": "shape",
+          "description": "8"
         }
       ]
     },
@@ -62538,8 +63166,60 @@ export const songs: any[] = [
           "description": "握手"
         },
         {
-          "type": "text",
-          "description": "ハイタッチ,「BEMANI SUMMER GREETINGS」参加アーティストの頭文字(T,T,A,K,n,M,U,1,g,r,S,y,h,P)詳細,握手"
+          "type": "shape",
+          "description": "ハイタッチ"
+        },
+        {
+          "type": "shape",
+          "description": "「BEMANI SUMMER GREETINGS」参加アーティストの頭文字(T"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "n"
+        },
+        {
+          "type": "shape",
+          "description": "M"
+        },
+        {
+          "type": "shape",
+          "description": "U"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "g"
+        },
+        {
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "h"
+        },
+        {
+          "type": "shape",
+          "description": "P)詳細"
         }
       ],
       "basic": [
@@ -62729,8 +63409,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "i,f"
+          "type": "shape",
+          "description": "i"
+        },
+        {
+          "type": "shape",
+          "description": "f"
         }
       ],
       "extreme": [
@@ -62739,8 +63423,48 @@ export const songs: any[] = [
           "description": "i"
         },
         {
-          "type": "text",
-          "description": "T,V,b,N,d,C,h,i,f,Y,o,u"
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "V"
+        },
+        {
+          "type": "shape",
+          "description": "b"
+        },
+        {
+          "type": "shape",
+          "description": "N"
+        },
+        {
+          "type": "shape",
+          "description": "d"
+        },
+        {
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "h"
+        },
+        {
+          "type": "shape",
+          "description": "f"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "o"
+        },
+        {
+          "type": "shape",
+          "description": "u"
         }
       ]
     },
@@ -63216,20 +63940,88 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
-          "description": "r,o,T"
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": "o"
+        },
+        {
+          "type": "shape",
+          "description": "T"
         }
       ],
       "advanced": [
         {
-          "type": "text",
-          "description": "r,o,T,w,y"
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": "o"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "w"
+        },
+        {
+          "type": "shape",
+          "description": "y"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "r,o,T,P,F,グッド,I,w,y,t,s,S"
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": "o"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "F"
+        },
+        {
+          "type": "shape",
+          "description": "グッド"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "w"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "t"
+        },
+        {
+          "type": "shape",
+          "description": "s"
+        },
+        {
+          "type": "shape",
+          "description": "S"
         },
         {
           "type": "kojinsa",
@@ -63486,7 +64278,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "毛筆"
         }
       ],
@@ -63863,7 +64655,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "u"
         },
         {
@@ -63873,8 +64665,20 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "j,1,2,3"
+          "type": "shape",
+          "description": "j"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "3"
         },
         {
           "type": "sahyou",
@@ -64018,13 +64822,13 @@ export const songs: any[] = [
           "description": "R"
         },
         {
-          "type": "text",
-          "description": "R,ロ(片仮名)"
+          "type": "shape",
+          "description": "ロ(片仮名)"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "L"
         }
       ]
@@ -64212,8 +65016,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
-          "description": "サイコロの出目(4),サイコロ"
+          "type": "shape",
+          "description": "サイコロの出目(4)"
+        },
+        {
+          "type": "shape",
+          "description": "サイコロ"
         }
       ],
       "advanced": [
@@ -64222,14 +65030,54 @@ export const songs: any[] = [
           "description": "サイコロの出目(1)"
         },
         {
-          "type": "text",
-          "description": "サイコロの出目(1),サイコロの出目(3,5,2,4,6),サイコロ"
+          "type": "shape",
+          "description": "サイコロの出目(3"
+        },
+        {
+          "type": "shape",
+          "description": "5"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "4"
+        },
+        {
+          "type": "shape",
+          "description": "6)"
+        },
+        {
+          "type": "shape",
+          "description": "サイコロ"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "P,H,T,B,J,C(NOBOLOTの山の頭文字)"
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "H"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "B"
+        },
+        {
+          "type": "shape",
+          "description": "J"
+        },
+        {
+          "type": "shape",
+          "description": "C(NOBOLOTの山の頭文字)"
         },
         {
           "type": "gyakusahyou",
@@ -64385,7 +65233,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ]
@@ -64995,7 +65843,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "S"
         }
       ]
@@ -65368,8 +66216,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "1,2"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
         },
         {
           "type": "kojinsa",
@@ -65547,7 +66399,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "桜"
         },
         {
@@ -65557,7 +66409,7 @@ export const songs: any[] = [
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "桜"
         },
         {
@@ -65567,8 +66419,12 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "桜,太陽"
+          "type": "shape",
+          "description": "桜"
+        },
+        {
+          "type": "shape",
+          "description": "太陽"
         },
         {
           "type": "kojinsa",
@@ -65761,8 +66617,24 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "S,r,h,L,J"
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": "h"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "J"
         },
         {
           "type": "gyakusahyou",
@@ -66198,8 +67070,20 @@ export const songs: any[] = [
           "description": "挨拶"
         },
         {
-          "type": "text",
-          "description": "お茶,挨拶,S,d,F"
+          "type": "shape",
+          "description": "お茶"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "d"
+        },
+        {
+          "type": "shape",
+          "description": "F"
         },
         {
           "type": "kojinsa",
@@ -66721,8 +67605,16 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "ハ,g,j"
+          "type": "shape",
+          "description": "ハ"
+        },
+        {
+          "type": "shape",
+          "description": "g"
+        },
+        {
+          "type": "shape",
+          "description": "j"
         }
       ]
     },
@@ -67051,8 +67943,8 @@ export const songs: any[] = [
           "description": "S"
         },
         {
-          "type": "text",
-          "description": "S,種"
+          "type": "shape",
+          "description": "種"
         }
       ],
       "extreme": [
@@ -67063,10 +67955,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "&#423;"
-        },
-        {
-          "type": "text",
-          "description": "S,&#423;"
         }
       ],
       "basic": [
@@ -68061,10 +68949,6 @@ export const songs: any[] = [
           "description": "S"
         },
         {
-          "type": "text",
-          "description": "吹雪,回転,S"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         }
@@ -68155,8 +69039,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "◇,1"
+          "type": "shape",
+          "description": "◇"
+        },
+        {
+          "type": "shape",
+          "description": "1"
         }
       ]
     },
@@ -68309,8 +69197,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "糸,u"
+          "type": "shape",
+          "description": "糸"
+        },
+        {
+          "type": "shape",
+          "description": "u"
         }
       ]
     },
@@ -68560,7 +69452,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "S"
         },
         {
@@ -68889,7 +69781,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "爆発"
         },
         {
@@ -69412,8 +70304,8 @@ export const songs: any[] = [
           "description": "S"
         },
         {
-          "type": "text",
-          "description": "A,S"
+          "type": "shape",
+          "description": "A"
         }
       ]
     },
@@ -69984,7 +70876,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "S"
         },
         {
@@ -69994,12 +70886,16 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "S"
         },
         {
-          "type": "text",
-          "description": "・∀・,s"
+          "type": "shape",
+          "description": "・∀・"
+        },
+        {
+          "type": "shape",
+          "description": "s"
         }
       ],
       "basic": [
@@ -70581,10 +71477,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "×"
-        },
-        {
-          "type": "text",
-          "description": "吹雪,地吹雪,○,×"
         }
       ]
     },
@@ -70749,10 +71641,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "吹雪"
-        },
-        {
-          "type": "text",
-          "description": "地吹雪,吹雪"
         }
       ]
     },
@@ -72301,10 +73189,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "競馬場"
-        },
-        {
-          "type": "text",
-          "description": "蹄(ひづめ),競馬場"
         }
       ]
     },
@@ -72549,10 +73433,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "カウントダウン"
-        },
-        {
-          "type": "text",
-          "description": "降雨,スコール,カウントダウン"
         }
       ],
       "advanced": [
@@ -73046,8 +73926,12 @@ export const songs: any[] = [
           "description": "T"
         },
         {
-          "type": "text",
-          "description": "T,A,G,T"
+          "type": "shape",
+          "description": "A"
+        },
+        {
+          "type": "shape",
+          "description": "G"
         },
         {
           "type": "gyakusahyou",
@@ -74102,7 +74986,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ],
@@ -74114,10 +74998,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "T"
-        },
-        {
-          "type": "text",
-          "description": "甲冑(かっちゅう),T,T"
         }
       ]
     },
@@ -75100,8 +75980,8 @@ export const songs: any[] = [
           "description": "M"
         },
         {
-          "type": "text",
-          "description": "M,T"
+          "type": "shape",
+          "description": "T"
         },
         {
           "type": "kojinsa",
@@ -75110,8 +75990,12 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "M,T"
+          "type": "shape",
+          "description": "M"
+        },
+        {
+          "type": "shape",
+          "description": "T"
         }
       ],
       "basic": [
@@ -75380,10 +76264,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "A(Hの直後)"
-        },
-        {
-          "type": "text",
-          "description": "H,A(Hの直後)"
         }
       ]
     },
@@ -75660,10 +76540,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "1"
-        },
-        {
-          "type": "text",
-          "description": "U,1"
         },
         {
           "type": "sahyou",
@@ -77223,8 +78099,12 @@ export const songs: any[] = [
           "description": "U"
         },
         {
-          "type": "text",
-          "description": "T,U,1"
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "1"
         }
       ]
     },
@@ -77923,13 +78803,13 @@ export const songs: any[] = [
           "description": "カ"
         },
         {
-          "type": "text",
-          "description": "旋風,太陽,カ"
+          "type": "shape",
+          "description": "太陽"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "O"
         }
       ]
@@ -78130,7 +79010,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ],
@@ -78629,7 +79509,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ハンマー"
         }
       ]
@@ -78782,7 +79662,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "狼(オオカミ)"
         }
       ],
@@ -79071,8 +79951,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "T,P,I"
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "I"
         }
       ]
     },
@@ -79206,8 +80094,8 @@ export const songs: any[] = [
           "description": "降雪"
         },
         {
-          "type": "text",
-          "description": "吹雪,降雪,M"
+          "type": "shape",
+          "description": "M"
         }
       ],
       "basic": [
@@ -79626,7 +80514,7 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "クロスカウンター"
         },
         {
@@ -80137,10 +81025,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "J)"
-        },
-        {
-          "type": "text",
-          "description": "Triple Journey(T,J)"
         }
       ],
       "advanced": [
@@ -80151,10 +81035,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "J)"
-        },
-        {
-          "type": "text",
-          "description": "Triple Journey(T,J)"
         }
       ],
       "extreme": [
@@ -80203,8 +81083,164 @@ export const songs: any[] = [
           "description": "刀振り回し),fin.."
         },
         {
-          "type": "text",
-          "description": "Triple Journey(T,J),jubeat(j,b)GITADORA(g,d),DDR(d,d,r),アフロ(左上矢印,右上矢印),ショッチョー(S,-,C,-,U),オトベア、いつでも電話しておいでよ!(オトベア,電話),CD(C,D),Level 573(L,v,5個押し、7個押し、3個押し),ギタドラ挨拶(ギター,ドラム),limited time only(l,t,o),21日(2,1),TAGとbabylon(T,b),オトベアくん!オトベアくん?!返事をしてくれ!(オトベア,オトベア),刀(カ,タ,ナ,刀振り回し),fin..(f,i,n,.,.)"
+          "type": "shape",
+          "description": "Triple Journey(T"
+        },
+        {
+          "type": "shape",
+          "description": "J)"
+        },
+        {
+          "type": "shape",
+          "description": "jubeat(j"
+        },
+        {
+          "type": "shape",
+          "description": "b)GITADORA(g"
+        },
+        {
+          "type": "shape",
+          "description": "d)"
+        },
+        {
+          "type": "shape",
+          "description": "DDR(d"
+        },
+        {
+          "type": "shape",
+          "description": "d"
+        },
+        {
+          "type": "shape",
+          "description": "r)"
+        },
+        {
+          "type": "shape",
+          "description": "アフロ(左上矢印"
+        },
+        {
+          "type": "shape",
+          "description": "右上矢印)"
+        },
+        {
+          "type": "shape",
+          "description": "ショッチョー(S"
+        },
+        {
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "U)"
+        },
+        {
+          "type": "shape",
+          "description": "オトベア、いつでも電話しておいでよ!(オトベア"
+        },
+        {
+          "type": "shape",
+          "description": "電話)"
+        },
+        {
+          "type": "shape",
+          "description": "CD(C"
+        },
+        {
+          "type": "shape",
+          "description": "D)"
+        },
+        {
+          "type": "shape",
+          "description": "Level 573(L"
+        },
+        {
+          "type": "shape",
+          "description": "v"
+        },
+        {
+          "type": "shape",
+          "description": "5個押し、7個押し、3個押し)"
+        },
+        {
+          "type": "shape",
+          "description": "ギタドラ挨拶(ギター"
+        },
+        {
+          "type": "shape",
+          "description": "ドラム)"
+        },
+        {
+          "type": "shape",
+          "description": "limited time only(l"
+        },
+        {
+          "type": "shape",
+          "description": "t"
+        },
+        {
+          "type": "shape",
+          "description": "o)"
+        },
+        {
+          "type": "shape",
+          "description": "21日(2"
+        },
+        {
+          "type": "shape",
+          "description": "1)"
+        },
+        {
+          "type": "shape",
+          "description": "TAGとbabylon(T"
+        },
+        {
+          "type": "shape",
+          "description": "b)"
+        },
+        {
+          "type": "shape",
+          "description": "オトベアくん!オトベアくん?!返事をしてくれ!(オトベア"
+        },
+        {
+          "type": "shape",
+          "description": "オトベア)"
+        },
+        {
+          "type": "shape",
+          "description": "刀(カ"
+        },
+        {
+          "type": "shape",
+          "description": "タ"
+        },
+        {
+          "type": "shape",
+          "description": "ナ"
+        },
+        {
+          "type": "shape",
+          "description": "刀振り回し)"
+        },
+        {
+          "type": "shape",
+          "description": "fin..(f"
+        },
+        {
+          "type": "shape",
+          "description": "i"
+        },
+        {
+          "type": "shape",
+          "description": "n"
+        },
+        {
+          "type": "shape",
+          "description": "."
+        },
+        {
+          "type": "shape",
+          "description": ".)"
         }
       ]
     },
@@ -80276,7 +81312,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "クラッカー"
         }
       ]
@@ -80453,12 +81489,12 @@ export const songs: any[] = [
           "description": "○"
         },
         {
-          "type": "text",
-          "description": "×,○"
+          "type": "shape",
+          "description": "T"
         },
         {
-          "type": "text",
-          "description": "T,B,"
+          "type": "shape",
+          "description": "B"
         },
         {
           "type": "sahyou",
@@ -81370,7 +82406,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "星"
         }
       ],
@@ -81380,8 +82416,12 @@ export const songs: any[] = [
           "description": "A"
         },
         {
-          "type": "text",
-          "description": "×,星,A"
+          "type": "shape",
+          "description": "×"
+        },
+        {
+          "type": "shape",
+          "description": "星"
         }
       ]
     },
@@ -82005,8 +83045,8 @@ export const songs: any[] = [
           "description": "炎"
         },
         {
-          "type": "text",
-          "description": "m,炎"
+          "type": "shape",
+          "description": "m"
         }
       ]
     },
@@ -82346,8 +83386,8 @@ export const songs: any[] = [
           "description": "ユニコーン"
         },
         {
-          "type": "text",
-          "description": "U,ユニコーン"
+          "type": "shape",
+          "description": "U"
         }
       ],
       "extreme": [
@@ -82360,8 +83400,8 @@ export const songs: any[] = [
           "description": "ゴミ箱"
         },
         {
-          "type": "text",
-          "description": "ユニコーン,U,ゴミ箱"
+          "type": "shape",
+          "description": "U"
         }
       ]
     },
@@ -82514,8 +83554,8 @@ export const songs: any[] = [
           "description": "ユニコーン"
         },
         {
-          "type": "text",
-          "description": "U,ユニコーン"
+          "type": "shape",
+          "description": "U"
         }
       ],
       "extreme": [
@@ -82528,8 +83568,8 @@ export const songs: any[] = [
           "description": "ゴミ箱"
         },
         {
-          "type": "text",
-          "description": "ユニコーン,U,ゴミ箱"
+          "type": "shape",
+          "description": "U"
         }
       ]
     },
@@ -82689,10 +83729,6 @@ export const songs: any[] = [
           "description": "o"
         },
         {
-          "type": "text",
-          "description": "鍵盤,o,o"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         }
@@ -82705,10 +83741,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "鍵盤"
-        },
-        {
-          "type": "text",
-          "description": "光,鍵盤"
         }
       ],
       "basic": [
@@ -83111,7 +84143,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "V"
         }
       ]
@@ -83509,18 +84541,22 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "N"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "V,十字架,DJ(間)"
+          "type": "shape",
+          "description": "V"
         },
         {
-          "type": "text",
-          "description": "十字架,DJ(間)"
+          "type": "shape",
+          "description": "十字架"
+        },
+        {
+          "type": "shape",
+          "description": "DJ(間)"
         },
         {
           "type": "sahyou",
@@ -83695,13 +84731,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "V"
         }
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "十字架(ブーメラン)"
         }
       ],
@@ -83715,8 +84751,8 @@ export const songs: any[] = [
           "description": "棺桶"
         },
         {
-          "type": "text",
-          "description": "V,V,棺桶,十字架"
+          "type": "shape",
+          "description": "十字架"
         }
       ]
     },
@@ -83871,10 +84907,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "N"
-        },
-        {
-          "type": "text",
-          "description": "N,N"
         }
       ]
     },
@@ -84036,8 +85068,8 @@ export const songs: any[] = [
           "description": "塗装"
         },
         {
-          "type": "text",
-          "description": "V,塗装"
+          "type": "shape",
+          "description": "V"
         }
       ],
       "extreme": [
@@ -84046,8 +85078,8 @@ export const songs: any[] = [
           "description": "塗装"
         },
         {
-          "type": "text",
-          "description": "塗装,毛筆"
+          "type": "shape",
+          "description": "毛筆"
         }
       ]
     },
@@ -84353,8 +85385,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "T(小),T(大)"
+          "type": "shape",
+          "description": "T(小)"
+        },
+        {
+          "type": "shape",
+          "description": "T(大)"
         }
       ]
     },
@@ -84703,8 +85739,8 @@ export const songs: any[] = [
           "description": "波"
         },
         {
-          "type": "text",
-          "description": "雪崩,波,T"
+          "type": "shape",
+          "description": "T"
         },
         {
           "type": "sahyou",
@@ -84749,13 +85785,17 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "K,T"
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "T"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ]
@@ -85056,10 +86096,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "ジェットコースター"
-        },
-        {
-          "type": "text",
-          "description": "W,ジェットコースター"
         }
       ]
     },
@@ -85325,7 +86361,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "r"
         }
       ]
@@ -85639,8 +86675,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "1,2,H"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
         },
         {
           "type": "shape",
@@ -85649,10 +86689,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "H"
-        },
-        {
-          "type": "text",
-          "description": "ハ,1,2,H"
         }
       ],
       "basic": [
@@ -85940,8 +86976,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "M,P"
+          "type": "shape",
+          "description": "M"
+        },
+        {
+          "type": "shape",
+          "description": "P"
         }
       ]
     },
@@ -86033,8 +87073,16 @@ export const songs: any[] = [
           "description": "W"
         },
         {
-          "type": "text",
-          "description": "A,Y,r,W"
+          "type": "shape",
+          "description": "A"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "r"
         }
       ]
     },
@@ -86258,8 +87306,8 @@ export const songs: any[] = [
           "description": "F"
         },
         {
-          "type": "text",
-          "description": "突風,F,羽根"
+          "type": "shape",
+          "description": "羽根"
         }
       ]
     },
@@ -86795,8 +87843,16 @@ export const songs: any[] = [
           "description": "1"
         },
         {
-          "type": "text",
-          "description": "N,ハート,W,1"
+          "type": "shape",
+          "description": "N"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "W"
         }
       ]
     },
@@ -86885,19 +87941,19 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "象"
         }
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "象(ゆびベル:グリネシアのエレファント)"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "象(ゆびベル:グリネシアのエレファント)"
         },
         {
@@ -87493,10 +88549,6 @@ export const songs: any[] = [
           "description": "く"
         },
         {
-          "type": "text",
-          "description": "く,く"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         }
@@ -87728,10 +88780,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "O"
-        },
-        {
-          "type": "text",
-          "description": "Z,U,S,A,O"
         }
       ]
     },
@@ -88727,14 +89775,22 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "L"
         }
       ],
       "advanced": [
         {
-          "type": "text",
-          "description": "ガタッ(起立),L,Y"
+          "type": "shape",
+          "description": "ガタッ(起立)"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
         },
         {
           "type": "kojinsa",
@@ -88763,8 +89819,48 @@ export const songs: any[] = [
           "description": "ピコーン(電球)"
         },
         {
-          "type": "text",
-          "description": "失礼します(挨拶),ゴロゴロ,?,グルグル,にへへへへ,どぼーん,ぶくぶくぶく(溺れる),やった(サムズアップ),ガタッ(起立),L,g,ピコーン(電球),!,いただきます(合掌),w,Y"
+          "type": "shape",
+          "description": "失礼します(挨拶)"
+        },
+        {
+          "type": "shape",
+          "description": "?"
+        },
+        {
+          "type": "shape",
+          "description": "どぼーん"
+        },
+        {
+          "type": "shape",
+          "description": "やった(サムズアップ)"
+        },
+        {
+          "type": "shape",
+          "description": "ガタッ(起立)"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "g"
+        },
+        {
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "いただきます(合掌)"
+        },
+        {
+          "type": "shape",
+          "description": "w"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
         }
       ]
     },
@@ -89017,8 +90113,8 @@ export const songs: any[] = [
           "description": "丸皿"
         },
         {
-          "type": "text",
-          "description": "丸皿,角皿"
+          "type": "shape",
+          "description": "角皿"
         }
       ],
       "advanced": [
@@ -89033,15 +90129,11 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "X"
-        },
-        {
-          "type": "text",
-          "description": "丸皿,乙女座,X"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "天秤"
         }
       ]
@@ -89131,8 +90223,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "U,1"
+          "type": "shape",
+          "description": "U"
+        },
+        {
+          "type": "shape",
+          "description": "1"
         }
       ],
       "extreme": [
@@ -89328,10 +90424,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "おやすみなさい(Z)"
-        },
-        {
-          "type": "text",
-          "description": "ごはん(餌),おやすみなさい(Z)"
         }
       ]
     },
@@ -89571,10 +90663,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "花吹雪"
-        },
-        {
-          "type": "text",
-          "description": "如雨露(じょうろ),花吹雪"
         }
       ],
       "extreme": [
@@ -89587,8 +90675,8 @@ export const songs: any[] = [
           "description": "I"
         },
         {
-          "type": "text",
-          "description": "百合,I,植木鉢"
+          "type": "shape",
+          "description": "植木鉢"
         }
       ],
       "basic": [
@@ -89730,7 +90818,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "楯"
         }
       ],
@@ -89742,10 +90830,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "A"
-        },
-        {
-          "type": "text",
-          "description": "楯,A,A"
         }
       ]
     },
@@ -90065,11 +91149,7 @@ export const songs: any[] = [
           "description": "ハート"
         },
         {
-          "type": "text",
-          "description": "N,ハート"
-        },
-        {
-          "type": "text",
+          "type": "shape",
           "description": "2"
         }
       ]
@@ -90346,8 +91426,24 @@ export const songs: any[] = [
           "description": "ハート"
         },
         {
-          "type": "text",
-          "description": "♪,1,ハート,ハート,Y,矢印(左肩上がり),V"
+          "type": "shape",
+          "description": "♪"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "矢印(左肩上がり)"
+        },
+        {
+          "type": "shape",
+          "description": "V"
         }
       ]
     },
@@ -90457,8 +91553,8 @@ export const songs: any[] = [
           "description": "象"
         },
         {
-          "type": "text",
-          "description": "口,象"
+          "type": "shape",
+          "description": "口"
         }
       ],
       "extreme": [
@@ -90471,8 +91567,28 @@ export const songs: any[] = [
           "description": "象"
         },
         {
-          "type": "text",
-          "description": "口,V,ナマステ(合掌),大王様,象,!,?,イ"
+          "type": "shape",
+          "description": "口"
+        },
+        {
+          "type": "shape",
+          "description": "V"
+        },
+        {
+          "type": "shape",
+          "description": "ナマステ(合掌)"
+        },
+        {
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "?"
+        },
+        {
+          "type": "shape",
+          "description": "イ"
         },
         {
           "type": "kojinsa",
@@ -90791,10 +91907,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "0"
-        },
-        {
-          "type": "text",
-          "description": "0,0"
         }
       ],
       "advanced": [
@@ -90805,10 +91917,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "イ"
-        },
-        {
-          "type": "text",
-          "description": "0,イ"
         }
       ]
     },
@@ -91425,11 +92533,19 @@ export const songs: any[] = [
           "description": "スキ(分割で大ハート。もしくはMVの振り付け)"
         },
         {
-          "type": "text",
-          "description": "エイリアン,あげる(左上の方向へ「上げる」),拍手,スキ(分割で大ハート。もしくはMVの振り付け)"
+          "type": "shape",
+          "description": "エイリアン"
         },
         {
-          "type": "text",
+          "type": "shape",
+          "description": "あげる(左上の方向へ「上げる」)"
+        },
+        {
+          "type": "shape",
+          "description": "拍手"
+        },
+        {
+          "type": "shape",
           "description": "エ"
         },
         {
@@ -91966,7 +93082,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ハート"
         },
         {
@@ -92043,8 +93159,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "ハート,おにぎり"
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "おにぎり"
         },
         {
           "type": "kojinsa",
@@ -92053,8 +93173,20 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "♪,おにぎり(低),おにぎり(高),おにぎり(大)"
+          "type": "shape",
+          "description": "♪"
+        },
+        {
+          "type": "shape",
+          "description": "おにぎり(低)"
+        },
+        {
+          "type": "shape",
+          "description": "おにぎり(高)"
+        },
+        {
+          "type": "shape",
+          "description": "おにぎり(大)"
         }
       ],
       "basic": [
@@ -92124,8 +93256,8 @@ export const songs: any[] = [
           "description": "7"
         },
         {
-          "type": "text",
-          "description": "鳥居,7,ハ"
+          "type": "shape",
+          "description": "ハ"
         }
       ]
     },
@@ -92297,8 +93429,12 @@ export const songs: any[] = [
           "description": "秘密"
         },
         {
-          "type": "text",
-          "description": "O,F,秘密"
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "F"
         }
       ],
       "advanced": [
@@ -92604,14 +93740,18 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "十字架"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "ハート,十字架"
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "十字架"
         }
       ]
     },
@@ -93273,10 +94413,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "三日月"
-        },
-        {
-          "type": "text",
-          "description": "満月,三日月,開放,三日月"
         }
       ]
     },
@@ -93507,10 +94643,6 @@ export const songs: any[] = [
           "description": "光"
         },
         {
-          "type": "text",
-          "description": "星,光"
-        },
-        {
           "type": "shape",
           "description": "虹色の橋"
         },
@@ -93525,10 +94657,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "落ちて"
-        },
-        {
-          "type": "text",
-          "description": "虹色の橋,キラリ,時計の針,落ちて"
         }
       ]
     },
@@ -93733,8 +94861,8 @@ export const songs: any[] = [
           "description": "三日月"
         },
         {
-          "type": "text",
-          "description": "三日月,満月"
+          "type": "shape",
+          "description": "満月"
         }
       ],
       "advanced": [
@@ -93745,10 +94873,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "猫"
-        },
-        {
-          "type": "text",
-          "description": "三日月,猫"
         }
       ]
     },
@@ -94081,10 +95205,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "?"
-        },
-        {
-          "type": "text",
-          "description": "ギザギザ,?"
         },
         {
           "type": "sahyou",
@@ -94527,13 +95647,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ],
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ],
@@ -94543,8 +95663,24 @@ export const songs: any[] = [
           "description": "花火"
         },
         {
-          "type": "text",
-          "description": "ハ,タ,T,S,d,花火"
+          "type": "shape",
+          "description": "ハ"
+        },
+        {
+          "type": "shape",
+          "description": "タ"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "d"
         }
       ]
     },
@@ -94681,7 +95817,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "こ(SEの空耳「ポ」の代替)"
         }
       ],
@@ -95901,8 +97037,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "Y,J"
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "J"
         },
         {
           "type": "gyakusahyou",
@@ -95911,8 +97051,24 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "C,D,y,L,Y"
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "D"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
         }
       ],
       "basic": [
@@ -96729,8 +97885,8 @@ export const songs: any[] = [
           "description": "グルグル"
         },
         {
-          "type": "text",
-          "description": "猫(大型),グルグル"
+          "type": "shape",
+          "description": "猫(大型)"
         }
       ],
       "advanced": [
@@ -97135,8 +98291,32 @@ export const songs: any[] = [
           "description": "○,×,16ドット,カウントダウン"
         },
         {
-          "type": "text",
-          "description": "○,×,16ドット,カウントダウン(4個押し,3個押し,2個押し,単押し)"
+          "type": "shape",
+          "description": "○"
+        },
+        {
+          "type": "shape",
+          "description": "×"
+        },
+        {
+          "type": "shape",
+          "description": "16ドット"
+        },
+        {
+          "type": "shape",
+          "description": "カウントダウン(4個押し"
+        },
+        {
+          "type": "shape",
+          "description": "3個押し"
+        },
+        {
+          "type": "shape",
+          "description": "2個押し"
+        },
+        {
+          "type": "shape",
+          "description": "単押し)"
         }
       ],
       "advanced": [
@@ -97889,7 +99069,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "太陽"
         }
       ],
@@ -98326,12 +99506,8 @@ export const songs: any[] = [
           "description": "猫"
         },
         {
-          "type": "text",
-          "description": "へ,猫"
-        },
-        {
-          "type": "text",
-          "description": "猫,猫"
+          "type": "shape",
+          "description": "へ"
         },
         {
           "type": "kojinsa",
@@ -98702,10 +99878,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "花"
-        },
-        {
-          "type": "text",
-          "description": "階段,K,花"
         }
       ]
     },
@@ -98988,7 +100160,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "手裏剣"
         }
       ],
@@ -99000,10 +100172,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "ダイオウグソクムシ"
-        },
-        {
-          "type": "text",
-          "description": "手裏剣,ダイオウグソクムシ"
         }
       ],
       "extreme": [
@@ -99024,8 +100192,8 @@ export const songs: any[] = [
           "description": "ダイオウグソクムシ"
         },
         {
-          "type": "text",
-          "description": "手裏剣,楽しい,心菜,ダイオウグソクムシ,九字"
+          "type": "shape",
+          "description": "九字"
         }
       ]
     },
@@ -99138,8 +100306,16 @@ export const songs: any[] = [
           "description": "ゲート"
         },
         {
-          "type": "text",
-          "description": "シロップ,ゲート,ハート,ティアラ,♪"
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "ティアラ"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -99407,8 +100583,8 @@ export const songs: any[] = [
           "description": "追いかける"
         },
         {
-          "type": "text",
-          "description": "追いかける,L"
+          "type": "shape",
+          "description": "L"
         },
         {
           "type": "gyakusahyou",
@@ -99646,8 +100822,8 @@ export const songs: any[] = [
           "description": "笑って"
         },
         {
-          "type": "text",
-          "description": "笑って,I"
+          "type": "shape",
+          "description": "I"
         }
       ]
     },
@@ -99928,13 +101104,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "J(小文字)"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "J(大文字)"
         }
       ],
@@ -100111,7 +101287,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "♪"
         },
         {
@@ -100384,8 +101560,8 @@ export const songs: any[] = [
           "description": "ハ"
         },
         {
-          "type": "text",
-          "description": "湯舟,ハ"
+          "type": "shape",
+          "description": "湯舟"
         },
         {
           "type": "gyakusahyou",
@@ -100394,8 +101570,32 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "r,g,b,h,m,k,温泉マーク"
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": "g"
+        },
+        {
+          "type": "shape",
+          "description": "b"
+        },
+        {
+          "type": "shape",
+          "description": "h"
+        },
+        {
+          "type": "shape",
+          "description": "m"
+        },
+        {
+          "type": "shape",
+          "description": "k"
+        },
+        {
+          "type": "shape",
+          "description": "温泉マーク"
         }
       ]
     },
@@ -100499,8 +101699,20 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "S,D,O,K"
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "D"
+        },
+        {
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "K"
         }
       ]
     },
@@ -100905,7 +102117,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "M"
         }
       ]
@@ -101204,12 +102416,20 @@ export const songs: any[] = [
           "description": "ペガサス"
         },
         {
-          "type": "text",
-          "description": "UFO(U,F,O),WONDER LAND(W→D→L),ペガサス"
+          "type": "shape",
+          "description": "UFO(U"
         },
         {
-          "type": "text",
-          "description": "UFO(U,F,O),WONDER LAND"
+          "type": "shape",
+          "description": "F"
+        },
+        {
+          "type": "shape",
+          "description": "O)"
+        },
+        {
+          "type": "shape",
+          "description": "WONDER LAND(W→D→L)"
         },
         {
           "type": "kojinsa",
@@ -101361,8 +102581,24 @@ export const songs: any[] = [
           "description": "スミス"
         },
         {
-          "type": "text",
-          "description": "四角い,フタ,ヘキサゴン,マル,テン,ヨコ,スミス,ダブルピース"
+          "type": "shape",
+          "description": "フタ"
+        },
+        {
+          "type": "shape",
+          "description": "マル"
+        },
+        {
+          "type": "shape",
+          "description": "テン"
+        },
+        {
+          "type": "shape",
+          "description": "ヨコ"
+        },
+        {
+          "type": "shape",
+          "description": "ダブルピース"
         },
         {
           "type": "kojinsa",
@@ -101619,8 +102855,8 @@ export const songs: any[] = [
           "description": "ギター"
         },
         {
-          "type": "text",
-          "description": "二,ギター,S"
+          "type": "shape",
+          "description": "S"
         }
       ]
     },
@@ -101888,8 +103124,24 @@ export const songs: any[] = [
           "description": "花火"
         },
         {
-          "type": "text",
-          "description": "L,O,V,E,Prim,花火"
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "V"
+        },
+        {
+          "type": "shape",
+          "description": "E"
+        },
+        {
+          "type": "shape",
+          "description": "Prim"
         }
       ]
     },
@@ -102229,8 +103481,8 @@ export const songs: any[] = [
           "description": "高く"
         },
         {
-          "type": "text",
-          "description": "♪,跪いて,高く"
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -102568,8 +103820,28 @@ export const songs: any[] = [
           "description": "タンポポ"
         },
         {
-          "type": "text",
-          "description": "タンポポ,1,2,3,グー,チョキ,パー"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "3"
+        },
+        {
+          "type": "shape",
+          "description": "グー"
+        },
+        {
+          "type": "shape",
+          "description": "チョキ"
+        },
+        {
+          "type": "shape",
+          "description": "パー"
         },
         {
           "type": "gyakusahyou",
@@ -102747,8 +104019,24 @@ export const songs: any[] = [
           "description": "竹輪"
         },
         {
-          "type": "text",
-          "description": "C,いちご,バナナ,?,♪,ちくわが折れた,グー(ジャンケン),パー(ジャンケン),竹輪"
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "?"
+        },
+        {
+          "type": "shape",
+          "description": "ちくわが折れた"
+        },
+        {
+          "type": "shape",
+          "description": "グー(ジャンケン)"
+        },
+        {
+          "type": "shape",
+          "description": "パー(ジャンケン)"
         }
       ]
     },
@@ -102969,8 +104257,20 @@ export const songs: any[] = [
           "description": "ハート"
         },
         {
-          "type": "text",
-          "description": "ハート,無問題(台),抱擁,反対(×),キスマーク,ハート"
+          "type": "shape",
+          "description": "無問題(台)"
+        },
+        {
+          "type": "shape",
+          "description": "抱擁"
+        },
+        {
+          "type": "shape",
+          "description": "反対(×)"
+        },
+        {
+          "type": "shape",
+          "description": "キスマーク"
         }
       ],
       "advanced": [
@@ -103061,8 +104361,28 @@ export const songs: any[] = [
           "description": "it's Show Time!"
         },
         {
-          "type": "text",
-          "description": "キスマーク,y,♪,ハート,ビリビリ(電気マーク),西へ東へ,山越え谷越え,it's Show Time!,H"
+          "type": "shape",
+          "description": "キスマーク"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "ビリビリ(電気マーク)"
+        },
+        {
+          "type": "shape",
+          "description": "H"
         }
       ]
     },
@@ -103277,8 +104597,24 @@ export const songs: any[] = [
           "description": "♪"
         },
         {
-          "type": "text",
-          "description": "S,C,L,Y,l(小文字),♪,♪"
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "l(小文字)"
         },
         {
           "type": "sahyou",
@@ -103510,8 +104846,16 @@ export const songs: any[] = [
           "description": "0"
         },
         {
-          "type": "text",
-          "description": "0,1,2,9"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "9"
         },
         {
           "type": "sahyou",
@@ -103528,8 +104872,36 @@ export const songs: any[] = [
           "description": "くるくる巻き"
         },
         {
-          "type": "text",
-          "description": "3,人,1,半,2,?,0,9,くるくる巻き,Y"
+          "type": "shape",
+          "description": "3"
+        },
+        {
+          "type": "shape",
+          "description": "人"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "半"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "0"
+        },
+        {
+          "type": "shape",
+          "description": "9"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
         }
       ],
       "advanced": [
@@ -103895,7 +105267,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "満月"
         }
       ]
@@ -104137,8 +105509,8 @@ export const songs: any[] = [
           "description": "2"
         },
         {
-          "type": "text",
-          "description": "リング,2"
+          "type": "shape",
+          "description": "リング"
         },
         {
           "type": "gyakusahyou",
@@ -104539,8 +105911,8 @@ export const songs: any[] = [
           "description": "2"
         },
         {
-          "type": "text",
-          "description": "ウォーアイニー(ハート),1,2"
+          "type": "shape",
+          "description": "ウォーアイニー(ハート)"
         }
       ]
     },
@@ -104742,7 +106114,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "?"
         }
       ]
@@ -104852,8 +106224,8 @@ export const songs: any[] = [
           "description": "穴"
         },
         {
-          "type": "text",
-          "description": "穴,ドーナツホール(反転)"
+          "type": "shape",
+          "description": "ドーナツホール(反転)"
         }
       ]
     },
@@ -105013,8 +106385,8 @@ export const songs: any[] = [
           "description": "U"
         },
         {
-          "type": "text",
-          "description": "薔薇(バラ),U,爆発"
+          "type": "shape",
+          "description": "爆発"
         }
       ],
       "advanced": [
@@ -105023,8 +106395,8 @@ export const songs: any[] = [
           "description": "脳ミソ"
         },
         {
-          "type": "text",
-          "description": "脳ミソ,U"
+          "type": "shape",
+          "description": "U"
         }
       ],
       "extreme": [
@@ -105033,8 +106405,12 @@ export const songs: any[] = [
           "description": "薔薇(バラ)"
         },
         {
-          "type": "text",
-          "description": "脳ミソ,薔薇(バラ),U1"
+          "type": "shape",
+          "description": "脳ミソ"
+        },
+        {
+          "type": "shape",
+          "description": "U1"
         },
         {
           "type": "gyakusahyou",
@@ -105241,14 +106617,18 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "目覚まし時計"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "コ,イ"
+          "type": "shape",
+          "description": "コ"
+        },
+        {
+          "type": "shape",
+          "description": "イ"
         },
         {
           "type": "gyakusahyou",
@@ -105408,8 +106788,8 @@ export const songs: any[] = [
           "description": "お辞儀"
         },
         {
-          "type": "text",
-          "description": "お辞儀,ハート"
+          "type": "shape",
+          "description": "ハート"
         }
       ],
       "basic": [
@@ -105664,14 +107044,22 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
-          "description": "太陽,満月"
+          "type": "shape",
+          "description": "太陽"
+        },
+        {
+          "type": "shape",
+          "description": "満月"
         }
       ],
       "advanced": [
         {
-          "type": "text",
-          "description": "太陽,満月"
+          "type": "shape",
+          "description": "太陽"
+        },
+        {
+          "type": "shape",
+          "description": "満月"
         }
       ],
       "extreme": [
@@ -105684,8 +107072,28 @@ export const songs: any[] = [
           "description": "ハート"
         },
         {
-          "type": "text",
-          "description": "太陽,1,2,3,4,両手,ハート,♪"
+          "type": "shape",
+          "description": "太陽"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "3"
+        },
+        {
+          "type": "shape",
+          "description": "4"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         },
         {
           "type": "kojinsa",
@@ -106142,10 +107550,6 @@ export const songs: any[] = [
           "description": "鳥籠(とりかご)"
         },
         {
-          "type": "text",
-          "description": "鳳凰(ほうおう),鳥籠(とりかご)"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         },
@@ -106176,10 +107580,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "鳥籠(とりかご)"
-        },
-        {
-          "type": "text",
-          "description": "唇,鳥籠(とりかご)"
         }
       ]
     },
@@ -106478,13 +107878,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "L"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "T"
         }
       ]
@@ -107008,13 +108408,13 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "にゃん"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "猫(大型)"
         }
       ]
@@ -107662,14 +109062,30 @@ export const songs: any[] = [
     "chartPatterns": {
       "basic": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "Y"
         }
       ],
       "advanced": [
         {
-          "type": "text",
-          "description": "1,2,Y,X(改=カイ),4"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "X(改=カイ)"
+        },
+        {
+          "type": "shape",
+          "description": "4"
         },
         {
           "type": "gyakusahyou",
@@ -107678,8 +109094,24 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "1,2,Y,X(改=カイ),4"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "X(改=カイ)"
+        },
+        {
+          "type": "shape",
+          "description": "4"
         }
       ]
     },
@@ -107823,8 +109255,12 @@ export const songs: any[] = [
           "description": "交差"
         },
         {
-          "type": "text",
-          "description": "交差,p,P"
+          "type": "shape",
+          "description": "p"
+        },
+        {
+          "type": "shape",
+          "description": "P"
         }
       ]
     },
@@ -108174,8 +109610,8 @@ export const songs: any[] = [
           "description": "輝いて"
         },
         {
-          "type": "text",
-          "description": "♪,片思い(ハート),笑い,輝いて,H"
+          "type": "shape",
+          "description": "H"
         }
       ],
       "basic": [
@@ -108308,8 +109744,12 @@ export const songs: any[] = [
           "description": "ベロ出し"
         },
         {
-          "type": "text",
-          "description": "輪,水平線,ベロ出し,一"
+          "type": "shape",
+          "description": "輪"
+        },
+        {
+          "type": "shape",
+          "description": "一"
         }
       ]
     },
@@ -108931,7 +110371,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "挙手"
         }
       ]
@@ -109153,10 +110593,6 @@ export const songs: any[] = [
           "description": "呑まれてく"
         },
         {
-          "type": "text",
-          "description": "注射の針,金属バット,呑まれてく"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         }
@@ -109310,14 +110746,30 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "竹刀"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "P,T,S,竹,竹刀"
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "竹"
+        },
+        {
+          "type": "shape",
+          "description": "竹刀"
         }
       ],
       "basic": [
@@ -109534,8 +110986,24 @@ export const songs: any[] = [
           "description": "押せない"
         },
         {
-          "type": "text",
-          "description": "上上,下下,左右,BABS,右中,右上,押せない"
+          "type": "shape",
+          "description": "上上"
+        },
+        {
+          "type": "shape",
+          "description": "下下"
+        },
+        {
+          "type": "shape",
+          "description": "左右"
+        },
+        {
+          "type": "shape",
+          "description": "右中"
+        },
+        {
+          "type": "shape",
+          "description": "右上"
         }
       ],
       "advanced": [
@@ -109552,8 +111020,8 @@ export const songs: any[] = [
           "description": "押せない"
         },
         {
-          "type": "text",
-          "description": "S,上上下下左右左右BABS,右中右中右上右上,押せない"
+          "type": "shape",
+          "description": "S"
         }
       ],
       "extreme": [
@@ -109570,8 +111038,20 @@ export const songs: any[] = [
           "description": "押せない"
         },
         {
-          "type": "text",
-          "description": "B,T,S,上上下下左右左右,A,右中右中右上右上,押せない"
+          "type": "shape",
+          "description": "B"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "A"
         }
       ]
     },
@@ -109724,8 +111204,20 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "S,P,ヒ,ロ"
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "ヒ"
+        },
+        {
+          "type": "shape",
+          "description": "ロ"
         }
       ]
     },
@@ -109919,8 +111411,20 @@ export const songs: any[] = [
           "description": "おかわり"
         },
         {
-          "type": "text",
-          "description": "ピザ(ホール),Y,ハート,ピザ(ピース),ごちそうさま,おかわり"
+          "type": "shape",
+          "description": "Y"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "ピザ(ピース)"
+        },
+        {
+          "type": "shape",
+          "description": "ごちそうさま"
         },
         {
           "type": "kojinsa",
@@ -110002,7 +111506,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "♪"
         }
       ]
@@ -110253,8 +111757,20 @@ export const songs: any[] = [
           "description": "BeatStreamの画面"
         },
         {
-          "type": "text",
-          "description": "B,S,BisCo,タカハシサン,BeatStreamの画面"
+          "type": "shape",
+          "description": "B"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "BisCo"
+        },
+        {
+          "type": "shape",
+          "description": "タカハシサン"
         }
       ]
     },
@@ -110728,8 +112244,8 @@ export const songs: any[] = [
           "description": "N"
         },
         {
-          "type": "text",
-          "description": "D,リボン,y,N"
+          "type": "shape",
+          "description": "D"
         }
       ]
     },
@@ -110881,14 +112397,34 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "T,P"
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "P"
         }
       ],
       "extreme": [
         {
-          "type": "text",
-          "description": "T,P,F,S,錠剤"
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "P"
+        },
+        {
+          "type": "shape",
+          "description": "F"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "錠剤"
         }
       ]
     },
@@ -111462,7 +112998,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "ポンポン"
         }
       ],
@@ -111476,8 +113012,12 @@ export const songs: any[] = [
           "description": "太陽"
         },
         {
-          "type": "text",
-          "description": "×,V(必勝),太陽,ポンポン"
+          "type": "shape",
+          "description": "V(必勝)"
+        },
+        {
+          "type": "shape",
+          "description": "ポンポン"
         }
       ]
     },
@@ -111832,10 +113372,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "S"
-        },
-        {
-          "type": "text",
-          "description": "A,S"
         }
       ]
     },
@@ -112004,7 +113540,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "酸漿(ほおずき)"
         }
       ],
@@ -112172,8 +113708,8 @@ export const songs: any[] = [
           "description": "ちくわ"
         },
         {
-          "type": "text",
-          "description": "バナナ,♪,ちくわ"
+          "type": "shape",
+          "description": "♪"
         },
         {
           "type": "sahyou",
@@ -112462,8 +113998,8 @@ export const songs: any[] = [
           "description": "流れ星"
         },
         {
-          "type": "text",
-          "description": "流れ星,天体望遠鏡"
+          "type": "shape",
+          "description": "天体望遠鏡"
         }
       ]
     },
@@ -112627,8 +114163,20 @@ export const songs: any[] = [
           "description": "撫でる"
         },
         {
-          "type": "text",
-          "description": "ボール,追いかける,円盤,おまわり,撫でる,I,ハート"
+          "type": "shape",
+          "description": "ボール"
+        },
+        {
+          "type": "shape",
+          "description": "円盤"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
         }
       ],
       "basic": [
@@ -112894,7 +114442,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "メガネ"
         }
       ]
@@ -113334,8 +114882,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "ホームベース,バット,ボール"
+          "type": "shape",
+          "description": "ホームベース"
+        },
+        {
+          "type": "shape",
+          "description": "バット"
+        },
+        {
+          "type": "shape",
+          "description": "ボール"
         }
       ],
       "extreme": [
@@ -113348,8 +114904,36 @@ export const songs: any[] = [
           "description": "変化球"
         },
         {
-          "type": "text",
-          "description": "ホームベース,バット,ボール,直球,変化球,2,b,d,たんこぶ,ヘルメット"
+          "type": "shape",
+          "description": "ホームベース"
+        },
+        {
+          "type": "shape",
+          "description": "バット"
+        },
+        {
+          "type": "shape",
+          "description": "ボール"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "b"
+        },
+        {
+          "type": "shape",
+          "description": "d"
+        },
+        {
+          "type": "shape",
+          "description": "たんこぶ"
+        },
+        {
+          "type": "shape",
+          "description": "ヘルメット"
         }
       ]
     },
@@ -113829,8 +115413,24 @@ export const songs: any[] = [
           "description": "ビートまりお"
         },
         {
-          "type": "text",
-          "description": "虫(蛍?),ハート,月,I,n,ビートまりお"
+          "type": "shape",
+          "description": "虫(蛍?)"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "月"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "n"
         }
       ],
       "basic": [
@@ -113951,10 +115551,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "マトリョシカ"
-        },
-        {
-          "type": "text",
-          "description": "4時,廻り出す,マトリョシカ"
         }
       ]
     },
@@ -114372,8 +115968,8 @@ export const songs: any[] = [
           "description": "ミ"
         },
         {
-          "type": "text",
-          "description": "ミ,ク"
+          "type": "shape",
+          "description": "ク"
         },
         {
           "type": "gyakusahyou",
@@ -114475,8 +116071,8 @@ export const songs: any[] = [
           "description": "時計"
         },
         {
-          "type": "text",
-          "description": "時計,団子"
+          "type": "shape",
+          "description": "団子"
         }
       ],
       "extreme": [
@@ -114489,8 +116085,16 @@ export const songs: any[] = [
           "description": "団子"
         },
         {
-          "type": "text",
-          "description": "雨空,T,K,S,団子"
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "S"
         }
       ]
     },
@@ -114596,8 +116200,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "W,y"
+          "type": "shape",
+          "description": "W"
+        },
+        {
+          "type": "shape",
+          "description": "y"
         },
         {
           "type": "gyakusahyou",
@@ -114934,10 +116542,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "？"
-        },
-        {
-          "type": "text",
-          "description": "力技,？"
         }
       ],
       "extreme": [
@@ -114954,8 +116558,24 @@ export const songs: any[] = [
           "description": "きらめく"
         },
         {
-          "type": "text",
-          "description": "覆いつくす,!,魔法の杖,愛,きらめく,モンスター,魔王,♪"
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "愛"
+        },
+        {
+          "type": "shape",
+          "description": "モンスター"
+        },
+        {
+          "type": "shape",
+          "description": "魔王"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -115157,10 +116777,6 @@ export const songs: any[] = [
           "description": "印鑑"
         },
         {
-          "type": "text",
-          "description": "×,印鑑,印鑑"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         }
@@ -115171,8 +116787,20 @@ export const songs: any[] = [
           "description": "印鑑"
         },
         {
-          "type": "text",
-          "description": "印鑑,印鑑,M,O,K,S"
+          "type": "shape",
+          "description": "M"
+        },
+        {
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "S"
         }
       ]
     },
@@ -115371,8 +116999,12 @@ export const songs: any[] = [
           "description": "ニーソックス"
         },
         {
-          "type": "text",
-          "description": "ギター,ニーソックス,ピック"
+          "type": "shape",
+          "description": "ギター"
+        },
+        {
+          "type": "shape",
+          "description": "ピック"
         }
       ]
     },
@@ -116258,7 +117890,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "!"
         },
         {
@@ -116704,8 +118336,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "V,9,W"
+          "type": "shape",
+          "description": "V"
+        },
+        {
+          "type": "shape",
+          "description": "9"
+        },
+        {
+          "type": "shape",
+          "description": "W"
         }
       ]
     },
@@ -116989,8 +118629,28 @@ export const songs: any[] = [
           "description": "次(矢印)"
         },
         {
-          "type": "text",
-          "description": "リ,ユ,あなた(Y,O,U),流星群,お願いします(お辞儀),次(矢印)"
+          "type": "shape",
+          "description": "リ"
+        },
+        {
+          "type": "shape",
+          "description": "ユ"
+        },
+        {
+          "type": "shape",
+          "description": "あなた(Y"
+        },
+        {
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "U)"
+        },
+        {
+          "type": "shape",
+          "description": "お願いします(お辞儀)"
         },
         {
           "type": "sahyou",
@@ -117162,8 +118822,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "雨雲,水滴"
+          "type": "shape",
+          "description": "雨雲"
+        },
+        {
+          "type": "shape",
+          "description": "水滴"
         }
       ]
     },
@@ -117411,10 +119075,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "組み直し"
-        },
-        {
-          "type": "text",
-          "description": "回す,ぐるぐる回し,組み直し"
         }
       ],
       "extreme": [
@@ -117441,10 +119101,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "組み直し"
-        },
-        {
-          "type": "text",
-          "description": "ズレ,回す,ルービックキューブ,ぐるぐる回し,顔,組み直し"
         }
       ]
     },
@@ -117730,10 +119386,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "傘"
-        },
-        {
-          "type": "text",
-          "description": "前線,降雨,傘"
         }
       ],
       "extreme": [
@@ -117742,8 +119394,20 @@ export const songs: any[] = [
           "description": "前線"
         },
         {
-          "type": "text",
-          "description": "前線,y,L,花,矢印"
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "花"
+        },
+        {
+          "type": "shape",
+          "description": "矢印"
         }
       ]
     },
@@ -117930,7 +119594,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "×"
         }
       ],
@@ -117948,8 +119612,12 @@ export const songs: any[] = [
           "description": "☆2"
         },
         {
-          "type": "text",
-          "description": "草(ww),×,ゴミ袋,0,☆2"
+          "type": "shape",
+          "description": "×"
+        },
+        {
+          "type": "shape",
+          "description": "ゴミ袋"
         }
       ]
     },
@@ -118101,7 +119769,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "?"
         },
         {
@@ -118550,8 +120218,8 @@ export const songs: any[] = [
           "description": "フル回転"
         },
         {
-          "type": "text",
-          "description": "目が回る,フル回転,お辞儀"
+          "type": "shape",
+          "description": "お辞儀"
         }
       ]
     },
@@ -118681,8 +120349,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "フ,♪"
+          "type": "shape",
+          "description": "フ"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -119076,8 +120748,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "花,O,K"
+          "type": "shape",
+          "description": "花"
+        },
+        {
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "K"
         }
       ]
     },
@@ -119235,10 +120915,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "不死鳥"
-        },
-        {
-          "type": "text",
-          "description": "楯(たて),不死鳥"
         }
       ],
       "advanced": [
@@ -119670,8 +121346,44 @@ export const songs: any[] = [
           "description": "Break out!"
         },
         {
-          "type": "text",
-          "description": "Out of myself(O,O,m,S),Nothing I can say(N,I,C,S),光が照らした,Break out!(B,O),H"
+          "type": "shape",
+          "description": "Out of myself(O"
+        },
+        {
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "m"
+        },
+        {
+          "type": "shape",
+          "description": "S)"
+        },
+        {
+          "type": "shape",
+          "description": "Nothing I can say(N"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "Break out!(B"
+        },
+        {
+          "type": "shape",
+          "description": "O)"
+        },
+        {
+          "type": "shape",
+          "description": "H"
         }
       ]
     },
@@ -120095,8 +121807,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "r,手首"
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": "手首"
         }
       ],
       "advanced": [
@@ -121239,7 +122955,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "M"
         }
       ],
@@ -121253,8 +122969,12 @@ export const songs: any[] = [
           "description": "I"
         },
         {
-          "type": "text",
-          "description": "翼,I,D,ハ"
+          "type": "shape",
+          "description": "D"
+        },
+        {
+          "type": "shape",
+          "description": "ハ"
         }
       ]
     },
@@ -121358,8 +123078,8 @@ export const songs: any[] = [
           "description": "♪"
         },
         {
-          "type": "text",
-          "description": "倉野川,花,舞い散る,進む,♪"
+          "type": "shape",
+          "description": "花"
         }
       ],
       "basic": [
@@ -121552,7 +123272,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "花"
         }
       ],
@@ -121562,8 +123282,8 @@ export const songs: any[] = [
           "description": "花吹雪"
         },
         {
-          "type": "text",
-          "description": "◇,花吹雪"
+          "type": "shape",
+          "description": "◇"
         }
       ]
     },
@@ -121868,10 +123588,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "炎上"
-        },
-        {
-          "type": "text",
-          "description": "S,心,炎上"
         }
       ],
       "advanced": [
@@ -122481,8 +124197,8 @@ export const songs: any[] = [
           "description": "波"
         },
         {
-          "type": "text",
-          "description": "波,T"
+          "type": "shape",
+          "description": "T"
         }
       ],
       "basic": [
@@ -123332,10 +125048,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "欠片"
-        },
-        {
-          "type": "text",
-          "description": "翼,欠片"
         }
       ]
     },
@@ -123640,8 +125352,12 @@ export const songs: any[] = [
           "description": "N"
         },
         {
-          "type": "text",
-          "description": "爆発,N,川,N,O"
+          "type": "shape",
+          "description": "爆発"
+        },
+        {
+          "type": "shape",
+          "description": "O"
         },
         {
           "type": "gyakusahyou",
@@ -123654,8 +125370,28 @@ export const songs: any[] = [
           "description": "+"
         },
         {
-          "type": "text",
-          "description": "v,+,C,爆発,×,ド,タ"
+          "type": "shape",
+          "description": "v"
+        },
+        {
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "爆発"
+        },
+        {
+          "type": "shape",
+          "description": "×"
+        },
+        {
+          "type": "shape",
+          "description": "ド"
+        },
+        {
+          "type": "shape",
+          "description": "タ"
         }
       ]
     },
@@ -124160,8 +125896,8 @@ export const songs: any[] = [
           "description": "降雨"
         },
         {
-          "type": "text",
-          "description": "□,△,×,○(小型),○(大型),降雨"
+          "type": "shape",
+          "description": "△"
         }
       ],
       "extreme": [
@@ -124190,8 +125926,12 @@ export const songs: any[] = [
           "description": "降雨"
         },
         {
-          "type": "text",
-          "description": "□,△,×,○(小型),○(大型),謎々(?),1,降雨"
+          "type": "shape",
+          "description": "△"
+        },
+        {
+          "type": "shape",
+          "description": "1"
         }
       ],
       "basic": [
@@ -125357,7 +127097,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "6つ子(おそ松さん)"
         }
       ],
@@ -125375,8 +127115,8 @@ export const songs: any[] = [
           "description": "プロペラ"
         },
         {
-          "type": "text",
-          "description": "ゴメンね,イヤミ(出っ歯),飛んでるぜ,プロペラ"
+          "type": "shape",
+          "description": "イヤミ(出っ歯)"
         }
       ]
     },
@@ -125512,8 +127252,8 @@ export const songs: any[] = [
           "description": "階段を登れば"
         },
         {
-          "type": "text",
-          "description": "階段を登れば,♪"
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -125688,10 +127428,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "花"
-        },
-        {
-          "type": "text",
-          "description": "三日月,花"
         }
       ],
       "extreme": [
@@ -125700,8 +127436,8 @@ export const songs: any[] = [
           "description": "花"
         },
         {
-          "type": "text",
-          "description": "三日月,花"
+          "type": "shape",
+          "description": "三日月"
         }
       ]
     },
@@ -126028,8 +127764,12 @@ export const songs: any[] = [
           "description": "欠けた月"
         },
         {
-          "type": "text",
-          "description": "欠けた月,三角,星の光"
+          "type": "shape",
+          "description": "三角"
+        },
+        {
+          "type": "shape",
+          "description": "星の光"
         }
       ]
     },
@@ -126867,7 +128607,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "瞑想(めいそう)"
         }
       ]
@@ -127048,8 +128788,16 @@ export const songs: any[] = [
           "description": "ピカ〇"
         },
         {
-          "type": "text",
-          "description": "太陽,手を広げて,&#9320;(ピカ〇,9)"
+          "type": "shape",
+          "description": "手を広げて"
+        },
+        {
+          "type": "shape",
+          "description": "&#9320;(ピカ〇"
+        },
+        {
+          "type": "shape",
+          "description": "9)"
         }
       ]
     },
@@ -127121,8 +128869,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "♪,k"
+          "type": "shape",
+          "description": "♪"
+        },
+        {
+          "type": "shape",
+          "description": "k"
         },
         {
           "type": "gyakusahyou",
@@ -127484,10 +129236,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "ハート"
-        },
-        {
-          "type": "text",
-          "description": "炎,ハート"
         }
       ]
     },
@@ -128006,8 +129754,16 @@ export const songs: any[] = [
           "description": "ボール"
         },
         {
-          "type": "text",
-          "description": "!,ボール,ミット,打撃"
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "ミット"
+        },
+        {
+          "type": "shape",
+          "description": "打撃"
         }
       ]
     },
@@ -128180,8 +129936,12 @@ export const songs: any[] = [
           "description": "刃(やいば)"
         },
         {
-          "type": "text",
-          "description": "刃(やいば),兜(かぶと),槍"
+          "type": "shape",
+          "description": "兜(かぶと)"
+        },
+        {
+          "type": "shape",
+          "description": "槍"
         }
       ]
     },
@@ -128298,17 +130058,13 @@ export const songs: any[] = [
           "description": "舞い戻れ"
         },
         {
-          "type": "text",
-          "description": "刃(やいば),高く,舞い戻れ"
-        },
-        {
           "type": "sahyou",
           "label": "诈称"
         }
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "♪"
         }
       ]
@@ -128462,7 +130218,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "!"
         }
       ]
@@ -128688,8 +130444,12 @@ export const songs: any[] = [
           "description": "友情"
         },
         {
-          "type": "text",
-          "description": "花束,光,友情,♪"
+          "type": "shape",
+          "description": "光"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -129102,7 +130862,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "S"
         }
       ]
@@ -129913,7 +131673,7 @@ export const songs: any[] = [
       ],
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "?"
         }
       ]
@@ -129958,8 +131718,12 @@ export const songs: any[] = [
           "description": "瞳"
         },
         {
-          "type": "text",
-          "description": "空,♪,瞳"
+          "type": "shape",
+          "description": "空"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -130445,10 +132209,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "U"
-        },
-        {
-          "type": "text",
-          "description": "S,C,U"
         }
       ]
     },
@@ -131382,8 +133142,8 @@ export const songs: any[] = [
           "description": "メガネ"
         },
         {
-          "type": "text",
-          "description": "高層ビル,メガネ"
+          "type": "shape",
+          "description": "高層ビル"
         },
         {
           "type": "kojinsa",
@@ -132324,8 +134084,44 @@ export const songs: any[] = [
           "description": "まるっと一周"
         },
         {
-          "type": "text",
-          "description": "b,k,t,r(2発ずつ組合せ),1,B,K,T,R(2発ずつ組合せ),巻く,まるっと一周,ジャケットの3人"
+          "type": "shape",
+          "description": "b"
+        },
+        {
+          "type": "shape",
+          "description": "k"
+        },
+        {
+          "type": "shape",
+          "description": "t"
+        },
+        {
+          "type": "shape",
+          "description": "r(2発ずつ組合せ)"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "B"
+        },
+        {
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "T"
+        },
+        {
+          "type": "shape",
+          "description": "R(2発ずつ組合せ)"
+        },
+        {
+          "type": "shape",
+          "description": "ジャケットの3人"
         }
       ]
     },
@@ -133314,10 +135110,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "星"
-        },
-        {
-          "type": "text",
-          "description": "流れ星,星"
         }
       ]
     },
@@ -133416,10 +135208,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "天の川"
-        },
-        {
-          "type": "text",
-          "description": "ハート,君へ(矢印),天の川"
         }
       ],
       "advanced": [
@@ -133529,7 +135317,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "上弦の月"
         }
       ]
@@ -133702,8 +135490,20 @@ export const songs: any[] = [
           "description": "H"
         },
         {
-          "type": "text",
-          "description": "太陽,H,y,k,w,y"
+          "type": "shape",
+          "description": "太陽"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "k"
+        },
+        {
+          "type": "shape",
+          "description": "w"
         }
       ]
     },
@@ -133896,8 +135696,8 @@ export const songs: any[] = [
           "description": "侍"
         },
         {
-          "type": "text",
-          "description": "一刀両断,鼓(ポン),侍"
+          "type": "shape",
+          "description": "鼓(ポン)"
         }
       ],
       "extreme": [
@@ -133914,8 +135714,20 @@ export const songs: any[] = [
           "description": "卍"
         },
         {
-          "type": "text",
-          "description": "ハ,一刀両断,鼓(ポン),侍(兜),無い(×),1,卍"
+          "type": "shape",
+          "description": "ハ"
+        },
+        {
+          "type": "shape",
+          "description": "鼓(ポン)"
+        },
+        {
+          "type": "shape",
+          "description": "無い(×)"
+        },
+        {
+          "type": "shape",
+          "description": "1"
         }
       ]
     },
@@ -134299,8 +136111,24 @@ export const songs: any[] = [
           "description": "桜"
         },
         {
-          "type": "text",
-          "description": "I,C,B,M,環状線,東奔西走,桜,千"
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "B"
+        },
+        {
+          "type": "shape",
+          "description": "M"
+        },
+        {
+          "type": "shape",
+          "description": "千"
         },
         {
           "type": "gyakusahyou",
@@ -134586,8 +136414,36 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "H,1,2,ウサミミ,yeah!,L,手を上げて,月"
+          "type": "shape",
+          "description": "H"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "ウサミミ"
+        },
+        {
+          "type": "shape",
+          "description": "yeah!"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "手を上げて"
+        },
+        {
+          "type": "shape",
+          "description": "月"
         }
       ]
     },
@@ -134994,8 +136850,8 @@ export const songs: any[] = [
           "description": "両手で塞ぐ"
         },
         {
-          "type": "text",
-          "description": "両手で塞ぐ,♪"
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -135108,8 +136964,16 @@ export const songs: any[] = [
           "description": "時の流れ"
         },
         {
-          "type": "text",
-          "description": "お月様,時の流れ,祭り,犬,♪"
+          "type": "shape",
+          "description": "祭り"
+        },
+        {
+          "type": "shape",
+          "description": "犬"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ],
       "basic": [
@@ -135557,8 +137421,16 @@ export const songs: any[] = [
           "description": "階段"
         },
         {
-          "type": "text",
-          "description": "1,0,♪,階段"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "0"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ],
       "basic": [
@@ -135960,7 +137832,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "O"
         }
       ],
@@ -135982,8 +137854,12 @@ export const songs: any[] = [
           "description": "猫背の完治(MV参照)"
         },
         {
-          "type": "text",
-          "description": "O,ドラえもん,ポッケ,どうにでもなれのピースサイン(MV参照),猫背の完治(MV参照),ロ"
+          "type": "shape",
+          "description": "O"
+        },
+        {
+          "type": "shape",
+          "description": "ロ"
         }
       ]
     },
@@ -136267,8 +138143,16 @@ export const songs: any[] = [
           "description": "×"
         },
         {
-          "type": "text",
-          "description": "エイ！エイ！オー！,×,槍,爆破,♪"
+          "type": "shape",
+          "description": "槍"
+        },
+        {
+          "type": "shape",
+          "description": "爆破"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -136389,8 +138273,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "1,2,3"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "3"
         }
       ]
     },
@@ -138090,7 +139982,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "?"
         },
         {
@@ -138215,7 +140107,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "金平糖"
         }
       ]
@@ -138401,8 +140293,24 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "フ,y,C,o,♪"
+          "type": "shape",
+          "description": "フ"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "C"
+        },
+        {
+          "type": "shape",
+          "description": "o"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -138467,8 +140375,16 @@ export const songs: any[] = [
           "description": "切り取るのさ"
         },
         {
-          "type": "text",
-          "description": "スマイル,切り取るのさ,i,d,k"
+          "type": "shape",
+          "description": "i"
+        },
+        {
+          "type": "shape",
+          "description": "d"
+        },
+        {
+          "type": "shape",
+          "description": "k"
         }
       ]
     },
@@ -138630,10 +140546,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "?"
-        },
-        {
-          "type": "text",
-          "description": "○,×,?"
         }
       ],
       "extreme": [
@@ -138646,8 +140558,8 @@ export const songs: any[] = [
           "description": "×"
         },
         {
-          "type": "text",
-          "description": "?,○,×"
+          "type": "shape",
+          "description": "?"
         }
       ]
     },
@@ -138748,8 +140660,8 @@ export const songs: any[] = [
           "description": "地球"
         },
         {
-          "type": "text",
-          "description": "炎,手,地球,V"
+          "type": "shape",
+          "description": "V"
         }
       ]
     },
@@ -138993,8 +140905,8 @@ export const songs: any[] = [
           "description": "涙"
         },
         {
-          "type": "text",
-          "description": "涙,N"
+          "type": "shape",
+          "description": "N"
         }
       ]
     },
@@ -139327,8 +141239,16 @@ export const songs: any[] = [
           "description": "鉢巻(はちまき)"
         },
         {
-          "type": "text",
-          "description": "刀,猫,鉢巻(はちまき),丁髷(ちょんまげ)"
+          "type": "shape",
+          "description": "刀"
+        },
+        {
+          "type": "shape",
+          "description": "猫"
+        },
+        {
+          "type": "shape",
+          "description": "丁髷(ちょんまげ)"
         }
       ]
     },
@@ -139594,8 +141514,8 @@ export const songs: any[] = [
           "description": "吹雪"
         },
         {
-          "type": "text",
-          "description": "降雪,吹雪,梅"
+          "type": "shape",
+          "description": "梅"
         }
       ]
     },
@@ -139721,10 +141641,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "降雪"
-        },
-        {
-          "type": "text",
-          "description": "鏡,降雪"
         }
       ],
       "extreme": [
@@ -140096,8 +142012,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
-          "description": "7,合掌"
+          "type": "shape",
+          "description": "7"
+        },
+        {
+          "type": "shape",
+          "description": "合掌"
         }
       ],
       "extreme": [
@@ -140106,8 +142026,8 @@ export const songs: any[] = [
           "description": "昇天"
         },
         {
-          "type": "text",
-          "description": "合掌,昇天"
+          "type": "shape",
+          "description": "合掌"
         }
       ]
     },
@@ -140179,7 +142099,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "♪"
         }
       ]
@@ -140646,8 +142566,24 @@ export const songs: any[] = [
           "description": "進め"
         },
         {
-          "type": "text",
-          "description": "回った,コンパス,涙目,I,L,y,進め,A"
+          "type": "shape",
+          "description": "涙目"
+        },
+        {
+          "type": "shape",
+          "description": "I"
+        },
+        {
+          "type": "shape",
+          "description": "L"
+        },
+        {
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "A"
         }
       ]
     },
@@ -141175,8 +143111,20 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "1,2,ハート,十字光"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "十字光"
         }
       ],
       "advanced": [
@@ -142011,7 +143959,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "N"
         }
       ]
@@ -142229,7 +144177,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "M"
         }
       ]
@@ -142810,7 +144758,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "1"
         }
       ]
@@ -143417,7 +145365,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "♪"
         }
       ]
@@ -143886,8 +145834,36 @@ export const songs: any[] = [
           "description": "キャッチボール"
         },
         {
-          "type": "text",
-          "description": "ホームベース,バット,ベース,ダイヤモンド,守備ポジション,9,H,S,1,キャッチボール"
+          "type": "shape",
+          "description": "ホームベース"
+        },
+        {
+          "type": "shape",
+          "description": "バット"
+        },
+        {
+          "type": "shape",
+          "description": "ベース"
+        },
+        {
+          "type": "shape",
+          "description": "ダイヤモンド"
+        },
+        {
+          "type": "shape",
+          "description": "9"
+        },
+        {
+          "type": "shape",
+          "description": "H"
+        },
+        {
+          "type": "shape",
+          "description": "S"
+        },
+        {
+          "type": "shape",
+          "description": "1"
         }
       ]
     },
@@ -144056,8 +146032,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "1,2"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
         }
       ]
     },
@@ -144644,8 +146624,8 @@ export const songs: any[] = [
           "description": "S"
         },
         {
-          "type": "text",
-          "description": "1,y,スフィンクス,S"
+          "type": "shape",
+          "description": "y"
         }
       ]
     },
@@ -145116,8 +147096,8 @@ export const songs: any[] = [
           "description": "U"
         },
         {
-          "type": "text",
-          "description": "U,I"
+          "type": "shape",
+          "description": "I"
         },
         {
           "type": "sahyou",
@@ -145353,8 +147333,8 @@ export const songs: any[] = [
           "description": "ゲームオーバー(ゆびベルの『フェイルド宣言』)"
         },
         {
-          "type": "text",
-          "description": "ゲームオーバー(ゆびベルの『フェイルド宣言』),クリア(ゆびベルの『クリア宣言』)"
+          "type": "shape",
+          "description": "クリア(ゆびベルの『クリア宣言』)"
         },
         {
           "type": "gyakusahyou",
@@ -145367,8 +147347,20 @@ export const songs: any[] = [
           "description": "目指して"
         },
         {
-          "type": "text",
-          "description": "y,1,ゲームオーバー(ゆびベルの『フェイルド宣言』),目指して,できない(×)"
+          "type": "shape",
+          "description": "y"
+        },
+        {
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "ゲームオーバー(ゆびベルの『フェイルド宣言』)"
+        },
+        {
+          "type": "shape",
+          "description": "できない(×)"
         }
       ]
     },
@@ -145545,8 +147537,8 @@ export const songs: any[] = [
           "description": "ハート"
         },
         {
-          "type": "text",
-          "description": "×,ハート,星,ハート"
+          "type": "shape",
+          "description": "星"
         }
       ],
       "advanced": [
@@ -145704,8 +147696,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "K,♪"
+          "type": "shape",
+          "description": "K"
+        },
+        {
+          "type": "shape",
+          "description": "♪"
         }
       ]
     },
@@ -146086,10 +148082,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "?"
-        },
-        {
-          "type": "text",
-          "description": "馬,?"
         }
       ],
       "extreme": [
@@ -146114,8 +148106,8 @@ export const songs: any[] = [
           "description": "?"
         },
         {
-          "type": "text",
-          "description": "H,ラ,(大),馬,ファインダー,?"
+          "type": "shape",
+          "description": "H"
         }
       ]
     },
@@ -146302,8 +148294,20 @@ export const songs: any[] = [
           "description": "Hψ"
         },
         {
-          "type": "text",
-          "description": "r,ψ,E=hμ,2,A,C,Y,猫,fλ,トンネル,Hψ,!,ハート,C"
+          "type": "shape",
+          "description": "r"
+        },
+        {
+          "type": "shape",
+          "description": "ψ"
+        },
+        {
+          "type": "shape",
+          "description": "!"
+        },
+        {
+          "type": "shape",
+          "description": "ハート"
         },
         {
           "type": "kojinsa",
@@ -146354,7 +148358,7 @@ export const songs: any[] = [
     "chartPatterns": {
       "advanced": [
         {
-          "type": "text",
+          "type": "shape",
           "description": "C"
         }
       ],
@@ -146364,8 +148368,12 @@ export const songs: any[] = [
           "description": "イッテルビウム"
         },
         {
-          "type": "text",
-          "description": "イッテルビウム,ハート,C"
+          "type": "shape",
+          "description": "ハート"
+        },
+        {
+          "type": "shape",
+          "description": "C"
         }
       ]
     },
@@ -147007,8 +149015,8 @@ export const songs: any[] = [
           "description": "五月雨"
         },
         {
-          "type": "text",
-          "description": "キック,頭,欠片(かけら),花びら,上昇,五月雨"
+          "type": "shape",
+          "description": "花びら"
         }
       ]
     },
@@ -147539,10 +149547,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "×"
-        },
-        {
-          "type": "text",
-          "description": "くるくるねじ,×"
         }
       ],
       "extreme": [
@@ -147551,8 +149555,16 @@ export const songs: any[] = [
           "description": "?"
         },
         {
-          "type": "text",
-          "description": "?,ペロペロキャンディ,W,×"
+          "type": "shape",
+          "description": "ペロペロキャンディ"
+        },
+        {
+          "type": "shape",
+          "description": "W"
+        },
+        {
+          "type": "shape",
+          "description": "×"
         },
         {
           "type": "gyakusahyou",
@@ -147820,8 +149832,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "十字,斜め(花の形)"
+          "type": "shape",
+          "description": "十字"
+        },
+        {
+          "type": "shape",
+          "description": "斜め(花の形)"
         }
       ]
     },
@@ -148028,8 +150044,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "十字,斜め(花の形)"
+          "type": "shape",
+          "description": "十字"
+        },
+        {
+          "type": "shape",
+          "description": "斜め(花の形)"
         }
       ]
     },
@@ -148181,8 +150201,12 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "♪,花"
+          "type": "shape",
+          "description": "♪"
+        },
+        {
+          "type": "shape",
+          "description": "花"
         }
       ]
     },
@@ -148356,10 +150380,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "朧月"
-        },
-        {
-          "type": "text",
-          "description": "満月,朧月"
         }
       ]
     },
@@ -148528,8 +150548,16 @@ export const songs: any[] = [
     "chartPatterns": {
       "extreme": [
         {
-          "type": "text",
-          "description": "1,2,5"
+          "type": "shape",
+          "description": "1"
+        },
+        {
+          "type": "shape",
+          "description": "2"
+        },
+        {
+          "type": "shape",
+          "description": "5"
         },
         {
           "type": "kojinsa",
@@ -149812,10 +151840,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "大蛇"
-        },
-        {
-          "type": "text",
-          "description": "蛇,大蛇"
         }
       ],
       "extreme": [
@@ -149826,10 +151850,6 @@ export const songs: any[] = [
         {
           "type": "shape",
           "description": "大蛇"
-        },
-        {
-          "type": "text",
-          "description": "蛇,大蛇,蛇"
         }
       ]
     },
@@ -150721,5 +152741,3 @@ export const songs: any[] = [
     "bpmRange": "0"
   }
 ];
-
-export default songs;
