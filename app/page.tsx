@@ -19,6 +19,7 @@ export default function Home() {
   const [filters, setFilters] = useState<FilterState>(INITIAL_FILTERS);
   // 移动端检测并设置默认视图模式
   const [viewMode, setViewMode] = useState<'card' | 'list'>('list');
+  const isMobileRef = useRef<boolean | null>(null);
 
   // Lazy loading state (shared between card and list mode)
   const [visibleItemCount, setVisibleItemCount] = useState(INITIAL_ITEM_COUNT);
@@ -31,14 +32,22 @@ export default function Home() {
     }
   }, []);
 
-  // 移动端检测：如果是移动端则默认使用列表模式
+  // 移动端检测：仅在初始加载和跨断点切换时调整默认视图模式
   useEffect(() => {
     const checkMobile = () => {
-      // 屏幕宽度小于 768px 认为是移动端
-      if (window.innerWidth < 768) {
-        setViewMode('list');
-      } else {
-        setViewMode('card');
+      const isMobile = window.innerWidth < 768;
+
+      // 首次加载时按设备设置默认模式
+      if (isMobileRef.current === null) {
+        setViewMode(isMobile ? 'list' : 'card');
+        isMobileRef.current = isMobile;
+        return;
+      }
+
+      // 仅在跨越断点时自动切换，避免移动端滚动触发 resize 后重置用户手动选择
+      if (isMobileRef.current !== isMobile) {
+        setViewMode(isMobile ? 'list' : 'card');
+        isMobileRef.current = isMobile;
       }
     };
 
